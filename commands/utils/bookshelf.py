@@ -3,10 +3,11 @@
 import csv
 import base64
 
+from bs4 import BeautifulSoup
+from collections import defaultdict
+
 from .file import save_cover_image
 from .lang import land_code_to_name
-
-from bs4 import BeautifulSoup
 
 
 def import_from_bookshelf(export_date):
@@ -32,7 +33,6 @@ def import_from_bookshelf(export_date):
         for entry in reader:
             book_info = {"source": "Bookshelf"}
             title = entry.get("Title")
-            subtitle = entry.get("Subtitle")
             for key, value in entry.items():
                 key = key.replace(" ", "_").lower()
                 if key not in (
@@ -87,7 +87,7 @@ def import_from_bookshelf(export_date):
         html_doc = fp.read()
 
     soup = BeautifulSoup(html_doc, "html.parser")
-    results = dict()
+    results = defaultdict(dict)
     for row in soup.find_all("tr"):
         cover_image = cover_type = None
         for cell in row.children:
@@ -112,5 +112,5 @@ def import_from_bookshelf(export_date):
                 decoded_cover = base64.b64decode(cover_image)
                 save_cover_image(decoded_cover, img_filename)
                 book["cover_filename"] = img_filename
-                results[isbn] = book
+                results[isbn]["book"] = book
     return results
