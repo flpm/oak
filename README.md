@@ -1,2 +1,2 @@
 # Oak
-A CLI tool to manage my personal book catalogue.
+A CLI tool to manage my personal library catalog.
