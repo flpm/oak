@@ -1,6 +1,7 @@
 import typer
 
 import commands.add
+from commands.stats import generate_stats
 
 
 app = typer.Typer()
@@ -37,7 +38,7 @@ def reset():
 @app.command()
 def stats():
     """Show stats about the current catalog."""
-    print("Show stats.")
+    generate_stats()
 
 
 if __name__ == "__main__":
