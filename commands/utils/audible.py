@@ -52,7 +52,8 @@ def import_from_audible():
                 else:
                     book["title"] = book["full_title"].strip()
                     book["subtitle"] = None
-                book["audiobook_type"] = book_type
+                book["type"] = book_type
+                book["format"] = "Audiobook"
                 book["listening"] = {"duration": 0}
                 book["link"] = f"https://www.audible.com/pd/{asin}"
                 book["source"] = "Audible"
