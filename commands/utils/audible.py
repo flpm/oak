@@ -1,7 +1,13 @@
 import csv
-from collections import defaultdict
+from collections import defaultdict, Counter
 
-from .file import read_catalogue, save_catalogue
+from .audible_html import (
+    get_book_detail_html,
+    get_content_format,
+    get_topics,
+    find_book_details,
+    get_cover_image,
+)
 
 
 def import_from_audible():
@@ -18,7 +24,7 @@ def import_from_audible():
         "Title": "full_title",
         "Asin": "asin",
         "BookLength": "length",
-        "AudioType": "type",
+        # "AudioType": "type",
         "AsinOwned": "owned",
     }
 
@@ -45,6 +51,7 @@ def import_from_audible():
                 book = {
                     book_key_map[k]: v for k, v in entry.items() if k in book_key_map
                 }
+                book["book_id"] = asin
                 title_parts = book["full_title"].split(": ")
                 if len(title_parts) == 2:
                     book["title"] = title_parts[0].strip()
@@ -52,7 +59,7 @@ def import_from_audible():
                 else:
                     book["title"] = book["full_title"].strip()
                     book["subtitle"] = None
-                book["type"] = book_type
+                # book["type"] = book_type
                 book["format"] = "Audiobook"
                 book["listening"] = {"duration": 0}
                 book["link"] = f"https://www.audible.com/pd/{asin}"
@@ -81,3 +88,51 @@ def import_from_audible():
             )
 
     return audiobooks
+
+
+def enrich_audible(catalogue):
+    """
+    Enrich audiobooks using data from the Audible website.
+
+    Parameters
+    ----------
+    catalogue : dict
+        The current catalogue.
+
+    Returns
+    -------
+    dict
+        The modified catalogue.
+    """
+
+    # Get details for each book
+    book_count = 0
+    errors = Counter()
+    for book_types in catalogue.values():
+        for book in book_types.values():
+            if book["source"] != "Audible":
+                continue
+
+            book_count += 1
+            soup, errors = get_book_detail_html(book, errors)
+            if not soup:
+                continue
+
+            book["format"] = get_content_format(soup) or book["format"]
+            book["topics"] = get_topics(soup)
+
+            try:
+                for key, value in find_book_details(soup).items():
+                    book[key] = value
+            except RuntimeError as e:
+                errors["Books missing details"] += 1
+
+            book["cover_filename"], errors = get_cover_image(book, soup, errors)
+            if not book["cover_filename"]:
+                errors["Books missing cover"] += 1
+
+    print(f"Error summary:")
+    for error, count in errors.items():
+        print(f"  - {error}: {count}")
+
+    return catalogue, book_count

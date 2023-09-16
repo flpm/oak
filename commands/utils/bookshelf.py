@@ -31,7 +31,7 @@ def import_from_bookshelf(export_date):
     with open(csv_filename, "r") as fp:
         reader = csv.DictReader(fp)
         for entry in reader:
-            book_info = {"source": "Bookshelf"}
+            book_info = {"source": "Bookshelf", "owned": True}
             title = entry.get("Title")
             for key, value in entry.items():
                 key = key.replace(" ", "_").lower()
