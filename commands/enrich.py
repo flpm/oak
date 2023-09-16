@@ -4,6 +4,7 @@ import typer
 
 from collections import defaultdict
 
+from .utils.amazon import enrich_amazon_books
 from .utils.audible import enrich_audible
 from .utils.bookshelf import import_from_bookshelf
 from .utils.file import read_catalogue, save_catalogue
@@ -23,6 +24,11 @@ def amazon():
     # print(f"Found in Bookshelf export: {len(books)} books.")
     # print(f"Added {new_books} new books.")
     # save_catalogue(catalogue)
+    catalogue = defaultdict(dict, read_catalogue())
+    print(f"Books in catalogue: {len(catalogue)} books.")
+    catalogue, modified_books = enrich_amazon_books(catalogue)
+    print(f"Enriched {modified_books} books.")
+    save_catalogue(catalogue)
 
 
 @app.command()

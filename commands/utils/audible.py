@@ -10,6 +10,36 @@ from .audible_html import (
 )
 
 
+def add_audible_purchase_date(audiobooks):
+    """
+    Add the purchase date for each audiobook.
+
+    Parameters
+    ----------
+    audiobooks : dict
+        A dictionary of audiobooks with the ASIN as the key.
+
+    Returns
+    -------
+    dict
+        The modified dictionary of audiobooks.
+    """
+
+    audible_purchase_history = "./raw/audible/data/Audible.PurchaseHistory.csv"
+
+    with open(audible_purchase_history) as fp:
+        audible_purchases = csv.DictReader(fp)
+        for entry in audible_purchases:
+            asin = entry["Asin"]
+            if asin not in audiobooks:
+                continue
+            book = audiobooks[asin].get("audiobook")
+            if book:
+                book["purchase_date"] = entry["OrderFulfillDate"].split("T")[0]
+
+    return audiobooks
+
+
 def import_from_audible():
     """
     Import books from the Audible listening history.
@@ -24,7 +54,6 @@ def import_from_audible():
         "Title": "full_title",
         "Asin": "asin",
         "BookLength": "length",
-        # "AudioType": "type",
         "AsinOwned": "owned",
     }
 
@@ -81,6 +110,7 @@ def import_from_audible():
 
             book["listening"]["duration"] += int(entry["EventDuration"])
 
+    audiobooks = add_audible_purchase_date(audiobooks)
     for asin, book_info in audiobooks.items():
         for book_type, book in book_info.items():
             book["listening"]["duration"] = round(
