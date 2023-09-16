@@ -47,6 +47,7 @@ def prepare_amazon_purchase_data():
                     new_key = key.replace(" ", "_").lower()
                     order_info[new_key] = order[key]
                 order_info["location"] = get_city(order_info["shipping_address"])
+                del order_info["shipping_address"]
                 results[(order_id, product_name)] = order_info
 
     for entry in results.values():
@@ -147,6 +148,9 @@ def enrich_amazon_books(catalogue):
             current_order = book.get("order")
             if current_order is None:
                 current_order = dict()
+            else:
+                if "shipping_address" in current_order:
+                    del current_order["shipping_address"]
 
             print_book(book, book_count, total)
 
