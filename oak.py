@@ -33,9 +33,9 @@ def reset():
 
 
 @app.command()
-def stats():
+def stats(stats_type: str = "attributes"):
     """Show stats about the current catalog."""
-    generate_stats()
+    generate_stats(stats_type)
 
 
 if __name__ == "__main__":
