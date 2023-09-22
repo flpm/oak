@@ -17,13 +17,6 @@ app = typer.Typer()
 def amazon():
     """Enrich books using data from Amazon purchases."""
     print("Enrich books using data from Amazon purchases.")
-    # catalogue = defaultdict(dict, read_catalogue())
-    # print(f"Books in catalogue: {len(catalogue)} books.")
-    # books = import_from_bookshelf(export_date)
-    # catalogue, new_books = merge_books(catalogue, books)
-    # print(f"Found in Bookshelf export: {len(books)} books.")
-    # print(f"Added {new_books} new books.")
-    # save_catalogue(catalogue)
     catalogue = defaultdict(dict, read_catalogue())
     print(f"Books in catalogue: {len(catalogue)} books.")
     catalogue, modified_books = enrich_amazon_books(catalogue)

@@ -211,16 +211,12 @@ def find_book_details(soup):
 
     book_details = dict()
     for key in (
-        # "bookFormat",
-        # "name",
         "description",
-        # "abridged",
         "author",
         "readBy",
         "publisher",
         "datePublished",
         "inLanguage",
-        # "duration",
         "aggregateRating",
     ):
         value = book_data.get(key)
@@ -239,10 +235,6 @@ def find_book_details(soup):
                 value = [land_code_to_name(value)]
             else:
                 value = [value.capitalize()]
-            # if value == "english":
-            #     value = "en"
-            # elif value == "spanish":
-            #     value = "es"
         elif key == "aggregateRating":
             key = "rating"
             if value:
@@ -256,6 +248,6 @@ def find_book_details(soup):
             value = re.sub(r" *\<p\>", "", value)
             value = re.sub(r" *\<\/p\>", "\n", value)
             value = re.sub(r"\<\/?[^\>]*\>", "", value)
-            value = [i.strip() for i in value.split("\n") if i.strip()]
+            value = "\n".join([i.strip() for i in value.split("\n") if i.strip()])
         book_details[key] = value
     return book_details

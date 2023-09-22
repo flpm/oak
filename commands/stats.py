@@ -5,7 +5,14 @@ from .utils.file import read_catalogue
 
 
 def generate_stats(stat_type):
-    """Generate stats."""
+    """
+    Generate stats.
+
+    Parameters
+    ----------
+    stat_type : str
+        The type of stats to generate.
+    """
 
     catalogue = read_catalogue()
     print(f"Books in catalogue: {len(catalogue)} books.")
@@ -71,4 +78,20 @@ def generate_stats(stat_type):
                 if book.get("order"):
                     orders_counter["Books with order data"] += 1
         for value, count in orders_counter.most_common(10):
+            print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "date":
+        print(f"Purchase dates:")
+        year_counter = Counter()
+        purchase_date_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                if purchase_date := book.get("purchase_date"):
+                    purchase_date_counter[f"{book_type} with purchase_date"] += 1
+                    year = purchase_date[:4]
+                    year_counter[year] += 1
+
+        for value, count in sorted(year_counter.most_common(10), reverse=True):
+            print(f"  - {value if value else 'Unknown'}: {count}")
+        for value, count in purchase_date_counter.most_common():
             print(f"  - {value if value else 'Unknown'}: {count}")

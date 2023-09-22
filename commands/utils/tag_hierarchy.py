@@ -1,0 +1,120 @@
+subject_hierarchy = {
+    "mathematics": {
+        "probability": {},
+        "calculus": {},
+        "algebra": {},
+        "logic": {},
+        "statistics": {},
+    },
+    "social_sciences": {
+        "psychology": {},
+        "anthropology": {},
+        "communication": {},
+        "archaeology": {},
+        "linguistics": {
+            "grammar": {},
+            "writing": {},
+        },
+        "economics": {},
+        "political_science": {},
+        "sociology": {},
+    },
+    "design": {
+        "thinking": {},
+        "user_experience": {},
+        "graphic_design": {
+            "typography": {},
+            "color": {},
+            "layout": {},
+        },
+    },
+    "engineering": {
+        "chemical": {},
+        "civil": {},
+        "security": {},
+        "software": {},
+        "hardware": {},
+        "network": {},
+        "mechanical": {},
+        "industrial": {},
+    },
+    "data_science": {
+        "machine_learning": {},
+        "data_analysis": {},
+        "visualization": {},
+    },
+    "history": {
+        "ancient": {
+            "rome": {},
+            "greece": {},
+            "mesopotamia": {},
+            "egypt": {},
+        },
+        "military": {},
+        "art": {},
+    },
+    "literature": {
+        "fiction": {
+            "historical": {},
+            "short_stories": {},
+            "crime": {},
+            "detectives": {},
+            "kids": {},
+            "fantasy": {
+                "discworld": {},
+            },
+            "suspense": {},
+            "scifi": {},
+            "horror": {},
+            "comic_books": {},
+        },
+        "non_fiction": {
+            "biography_and_memoir": {},
+            "essays": {},
+        },
+        "poetry": {},
+        "play": {},
+        "mythology": {},
+    },
+    "philosophy": {
+        "religion": {},
+        "knowledge": {},
+    },
+    "visual_arts": {
+        "photography": {},
+        "painting": {},
+        "architecture": {},
+        "mosaic": {},
+        "sculpture": {},
+        "animation": {},
+    },
+    "games": {
+        "puzzles": {},
+        "go": {},
+        "rpg": {},
+    },
+    "magic": {},
+    "business": {
+        "marketing": {},
+        "leadership": {},
+        "communication": {},
+        "analysis": {},
+        "risk": {},
+    },
+    "self_development": {
+        "habits": {},
+        "career": {},
+        "productivity": {},
+        "public_speaking": {},
+        "creativity": {},
+    },
+}
+
+interest_hierarchy: [
+    "data_science",
+    "magic",
+    "economics",
+    "go",
+    "ancient_history",
+    "linguistics",
+]

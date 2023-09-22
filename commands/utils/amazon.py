@@ -5,7 +5,7 @@ import sys
 from collections import Counter, defaultdict
 from rich import print
 
-from .tags import confirm_loop
+from .editing import confirm_loop
 
 filename_list = [
     "./raw/amazon/Retail.OrderHistory.1.csv",
@@ -14,6 +14,19 @@ filename_list = [
 
 
 def get_city(address):
+    """
+    Get the city from the shipping address.
+
+    Parameters
+    ----------
+    address : str
+        The shipping address.
+
+    Returns
+    -------
+    str
+        The city.
+    """
     for city in ("Paris", "New York", "Barcelona"):
         if city.lower() in address.lower():
             return city
@@ -21,6 +34,14 @@ def get_city(address):
 
 
 def prepare_amazon_purchase_data():
+    """
+    Prepare the Amazon purchase data.
+
+    Returns
+    -------
+    dict
+        The orders by product.
+    """
     order_by_product = defaultdict(list)
 
     results = dict()
@@ -75,6 +96,23 @@ def print_book(entry, current=None, total=None):
 
 
 def print_candidates(candidates, current=None, preserve_previous_matches=True):
+    """
+    Print the candidate orders for a book and ask the user to choose one.
+
+    Parameters
+    ----------
+    candidates : list
+        The list of candidate orders.
+    current : str
+        The current order ID.
+    preserve_previous_matches : bool, optional
+        Whether to preserve existing order matches, by default True
+
+    Returns
+    -------
+    dict
+        The chosen order.
+    """
     counter = 0
     current_order = dict()
     for c in candidates:
@@ -101,6 +139,21 @@ def print_candidates(candidates, current=None, preserve_previous_matches=True):
 
 
 def select_candidates(orders, book):
+    """
+    Select the candidate orders for a book.
+
+    Parameters
+    ----------
+    orders : dict
+        The orders by product.
+    book : dict
+        The book information.
+
+    Returns
+    -------
+    dict
+        The candidate orders.
+    """
     candidates = defaultdict(list)
     for name, order_info in orders.items():
         if (
@@ -135,6 +188,19 @@ def select_candidates(orders, book):
 
 
 def enrich_amazon_books(catalogue):
+    """
+    Enrich Amazon books using data from the Amazon purchase history.
+
+    Parameters
+    ----------
+    catalogue : dict
+        The current catalogue.
+
+    Returns
+    -------
+    dict
+        The modified catalogue.
+    """
     orders = prepare_amazon_purchase_data()
 
     book_count = 0

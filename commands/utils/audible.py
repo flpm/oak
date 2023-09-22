@@ -161,6 +161,9 @@ def enrich_audible(catalogue):
             if not book["cover_filename"]:
                 errors["Books missing cover"] += 1
 
+            print(".", end="", flush=True)
+    print("")
+
     print(f"Error summary:")
     for error, count in errors.items():
         print(f"  - {error}: {count}")
