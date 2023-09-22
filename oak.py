@@ -1,7 +1,11 @@
 import typer
 
+from collections import defaultdict
+
 import commands.add
 import commands.enrich
+import commands.edit
+
 from commands.stats import generate_stats
 
 
@@ -18,6 +22,12 @@ app.add_typer(
 def tag():
     """Tag books with keywords."""
     print("Tag books.")
+
+
+@app.command()
+def edit():
+    """Edit books in the library."""
+    commands.edit.run_edit_loop()
 
 
 @app.command()
