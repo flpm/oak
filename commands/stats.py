@@ -95,3 +95,32 @@ def generate_stats(stat_type):
             print(f"  - {value if value else 'Unknown'}: {count}")
         for value, count in purchase_date_counter.most_common():
             print(f"  - {value if value else 'Unknown'}: {count}")
+        print(f"Listening dates:")
+        year_counter = Counter()
+        listening_date_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                if listening_date := book.get("listening_date"):
+                    listening_date_counter[f"{book_type} with listening_date"] += 1
+                    year = listening_date[:4]
+                    year_counter[year] += 1
+
+        for value, count in sorted(year_counter.most_common(10), reverse=True):
+            print(f"  - {value if value else 'Unknown'}: {count}")
+        for value, count in listening_date_counter.most_common():
+            print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "city":
+        print(f"Locations:")
+        purchase_city_counter = Counter()
+        location_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                if purchase_city := book.get("location"):
+                    purchase_city_counter[f"{book_type} with purchase location"] += 1
+                    location_counter[purchase_city] += 1
+
+        for value, count in sorted(purchase_city_counter.most_common(), reverse=True):
+            print(f"  - {value if value else 'Unknown'}: {count}")
+        for value, count in location_counter.most_common():
+            print(f"  - {value if value else 'Unknown'}: {count}")

@@ -116,6 +116,7 @@ def import_from_audible():
             book["listening"]["duration"] = round(
                 book["listening"]["duration"] / 1000, ndigits=0
             )
+            book["listening_date"] = book["listening"]["first_time"].split("T")[0]
 
     return audiobooks
 

@@ -31,9 +31,10 @@ def print_book(loop_position, bookd_id, book_type, book):
     description_summary = book.get("description", "<no description>").split("/n")[0]
     print(f"[bright_black]{description_summary}[/bright_black]")
     print("---")
-    print(
-        "Purchase date: [bold white]{}[/bold white]".format(
-            book.get("purchase_date", "<missing purchase date>")
+    for show_key in ("purchase_date", "location"):
+        print(
+            "{}: [bold white]{}[/bold white]".format(
+                show_key, book.get(show_key, f"<missing {show_key}>")
+            )
         )
-    )
     print("---")

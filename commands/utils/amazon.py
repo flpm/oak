@@ -1,11 +1,11 @@
 import csv
 import json
-import sys
 
 from collections import Counter, defaultdict
 from rich import print
 
 from .editing import confirm_loop
+from .books import print_book
 
 filename_list = [
     "./raw/amazon/Retail.OrderHistory.1.csv",
@@ -79,20 +79,6 @@ def prepare_amazon_purchase_data():
         json.dump(order_by_product, fp_w)
 
     return order_by_product
-
-
-def print_book(entry, current=None, total=None):
-    print("\n")
-    print("---")
-    print(
-        f'{current + 1}/{total} - [bold white]{entry["title"]}[/bold white] ({entry["source"]}) - {entry["authors"]}'
-    )
-    print("---")
-    description_summary = (
-        entry["description"].split("/n")[0] if entry["description"] else "N/A"
-    )
-    print(f"[bright_black]{description_summary}[/bright_black]")
-    print("---")
 
 
 def print_candidates(candidates, current=None, preserve_previous_matches=True):
@@ -243,6 +229,7 @@ def enrich_amazon_books(catalogue):
 
             if book["order"]:
                 book["purchase_date"] = book["order"]["ship_date"].split("T")[0]
+                book["location"] = book["order"]["location"]
                 assigned_order_count += 1
             book_count += 1
 

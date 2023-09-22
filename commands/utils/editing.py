@@ -53,6 +53,7 @@ def book_action(
     }
     book_actions = {
         "date": "Edit purchase date",
+        "city": "Edit purchase city",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -192,3 +193,9 @@ def edit_loop(catalogue):
                     print("[red]Invalid date[/red]")
                 else:
                     book["purchase_date"] = new_date
+            elif answer == "city":
+                location = Prompt.ask("Enter the city of purchase (e.g. Paris)")
+                if location:
+                    book["location"] = location
+                else:
+                    print("[red]Invalid location[/red]")
