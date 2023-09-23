@@ -204,7 +204,7 @@ def enrich_amazon_books(catalogue):
                 if "shipping_address" in current_order:
                     del current_order["shipping_address"]
 
-            print_book(book, book_count, total)
+            print_book((book_count, total), book["book_id"], book_type, book)
 
             candidates = select_candidates(orders, book)
 

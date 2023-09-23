@@ -91,7 +91,7 @@ def generate_stats(stat_type):
                     year = purchase_date[:4]
                     year_counter[year] += 1
 
-        for value, count in sorted(year_counter.most_common(10), reverse=True):
+        for value, count in sorted(year_counter.most_common(), reverse=True):
             print(f"  - {value if value else 'Unknown'}: {count}")
         for value, count in purchase_date_counter.most_common():
             print(f"  - {value if value else 'Unknown'}: {count}")
