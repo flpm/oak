@@ -81,6 +81,7 @@ def import_from_audible():
                     book_key_map[k]: v for k, v in entry.items() if k in book_key_map
                 }
                 book["book_id"] = asin
+                book["type"] = book_type
                 title_parts = book["full_title"].split(": ")
                 if len(title_parts) == 2:
                     book["title"] = title_parts[0].strip()
