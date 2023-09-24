@@ -1,4 +1,6 @@
+import calendar
 import typer
+from rich import print
 from collections import defaultdict, Counter
 
 from .utils.file import read_catalogue
@@ -124,3 +126,32 @@ def generate_stats(stat_type):
             print(f"  - {value if value else 'Unknown'}: {count}")
         for value, count in location_counter.most_common():
             print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "timeline":
+        print(f"Timeline:")
+        timeline = defaultdict(lambda: defaultdict(list))
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                if book_type == "audiobook_sample":
+                    continue
+                date = book.get("purchase_date") or book.get("listening_date")
+                if not date:
+                    continue
+                year, month, _ = date.split("-")
+                book["book_type"] = book_type
+                timeline[year][month].append(book)
+
+                if book["title"] == "Architecture: A Very Short Introduction":
+                    print(book)
+                    import sys
+
+                    sys.exit(0)
+
+        for year, months in sorted(timeline.items()):
+            print(f"  - {year}:")
+            for month, books in sorted(months.items()):
+                print(f"    - [magenta]{calendar.month_name[int(month)]}[/magenta]:")
+                for book in books:
+                    print(
+                        f"      - [green]{book['book_type']}[/green] [yellow]{book['format']}[/yellow] {book['title']}"
+                    )
