@@ -69,6 +69,8 @@ def import_from_bookshelf(export_date):
                 elif key == "language":
                     value = land_code_to_name(value)
                 elif key == "format":
+                    if not value or value == "ebook":
+                        value = "Paperback"
                     value = value.title()
                 elif key == "page_count":
                     key = "length"
