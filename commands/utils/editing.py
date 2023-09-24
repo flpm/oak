@@ -4,7 +4,8 @@ from rich import print
 from rich.prompt import Prompt
 
 from .books import print_book
-from .file import save_catalogue
+from .file import save_catalogue, read_amazon_orders
+from .orders import search_orders, choose_order
 
 
 def book_action(
@@ -115,6 +116,8 @@ def edit_loop(catalogue):
         if book_type != "audiobook_sample"
     ]
 
+    orders = read_amazon_orders()
+
     total = len(flat_catalogue)
     current_index = 0
     while True:
@@ -201,13 +204,18 @@ def edit_loop(catalogue):
                 else:
                     print("[red]Invalid location[/red]")
             elif answer == "order":
+                answer = "not order"
                 if book.get("order"):
                     print(f"Order information:")
                     for key, value in book.get("order", {}).items():
                         print(f"  - {key}: {value}")
-                    if confirm("Remove the order information?", False):
-                        book.pop("order")
-                        print("[red]Deleted order information.[/red]")
-                    answer = "not order"
-                else:
-                    print("[red]No order information for this book.[/red]")
+                if confirm("Remove the order information?", False):
+                    book.pop("order")
+                    print("[red]Deleted order information.[/red]")
+                order_keyword = Prompt.ask("Enter keyword to search orders")
+                if order_keyword:
+                    candidates = search_orders(order_keyword, orders)
+                    selected = choose_order(candidates, book.get("order"))
+                    if selected:
+                        book["order"] = selected
+                        print("[green]Added order information.[/green]")

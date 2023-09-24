@@ -6,6 +6,7 @@ from rich import print
 
 from .editing import confirm_loop
 from .books import print_book
+from .orders import select_candidates
 
 filename_list = [
     "./raw/amazon/Retail.OrderHistory.1.csv",
@@ -122,55 +123,6 @@ def print_candidates(candidates, current=None, preserve_previous_matches=True):
     if res == "n":
         return None
     return candidates[int(res)]
-
-
-def select_candidates(orders, book):
-    """
-    Select the candidate orders for a book.
-
-    Parameters
-    ----------
-    orders : dict
-        The orders by product.
-    book : dict
-        The book information.
-
-    Returns
-    -------
-    dict
-        The candidate orders.
-    """
-    candidates = defaultdict(list)
-    for name, order_info in orders.items():
-        if (
-            "shirt" in name.lower()
-            or "screen reincarnated" in name.lower()
-            or "figurine" in name.lower()
-            or "miniatures bundle" in name.lower()
-            or "mad libs" in name.lower()
-            or "dungeon academy" in name.lower()
-            or "starter set" in name.lower()
-            or "a search and find adventure" in name.lower()
-            or "keeper's screen" in name.lower()
-            or "board game" in name.lower()
-        ):
-            continue
-
-        if name.lower().startswith(book["title"].split(":")[0].lower()[:30]):
-            confidence = "strong"
-        elif name.lower()[:15] == book["title"].lower()[:15]:
-            confidence = "weak"
-        else:
-            continue
-
-        if not order_info:
-            raise RuntimeError("Empty order info in Amazon purrchase history.")
-
-        for order in order_info:
-            order_id = order["order_id"]
-            candidates[confidence].append(order)
-
-    return candidates
 
 
 def enrich_amazon_books(catalogue):

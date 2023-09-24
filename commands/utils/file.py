@@ -5,6 +5,7 @@ import json
 
 work_catalogue_filename = "./work/catalogue.json"
 output_cover_folder = "./output/covers"
+amazon_orders_filename = "./raw/amazon/amazon_orders.json"
 
 
 def read_catalogue(file_name=work_catalogue_filename):
@@ -24,3 +25,9 @@ def save_catalogue(catalogue, file_name=work_catalogue_filename):
 def save_cover_image(image_data, file_name):
     with open(f"{output_cover_folder}/{file_name}", "wb") as file:
         file.write(image_data)
+
+
+def read_amazon_orders():
+    with open(amazon_orders_filename, "r") as fp:
+        orders = json.load(fp)
+    return orders
