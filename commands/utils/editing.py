@@ -54,6 +54,7 @@ def book_action(
     book_actions = {
         "date": "Edit purchase date",
         "city": "Edit purchase city",
+        "order": "Delete order",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -199,3 +200,14 @@ def edit_loop(catalogue):
                     book["location"] = location
                 else:
                     print("[red]Invalid location[/red]")
+            elif answer == "order":
+                if book.get("order"):
+                    print(f"Order information:")
+                    for key, value in book.get("order", {}).items():
+                        print(f"  - {key}: {value}")
+                    if confirm("Remove the order information?", False):
+                        book.pop("order")
+                        print("[red]Deleted order information.[/red]")
+                    answer = "not order"
+                else:
+                    print("[red]No order information for this book.[/red]")

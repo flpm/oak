@@ -37,4 +37,13 @@ def print_book(loop_position, bookd_id, book_type, book):
                 show_key, book.get(show_key, f"<missing {show_key}>")
             )
         )
+    if book.get("order"):
+        order_info_string = [
+            f"{key}: [bold white]{value}[/bold white]"
+            for key, value in book["order"].items()
+            if key in ("order_date", "product_name")
+        ]
+    else:
+        order_info_string = "[bold white]<missing order information>[/bold white]"
+    print(f"order: {order_info_string}")
     print("---")
