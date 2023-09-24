@@ -56,6 +56,7 @@ def book_action(
         "date": "Edit purchase date",
         "city": "Edit purchase city",
         "order": "Delete order",
+        "theme": "Edit theme",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -136,14 +137,17 @@ def edit_loop(catalogue):
                 if confirm("Are you sure you want to quit?", False):
                     return catalogue
                 answer = "not quit"
+
             elif answer == "next":
                 current_index += 1
                 if current_index >= total:
                     current_index = total - 1
+
             elif answer == "prev":
                 current_index -= 1
                 if current_index < 0:
                     current_index = 0
+
             elif answer == "go":
                 while True:
                     try:
@@ -164,6 +168,7 @@ def edit_loop(catalogue):
                             current_index = backup_current_index
                         else:
                             break
+
             elif answer == "find":
                 while True:
                     try:
@@ -184,9 +189,11 @@ def edit_loop(catalogue):
                 else:
                     print("[red]Book not found[/red]")
                     break
+
             elif answer == "save":
                 save_catalogue(catalogue)
                 print("[green]Catalogue saved[/green]")
+
             elif answer == "date":
                 new_date = Prompt.ask("Enter new purchase date (YYYY-MM-DD)")
                 try:
@@ -197,12 +204,13 @@ def edit_loop(catalogue):
                     print("[red]Invalid date[/red]")
                 else:
                     book["purchase_date"] = new_date
+
             elif answer == "city":
                 location = Prompt.ask("Enter the city of purchase (e.g. Paris)")
                 if location:
                     book["location"] = location
-                else:
-                    print("[red]Invalid location[/red]")
+                    print("[geen]Location set[/geen]")
+
             elif answer == "order":
                 answer = "not order"
                 if book.get("order"):
@@ -219,3 +227,15 @@ def edit_loop(catalogue):
                     if selected:
                         book["order"] = selected
                         print("[green]Added order information.[/green]")
+
+            elif answer == "theme":
+                current_theme = book.get("theme")
+                if current_theme:
+                    print(f"Current theme: {current_theme}")
+                    if confirm("Remove the theme?", False):
+                        book.pop("theme")
+                        print("[red]Deleted theme.[/red]")
+                theme = Prompt.ask("Enter a theme for the book (e.g. history)")
+                if theme:
+                    book["theme"] = theme
+                    print("[geen]Theme set[/geen]")

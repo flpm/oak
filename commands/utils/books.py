@@ -37,6 +37,8 @@ def print_book(loop_position, bookd_id, book_type, book):
                 show_key, book.get(show_key, f"<missing {show_key}>")
             )
         )
+    if book.get("theme"):
+        print(f"theme: [bold white]{book['theme']}[/bold white]")
     if book.get("order"):
         order_info_string = [
             f"{key}: [bold white]{value}[/bold white]"
