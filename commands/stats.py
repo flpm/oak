@@ -141,12 +141,6 @@ def generate_stats(stat_type):
                 book["book_type"] = book_type
                 timeline[year][month].append(book)
 
-                if book["title"] == "Architecture: A Very Short Introduction":
-                    print(book)
-                    import sys
-
-                    sys.exit(0)
-
         for year, months in sorted(timeline.items()):
             print(f"  - {year}:")
             for month, books in sorted(months.items()):
