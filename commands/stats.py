@@ -147,5 +147,14 @@ def generate_stats(stat_type):
                 print(f"    - [magenta]{calendar.month_name[int(month)]}[/magenta]:")
                 for book in books:
                     print(
-                        f"      - [green]{book['book_type']}[/green] [yellow]{book['format']}[/yellow] {book['title']}"
+                        f"      - [blue]{book.get('theme')}[/blue] [green]{book['book_type']}[/green] [yellow]{book['format']}[/yellow] {book['title']}"
                     )
+
+    elif stat_type == "theme":
+        print(f"Books by theme:")
+        language_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                language_counter[book.get("theme")] += 1
+        for value, count in language_counter.most_common():
+            print(f"  - {value if value else 'Unknown'}: {count}")

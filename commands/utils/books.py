@@ -31,14 +31,12 @@ def print_book(loop_position, bookd_id, book_type, book):
     description_summary = book.get("description", "<no description>").split("/n")[0]
     print(f"[bright_black]{description_summary}[/bright_black]")
     print("---")
-    for show_key in ("purchase_date", "location"):
+    for show_key in ("purchase_date", "listening_date", "location"):
         print(
             "{}: [bold white]{}[/bold white]".format(
                 show_key, book.get(show_key, f"<missing {show_key}>")
             )
         )
-    if book.get("theme"):
-        print(f"theme: [bold white]{book['theme']}[/bold white]")
     if book.get("order"):
         order_info_string = [
             f"{key}: [bold white]{value}[/bold white]"
@@ -48,4 +46,8 @@ def print_book(loop_position, bookd_id, book_type, book):
     else:
         order_info_string = "[bold white]<missing order information>[/bold white]"
     print(f"order: {order_info_string}")
+    if topics := book.get("topics"):
+        print(f"topics: {topics}")
+    if book.get("theme"):
+        print(f"theme: [bold white]{book['theme']}[/bold white]")
     print("---")

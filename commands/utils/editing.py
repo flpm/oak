@@ -110,12 +110,17 @@ def edit_loop(catalogue):
     dict
         The modified catalogue.
     """
-    flat_catalogue = [
-        (book_id, book_type, book)
-        for book_id, book_info in catalogue.items()
-        for book_type, book in book_info.items()
-        if book_type != "audiobook_sample"
-    ]
+    flat_catalogue = sorted(
+        [
+            (book_id, book_type, book)
+            for book_id, book_info in catalogue.items()
+            for book_type, book in book_info.items()
+            if book_type != "audiobook_sample"
+        ],
+        key=lambda x: x[2].get(
+            "purchase_date", x[2].get("listening_date", "9999-99-99")
+        ),
+    )
 
     orders = read_amazon_orders()
 
