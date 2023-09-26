@@ -53,10 +53,12 @@ def book_action(
         "quit": "Quit",
     }
     book_actions = {
-        "date": "Edit purchase date",
-        "city": "Edit purchase city",
-        "order": "Delete order",
-        "theme": "Edit theme",
+        "date": "Edit book purchase date",
+        "city": "Edit book purchase city",
+        "order": "Delete order from the book",
+        "theme": "Edit the book theme",
+        "rename": "Rename theme",
+        "find theme": "Find a book by theme",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -244,3 +246,39 @@ def edit_loop(catalogue):
                 if theme:
                     book["theme"] = theme
                     print("[geen]Theme set[/geen]")
+
+            elif answer == "rename":
+                if confirm("Rename a theme?", False):
+                    old_theme = Prompt.ask("Enter the old theme name")
+                    if old_theme:
+                        new_theme = Prompt.ask("Enter the new theme name")
+                        if new_theme:
+                            rename_count = 0
+                            for book_id, book_type, book in flat_catalogue:
+                                if book.get("theme") == old_theme:
+                                    book["theme"] = new_theme
+                                    rename_count += 1
+                            if rename_count > 0:
+                                print(f"[green]Renamed {rename_count} books.[/green]")
+                answer = "not rename"
+
+            elif answer == "find theme":
+                while True:
+                    try:
+                        search_term = Prompt.ask("Enter theme search term")
+                    except ValueError:
+                        print("Invalid search term")
+                    else:
+                        break
+                for i, (*_, book) in enumerate(flat_catalogue):
+                    if i <= current_index:
+                        continue
+                    book_theme = book.get("theme", "")
+                    book_title = book.get("title", "<missing title>")
+                    if search_term.lower() in book_theme.lower():
+                        print(f"Found book: {i} {book_title}")
+                        current_index = i
+                        break
+                else:
+                    print("[red]Book not found[/red]")
+                    break
