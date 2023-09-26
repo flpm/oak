@@ -245,7 +245,7 @@ def edit_loop(catalogue):
                 theme = Prompt.ask("Enter a theme for the book (e.g. history)")
                 if theme:
                     book["theme"] = theme
-                    print("[geen]Theme set[/geen]")
+                    print("[green]Theme set[/green]")
 
             elif answer == "rename":
                 if confirm("Rename a theme?", False):
