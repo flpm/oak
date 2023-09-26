@@ -59,6 +59,7 @@ def book_action(
         "theme": "Edit the book theme",
         "rename": "Rename theme",
         "find theme": "Find a book by theme",
+        "top shelf": "Add top shelf attributes",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -282,3 +283,25 @@ def edit_loop(catalogue):
                 else:
                     print("[red]Book not found[/red]")
                     break
+
+            elif answer == "top shelf":
+                if confirm("Edit top shelf attributes", False):
+                    if confirm("Is this book signed?", False):
+                        book["signed"] = True
+                        if signature_details := Prompt.ask(
+                            "Signed by? (e.g. the author)"
+                        ):
+                            book["signature_details"] = signature_details
+                    else:
+                        book.pop("signed", None)
+                        book.pop("signature_details", None)
+                    if confirm("Is this a first edition?", False):
+                        book["first_edition"] = True
+                        if first_edition_details := Prompt.ask(
+                            "Enter first edition details (e.g. british)"
+                        ):
+                            book["first_edition_details"] = first_edition_details
+                    else:
+                        book.pop("first_edition", None)
+                        book.pop("first_edition_details", None)
+                answer = "not top shelf"

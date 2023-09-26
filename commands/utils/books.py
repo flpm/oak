@@ -31,6 +31,14 @@ def print_book(loop_position, bookd_id, book_type, book):
     description_summary = book.get("description", "<no description>").split("/n")[0]
     print(f"[bright_black]{description_summary}[/bright_black]")
     print("---")
+    if book.get("signed"):
+        signature_details = book.get("signature_details", "the author")
+        print(f"[bold yellow]This book is signed by {signature_details}.[/bold yellow]")
+    if book.get("first_edition"):
+        first_edition_details = book.get("first_edition_details", "")
+        print(
+            f"[bold yellow]This book is a first {first_edition_details} edition.[/bold yellow]"
+        )
     for show_key in ("purchase_date", "listening_date", "location"):
         print(
             "{}: [bold white]{}[/bold white]".format(
