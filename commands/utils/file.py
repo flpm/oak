@@ -98,8 +98,11 @@ def read_markdown_book(filename):
     dict
         The book.
     """
-    with open(filename, "r") as fp:
-        content = fp.read()
+    try:
+        with open(filename, "r") as fp:
+            content = fp.read()
+    except FileNotFoundError:
+        return dict()
     frontmatter, description = content.split("---\n")[1:]
     book = yaml.load(frontmatter, Loader=yaml.FullLoader)
     book["description"] = description
