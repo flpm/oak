@@ -5,6 +5,7 @@ from collections import defaultdict
 import commands.add
 import commands.enrich
 import commands.edit
+import commands.export
 
 from commands.stats import generate_stats
 
@@ -33,13 +34,7 @@ def edit():
 @app.command()
 def export(target_folder: str = "./output"):
     """Export books as Markdown files."""
-    print("Export as markdown to:", target_folder)
-
-
-@app.command()
-def reset():
-    """Delete all books in the library."""
-    print("Reset library.")
+    commands.export.export_markdown(target_folder)
 
 
 @app.command()

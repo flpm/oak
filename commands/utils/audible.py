@@ -86,10 +86,12 @@ def import_from_audible():
                 if len(title_parts) == 2:
                     book["title"] = title_parts[0].strip()
                     book["subtitle"] = title_parts[1].strip()
+                elif len(title_parts) > 2:
+                    book["title"] = ": ".join(title_parts[0:-1]).strip()
+                    book["subtitle"] = title_parts[-1].strip()
                 else:
                     book["title"] = book["full_title"].strip()
                     book["subtitle"] = None
-                # book["type"] = book_type
                 book["format"] = "Audiobook"
                 book["listening"] = {"duration": 0}
                 book["link"] = f"https://www.audible.com/pd/{asin}"
