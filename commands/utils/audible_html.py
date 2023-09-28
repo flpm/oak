@@ -164,7 +164,7 @@ def get_cover_image(book, soup, errors):
         lambda tag: tag.name == "img"
         and tag.get("alt")
         and book.get("title")
-        and book["title"] in tag.get("alt")
+        and book["title"][:14] in tag.get("alt")
     )
     try:
         cover_img = soup.find_all(search_lambda)[0]
