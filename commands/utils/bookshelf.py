@@ -77,12 +77,20 @@ def import_from_bookshelf(export_date):
                     value = f"{value} pages"
                 book_info[key] = value
             if "full_title" not in book_info:
+                original_title = book_info["title"]
+                title_parts = book_info["title"].split(": ")
+                if len(title_parts) == 2:
+                    book_info["title"] = title_parts[0].strip()
+                    book_info["subtitle"] = title_parts[1].strip()
+                elif len(title_parts) > 2:
+                    book_info["title"] = ": ".join(title_parts[0:-1]).strip()
+                    book_info["subtitle"] = title_parts[-1].strip()
                 book_info["full_title"] = (
                     f'{book_info["title"]}: {book_info["subtitle"]}'
                     if book_info.get("subtitle")
                     else book_info["title"]
                 )
-            books[book_info["title"]] = book_info
+            books[original_title] = book_info
 
     # Read the HTML file to extract the embedded cover images
     with open(html_filename, "r") as fp:
@@ -106,13 +114,28 @@ def import_from_bookshelf(export_date):
             if "td-book" in cell.get("class"):
                 title = cell.h2.string
                 book = books.get(title)
-                if book and book.get("isbn"):
-                    isbn = book["isbn"]
+                if book:
+                    if book.get("book_id"):
+                        isbn = book["book_id"]
+                    else:
+                        print(f"ISBN not found for {title}")
                 else:
-                    raise RuntimeError(f"ISBN not found for {title}")
+                    print(f"Book not found in catalog: {title}")
+                    continue
                 img_filename = f"{isbn}.{cover_type}"
                 decoded_cover = base64.b64decode(cover_image)
                 save_cover_image(decoded_cover, img_filename)
                 book["cover_filename"] = img_filename
                 results[isbn]["book"] = book
+
+    # Some special corrections for errors in the Bookshelf data
+    results["9788420482279"]["book"]["language"] = [
+        "Spanish"
+    ]  # Fix incorrect language in "Que me Quieres Amor"
+    results["9783931141967"]["book"]["language"] = [
+        "English"
+    ]  # Fix incorrect language in "Francesca Woodman"
+    results["9788501053145"]["book"]["language"] = [
+        "Portuguese"
+    ]  # Fix incorrect language in "Suor"
     return results
