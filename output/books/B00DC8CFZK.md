@@ -6,7 +6,7 @@ subtitle: The Father of History
 asin: B00DC8CFZK
 length: '44220000'
 owned: 'true'
-format: Audiobook
+format: Lecture
 listening:
   duration: 940.0
   first_time: '2023-05-15'

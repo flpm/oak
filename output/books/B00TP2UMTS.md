@@ -28,7 +28,7 @@ language:
 rating:
   rating: 4.0756013745704465
   count: 291
-cover_filename: null
+cover_filename: B00TP2UMTS.jpg
 purchase_date: '2016-02-25'
 listening_date: '2016-02-25'
 theme: math

@@ -6,7 +6,7 @@ subtitle: From Augustus to the Fall of Rome
 asin: B07MDHVBLY
 length: '45679000'
 owned: 'true'
-format: Audiobook
+format: Lecture
 listening:
   duration: 45818.0
   first_time: '2021-11-23'

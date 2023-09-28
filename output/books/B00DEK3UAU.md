@@ -6,7 +6,7 @@ subtitle: An Integrated History of the Ancient Mediterranean
 asin: B00DEK3UAU
 length: '67868000'
 owned: 'true'
-format: Audiobook
+format: Lecture
 listening:
   duration: 69275.0
   first_time: '2022-05-23'

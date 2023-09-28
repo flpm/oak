@@ -1,0 +1,40 @@
+---
+name: about Ancient History
+title: Books about Ancient History
+items:
+- title: null
+  books:
+  - B00D7JMGEY
+  - B00MXDGT2A
+  - B00MFQLERK
+  - '9781541699250'
+  - '9780133264227'
+  - B00LG7MR20
+  - '9780806140278'
+  - '9788420635484'
+  - B00D8G1DPO
+  - '9781107675698'
+  - B00DB92ATG
+  - B00DEK3UAU
+  - B00DC8CFZK
+  - B002V8KXYC
+  - '9782080812988'
+  - '9788420691060'
+  - '9782877726351'
+  - '9782877726894'
+  - B00XP3CMHI
+  - '9788420635507'
+  - '9788420637440'
+  - B01865AOJW
+  - '9780691163475'
+  - '9780500288993'
+  - '1977330053'
+  - 197734996X
+  - B00DC5SB06
+  - B078HDSHQJ
+  - B07MDHVBLY
+  - '9781566568968'
+  - '9782228930376'
+subtitle: There are 31 books about Ancient History
+---
+

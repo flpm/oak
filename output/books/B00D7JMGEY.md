@@ -6,7 +6,7 @@ subtitle: null
 asin: B00D7JMGEY
 length: '44023000'
 owned: 'true'
-format: Audiobook
+format: Lecture
 listening:
   duration: 52000.0
   first_time: '2022-10-05'

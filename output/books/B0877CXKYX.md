@@ -6,7 +6,7 @@ subtitle: null
 asin: B0877CXKYX
 length: '3280000'
 owned: 'true'
-format: Audiobook
+format: Original Recording Audiobook
 listening:
   duration: 47.0
   first_time: '2022-11-20'

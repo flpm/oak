@@ -28,7 +28,7 @@ language:
 rating:
   rating: 4.842273372541067
   count: 19724
-cover_filename: null
+cover_filename: B06WLMWF2S.jpg
 listening_date: '2022-01-24'
 theme: crime fiction
 ---

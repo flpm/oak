@@ -27,7 +27,7 @@ language:
 rating:
   rating: 4.323076923076923
   count: 325
-cover_filename: null
+cover_filename: B0774ZRRJL.jpg
 listening_date: '2023-05-13'
 theme: writing
 ---
