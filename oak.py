@@ -10,7 +10,7 @@ import commands.export
 from commands.stats import generate_stats
 
 
-app = typer.Typer()
+app = typer.Typer(pretty_exceptions_show_locals=False)
 app.add_typer(commands.add.app, name="add", short_help="Add books to the library.")
 app.add_typer(
     commands.enrich.app,
