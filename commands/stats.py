@@ -158,3 +158,22 @@ def generate_stats(stat_type):
                 language_counter[book.get("theme")] += 1
         for value, count in language_counter.most_common():
             print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "topic":
+        print(f"Books by topics:")
+        topics_counter = Counter()
+        topics_info = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                topics_counter.update(book.get("topics"))
+                if not any(i for i in book.get("topics", list()) if i):
+                    topics_info["Books without topics"] += 1
+                else:
+                    topics_info["Books with topics"] += 1
+        for value, count in topics_counter.most_common(20):
+            if not value:
+                continue
+            print(f"  - {value.title()}: {count}")
+        print(f"Topics summary:")
+        for value, count in topics_info.items():
+            print(f"  - {value if value else 'Unknown'}: {count}")
