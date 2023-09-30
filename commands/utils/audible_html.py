@@ -227,6 +227,7 @@ def find_book_details(soup):
                 key = "narrators"
             if key == "author":
                 key = "authors"
+                value = [i for i in value if i != "The Great Courses"]
         elif key == "datePublished":
             key = "date_published"
         elif key == "inLanguage":

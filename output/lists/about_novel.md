@@ -49,7 +49,7 @@ I have 34 books about Novel in my bookshelf.
 - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 - (paper) [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
-- (paper) [CACAU - 05 ED](/books/info/9788501009418) by Jorge Amado
+- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 - (paper) [La ciudad de los prodigios](/books/info/9788432217104) by Eduardo Mendoza
 - (paper) [La sombra del viento](/books/info/9788408093107) by Carlos Ruiz Zafon

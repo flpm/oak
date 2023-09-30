@@ -54,7 +54,7 @@ def import_from_bookshelf(export_date):
                     value = value.split(",")
                     key = "topics"
                 elif key == "authors":
-                    value = value.split(",")
+                    value = [i.title() if i.isupper() else i for i in value.split(",")]
                 elif key == "published_at":
                     key = "date_published"
                 elif key == "description":
@@ -85,6 +85,10 @@ def import_from_bookshelf(export_date):
                 elif len(title_parts) > 2:
                     book_info["title"] = ": ".join(title_parts[0:-1]).strip()
                     book_info["subtitle"] = title_parts[-1].strip()
+                if book_info["title"].isupper():
+                    book_info["title"] = book_info["title"].title()
+                if book_info["subtitle"] and book_info["subtitle"].isupper():
+                    book_info["subtitle"] = book_info["subtitle"].title()
                 book_info["full_title"] = (
                     f'{book_info["title"]}: {book_info["subtitle"]}'
                     if book_info.get("subtitle")

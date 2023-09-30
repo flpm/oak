@@ -23,11 +23,10 @@ index:
     name: in English
     title: 'Language: English'
     subtitle: Books in English
-    description: "I have 403 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
+    description: "I have 400 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
       \ [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James\
       \ M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
-      \ by Kiyoshi Kosugi, James Davies\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
-      \ by Jeanne Neumann\n- (paper) [A Gamut of Games](/books/info/9780486273471)\
+      \ by Kiyoshi Kosugi, James Davies\n- (paper) [A Gamut of Games](/books/info/9780486273471)\
       \ by Sid Sackson\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
       \ by Richard A. Lanham\n- (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359)\
       \ by J.C. Catford\n- (paper) [A Primer of Visual Literacy](/books/info/9780262540292)\
@@ -175,8 +174,7 @@ index:
       \ Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett\n-\
       \ (paper) [Hackers](/books/info/9781449388393) by Steven Levy\n- (paper) [Hacking\
       \ Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David\
-      \ Cowen, Aaron Philipp\n- (paper) [Hamlet](/books/info/9788437610979) by William\
-      \ Shakespeare\n- (paper) [Handbook of Cubik Math](/books/info/9780718892098)\
+      \ Cowen, Aaron Philipp\n- (paper) [Handbook of Cubik Math](/books/info/9780718892098)\
       \ by Alexander H. Frey, David Singmaster\n- (paper) [Handbook of Fingerprint\
       \ Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil\
       \ K. Jain, Salil Prabhakar\n- (paper) [Hands-On Data Analysis with Pandas](/books/info/9781789615326)\
@@ -405,7 +403,6 @@ index:
       \ by Jessica Southwick, Yevgeniya Yerektskaya\n- (paper) [The Penguin History\
       \ of the USA](/books/info/9780140252552) by Hugh Brogan\n- (paper) [The Pleasures\
       \ and Sorrows of Work](/books/info/9780375424441) by Alain De Botton\n- (paper)\
-      \ [The Poems of Catullus](/books/info/9780520253865) by Catullus\n- (paper)\
       \ [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas\n\
       - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
       - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell\n\
@@ -473,7 +470,6 @@ index:
       books:
       - '9781883629007'
       - '9784906574117'
-      - '9781585108091'
       - '9780486273471'
       - '9780520273689'
       - '9780199246359'
@@ -609,7 +605,6 @@ index:
       - '9780575046061'
       - '9781449388393'
       - '9780072256758'
-      - '9788437610979'
       - '9780718892098'
       - '9781848822542'
       - '9781789615326'
@@ -817,7 +812,6 @@ index:
       - '9781623485566'
       - '9780140252552'
       - '9780375424441'
-      - '9780520253865'
       - '9780201616224'
       - '9780544173767'
       - '9781107602700'
@@ -880,10 +874,10 @@ index:
     subtitle: Books in French
     description: "I have 35 books in French in my bookshelf.\n\n### Titles:\n- (paper)\
       \ [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
-      \ by Trondheim\n- (paper) [Griffu](/books/info/9782203030466) by TARDI/MANCHETTE\n\
+      \ by Trondheim\n- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette\n\
       - (paper) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne\
       \ Faivre-Martin\n- (paper) [L'Acc\xE9l\xE9rateur Atomique (Les Formidables Aventures\
-      \ De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS\n- (paper)\
+      \ De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis\n- (paper)\
       \ [L'Histoire commence \xE0 Sumer](/books/info/9782080812988) by Samuel Noah\
       \ Kramer\n- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
       \ by Georges Simenon\n- (paper) [La Couleur de l'Enfer (Les Formidables Aventures\
@@ -907,7 +901,7 @@ index:
       - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert\n- (paper)\
       \ [Petit trait\xE9 de manipulation \xE0 l'usage des honn\xEAtes gens](/books/info/9782706110443)\
       \ by Robert-Vincent Joule, Jean-L\xE9on Beauvois\n- (paper) [Pichenettes (Les\
-      \ Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS\n\
+      \ Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis\n\
       - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589)\
       \ by Lewis Trondheim\n- (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344)\
       \ by Taniguchi Jiro\n- (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382)\
@@ -1012,13 +1006,13 @@ index:
       \ de Queiroz\n- (paper) [A grande arte](/books/info/9788520924556) by Rubem\
       \ Fonseca\n- (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena\
       \ Jobim\n- (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
-      \ by J\xF4. Soares\n- (paper) [CACAU - 05 ED](/books/info/9788501009418) by\
+      \ by J\xF4. Soares\n- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by\
       \ Jorge Amado\n- (paper) [Caminhos e fronteiras (Portuguese Edition)](/books/info/9788571644113)\
       \ by S\xE9rgio Buarque de Holanda\n- (paper) [Ensaio sobre a lucidez](/books/info/9788535904802)\
       \ by Jos\xE9 Saramago\n- (paper) [Hist\xF3ria concisa do Brasil](/books/info/9788531405921)\
       \ by Boris Fausto\n- (paper) [Navegacao de Cabotagem](/books/info/9788535920772)\
-      \ by Jorge Amado, L\xEAdo Ivo\n- (paper) [O HOMEM QUE CALCULAVA (EDI\xC7\xC3\
-      O COMEMORATIVA)](/books/info/9786555873399) by Malba Tahan\n- (paper) [Paratii](/books/info/9788571642829)\
+      \ by Jorge Amado, L\xEAdo Ivo\n- (paper) [O Homem Que Calculava (Edi\xE7\xE3\
+      o Comemorativa)](/books/info/9786555873399) by Malba Tahan\n- (paper) [Paratii](/books/info/9788571642829)\
       \ by Amyr Klink\n- (paper) [Suor](/books/info/9788501053145) by Jorge Amado\n\
       - (paper) [Tocaia Grande - A Face Obscura](/books/info/9789722019569) by Jorge\
       \ Amado\n- (paper) [Uma Breve Hist\xF3ria do Brasil](/books/info/9788576655299)\
@@ -1124,10 +1118,9 @@ index:
 ### [Catalan](/books/in_catalan) (2)
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 - (paper) [Memòries. Història d'una convicció (1930 - 1980) (Memòries #1)](/books/info/9788484370451) by Jordi Pujol
-### [English](/books/in_english) (403)
+### [English](/books/in_english) (400)
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
-- (paper) [A Companion to Familia Romana](/books/info/9781585108091) by Jeanne Neumann
 - (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
@@ -1263,7 +1256,6 @@ index:
 - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
 - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
-- (paper) [Hamlet](/books/info/9788437610979) by William Shakespeare
 - (paper) [Handbook of Cubik Math](/books/info/9780718892098) by Alexander H. Frey, David Singmaster
 - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
 - (paper) [Hands-On Data Analysis with Pandas](/books/info/9781789615326) by Stefanie Molin
@@ -1471,7 +1463,6 @@ index:
 - (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
 - (paper) [The Penguin History of the USA](/books/info/9780140252552) by Hugh Brogan
 - (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441) by Alain De Botton
-- (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
 - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
@@ -1530,9 +1521,9 @@ index:
 - (paper) [Xanathar's Guide to Everything](/books/info/9780786966110) by Wizards RPG Team
 ### [French](/books/in_french) (35)
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
-- (paper) [Griffu](/books/info/9782203030466) by TARDI/MANCHETTE
+- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 - (paper) [Hiéroglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin
-- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS
+- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
 - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
 - (paper) [La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)](/books/info/9782205049886) by Lewis Trondheim
@@ -1553,7 +1544,7 @@ index:
 - (paper) [Oblomov](/books/info/9782253933151) by Ivan Goncharov
 - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert
 - (paper) [Petit traité de manipulation à l'usage des honnêtes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-Léon Beauvois
-- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS
+- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis
 - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589) by Lewis Trondheim
 - (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344) by Taniguchi Jiro
 - (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382) by Jiro Taniguchi
@@ -1588,12 +1579,12 @@ index:
 - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 - (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena Jobim
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
-- (paper) [CACAU - 05 ED](/books/info/9788501009418) by Jorge Amado
+- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado
 - (paper) [Caminhos e fronteiras (Portuguese Edition)](/books/info/9788571644113) by Sérgio Buarque de Holanda
 - (paper) [Ensaio sobre a lucidez](/books/info/9788535904802) by José Saramago
 - (paper) [História concisa do Brasil](/books/info/9788531405921) by Boris Fausto
 - (paper) [Navegacao de Cabotagem](/books/info/9788535920772) by Jorge Amado, Lêdo Ivo
-- (paper) [O HOMEM QUE CALCULAVA (EDIÇÃO COMEMORATIVA)](/books/info/9786555873399) by Malba Tahan
+- (paper) [O Homem Que Calculava (Edição Comemorativa)](/books/info/9786555873399) by Malba Tahan
 - (paper) [Paratii](/books/info/9788571642829) by Amyr Klink
 - (paper) [Suor](/books/info/9788501053145) by Jorge Amado
 - (paper) [Tocaia Grande - A Face Obscura](/books/info/9789722019569) by Jorge Amado

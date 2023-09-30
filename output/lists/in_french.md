@@ -45,9 +45,9 @@ I have 35 books in French in my bookshelf.
 
 ### Titles:
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
-- (paper) [Griffu](/books/info/9782203030466) by TARDI/MANCHETTE
+- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 - (paper) [Hiéroglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin
-- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS
+- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
 - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
 - (paper) [La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)](/books/info/9782205049886) by Lewis Trondheim
@@ -68,7 +68,7 @@ I have 35 books in French in my bookshelf.
 - (paper) [Oblomov](/books/info/9782253933151) by Ivan Goncharov
 - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert
 - (paper) [Petit traité de manipulation à l'usage des honnêtes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-Léon Beauvois
-- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS
+- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis
 - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589) by Lewis Trondheim
 - (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344) by Taniguchi Jiro
 - (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382) by Jiro Taniguchi

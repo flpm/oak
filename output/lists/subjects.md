@@ -677,14 +677,14 @@ index:
       - (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
       \ by Trondheim\n- (paper) [Attack of the Deranged Mutant Killer Monster Snow\
       \ Goons](/books/info/9780751509335) by Bill Watterson\n- (paper) [Griffu](/books/info/9782203030466)\
-      \ by TARDI/MANCHETTE\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
+      \ by Tardi/Manchette\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
       \ by Luke Pearson\n- (paper) [Hilda and the Black Hound](/books/info/9781912497553)\
       \ by Luke Pearson\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
       \ by Luke Pearson\n- (paper) [Hilda and the Mountain King](/books/info/9781913123918)\
       \ by Luke Pearson\n- (paper) [Hilda and the Stone Forest](/books/info/9781911171713)\
       \ by Luke Pearson\n- (paper) [Hilda and the Troll](/books/info/9781912497546)\
       \ by Luke Pearson\n- (paper) [L'Acc\xE9l\xE9rateur Atomique (Les Formidables\
-      \ Aventures De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS\n\
+      \ Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis\n\
       - (paper) [La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)](/books/info/9782205049886)\
       \ by Lewis Trondheim\n- (paper) [La Fille de Vercing\xE9torix (Ast\xE9rix, #38)](/books/info/9782864973423)\
       \ by Jean-Yves Ferri\n- (paper) [La Voleuse du P\xE8re-Fauteuil, Tome 2](/books/info/9782205053326)\
@@ -693,7 +693,7 @@ index:
       \ Trondheim\n- (paper) [Le Journal de mon P\xE8re](/books/info/9782203396098)\
       \ by Jir\u014D Taniguchi\n- (paper) [Nestor Burma](/books/info/9782203399327)\
       \ by Jacques Tardi, L\xE9o Malet, Emmanuel Moynot\n- (paper) [Pichenettes (Les\
-      \ Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS\n\
+      \ Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis\n\
       - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589)\
       \ by Lewis Trondheim\n- (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344)\
       \ by Taniguchi Jiro\n- (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382)\
@@ -1035,7 +1035,7 @@ index:
       \ Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon\n\
       - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei\
       \ Chiu\n- (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357)\
-      \ by Martin Gardner\n- (paper) [O HOMEM QUE CALCULAVA (EDI\xC7\xC3O COMEMORATIVA)](/books/info/9786555873399)\
+      \ by Martin Gardner\n- (paper) [O Homem Que Calculava (Edi\xE7\xE3o Comemorativa)](/books/info/9786555873399)\
       \ by Malba Tahan\n- (paper) [Outlier Analysis](/books/info/9783319475776) by\
       \ Charu C. Aggarwal\n- (paper) [Probabilistic Graphical Models](/books/info/9780262013192)\
       \ by Daphne Koller, Nir Friedman\n- (paper) [Statistics Done Wrong](/books/info/9781593276201)\
@@ -1155,7 +1155,7 @@ index:
       - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca\n- (paper)\
       \ [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan\n- (paper)\
       \ [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
-      \ by J\xF4. Soares\n- (paper) [CACAU - 05 ED](/books/info/9788501009418) by\
+      \ by J\xF4. Soares\n- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by\
       \ Jorge Amado\n- (paper) [El \xFAltimo libro de Sergi P\xE0mies](/books/info/9788433924889)\
       \ by Sergi Pamies\n- (paper) [La ciudad de los prodigios](/books/info/9788432217104)\
       \ by Eduardo Mendoza\n- (paper) [La sombra del viento](/books/info/9788408093107)\
@@ -2013,21 +2013,21 @@ index:
 ### [graphic novels](/books/about_graphic_novels) (27)
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
 - (paper) [Attack of the Deranged Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson
-- (paper) [Griffu](/books/info/9782203030466) by TARDI/MANCHETTE
+- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 - (paper) [Hilda and the Bird Parade](/books/info/9781911171027) by Luke Pearson
 - (paper) [Hilda and the Black Hound](/books/info/9781912497553) by Luke Pearson
 - (paper) [Hilda and the Midnight Giant](/books/info/9781909263796) by Luke Pearson
 - (paper) [Hilda and the Mountain King](/books/info/9781913123918) by Luke Pearson
 - (paper) [Hilda and the Stone Forest](/books/info/9781911171713) by Luke Pearson
 - (paper) [Hilda and the Troll](/books/info/9781912497546) by Luke Pearson
-- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS
+- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis
 - (paper) [La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)](/books/info/9782205049886) by Lewis Trondheim
 - (paper) [La Fille de Vercingétorix (Astérix, #38)](/books/info/9782864973423) by Jean-Yves Ferri
 - (paper) [La Voleuse du Père-Fauteuil, Tome 2](/books/info/9782205053326) by Omond, Yoann Chivard ; dit Yoann
 - (paper) [La vie comme elle vient (Les Formidables Aventures De Lapinot, #8)](/books/info/9782205053852) by Lewis Trondheim
 - (paper) [Le Journal de mon Père](/books/info/9782203396098) by Jirō Taniguchi
 - (paper) [Nestor Burma](/books/info/9782203399327) by Jacques Tardi, Léo Malet, Emmanuel Moynot
-- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS
+- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis
 - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589) by Lewis Trondheim
 - (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344) by Taniguchi Jiro
 - (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382) by Jiro Taniguchi
@@ -2125,7 +2125,7 @@ index:
 - (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
 - (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357) by Martin Gardner
-- (paper) [O HOMEM QUE CALCULAVA (EDIÇÃO COMEMORATIVA)](/books/info/9786555873399) by Malba Tahan
+- (paper) [O Homem Que Calculava (Edição Comemorativa)](/books/info/9786555873399) by Malba Tahan
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
@@ -2155,7 +2155,7 @@ index:
 - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 - (paper) [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
-- (paper) [CACAU - 05 ED](/books/info/9788501009418) by Jorge Amado
+- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 - (paper) [La ciudad de los prodigios](/books/info/9788432217104) by Eduardo Mendoza
 - (paper) [La sombra del viento](/books/info/9788408093107) by Carlos Ruiz Zafon

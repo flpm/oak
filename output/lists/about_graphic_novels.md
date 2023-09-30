@@ -38,21 +38,21 @@ I have 27 books about Graphic Novels in my bookshelf.
 ### Titles:
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
 - (paper) [Attack of the Deranged Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson
-- (paper) [Griffu](/books/info/9782203030466) by TARDI/MANCHETTE
+- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 - (paper) [Hilda and the Bird Parade](/books/info/9781911171027) by Luke Pearson
 - (paper) [Hilda and the Black Hound](/books/info/9781912497553) by Luke Pearson
 - (paper) [Hilda and the Midnight Giant](/books/info/9781909263796) by Luke Pearson
 - (paper) [Hilda and the Mountain King](/books/info/9781913123918) by Luke Pearson
 - (paper) [Hilda and the Stone Forest](/books/info/9781911171713) by Luke Pearson
 - (paper) [Hilda and the Troll](/books/info/9781912497546) by Luke Pearson
-- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by TRONDHEIM/LEWIS
+- (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis
 - (paper) [La Couleur de l'Enfer (Les Formidables Aventures De Lapinot, #7)](/books/info/9782205049886) by Lewis Trondheim
 - (paper) [La Fille de Vercingétorix (Astérix, #38)](/books/info/9782864973423) by Jean-Yves Ferri
 - (paper) [La Voleuse du Père-Fauteuil, Tome 2](/books/info/9782205053326) by Omond, Yoann Chivard ; dit Yoann
 - (paper) [La vie comme elle vient (Les Formidables Aventures De Lapinot, #8)](/books/info/9782205053852) by Lewis Trondheim
 - (paper) [Le Journal de mon Père](/books/info/9782203396098) by Jirō Taniguchi
 - (paper) [Nestor Burma](/books/info/9782203399327) by Jacques Tardi, Léo Malet, Emmanuel Moynot
-- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by TRONDHEIM/LEWIS
+- (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis
 - (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589) by Lewis Trondheim
 - (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344) by Taniguchi Jiro
 - (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382) by Jiro Taniguchi

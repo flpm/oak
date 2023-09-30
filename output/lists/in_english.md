@@ -6,7 +6,6 @@ items:
   books:
   - '9781883629007'
   - '9784906574117'
-  - '9781585108091'
   - '9780486273471'
   - '9780520273689'
   - '9780199246359'
@@ -142,7 +141,6 @@ items:
   - '9780575046061'
   - '9781449388393'
   - '9780072256758'
-  - '9788437610979'
   - '9780718892098'
   - '9781848822542'
   - '9781789615326'
@@ -350,7 +348,6 @@ items:
   - '9781623485566'
   - '9780140252552'
   - '9780375424441'
-  - '9780520253865'
   - '9780201616224'
   - '9780544173767'
   - '9781107602700'
@@ -409,12 +406,11 @@ items:
   - '9780786966110'
 subtitle: Books in English
 ---
-I have 403 books in English in my bookshelf.
+I have 400 books in English in my bookshelf.
 
 ### Titles:
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
-- (paper) [A Companion to Familia Romana](/books/info/9781585108091) by Jeanne Neumann
 - (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
@@ -550,7 +546,6 @@ I have 403 books in English in my bookshelf.
 - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
 - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
-- (paper) [Hamlet](/books/info/9788437610979) by William Shakespeare
 - (paper) [Handbook of Cubik Math](/books/info/9780718892098) by Alexander H. Frey, David Singmaster
 - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
 - (paper) [Hands-On Data Analysis with Pandas](/books/info/9781789615326) by Stefanie Molin
@@ -758,7 +753,6 @@ I have 403 books in English in my bookshelf.
 - (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
 - (paper) [The Penguin History of the USA](/books/info/9780140252552) by Hugh Brogan
 - (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441) by Alain De Botton
-- (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
 - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell

@@ -45,7 +45,7 @@ I have 22 books about Math in my bookshelf.
 - (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
 - (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357) by Martin Gardner
-- (paper) [O HOMEM QUE CALCULAVA (EDIÇÃO COMEMORATIVA)](/books/info/9786555873399) by Malba Tahan
+- (paper) [O Homem Que Calculava (Edição Comemorativa)](/books/info/9786555873399) by Malba Tahan
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
