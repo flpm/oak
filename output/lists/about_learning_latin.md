@@ -1,6 +1,6 @@
 ---
-name: in Latin
-title: 'Language: Latin'
+name: about Learning Latin
+title: 'Theme: Learning Latin'
 items:
 - title: null
   books:
@@ -12,6 +12,7 @@ items:
   - '9781585100743'
   - '9781585104208'
   - '9781585102327'
+  - 125075044X
   - '9780521005029'
   - '9781107690639'
   - '9780199124183'
@@ -19,10 +20,11 @@ items:
   - '9780521315920'
   - '9798648057418'
   - '9780520253865'
+  - '9781093905632'
   - '9780061997228'
-subtitle: Books in Latin
+subtitle: Books about learning the Latin language
 ---
-I have 16 books in Latin in my bookshelf.
+I have 18 books about Learning Latin in my bookshelf.
 
 ### Titles:
 - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M. May, Frederic M. Wheelock
@@ -33,6 +35,7 @@ I have 16 books in Latin in my bookshelf.
 - (paper) [Lingua Latina Per Se Illustrata](/books/info/9781585100743) by Hans Henning Orberg
 - (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208) by Hans Henning Orberg
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 - (paper) [North American Cambridge Latin Course Unit 1 Audio CD](/books/info/9780521005029) by North American Cambridge Classics Project
 - (paper) [North American Cambridge Latin Course Unit 1 Student's Book](/books/info/9781107690639) by Cambridge School Classics Project
 - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood
@@ -40,4 +43,5 @@ I have 16 books in Latin in my bookshelf.
 - (paper) [Short Latin Stories](/books/info/9780521315920) by Philip Dunlop
 - (paper) [Surus](/books/info/9798648057418) by Emm Vanderpool
 - (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus
+- (paper) [Vita Nostra](/books/info/9781093905632) by Stephen a Berard
 - (paper) [Wheelock's Latin, 7th Edition](/books/info/9780061997228) by Frederic M. Wheelock, Richard A. LaFleur

@@ -43,16 +43,48 @@ def export_markdown(output_folder):
 
     print(f"Exporting lists:")
 
-    lang_list = create_language_list(catalogue, index=True)
-    write_markdown_list(lang_list, list_output_folder=list_output_folder)
+    lang_list = create_language_list(catalogue)
     print(f"  - languages index")
+    write_markdown_list(
+        lang_list,
+        list_output_folder=list_output_folder,
+        include_items=False,
+    )
     for sublist_data in lang_list["index"].values():
         print(f"    - {sublist_data['name']}")
-        write_markdown_list(sublist_data, list_output_folder=list_output_folder)
+        write_markdown_list(
+            sublist_data,
+            list_output_folder=list_output_folder,
+            include_items=True,
+        )
+    # lang_list["description"] = ""
+    # lang_list["title"] = "All books by language"
+    # write_markdown_list(
+    #     lang_list,
+    #     filename="all_by_language.md",
+    #     list_output_folder=list_output_folder,
+    #     include_items=True,
+    # )
 
-    theme_list = create_theme_list(catalogue, index=True)
-    write_markdown_list(theme_list, list_output_folder=list_output_folder)
+    theme_list = create_theme_list(catalogue)
+    write_markdown_list(
+        theme_list,
+        list_output_folder=list_output_folder,
+        include_items=False,
+    )
     print(f"  - subjects")
     for sublist_data in theme_list["index"].values():
         print(f"    - {sublist_data['name']}")
-        write_markdown_list(sublist_data, list_output_folder=list_output_folder)
+        write_markdown_list(
+            sublist_data,
+            list_output_folder=list_output_folder,
+            include_items=True,
+        )
+    # theme_list["description"] = ""
+    # lang_list["title"] = "All books by subject"
+    # write_markdown_list(
+    #     theme_list,
+    #     filename="all_by_subject.md",
+    #     list_output_folder=list_output_folder,
+    #     include_items=True,
+    # )

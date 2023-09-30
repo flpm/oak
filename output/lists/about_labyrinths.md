@@ -1,11 +1,15 @@
 ---
 name: about Labyrinths
-title: Books about Labyrinths
+title: 'Theme: Labyrinths'
 items:
 - title: null
   books:
   - '9781616895129'
   - '9783791321448'
-subtitle: There are 2 books about Labyrinths
+subtitle: Books about labyrinths, including mazes
 ---
+I have 2 books about Labyrinths in my bookshelf.
 
+### Titles:
+- (paper) [Labyrinths & Mazes](/books/info/9781616895129) by Francesca Tatarella
+- (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern

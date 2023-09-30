@@ -102,7 +102,12 @@ def read_markdown(filename):
 
 
 def write_markdown(
-    data, filename, output_folder, top_attributes=None, override_do_not_update=False
+    data,
+    filename,
+    output_folder,
+    top_attributes=None,
+    override_do_not_update=False,
+    include_items=True,
 ):
     """
     Write a book or a book list to a markdown file.
@@ -119,7 +124,8 @@ def write_markdown(
         The attributes to write first in the front matter, by default None
     override_do_not_update : bool, optional
         Whether to override the do_not_update list, by default False
-
+    include_items : bool, optional
+        Whether to include the items in the list, by default True
     """
     if not top_attributes:
         top_attributes = list()
@@ -144,6 +150,9 @@ def write_markdown(
     for key, value in data.items():
         if key not in top_attributes and key not in do_not_update:
             data_to_write[key] = value
+
+    if not include_items:
+        data_to_write.pop("items", None)
 
     frontmatter = {
         key: value for key, value in data_to_write.items() if key != "description"
@@ -184,6 +193,7 @@ def write_markdown_list(
     filename=None,
     list_output_folder=output_list_folder,
     override_do_not_update=False,
+    include_items=True,
 ):
     """
     Write a list of books to a markdown file.
@@ -200,10 +210,19 @@ def write_markdown_list(
         The folder to write the list to, by default output_list_folder
     override_do_not_update : bool, optional
         Whether to override the do_not_update list, by default False
+    include_index : bool, optional
+        Whether to include an index of the list, by default False
+    include_items : bool, optional
+        Whether to include the items in the list, by default True
     """
     top_attributes = ["name", "title", "description", "items"]
     if not filename:
         filename = f"{book_list['name'].lower().replace(' ', '_')}.md"
     write_markdown(
-        book_list, filename, list_output_folder, top_attributes, override_do_not_update
+        book_list,
+        filename,
+        list_output_folder,
+        top_attributes,
+        override_do_not_update,
+        include_items,
     )

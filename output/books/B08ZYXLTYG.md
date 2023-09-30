@@ -6,8 +6,6 @@ subtitle: Words + Music | Vol. 13
 asin: B08ZYXLTYG
 length: '5575000'
 owned: 'true'
-do_not_update:
-- cover_filename
 format: Performance
 listening:
   duration: 5428.0
@@ -28,7 +26,7 @@ language:
 rating:
   rating: 4.747325854422123
   count: 7666
-cover_filename: B08ZYXLTYG.jpg
+cover_filename: B08ZYXLTYG.gif
 purchase_date: '2021-10-27'
 listening_date: '2021-10-27'
 theme: music
