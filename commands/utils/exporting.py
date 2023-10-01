@@ -1,5 +1,6 @@
+import datetime as dt
 from collections import defaultdict
-
+from inspect import cleandoc
 
 include_themes = {
     "archaeology": ["ancient history"],
@@ -204,3 +205,84 @@ def create_author_list(catalogue):
         "index_title_preposition": "by",
     }
     return make_list(catalogue, list_data)
+
+
+def create_recent_list(catalogue):
+    list_data = {
+        "name": "recent",
+        "title": "Recent additions",
+        "subtitle": "The last 10 books added to the bookshelf.",
+        "items": list(),
+        "description": "",
+        "attribute": "purchase_date",
+    }
+
+    ordered_data = list()
+    for book_types in catalogue.values():
+        for book_type, book in book_types.items():
+            if book_type == "audiobook_sample":
+                continue
+            if date := book.get("purchase_date"):
+                ordered_data.append((date, book))
+    ordered_data.sort(key=lambda x: x[0], reverse=True)
+    recent_description = list()
+    recent_description.append("### Last 10 books added to the bookshelf:")
+    recent_book_list = list()
+    for _, book in ordered_data[:10]:
+        date_str = dt.date.fromisoformat(book["purchase_date"]).strftime("%m-%d-%Y")
+        recent_description.append(
+            f"- {date_str} ({book['format']} in {book['theme']}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+        )
+        recent_book_list.append(book["book_id"])
+
+    list_data["description"] = "\n".join(recent_description)
+    list_data["items"].append(
+        {
+            "title": None,
+            "description": None,
+            "books": recent_book_list,
+        }
+    )
+    return list_data
+
+
+def create_ranking_list(catalogue):
+    list_data = {
+        "name": "ranking",
+        "title": "My favorite books",
+        "subtitle": "The books I strongly recommend",
+        "items": list(),
+        "description": "",
+        "attribute": "ranking",
+    }
+
+    ordered_data = list()
+    for book_types in catalogue.values():
+        for book_type, book in book_types.items():
+            if book_type == "audiobook_sample":
+                continue
+            if rank := book.get("ranking", 1):
+                ordered_data.append((rank, book))
+    ordered_data.sort(key=lambda x: x[0])
+    recent_description = list()
+    recent_description.append("### My personal Top 10:")
+    recent_book_list = list()
+    for i, (_, book) in enumerate(ordered_data[:10]):
+        if date_value := book.get("purchase_date"):
+            date_str = dt.date.fromisoformat(date_value).strftime("%m-%d-%Y")
+        else:
+            date_str = "Unknown"
+        recent_description.append(
+            f"- ({book['format']} in {book['theme']}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+        )
+        recent_book_list.append(book["book_id"])
+
+    list_data["description"] = "\n".join(recent_description)
+    list_data["items"].append(
+        {
+            "title": None,
+            "description": None,
+            "books": recent_book_list,
+        }
+    )
+    return list_data

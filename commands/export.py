@@ -7,6 +7,8 @@ from .utils.exporting import (
     create_theme_list,
     include_book,
     create_author_list,
+    create_recent_list,
+    create_ranking_list,
 )
 
 
@@ -83,4 +85,18 @@ def export_markdown(output_folder):
         author_list,
         list_output_folder=list_output_folder,
         include_items=False,
+    )
+
+    recent_list = create_recent_list(catalogue)
+    write_markdown_list(
+        recent_list,
+        list_output_folder=list_output_folder,
+        include_items=True,
+    )
+
+    top_list = create_ranking_list(catalogue)
+    write_markdown_list(
+        top_list,
+        list_output_folder=list_output_folder,
+        include_items=True,
     )
