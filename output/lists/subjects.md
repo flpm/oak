@@ -527,7 +527,7 @@ index:
     subtitle: Books about fantasy, including fantasy novels
     description: "I have 13 books about Fantasy in my bookshelf.\n\n### Titles:\n\
       - (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
-      \ by J.R.R. Tolkien\n- (paper) [Feet Of Clay](/books/info/9780552142373) by\
+      \ by J. R. R. Tolkien\n- (paper) [Feet Of Clay](/books/info/9780552142373) by\
       \ Terry Pratchett\n- (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009)\
       \ by Terry Pratchett\n- (paper) [Going Postal](/books/info/9780060502935) by\
       \ Terry Pratchett\n- (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061)\
@@ -538,7 +538,7 @@ index:
       - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett\n- (paper)\
       \ [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett\n\
       - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry\
-      \ Pratchett\n- (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien\n\
+      \ Pratchett\n- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien\n\
       - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman"
     items:
     - title: null
@@ -575,40 +575,81 @@ index:
     name: about Game Of Go
     title: 'Theme: Game Of Go'
     subtitle: Books about the game of go, including problems, strategy and game records
-    description: "I have 25 books about Game Of Go in my bookshelf.\n\n### Titles:\n\
-      - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
-      \ by Kiyoshi Kosugi, James Davies\n- (paper) [All about Life and Death](/books/info/9784871870436)\
-      \ by Cho Chikun, Cho Chikun Nine-Dan\n- (paper) [Attack and Defense (Elementary\
-      \ Go Series, #5)](/books/info/9784906574148) by Akira Ishida, James Davies\n\
-      - (paper) [Dictionary of Basic Fuseki, Vol. 1](/books/info/9781889554877) by\
-      \ Kaiho Rin\n- (paper) [Fuseki Small Encyclopedia (English and Japanese Edition)](/books/info/9781889554259)\
-      \ by Kazunari Fujisawa\n- (paper) [Get Strong at Tesuji (Get Strong at Go Series)\
-      \ (Beginner and Elementary Go Books)](/books/info/9784906574568) by Richard\
-      \ Bozulich\n- (paper) [Graded Go Problems For Beginners Volume Four Advanced\
-      \ Problems (Graded Go Problems for Beginners, #4)](/books/info/9784906574490)\
-      \ by Yoshinori Kano\n- (paper) [Graded Go Problems For Beginners Volume Three\
-      \ Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483)\
-      \ by Yoshinori Kano\n- (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476)\
-      \ by Yoshinori Kano\n- (paper) [Graded Go Problems for Beginners, 30 Kyu to\
-      \ 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469)\
-      \ by Yoshinori Kano\n- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629)\
-      \ by \n- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612)\
-      \ by \n- (paper) [Invincible](/books/info/9784906574018) by John Power\n- (paper)\
-      \ [Lessons in the Fundamentals of Go (Beginner and Elementary Go Books)](/books/info/9784906574285)\
-      \ by Toshiro Kageyama\n- (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131)\
-      \ by Mr James Davies\n- (paper) [Making Good Shape](/books/info/9784906574735)\
-      \ by Rob van Zeijst, Richard Bozulich\n- (paper) [One Thousand and One Life-and-Death\
-      \ Problems](/books/info/9784906574728) by Richard Bozulich\n- (paper) [Opening\
-      \ Theory Made Easy](/books/info/9784906574360) by Hideo Otake\n- (paper) [Outside\
-      \ the Board](/books/info/9781945025006) by Hajin Lee\n- (paper) [Patterns of\
-      \ the Sanrensei](/books/info/9781932001631) by Michael Redmond\n- (paper) [Relentless](/books/info/9780981912189)\
-      \ by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor\
-      \ Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal\
-      \ Justice at Queen Mary University of London David Ormerod\n- (paper) [Tesuji](/books/info/9784906574124)\
-      \ by James Davies\n- (paper) [The Direction of Play (Intermediate to Advanced\
-      \ Go Books)](/books/info/9784906574261) by Takeo Kajiwara\n- (paper) [The Second\
-      \ Book of Go](/books/info/9784906574315) by Richard Bozulich\n- (paper) [The\
-      \ Treasure Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama"
+    description: 'I have 25 books about Game Of Go in my bookshelf.
+
+
+      ### Titles:
+
+      - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)
+      by Kiyoshi Kosugi, James Davies
+
+      - (paper) [All about Life and Death](/books/info/9784871870436) by Cho Chikun,
+      Cho Chikun Nine-Dan
+
+      - (paper) [Attack and Defense (Elementary Go Series, #5)](/books/info/9784906574148)
+      by Akira Ishida, James Davies
+
+      - (paper) [Dictionary of Basic Fuseki, Vol. 1](/books/info/9781889554877) by
+      Kaiho Rin
+
+      - (paper) [Fuseki Small Encyclopedia (English and Japanese Edition)](/books/info/9781889554259)
+      by Kazunari Fujisawa
+
+      - (paper) [Get Strong at Tesuji (Get Strong at Go Series) (Beginner and Elementary
+      Go Books)](/books/info/9784906574568) by Richard Bozulich
+
+      - (paper) [Graded Go Problems For Beginners Volume Four Advanced Problems (Graded
+      Go Problems for Beginners, #4)](/books/info/9784906574490) by Yoshinori Kano
+
+      - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems
+      15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483)
+      by Yoshinori Kano
+
+      - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476)
+      by Yoshinori Kano
+
+      - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary
+      Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori
+      Kano
+
+      - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by
+      Masaru Aoki
+
+      - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by
+      Masaru Aoki
+
+      - (paper) [Invincible](/books/info/9784906574018) by John Power
+
+      - (paper) [Lessons in the Fundamentals of Go (Beginner and Elementary Go Books)](/books/info/9784906574285)
+      by Toshiro Kageyama
+
+      - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131)
+      by Mr James Davies
+
+      - (paper) [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst,
+      Richard Bozulich
+
+      - (paper) [One Thousand and One Life-and-Death Problems](/books/info/9784906574728)
+      by Richard Bozulich
+
+      - (paper) [Opening Theory Made Easy](/books/info/9784906574360) by Hideo Otake
+
+      - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
+
+      - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael
+      Redmond
+
+      - (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
+
+      - (paper) [Tesuji](/books/info/9784906574124) by James Davies
+
+      - (paper) [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261)
+      by Takeo Kajiwara
+
+      - (paper) [The Second Book of Go](/books/info/9784906574315) by Richard Bozulich
+
+      - (paper) [The Treasure Chest Enigma](/books/info/9784871871020) by Noriyuki
+      Nakayama'
     items:
     - title: null
       books:
@@ -1893,7 +1934,7 @@ index:
 - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
 - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris
 ### [fantasy](/books/about_fantasy) (13)
-- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J.R.R. Tolkien
+- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
 - (paper) [Going Postal](/books/info/9780060502935) by Terry Pratchett
@@ -1904,7 +1945,7 @@ index:
 - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett
 - (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett
 - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
-- (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien
+- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman
 ### [financial markets](/books/about_financial_markets) (1)
 - (paper) [The Complete Guide to Capital Markets for Quantitative Professionals](/books/info/9780071468299) by Alex Kuznetsov
@@ -1919,8 +1960,8 @@ index:
 - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476) by Yoshinori Kano
 - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori Kano
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by 
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by 
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
 - (paper) [Invincible](/books/info/9784906574018) by John Power
 - (paper) [Lessons in the Fundamentals of Go (Beginner and Elementary Go Books)](/books/info/9784906574285) by Toshiro Kageyama
 - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr James Davies
@@ -1929,7 +1970,7 @@ index:
 - (paper) [Opening Theory Made Easy](/books/info/9784906574360) by Hideo Otake
 - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
 - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael Redmond
-- (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
+- (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 - (paper) [Tesuji](/books/info/9784906574124) by James Davies
 - (paper) [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261) by Takeo Kajiwara
 - (paper) [The Second Book of Go](/books/info/9784906574315) by Richard Bozulich

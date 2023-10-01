@@ -151,9 +151,9 @@ index:
       \ by Yoshinori Kano\n- (paper) [Graded Go Problems for Beginners, 30 Kyu to\
       \ 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469)\
       \ by Yoshinori Kano\n- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629)\
-      \ by \n- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612)\
-      \ by \n- (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton,\
-      \ Jennifer Cole Phillips\n- (paper) [Graphic Design Theory](/books/info/9781568987729)\
+      \ by Masaru Aoki\n- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612)\
+      \ by Masaru Aoki\n- (paper) [Graphic Design](/books/info/9781568987026) by Ellen\
+      \ Lupton, Jennifer Cole Phillips\n- (paper) [Graphic Design Theory](/books/info/9781568987729)\
       \ by Helen Armstrong\n- (paper) [Graphic Design Thinking](/books/info/9781568989792)\
       \ by Jennifer Cole Phillips\n- (paper) [Great Books](/books/info/9780684835334)\
       \ by Denby\n- (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies\n\
@@ -286,16 +286,14 @@ index:
       \ by Brian Okken\n- (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270)\
       \ by Colleen Carney, Rachel Manber\n- (paper) [R Graphics Cookbook](/books/info/9781449316952)\
       \ by Winston Chang\n- (paper) [Reading Lessons](/books/info/9780130211002) by\
-      \ Scott Carpenter\n- (paper) [Relentless](/books/info/9780981912189) by Younggil.\
-      \ Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An,\
-      \ Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice\
-      \ at Queen Mary University of London David Ormerod\n- (paper) [Rescuing Socrates](/books/info/9780691224398)\
-      \ by Roosevelt Montas\n- (paper) [Resonate](/books/info/9780470632017) by Nancy\
-      \ Duarte\n- (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Se\xE1\
-      n Hemingway, Christopher S. Lightfoot, Joan R. Mertens\n- (paper) [Rosencrantz\
-      \ and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard\n- (paper)\
-      \ [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick\
-      \ Braue\n- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [Samarkand](/books/info/9781566562935)\
+      \ Scott Carpenter\n- (paper) [Relentless](/books/info/9780981912189) by Go Game\
+      \ Guru\n- (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt\
+      \ Montas\n- (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte\n\
+      - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Se\xE1n Hemingway,\
+      \ Christopher S. Lightfoot, Joan R. Mertens\n- (paper) [Rosencrantz and Guildenstern\
+      \ Are Dead](/books/info/9780571081820) by Tom Stoppard\n- (paper) [Royal Road\
+      \ to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue\n\
+      - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [Samarkand](/books/info/9781566562935)\
       \ by Amin Maalouf\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
       \ J.R.R. Tolkien\n- (paper) [Security Engineering](/books/info/9780470068526)\
       \ by Ross J. Anderson\n- (paper) [Semiology of Graphics](/books/info/9781589482616)\
@@ -358,7 +356,7 @@ index:
       \ [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling\n- (paper)\
       \ [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman\n- (paper)\
       \ [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman\n\
-      - (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien\n- (paper)\
+      - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien\n- (paper)\
       \ [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne\
       \ Christopher\n- (paper) [The Information Design Handbook](/books/info/9781600610486)\
       \ by Jenn Visocky O'Grady, Ken Visocky O'Grady\n- (paper) [The Iridescence of\
@@ -992,7 +990,7 @@ index:
       \ [El Rey Lear](/books/info/9788423972685) by William Shakespeare\n- (paper)\
       \ [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
       \ by Luis Garcia Jambrina\n- (paper) [El retorno del rey (El se\xF1or de los\
-      \ anillos, #3)](/books/info/9788445071779) by J.R.R. Tolkien\n- (paper) [El\
+      \ anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien\n- (paper) [El\
       \ \xFAltimo libro de Sergi P\xE0mies](/books/info/9788433924889) by Sergi Pamies\n\
       - (paper) [Enciclopedia Prehistorica/ Prehistoric Encyclopedia](/books/info/9788484414025)\
       \ by Robert Sabuda, Matthew Reinhart\n- (paper) [Enciclopedia Prehist\xF3rica](/books/info/9788484413257)\
@@ -1178,8 +1176,8 @@ index:
 - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476) by Yoshinori Kano
 - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori Kano
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by 
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by 
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
 - (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton, Jennifer Cole Phillips
 - (paper) [Graphic Design Theory](/books/info/9781568987729) by Helen Armstrong
 - (paper) [Graphic Design Thinking](/books/info/9781568989792) by Jennifer Cole Phillips
@@ -1305,7 +1303,7 @@ index:
 - (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270) by Colleen Carney, Rachel Manber
 - (paper) [R Graphics Cookbook](/books/info/9781449316952) by Winston Chang
 - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
-- (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
+- (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
@@ -1370,7 +1368,7 @@ index:
 - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
 - (paper) [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman
 - (paper) [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman
-- (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien
+- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
 - (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia MacLachlan
@@ -1514,7 +1512,7 @@ index:
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
 - (paper) [El Rey Lear](/books/info/9788423972685) by William Shakespeare
 - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461) by Luis Garcia Jambrina
-- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J.R.R. Tolkien
+- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 - (paper) [Enciclopedia Prehistorica/ Prehistoric Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart
 - (paper) [Enciclopedia Prehistórica](/books/info/9788484413257) by Robert Sabuda, Matthew Reinhart

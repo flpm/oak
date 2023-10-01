@@ -44,8 +44,8 @@ I have 25 books about Game Of Go in my bookshelf.
 - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476) by Yoshinori Kano
 - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori Kano
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by 
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by 
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
 - (paper) [Invincible](/books/info/9784906574018) by John Power
 - (paper) [Lessons in the Fundamentals of Go (Beginner and Elementary Go Books)](/books/info/9784906574285) by Toshiro Kageyama
 - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr James Davies
@@ -54,7 +54,7 @@ I have 25 books about Game Of Go in my bookshelf.
 - (paper) [Opening Theory Made Easy](/books/info/9784906574360) by Hideo Otake
 - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
 - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael Redmond
-- (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
+- (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 - (paper) [Tesuji](/books/info/9784906574124) by James Davies
 - (paper) [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261) by Takeo Kajiwara
 - (paper) [The Second Book of Go](/books/info/9784906574315) by Richard Bozulich

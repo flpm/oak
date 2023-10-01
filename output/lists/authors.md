@@ -5,18 +5,6 @@ attribute: authors
 attribute_type: list
 index_title_preposition: by
 index:
-  ? ''
-  : name: 'by '
-    title: 'Authors: '
-    subtitle: 'Books by '
-    description: "I have 2 books by  in my bookshelf.\n\n### Titles:\n- (paper) [Graded\
-      \ Go Problems for Dan Players](/books/info/9784906574629) by \n- (paper) [Graded\
-      \ Go Problems for Dan Players](/books/info/9784906574612) by "
-    items:
-    - title: null
-      books:
-      - '9784906574629'
-      - '9784906574612'
   A. A. Milne:
     name: by A. A. Milne
     title: 'Authors: A. A. Milne'
@@ -2777,6 +2765,20 @@ index:
     - title: null
       books:
       - '9781107602700'
+  Go Game Guru:
+    name: by Go Game Guru
+    title: 'Authors: Go Game Guru'
+    subtitle: Books by Go Game Guru
+    description: 'I have 1 book by Go Game Guru in my bookshelf.
+
+
+      ### Titles:
+
+      - (paper) [Relentless](/books/info/9780981912189) by Go Game Guru'
+    items:
+    - title: null
+      books:
+      - '9780981912189'
   Golan Levin:
     name: by Golan Levin
     title: 'Authors: Golan Levin'
@@ -3241,20 +3243,6 @@ index:
     - title: null
       books:
       - '9782253933151'
-  J R R Tolkien:
-    name: by J R R Tolkien
-    title: 'Authors: J R R Tolkien'
-    subtitle: Books by J R R Tolkien
-    description: 'I have 1 book by J R R Tolkien in my bookshelf.
-
-
-      ### Titles:
-
-      - (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien'
-    items:
-    - title: null
-      books:
-      - '9780547928241'
   J. Abbott Miller:
     name: by J. Abbott Miller
     title: 'Authors: J. Abbott Miller'
@@ -3317,13 +3305,17 @@ index:
     name: by J. R. R. Tolkien
     title: 'Authors: J. R. R. Tolkien'
     subtitle: Books by J. R. R. Tolkien
-    description: "I have 1 book by J. R. R. Tolkien in my bookshelf.\n\n### Titles:\n\
-      - (paper) [Las dos torres (El Se\xF1or de los Anillos, #2)](/books/info/9788445071762)\
+    description: "I have 3 books by J. R. R. Tolkien in my bookshelf.\n\n### Titles:\n\
+      - (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
+      \ by J. R. R. Tolkien\n- (paper) [Las dos torres (El Se\xF1or de los Anillos,\
+      \ #2)](/books/info/9788445071762) by J. R. R. Tolkien\n- (paper) [The Hobbit](/books/info/9780547928241)\
       \ by J. R. R. Tolkien"
     items:
     - title: null
       books:
+      - '9788445071779'
       - '9788445071762'
+      - '9780547928241'
   J.C. Catford:
     name: by J.C. Catford
     title: 'Authors: J.C. Catford'
@@ -3343,15 +3335,13 @@ index:
     name: by J.R.R. Tolkien
     title: 'Authors: J.R.R. Tolkien'
     subtitle: Books by J.R.R. Tolkien
-    description: "I have 3 books by J.R.R. Tolkien in my bookshelf.\n\n### Titles:\n\
-      - (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
-      \ by J.R.R. Tolkien\n- (paper) [La comunidad del anillo (El se\xF1or de los\
-      \ anillos, #1)](/books/info/9788445071403) by J.R.R. Tolkien\n- (paper) [Secret\
-      \ Vice, A](/books/info/9780008348090) by J.R.R. Tolkien"
+    description: "I have 2 books by J.R.R. Tolkien in my bookshelf.\n\n### Titles:\n\
+      - (paper) [La comunidad del anillo (El se\xF1or de los anillos, #1)](/books/info/9788445071403)\
+      \ by J.R.R. Tolkien\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
+      \ J.R.R. Tolkien"
     items:
     - title: null
       books:
-      - '9788445071779'
       - '9788445071403'
       - '9780008348090'
   Jacques Bertin:
@@ -5055,6 +5045,25 @@ index:
     - title: null
       books:
       - '9788469603536'
+  Masaru Aoki:
+    name: by Masaru Aoki
+    title: 'Authors: Masaru Aoki'
+    subtitle: Books by Masaru Aoki
+    description: 'I have 2 books by Masaru Aoki in my bookshelf.
+
+
+      ### Titles:
+
+      - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by
+      Masaru Aoki
+
+      - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by
+      Masaru Aoki'
+    items:
+    - title: null
+      books:
+      - '9784906574629'
+      - '9784906574612'
   Massimo Pigliucci:
     name: by Massimo Pigliucci
     title: 'Authors: Massimo Pigliucci'
@@ -5690,29 +5699,6 @@ index:
       books:
       - '9781492274124'
       - '9780825630842'
-  ? Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice
-    at Queen Mary University of London David Ormerod
-  : name: by Professor Law Commissioner For Criminal Law And Evidence And Of Criminal
-      Justice At Queen Mary University Of London David Ormerod
-    title: 'Authors: Professor Law Commissioner For Criminal Law And Evidence And
-      Of Criminal Justice At Queen Mary University Of London David Ormerod'
-    subtitle: Books by Professor Law Commissioner For Criminal Law And Evidence And
-      Of Criminal Justice At Queen Mary University Of London David Ormerod
-    description: 'I have 1 book by Professor Law Commissioner For Criminal Law And
-      Evidence And Of Criminal Justice At Queen Mary University Of London David Ormerod
-      in my bookshelf.
-
-
-      ### Titles:
-
-      - (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner
-      For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner
-      for Criminal Law and Evidence and of Criminal Justice at Queen Mary University
-      of London David Ormerod'
-    items:
-    - title: null
-      books:
-      - '9780981912189'
   R. Paul Wilson:
     name: by R. Paul Wilson
     title: 'Authors: R. Paul Wilson'
@@ -7431,27 +7417,6 @@ index:
       - '9784906574483'
       - '9784906574476'
       - '9784906574469'
-  Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An:
-    name: by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And
-      Professor Of. An
-    title: 'Authors: Younggil. Ormerod Law Commissioner For Criminal Law And Evidence
-      And Professor Of. An'
-    subtitle: Books by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence
-      And Professor Of. An
-    description: 'I have 1 book by Younggil. Ormerod Law Commissioner For Criminal
-      Law And Evidence And Professor Of. An in my bookshelf.
-
-
-      ### Titles:
-
-      - (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner
-      For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner
-      for Criminal Law and Evidence and of Criminal Justice at Queen Mary University
-      of London David Ormerod'
-    items:
-    - title: null
-      books:
-      - '9780981912189'
   Yu-Wei Chiu:
     name: by Yu-Wei Chiu
     title: 'Authors: Yu-Wei Chiu'
@@ -7525,9 +7490,6 @@ index:
       - '9781941628232'
 ---
 
-### [](/books/by_) (2)
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by 
-- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by 
 ### [A. A. Milne](/books/by_a._a._milne) (1)
 - (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne
 ### [Aaron Philipp](/books/by_aaron_philipp) (1)
@@ -7932,6 +7894,8 @@ index:
 - (paper) [Dear Data](/books/info/9781616895327) by Giorgia Lupi, Stefanie Posavec
 ### [Glynis M. Breakwell](/books/by_glynis_m._breakwell) (1)
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
+### [Go Game Guru](/books/by_go_game_guru) (1)
+- (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 ### [Golan Levin](/books/by_golan_levin) (1)
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
 ### [Gordon Hempton](/books/by_gordon_hempton) (2)
@@ -8004,8 +7968,6 @@ index:
 - (paper) [Moi Asimov](/books/info/9782070313020) by Isaac Asimov
 ### [Ivan Goncharov](/books/by_ivan_goncharov) (1)
 - (paper) [Oblomov](/books/info/9782253933151) by Ivan Goncharov
-### [J R R Tolkien](/books/by_j_r_r_tolkien) (1)
-- (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien
 ### [J. Abbott Miller](/books/by_j._abbott_miller) (1)
 - (paper) [Dimensional Typography:](/books/info/9781568980898) by J. Abbott Miller
 ### [J. B. Bobo](/books/by_j._b._bobo) (1)
@@ -8014,12 +7976,13 @@ index:
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 ### [J. Gray](/books/by_j._gray) (1)
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
-### [J. R. R. Tolkien](/books/by_j._r._r._tolkien) (1)
+### [J. R. R. Tolkien](/books/by_j._r._r._tolkien) (3)
+- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [Las dos torres (El Señor de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien
+- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 ### [J.C. Catford](/books/by_j.c._catford) (1)
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
-### [J.R.R. Tolkien](/books/by_j.r.r._tolkien) (3)
-- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J.R.R. Tolkien
+### [J.R.R. Tolkien](/books/by_j.r.r._tolkien) (2)
 - (paper) [La comunidad del anillo (El señor de los anillos, #1)](/books/info/9788445071403) by J.R.R. Tolkien
 - (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien
 ### [Jacques Bertin](/books/by_jacques_bertin) (1)
@@ -8280,6 +8243,9 @@ index:
 - (paper) [Uma Breve História do Brasil](/books/info/9788576655299) by Mary del Priore, Renato Venancio
 ### [María Del Pilar López Ávila](/books/by_maría_del_pilar_lópez_ávila) (1)
 - (paper) [Más divertidas aventuras de las letras. Cuentos de la A a la Z](/books/info/9788469603536) by María Del Pilar López Ávila
+### [Masaru Aoki](/books/by_masaru_aoki) (2)
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
+- (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
 ### [Massimo Pigliucci](/books/by_massimo_pigliucci) (2)
 - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci
 - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
@@ -8371,8 +8337,6 @@ index:
 ### [Professor Hoffmann](/books/by_professor_hoffmann) (2)
 - (paper) [More Magic](/books/info/9781492274124) by Professor Hoffmann
 - (paper) [Professor Hoffmann's Modern Magic](/books/info/9780825630842) by Professor Hoffmann
-### [Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod](/books/by_professor_law_commissioner_for_criminal_law_and_evidence_and_of_criminal_justice_at_queen_mary_university_of_london_david_ormerod) (1)
-- (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
 ### [R. Paul Wilson](/books/by_r._paul_wilson) (1)
 - (paper) [The Art of the Con](/books/info/9781493000609) by R. Paul Wilson
 ### [Rachel Manber](/books/by_rachel_manber) (1)
@@ -8633,8 +8597,6 @@ index:
 - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476) by Yoshinori Kano
 - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori Kano
-### [Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An](/books/by_younggil._ormerod_law_commissioner_for_criminal_law_and_evidence_and_professor_of._an) (1)
-- (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
 ### [Yu-Wei Chiu](/books/by_yu-wei_chiu) (1)
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
 ### [Yukihiro Matsumoto](/books/by_yukihiro_matsumoto) (1)

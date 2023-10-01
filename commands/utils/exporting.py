@@ -90,7 +90,7 @@ def make_list(catalogue, list_data, include_audiobook_samples=False):
         sublist_name = f"{list_data.get('index_title_preposition', 'about')} {attribute_value.title()}"
         sublist_address = sublist_name.replace(" ", "_").lower()
         description.append(
-            f"### [{attribute_value}](/books/{sublist_address}) ({len(included)})"
+            f"### [{attribute_value if attribute_value else 'Blank'}](/books/{sublist_address}) ({len(included)})"
         )
         for book in sorted(included, key=lambda x: x["title"]):
             description.append(

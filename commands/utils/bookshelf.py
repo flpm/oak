@@ -155,4 +155,10 @@ def import_from_bookshelf(export_date):
     # Fix author in Relentless
     results["9780981912189"]["book"]["authors"] = ["Go Game Guru"]
 
+    # Fix authors in Graded Go Problems for Dan Players
+    results["9784906574629"]["book"]["authors"] = ["Masaru Aoki"]
+    results["9784906574629"]["book"]["publisher"] = "Kiseido Publishing Company"
+    results["9784906574612"]["book"]["authors"] = ["Masaru Aoki"]
+    results["9784906574612"]["book"]["publisher"] = "Kiseido Publishing Company"
+
     return results

@@ -43,7 +43,7 @@ I have 31 books in Spanish in my bookshelf.
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
 - (paper) [El Rey Lear](/books/info/9788423972685) by William Shakespeare
 - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461) by Luis Garcia Jambrina
-- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J.R.R. Tolkien
+- (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 - (paper) [Enciclopedia Prehistorica/ Prehistoric Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart
 - (paper) [Enciclopedia Prehistórica](/books/info/9788484413257) by Robert Sabuda, Matthew Reinhart
