@@ -1,8 +1,8 @@
 ---
 book_id: B008ELXJD2
-full_title: 'Death on the Nile: A Hercule Poirot Mystery (Unabridged)'
+full_title: 'Death on the Nile: A Hercule Poirot Mystery'
 title: Death on the Nile
-subtitle: A Hercule Poirot Mystery (Unabridged)
+subtitle: A Hercule Poirot Mystery
 asin: B008ELXJD2
 length: '0'
 owned: 'true'
@@ -32,6 +32,8 @@ cover_filename: B008ELXJD2.jpg
 purchase_date: '2015-08-13'
 listening_date: '2015-08-10'
 theme: crime fiction
+duration: PT7H59M
+type: audiobook
 ---
 Soon to be a major motion picture sequel to Murder on the Orient Express with a screenplay by Michael Green, directed by and starring Kenneth Branagh alongside Gal Gadot and Armie Hammer - coming September 17, 2021!
 Beloved detective Hercule Poirot embarks on a journey to Egypt in one of Agatha Christie’s most famous mysteries.

@@ -18,7 +18,6 @@ topics:
 - Collections
 authors:
 - Elizabeth Vandiver
-- The Great Courses
 narrators:
 - Elizabeth Vandiver
 publisher: The Great Courses

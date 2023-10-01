@@ -1,8 +1,8 @@
 ---
 book_id: B06VSQVPCY
-full_title: 'Shrinking Violets: The Secret Life of Shyness (Unabridged)'
+full_title: 'Shrinking Violets: The Secret Life of Shyness'
 title: Shrinking Violets
-subtitle: The Secret Life of Shyness (Unabridged)
+subtitle: The Secret Life of Shyness
 asin: B06VSQVPCY
 length: '29938000'
 owned: 'true'
@@ -31,5 +31,7 @@ rating:
   count: 9
 cover_filename: B06VSQVPCY.jpg
 listening_date: '2023-05-16'
+duration: PT8H18M
+type: audiobook
 ---
 Shyness is a pervasive human trait: even most extroverts know what it is like to stand tongue-tied at the fringe of an unfamiliar group or flush with embarrassment at being the unwelcome center of attention. And yet the cultural history of shyness has remained largely unwritten - until now. With incisiveness, passion, and humor, Joe Moran offers an eclectic and original exploration of what it means to be a "shrinking violet". Along the way he provides a collective biography of shyness through portraits of such shy individuals as Charles Darwin, Charles Schulz, Garrison Keillor, and Agatha Christie, among many others. In their stories, often both heartbreaking and inspiring, and through the myriad ways scientists and thinkers have tried to explain and "cure" shyness, Moran finds hope. To be shy, he decides, is not simply a burden; it is also a gift, a different way of seeing the world that can be both enriching and inspiring.

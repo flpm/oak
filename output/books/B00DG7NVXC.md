@@ -21,7 +21,6 @@ topics:
 - Great Classics
 authors:
 - John R. Hale
-- The Great Courses
 narrators:
 - John R. Hale
 publisher: The Great Courses

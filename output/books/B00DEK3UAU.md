@@ -18,7 +18,6 @@ topics:
 - Greece Rome
 authors:
 - Robert Garland
-- The Great Courses
 narrators:
 - Robert Garland
 publisher: The Great Courses

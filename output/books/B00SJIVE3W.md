@@ -20,7 +20,6 @@ topics:
 - Business Language
 authors:
 - Kevin Flanigan
-- The Great Courses
 narrators:
 - Kevin Flanigan
 publisher: The Great Courses

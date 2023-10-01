@@ -17,7 +17,6 @@ topics:
 - Ancient
 authors:
 - J. Rufus Fears
-- The Great Courses
 narrators:
 - J. Rufus Fears
 publisher: The Great Courses

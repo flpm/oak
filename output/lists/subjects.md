@@ -10,63 +10,44 @@ index:
     title: 'Theme: Ancient History'
     subtitle: Books from the beginning of recorded human history to the Early Middle
       Ages
-    description: "I have 31 books about Ancient History in my bookshelf.\n\n### Titles:\n\
-      - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
-      \ by Jeremy McInerney, The Great Courses\n- (audio) [Augustus](/books/info/B00MXDGT2A)\
-      \ by Adrian Goldsworthy\n- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian\
-      \ Goldsworthy\n- (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy\n\
-      - (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227)\
-      \ by H. E. L. Mellersh\n- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20)\
-      \ by Steven L. Tuck, The Great Courses\n- (paper) [Daily Life in the Roman City](/books/info/9780806140278)\
-      \ by Gregory S. Aldrete\n- (paper) [El Imperio Romano](/books/info/9788420635484)\
-      \ by Isaac Asimov\n- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus\
-      \ Fears, The Great Courses\n- (paper) [From Caesar to Augustus (C. 49 BC-AD\
-      \ 14)](/books/info/9781107675698) by Clare Rowan\n- (audio) [Great Battles of\
-      \ the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan, The Great\
-      \ Courses\n- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland,\
-      \ The Great Courses\n- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth\
-      \ Vandiver, The Great Courses\n- (audio) [Julius Caesar](/books/info/B002V8KXYC)\
-      \ by J. F. C. Fuller\n- (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988)\
+    description: "I have 21 books about Ancient History in my bookshelf.\n\n### Titles:\n\
+      - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy\n- (audio)\
+      \ [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy\n- (paper) [Cannae](/books/info/9781541699250)\
+      \ by Adrian Goldsworthy\n- (paper) [Chronology of the Ancient World, 10,000\
+      \ B.C. to A.D. 799](/books/info/9780133264227) by H. E. L. Mellersh\n- (paper)\
+      \ [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete\n\
+      - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n-\
+      \ (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
+      \ by Clare Rowan\n- (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F.\
+      \ C. Fuller\n- (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988)\
       \ by Samuel Noah Kramer\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420691060)\
       \ by Isaac Asimov\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
       \ by G\xE9rard Coulon\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
-      \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by\
-      \ Robert Garland, The Great Courses\n- (paper) [Los Egipcios](/books/info/9788420635507)\
-      \ by Isaac Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac\
+      \ by G\xE9rard Coulon\n- (paper) [Los Egipcios](/books/info/9788420635507) by\
+      \ Isaac Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac\
       \ Asimov\n- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper)\
       \ [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini\n\
       - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy\n\
       - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy\n\
-      - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard\n- (audio)\
-      \ [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale, The\
-      \ Great Courses\n- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by The\
-      \ Great Courses, Gregory S. Aldrete\n- (audio) [The Roman Empire](/books/info/B07MDHVBLY)\
-      \ by Gregory S. Aldrete, The Great Courses\n- (paper) [The Roman Provence Guide\
-      \ (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins\n- (paper)\
-      \ [Une journ\xE9e dans la Rome antique](/books/info/9782228930376) by Alberto\
-      \ Angela"
+      - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard\n- (paper)\
+      \ [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by\
+      \ Edwin Mullins\n- (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376)\
+      \ by Alberto Angela"
     items:
     - title: null
       books:
-      - B00D7JMGEY
       - B00MXDGT2A
       - B00MFQLERK
       - '9781541699250'
       - '9780133264227'
-      - B00LG7MR20
       - '9780806140278'
       - '9788420635484'
-      - B00D8G1DPO
       - '9781107675698'
-      - B00DB92ATG
-      - B00DEK3UAU
-      - B00DC8CFZK
       - B002V8KXYC
       - '9782080812988'
       - '9788420691060'
       - '9782877726351'
       - '9782877726894'
-      - B00XP3CMHI
       - '9788420635507'
       - '9788420637440'
       - B01865AOJW
@@ -74,9 +55,6 @@ index:
       - '9780500288993'
       - '1977330053'
       - 197734996X
-      - B00DC5SB06
-      - B078HDSHQJ
-      - B07MDHVBLY
       - '9781566568968'
       - '9782228930376'
   anthropology:
@@ -128,13 +106,10 @@ index:
     title: 'Theme: Archaeology'
     subtitle: Books about the study of history through the recovery and analysis of
       material culture
-    description: 'I have 3 books about Archaeology in my bookshelf.
+    description: 'I have 2 books about Archaeology in my bookshelf.
 
 
       ### Titles:
-
-      - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)
-      by John R. Hale, The Great Courses
 
       - (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne
       Mayor
@@ -143,7 +118,6 @@ index:
     items:
     - title: null
       books:
-      - B00DG7NVXC
       - '9780691245607'
       - '9780691166407'
   art history:
@@ -212,7 +186,7 @@ index:
     name: about Business
     title: 'Theme: Business'
     subtitle: Books about business and related topics
-    description: 'I have 11 books about Business in my bookshelf.
+    description: 'I have 10 books about Business in my bookshelf.
 
 
       ### Titles:
@@ -236,8 +210,6 @@ index:
 
       - (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
 
-      - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
-
       - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
 
       - (paper) [The Leader''s Guide to Storytelling](/books/info/9780787976750) by
@@ -255,7 +227,6 @@ index:
       - '9781440673108'
       - '9780714843377'
       - '9780195179576'
-      - B07DHSQL6Q
       - '9781885705020'
       - '9780787976750'
       - '9780140277821'
@@ -299,13 +270,12 @@ index:
     subtitle: Books about Crime Fiction
     description: "I have 7 books about Crime Fiction in my bookshelf.\n\n### Titles:\n\
       - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie\n-\
-      \ (audio) [Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection\
-      \ with Foreword by Charles Todd (Hercule Poirot Mysteries) (Unabridged)](/books/info/0063066734)\
+      \ (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
       \ by Agatha Christie\n- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
       \ by Georges Simenon\n- (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623)\
       \ by Arturo P\xE9rez-Reverte\n- (audio) [Poirot Investigates](/books/info/B008EUR8O4)\
-      \ by Agatha Christie\n- (audio) [Sherlock Holmes (Unabridged)](/books/info/B06WLMWF2S)\
-      \ by Arthur Conan Doyle, Stephen Fry - introductions\n- (audio) [The Under Dog\
+      \ by Agatha Christie\n- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by\
+      \ Arthur Conan Doyle, Stephen Fry - introductions\n- (audio) [The Under Dog\
       \ and Other Stories](/books/info/B008RBDG46) by Agatha Christie"
     items:
     - title: null
@@ -501,15 +471,14 @@ index:
     name: about Epigraphy
     title: 'Theme: Epigraphy'
     subtitle: Books about the study of inscriptions and writing systems
-    description: "I have 7 books about Epigraphy in my bookshelf.\n\n### Titles:\n\
+    description: "I have 6 books about Epigraphy in my bookshelf.\n\n### Titles:\n\
       - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett\n\
       - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker\n- (paper)\
       \ [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin\n\
       - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark\
       \ Collier, Bill Manley\n- (paper) [Latin Inscriptions](/books/info/9781606064665)\
       \ by Dirk Booms\n- (paper) [The Rosetta Stone](/books/info/9780714150215) by\
-      \ Richard Parkinson\n- (audio) [Writing and Civilization](/books/info/B00F52DXH0)\
-      \ by Marc Zender, The Great Courses"
+      \ Richard Parkinson"
     items:
     - title: null
       books:
@@ -519,7 +488,6 @@ index:
       - '9780714119106'
       - '9781606064665'
       - '9780714150215'
-      - B00F52DXH0
   essays:
     name: about Essays
     title: 'Theme: Essays'
@@ -790,16 +758,14 @@ index:
     name: about Humor
     title: 'Theme: Humor'
     subtitle: Books about humor and comedy
-    description: "I have 4 books about Humor in my bookshelf.\n\n### Titles:\n- (audio)\
-      \ [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n- (paper) [Digue'm agosarat.\
-      \ Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente, Xavier\
-      \ Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential Groucho](/books/info/9780140294255)\
-      \ by Groucho Marx\n- (paper) [Tinto de verano (Tinto de verano #1)](/books/info/9788466306782)\
-      \ by Elvira Lindo"
+    description: "I have 3 books about Humor in my bookshelf.\n\n### Titles:\n- (paper)\
+      \ [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
+      \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential\
+      \ Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto de verano\
+      \ (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
     items:
     - title: null
       books:
-      - B06XWYMP73
       - '9788483009512'
       - '9780140294255'
       - '9788466306782'
@@ -884,13 +850,13 @@ index:
       \ by Hans Henning Orberg\n- (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208)\
       \ by Hans Henning Orberg\n- (paper) [Lingua Latina: Caesaris](/books/info/9781585102327)\
       \ by Hans Henning \xD8rberg, Gaius Julius Caesar\n- (audio) [Long Live Latin](/books/info/125075044X)\
-      \ by Nicola Gardini, Todd Portnowitz\n- (paper) [North American Cambridge Latin\
-      \ Course Unit 1 Audio CD](/books/info/9780521005029) by North American Cambridge\
-      \ Classics Project\n- (paper) [North American Cambridge Latin Course Unit 1\
-      \ Student's Book](/books/info/9781107690639) by Cambridge School Classics Project\n\
-      - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood\n\
-      - (paper) [Pugio Bruti - A Crime Story in Easy Latin](/books/info/9789198509403)\
-      \ by Daniel Pettersson, Amelie Rosengren\n- (paper) [Short Latin Stories](/books/info/9780521315920)\
+      \ by Nicola Gardini\n- (paper) [North American Cambridge Latin Course Unit 1\
+      \ Audio CD](/books/info/9780521005029) by North American Cambridge Classics\
+      \ Project\n- (paper) [North American Cambridge Latin Course Unit 1 Student's\
+      \ Book](/books/info/9781107690639) by Cambridge School Classics Project\n- (paper)\
+      \ [Oxford Latin Course](/books/info/9780199124183) by James Morwood\n- (paper)\
+      \ [Pugio Bruti - A Crime Story in Easy Latin](/books/info/9789198509403) by\
+      \ Daniel Pettersson, Amelie Rosengren\n- (paper) [Short Latin Stories](/books/info/9780521315920)\
       \ by Philip Dunlop\n- (paper) [Surus](/books/info/9798648057418) by Emm Vanderpool\n\
       - (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus\n-\
       \ (paper) [Vita Nostra](/books/info/9781093905632) by Stephen a Berard\n- (paper)\
@@ -1018,7 +984,7 @@ index:
     name: about Math
     title: 'Theme: Math'
     subtitle: Books about mathematics in general, including probability and statistics
-    description: "I have 22 books about Math in my bookshelf.\n\n### Titles:\n- (paper)\
+    description: "I have 21 books about Math in my bookshelf.\n\n### Titles:\n- (paper)\
       \ [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n-\
       \ (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
       - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370)\
@@ -1040,10 +1006,9 @@ index:
       \ Charu C. Aggarwal\n- (paper) [Probabilistic Graphical Models](/books/info/9780262013192)\
       \ by Daphne Koller, Nir Friedman\n- (paper) [Statistics Done Wrong](/books/info/9781593276201)\
       \ by Alex Reinhart\n- (paper) [The Elements of Statistical Learning](/books/info/9780387848570)\
-      \ by Trevor Hastie, Robert Tibshirani, Jerome Friedman\n- (audio) [Thinking\
-      \ Statistically (Unabridged)](/books/info/B00TP2UMTS) by Uri Bram\n- (paper)\
-      \ [Uncertainty](/books/info/9783319397559) by William Briggs\n- (paper) [Why](/books/info/9781491949641)\
-      \ by Samantha Kleinberg"
+      \ by Trevor Hastie, Robert Tibshirani, Jerome Friedman\n- (paper) [Uncertainty](/books/info/9783319397559)\
+      \ by William Briggs\n- (paper) [Why](/books/info/9781491949641) by Samantha\
+      \ Kleinberg"
     items:
     - title: null
       books:
@@ -1066,56 +1031,40 @@ index:
       - '9780262013192'
       - '9781593276201'
       - '9780387848570'
-      - B00TP2UMTS
       - '9783319397559'
       - '9781491949641'
   music:
     name: about Music
     title: 'Theme: Music'
     subtitle: Books about music and musicians
-    description: 'I have 2 books about Music in my bookshelf.
+    description: 'I have 0 books about Music in my bookshelf.
 
 
-      ### Titles:
-
-      - (audio) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
-
-      - (audio) [Road Trip Elegies: Montreal to New York: Words + Music | Vol. 9](/books/info/B08M93Q9SP)
-      by Rufus Wainwright'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - B08ZYXLTYG
-      - B08M93Q9SP
+      books: []
   mythology:
     name: about Mythology
     title: 'Theme: Mythology'
     subtitle: Books about mythology, including the study of myths and the history
       of myths
-    description: 'I have 5 books about Mythology in my bookshelf.
+    description: 'I have 3 books about Mythology in my bookshelf.
 
 
       ### Titles:
-
-      - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver,
-      The Great Courses
 
       - (paper) [Egyptian Myths](/books/info/9780241608197) by Jean Menzies
 
       - (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies
 
-      - (paper) [Les Dieux de l''Egypte](/books/info/9782711837564) by Marc {OCLCbr#C9}tienne
-
-      - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth,
-      The Great Courses'
+      - (paper) [Les Dieux de l''Egypte](/books/info/9782711837564) by Marc {OCLCbr#C9}tienne'
     items:
     - title: null
       books:
-      - B00D99PNKQ
       - '9780241608197'
       - '9780241397459'
       - '9782711837564'
-      - B00DDXQ61S
   new york:
     name: about New York
     title: 'Theme: New York'
@@ -1254,19 +1203,18 @@ index:
     name: about Philosophy
     title: 'Theme: Philosophy'
     subtitle: Books about philosophy in general, including the history of philosophy
-    description: "I have 12 books about Philosophy in my bookshelf.\n\n### Titles:\n\
+    description: "I have 11 books about Philosophy in my bookshelf.\n\n### Titles:\n\
       - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus\n\
       - (paper) [Ensaio sobre a lucidez](/books/info/9788535904802) by Jos\xE9 Saramago\n\
       - (paper) [How Proust Can Change Your Life](/books/info/9780679779155) by Alain\
       \ De Botton\n- (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo\
-      \ Pigliucci\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
-      \ by Donald J. Robertson\n- (paper) [Letters from a Stoic](/books/info/9780140442106)\
-      \ by Seneca\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
+      \ Pigliucci\n- (paper) [Letters from a Stoic](/books/info/9780140442106) by\
+      \ Seneca\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
       - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n- (paper)\
       \ [Philosophy](/books/info/9780415337984) by Nigel Warburton\n- (paper) [Philosophy](/books/info/9780415327732)\
       \ by Nigel Warburton\n- (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441)\
       \ by Alain De Botton\n- (audio) [Think like a Stoic](/books/info/1644650649)\
-      \ by Massimo Pigliucci, The Great Courses"
+      \ by Massimo Pigliucci"
     items:
     - title: null
       books:
@@ -1274,7 +1222,6 @@ index:
       - '9788535904802'
       - '9780679779155'
       - '9781541644533'
-      - B07FB135GG
       - '9780140442106'
       - '9780812968255'
       - '9781541673854'
@@ -1339,21 +1286,20 @@ index:
     name: about Psychology
     title: 'Theme: Psychology'
     subtitle: Books about psychology in general, excluding autism and anxiety
-    description: "I have 15 books about Psychology in my bookshelf.\n\n### Titles:\n\
+    description: "I have 14 books about Psychology in my bookshelf.\n\n### Titles:\n\
       - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell\n- (audio)\
       \ [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher\
-      \ T. Noblet\n- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n\
-      - (paper) [Guia Practica de Psicologia](/books/info/9788478809240) by Juan Antonio\
-      \ Vallejo-Nagera\n- (paper) [La fuerza del optimismo](/books/info/9788466318884)\
+      \ T. Noblet\n- (paper) [Guia Practica de Psicologia](/books/info/9788478809240)\
+      \ by Juan Antonio Vallejo-Nagera\n- (paper) [La fuerza del optimismo](/books/info/9788466318884)\
       \ by Luis Rojas Marcos\n- (paper) [Learned Optimism](/books/info/9781400078394)\
-      \ by Martin E.P. Seligman\n- (audio) [Memories, Dreams, Reflections (Unabridged)](/books/info/B01BW37O5C)\
+      \ by Martin E.P. Seligman\n- (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C)\
       \ by Carl Jung\n- (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis\
       \ Greenberger, Christine A. Padesky\n- (paper) [Mindset](/books/info/9780345472328)\
       \ by Carol S. Dweck\n- (paper) [Moonwalking with Einstein](/books/info/9781101475973)\
       \ by Joshua Foer\n- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by\
-      \ Tina Payne Bryson PhD, Daniel j. Siegel MD\n- (paper) [Petit trait\xE9 de\
-      \ manipulation \xE0 l'usage des honn\xEAtes gens](/books/info/9782706110443)\
-      \ by Robert-Vincent Joule, Jean-L\xE9on Beauvois\n- (paper) [Stumbling on Happiness](/books/info/9781400077427)\
+      \ Daniel j. Siegel MD\n- (paper) [Petit trait\xE9 de manipulation \xE0 l'usage\
+      \ des honn\xEAtes gens](/books/info/9782706110443) by Robert-Vincent Joule,\
+      \ Jean-L\xE9on Beauvois\n- (paper) [Stumbling on Happiness](/books/info/9781400077427)\
       \ by Daniel Gilbert\n- (paper) [The Art of Possibility](/books/info/9780142001103)\
       \ by Rosamund Stone Zander, Benjamin Zander\n- (paper) [The School of Life](/books/info/9781912891160)\
       \ by The School of Life"
@@ -1362,7 +1308,6 @@ index:
       books:
       - '9780713997279'
       - B00466Z4JQ
-      - B01D3AC5BA
       - '9788478809240'
       - '9788466318884'
       - '9781400078394'
@@ -1756,21 +1701,17 @@ index:
     name: about Writing
     title: 'Theme: Writing'
     subtitle: Books about writing, grammar, and style
-    description: "I have 24 books about Writing in my bookshelf.\n\n### Titles:\n\
+    description: "I have 20 books about Writing in my bookshelf.\n\n### Titles:\n\
       - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard\
       \ A. Lanham\n- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia\
       \ Tufte\n- (paper) [Building Great Sentences](/books/info/9780452298606) by\
-      \ Brooks Landon\n- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W)\
-      \ by Kevin Flanigan, The Great Courses\n- (paper) [Clear and Simple As the Truth](/books/info/9780691602998)\
-      \ by Francis-No\xEBl Thomas, Mark Turner\n- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)\
-      \ by Ann Handley\n- (paper) [First You Write a Sentence](/books/info/9780143134343)\
+      \ Brooks Landon\n- (paper) [Clear and Simple As the Truth](/books/info/9780691602998)\
+      \ by Francis-No\xEBl Thomas, Mark Turner\n- (paper) [First You Write a Sentence](/books/info/9780143134343)\
       \ by Joe Moran\n- (audio) [First You Write a Sentence](/books/info/059315018X)\
       \ by Joe Moran\n- (paper) [How to Take Smart Notes](/books/info/9783982438801)\
       \ by S\xF6nke Ahrens\n- (paper) [Microstyle](/books/info/9780393341812) by Christopher\
-      \ Johnson\n- (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King\n\
-      - (paper) [On Writing Well](/books/info/9780060006648) by William Zinsser\n\
-      - (paper) [Several Short Sentences About Writing](/books/info/9780307279415)\
-      \ by Verlyn Klinkenborg\n- (audio) [Several Short Sentences About Writing (Unabridged)](/books/info/B0774ZRRJL)\
+      \ Johnson\n- (paper) [On Writing Well](/books/info/9780060006648) by William\
+      \ Zinsser\n- (paper) [Several Short Sentences About Writing](/books/info/9780307279415)\
       \ by Verlyn Klinkenborg\n- (paper) [Smart Brevity](/books/info/9781523516971)\
       \ by Jim VandeHei, Mike Allen, Roy Schwartz\n- (paper) [Style](/books/info/9780226899152)\
       \ by Joseph M. Williams, Gregory G. Colomb\n- (paper) [The Best of Brevity](/books/info/9781941628232)\
@@ -1788,17 +1729,13 @@ index:
       - '9780520273689'
       - '9780961392185'
       - '9780452298606'
-      - B00SJIVE3W
       - '9780691602998'
-      - B0BX7CJVCS
       - '9780143134343'
       - 059315018X
       - '9783982438801'
       - '9780393341812'
-      - B002V1A0WE
       - '9780060006648'
       - '9780307279415'
-      - B0774ZRRJL
       - '9781523516971'
       - '9780226899152'
       - '9781941628232'
@@ -1811,26 +1748,19 @@ index:
       - '9780691191775'
 ---
 
-### [ancient history](/books/about_ancient_history) (31)
-- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney, The Great Courses
+### [ancient history](/books/about_ancient_history) (21)
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
 - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
 - (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by H. E. L. Mellersh
-- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck, The Great Courses
 - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
-- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears, The Great Courses
 - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
-- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan, The Great Courses
-- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland, The Great Courses
-- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver, The Great Courses
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
 - (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
-- (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland, The Great Courses
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
@@ -1838,9 +1768,6 @@ index:
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy
 - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard
-- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale, The Great Courses
-- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by The Great Courses, Gregory S. Aldrete
-- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete, The Great Courses
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
 - (paper) [Une journée dans la Rome antique](/books/info/9782228930376) by Alberto Angela
 ### [anthropology](/books/about_anthropology) (1)
@@ -1851,8 +1778,7 @@ index:
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 - (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270) by Colleen Carney, Rachel Manber
 - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund J. Bourne
-### [archaeology](/books/about_archaeology) (3)
-- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale, The Great Courses
+### [archaeology](/books/about_archaeology) (2)
 - (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor
 - (paper) [Three Stones Make a Wall](/books/info/9780691166407) by Eric H. Cline
 ### [art history](/books/about_art_history) (2)
@@ -1872,7 +1798,7 @@ index:
 - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki
 - (paper) [The Good Neighbor](/books/info/9781419727726) by Maxwell King
 - (paper) [Turning Point](/books/info/9781421560908) by Hayao Miyazaki
-### [business](/books/about_business) (11)
+### [business](/books/about_business) (10)
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
@@ -1880,7 +1806,6 @@ index:
 - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William L. Ury
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
 - (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
-- (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
 - (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
 - (paper) [UC Difficult Conversations](/books/info/9780140277821) by Douglas Stone, Sheila Heen, Bruce Patton
@@ -1896,11 +1821,11 @@ index:
 - (paper) [The Nature of Code](/books/info/9780985930806) by Daniel Shiffman
 ### [crime fiction](/books/about_crime_fiction) (7)
 - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
-- (audio) [Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot Mysteries) (Unabridged)](/books/info/0063066734) by Agatha Christie
+- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734) by Agatha Christie
 - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
 - (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623) by Arturo Pérez-Reverte
 - (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha Christie
-- (audio) [Sherlock Holmes (Unabridged)](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
+- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
 - (audio) [The Under Dog and Other Stories](/books/info/B008RBDG46) by Agatha Christie
 ### [data](/books/about_data) (5)
 - (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
@@ -1953,14 +1878,13 @@ index:
 ### [entrepreneurship](/books/about_entrepreneurship) (2)
 - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
 - (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki
-### [epigraphy](/books/about_epigraphy) (7)
+### [epigraphy](/books/about_epigraphy) (6)
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
 - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker
 - (paper) [Hiéroglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
-- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender, The Great Courses
 ### [essays](/books/about_essays) (6)
 - (paper) [Essays](/books/info/9781608460021) by Wallace Shawn
 - (paper) [Holidays on Ice](/books/info/9780316779234) by David Sedaris
@@ -2050,8 +1974,7 @@ index:
 - (paper) [História concisa do Brasil](/books/info/9788531405921) by Boris Fausto
 - (paper) [The Penguin History of the USA](/books/info/9780140252552) by Hugh Brogan
 - (paper) [Uma Breve História do Brasil](/books/info/9788576655299) by Mary del Priore, Renato Venancio
-### [humor](/books/about_humor) (4)
-- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard
+### [humor](/books/about_humor) (3)
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 - (paper) [The Essential Groucho](/books/info/9780140294255) by Groucho Marx
 - (paper) [Tinto de verano (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo
@@ -2079,7 +2002,7 @@ index:
 - (paper) [Lingua Latina Per Se Illustrata](/books/info/9781585100743) by Hans Henning Orberg
 - (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208) by Hans Henning Orberg
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
-- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini
 - (paper) [North American Cambridge Latin Course Unit 1 Audio CD](/books/info/9780521005029) by North American Cambridge Classics Project
 - (paper) [North American Cambridge Latin Course Unit 1 Student's Book](/books/info/9781107690639) by Cambridge School Classics Project
 - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood
@@ -2110,7 +2033,7 @@ index:
 - (paper) [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
 - (paper) [The Last Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer
-### [math](/books/about_math) (22)
+### [math](/books/about_math) (21)
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
 - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
@@ -2130,18 +2053,13 @@ index:
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- (audio) [Thinking Statistically (Unabridged)](/books/info/B00TP2UMTS) by Uri Bram
 - (paper) [Uncertainty](/books/info/9783319397559) by William Briggs
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
-### [music](/books/about_music) (2)
-- (audio) [Beginner's Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
-- (audio) [Road Trip Elegies: Montreal to New York: Words + Music | Vol. 9](/books/info/B08M93Q9SP) by Rufus Wainwright
-### [mythology](/books/about_mythology) (5)
-- (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver, The Great Courses
+### [music](/books/about_music) (0)
+### [mythology](/books/about_mythology) (3)
 - (paper) [Egyptian Myths](/books/info/9780241608197) by Jean Menzies
 - (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies
 - (paper) [Les Dieux de l'Egypte](/books/info/9782711837564) by Marc {OCLCbr#C9}tienne
-- (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth, The Great Courses
 ### [new york](/books/about_new_york) (5)
 - (paper) [Faber Classics New York Trilogy](/books/info/9780571200580) by Paul Auster
 - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson
@@ -2189,19 +2107,18 @@ index:
 ### [personal growth](/books/about_personal_growth) (2)
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson
 - (paper) [The Element](/books/info/9780670020478) by Sir PhD Ken Robinson
-### [philosophy](/books/about_philosophy) (12)
+### [philosophy](/books/about_philosophy) (11)
 - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus
 - (paper) [Ensaio sobre a lucidez](/books/info/9788535904802) by José Saramago
 - (paper) [How Proust Can Change Your Life](/books/info/9780679779155) by Alain De Botton
 - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci
-- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 - (paper) [Letters from a Stoic](/books/info/9780140442106) by Seneca
 - (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius
 - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius
 - (paper) [Philosophy](/books/info/9780415337984) by Nigel Warburton
 - (paper) [Philosophy](/books/info/9780415327732) by Nigel Warburton
 - (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441) by Alain De Botton
-- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci, The Great Courses
+- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
 ### [photography](/books/about_photography) (1)
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
 ### [poetry](/books/about_poetry) (5)
@@ -2214,18 +2131,17 @@ index:
 - (paper) [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg
 - (audio) [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
-### [psychology](/books/about_psychology) (15)
+### [psychology](/books/about_psychology) (14)
 - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell
 - (audio) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher T. Noblet
-- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth
 - (paper) [Guia Practica de Psicologia](/books/info/9788478809240) by Juan Antonio Vallejo-Nagera
 - (paper) [La fuerza del optimismo](/books/info/9788466318884) by Luis Rojas Marcos
 - (paper) [Learned Optimism](/books/info/9781400078394) by Martin E.P. Seligman
-- (audio) [Memories, Dreams, Reflections (Unabridged)](/books/info/B01BW37O5C) by Carl Jung
+- (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C) by Carl Jung
 - (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis Greenberger, Christine A. Padesky
 - (paper) [Mindset](/books/info/9780345472328) by Carol S. Dweck
 - (paper) [Moonwalking with Einstein](/books/info/9781101475973) by Joshua Foer
-- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
+- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Daniel j. Siegel MD
 - (paper) [Petit traité de manipulation à l'usage des honnêtes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-Léon Beauvois
 - (paper) [Stumbling on Happiness](/books/info/9781400077427) by Daniel Gilbert
 - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone Zander, Benjamin Zander
@@ -2321,21 +2237,17 @@ index:
 - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless
 - (paper) [Visual Complexity](/books/info/9781616892197) by Manuel Lima
 - (paper) [Visual Explanations](/books/info/9781930824157) by Edward R. Tufte
-### [writing](/books/about_writing) (24)
+### [writing](/books/about_writing) (20)
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham
 - (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan, The Great Courses
 - (paper) [Clear and Simple As the Truth](/books/info/9780691602998) by Francis-Noël Thomas, Mark Turner
-- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
 - (paper) [How to Take Smart Notes](/books/info/9783982438801) by Sönke Ahrens
 - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson
-- (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [On Writing Well](/books/info/9780060006648) by William Zinsser
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
-- (audio) [Several Short Sentences About Writing (Unabridged)](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
 - (paper) [Style](/books/info/9780226899152) by Joseph M. Williams, Gregory G. Colomb
 - (paper) [The Best of Brevity](/books/info/9781941628232) by Zoë Bossiere, Dinty W. Moore

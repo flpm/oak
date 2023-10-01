@@ -17,7 +17,6 @@ topics:
 - Ancient
 authors:
 - Gregory S. Aldrete
-- The Great Courses
 narrators:
 - Gregory S. Aldrete
 publisher: The Great Courses

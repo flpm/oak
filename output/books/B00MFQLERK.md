@@ -1,8 +1,8 @@
 ---
 book_id: B00MFQLERK
-full_title: 'Caesar: Life of a Colossus (Unabridged)'
+full_title: 'Caesar: Life of a Colossus'
 title: Caesar
-subtitle: Life of a Colossus (Unabridged)
+subtitle: Life of a Colossus
 asin: B00MFQLERK
 length: '89225000'
 owned: 'true'
@@ -34,5 +34,7 @@ cover_filename: B00MFQLERK.jpg
 purchase_date: '2022-07-01'
 listening_date: '2022-07-24'
 theme: ancient history
+duration: PT24H46M
+type: audiobook
 ---
 Tracing the extraordinary trajectory of Julius Caesar's life, Adrian Goldsworthy covers not only the great Roman emperor's accomplishments as charismatic orator, conquering general, and powerful dictator but also lesser-known chapters. Ultimately, Goldsworthy realizes the full complexity of Caesar's character and shows why his political and military leadership continues to resonate some 2,000 years later. In this landmark biography, Goldsworthy examines Caesar as a military leader, as well as his other roles, and places his subject firmly within the context of Roman society in the first century B.C.

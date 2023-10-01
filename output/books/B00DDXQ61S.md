@@ -18,7 +18,6 @@ topics:
 - Classics
 authors:
 - Grant L. Voth
-- The Great Courses
 narrators:
 - Grant L. Voth
 publisher: The Great Courses

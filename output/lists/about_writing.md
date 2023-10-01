@@ -7,17 +7,13 @@ items:
   - '9780520273689'
   - '9780961392185'
   - '9780452298606'
-  - B00SJIVE3W
   - '9780691602998'
-  - B0BX7CJVCS
   - '9780143134343'
   - 059315018X
   - '9783982438801'
   - '9780393341812'
-  - B002V1A0WE
   - '9780060006648'
   - '9780307279415'
-  - B0774ZRRJL
   - '9781523516971'
   - '9780226899152'
   - '9781941628232'
@@ -30,23 +26,19 @@ items:
   - '9780691191775'
 subtitle: Books about writing, grammar, and style
 ---
-I have 24 books about Writing in my bookshelf.
+I have 20 books about Writing in my bookshelf.
 
 ### Titles:
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham
 - (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan, The Great Courses
 - (paper) [Clear and Simple As the Truth](/books/info/9780691602998) by Francis-Noël Thomas, Mark Turner
-- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
 - (paper) [How to Take Smart Notes](/books/info/9783982438801) by Sönke Ahrens
 - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson
-- (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [On Writing Well](/books/info/9780060006648) by William Zinsser
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
-- (audio) [Several Short Sentences About Writing (Unabridged)](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
 - (paper) [Style](/books/info/9780226899152) by Joseph M. Williams, Gregory G. Colomb
 - (paper) [The Best of Brevity](/books/info/9781941628232) by Zoë Bossiere, Dinty W. Moore

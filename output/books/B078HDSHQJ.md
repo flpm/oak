@@ -17,7 +17,6 @@ topics:
 - Ancient
 - World
 authors:
-- The Great Courses
 - Gregory S. Aldrete
 narrators:
 - Gregory S. Aldrete

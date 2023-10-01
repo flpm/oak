@@ -1,8 +1,8 @@
 ---
 book_id: B003TFSY7E
-full_title: 'Naked Economics: Undressing the Dismal Science (Unabridged)'
+full_title: 'Naked Economics: Undressing the Dismal Science'
 title: Naked Economics
-subtitle: Undressing the Dismal Science (Unabridged)
+subtitle: Undressing the Dismal Science
 asin: B003TFSY7E
 length: '49474000'
 owned: 'true'
@@ -30,5 +30,7 @@ cover_filename: B003TFSY7E.jpg
 purchase_date: '2010-11-23'
 listening_date: '2019-12-11'
 theme: economics
+duration: PT13H44M
+type: audiobook
 ---
 In Naked Economics, journalist Charles Wheelan does “the impossible”—he makes economic principles relevant, interesting and fun. Brimming with scores of down-to-earth examples and sprinkled with humorous anecdotes, this comprehensive overview will keep listeners smiling and wide awake.

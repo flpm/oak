@@ -23,7 +23,7 @@ index:
     name: in English
     title: 'Language: English'
     subtitle: Books in English
-    description: "I have 400 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
+    description: "I have 375 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
       \ [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James\
       \ M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
       \ by Kiyoshi Kosugi, James Davies\n- (paper) [A Gamut of Games](/books/info/9780486273471)\
@@ -36,8 +36,7 @@ index:
       \ (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n\
       - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177)\
       \ by W. Richard Stevens\n- (paper) [Advanced R](/books/info/9781466586963) by\
-      \ Hadley Wickham\n- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
-      \ by Jeremy McInerney, The Great Courses\n- (paper) [Alice's Adventures in Wonderland](/books/info/9780689847431)\
+      \ Hadley Wickham\n- (paper) [Alice's Adventures in Wonderland](/books/info/9780689847431)\
       \ by Lewis Carroll\n- (paper) [All about Life and Death](/books/info/9784871870436)\
       \ by Cho Chikun, Cho Chikun Nine-Dan\n- (paper) [All of Statistics](/books/info/9780387402727)\
       \ by Larry Wasserman\n- (paper) [Altered Carbon](/books/info/9780345457684)\
@@ -58,12 +57,9 @@ index:
       \ by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed\n\
       - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis,\
       \ Georgios Gousios\n- (paper) [Beautiful Evidence](/books/info/9781930824164)\
-      \ by Edward R. Tufte\n- (audio) [Beginner's Mind](/books/info/B08ZYXLTYG) by\
-      \ Yo-Yo Ma\n- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n\
-      - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell\n- (paper)\
-      \ [Building Great Sentences](/books/info/9780452298606) by Brooks Landon\n-\
-      \ (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan,\
-      \ The Great Courses\n- (paper) [Business Model Generation](/books/info/9780470876411)\
+      \ by Edward R. Tufte\n- (paper) [Blink](/books/info/9780713997279) by Malcolm\
+      \ Gladwell\n- (paper) [Building Great Sentences](/books/info/9780452298606)\
+      \ by Brooks Landon\n- (paper) [Business Model Generation](/books/info/9780470876411)\
       \ by Alexander Osterwalder, Yves Pigneur\n- (paper) [By Roman Hands](/books/info/9781585104024)\
       \ by Matthew Hartnett\n- (paper) [C++ Primer Plus](/books/info/9780672326974)\
       \ by Stephen Prata\n- (paper) [CPython Internals](/books/info/9781775093343)\
@@ -74,11 +70,7 @@ index:
       - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier\n- (paper)\
       \ [Cartographies of Time](/books/info/9781616890582) by Daniel Rosenberg, Anthony\
       \ Grafton\n- (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227)\
-      \ by H. E. L. Mellersh\n- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20)\
-      \ by Steven L. Tuck, The Great Courses\n- (audio) [Classical Archaeology of\
-      \ Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale, The Great\
-      \ Courses\n- (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth\
-      \ Vandiver, The Great Courses\n- (paper) [Clear and Simple As the Truth](/books/info/9780691602998)\
+      \ by H. E. L. Mellersh\n- (paper) [Clear and Simple As the Truth](/books/info/9780691602998)\
       \ by Francis-No\xEBl Thomas, Mark Turner\n- (paper) [Code as Creative Medium](/books/info/9780262542043)\
       \ by Tega Brain, Golan Levin\n- (paper) [Coders at Work](/books/info/9781430219491)\
       \ by Peter Seibel\n- (paper) [Color Design Workbook](/books/info/9781592534333)\
@@ -121,18 +113,16 @@ index:
       \ Ph.D. Guy Winch\n- (paper) [Entertaining Mathematical Puzzles](/books/info/9780486252117)\
       \ by Martin Gardner\n- (paper) [Envisioning Information](/books/info/9780961392116)\
       \ by Edward R. Tufte\n- (paper) [Essays](/books/info/9781608460021) by Wallace\
-      \ Shawn\n- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)\
-      \ by Ann Handley\n- (paper) [Everydata](/books/info/9781629561011) by John H.\
-      \ Johnson\n- (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)\
+      \ Shawn\n- (paper) [Everydata](/books/info/9781629561011) by John H. Johnson\n\
+      - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)\
       \ by Pan\n- (paper) [Exploratory Data Analysis](/books/info/9780201076165) by\
       \ John Tukey\n- (paper) [Exploring Data in Engineering, the Sciences, and Medicine](/books/info/9780195089653)\
       \ by Ronald Pearson\n- (paper) [Faber Classics New York Trilogy](/books/info/9780571200580)\
       \ by Paul Auster\n- (paper) [Failure Is Not an Option](/books/info/9780743200790)\
-      \ by Gene Kranz\n- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus\
-      \ Fears, The Great Courses\n- (paper) [Feeling Good](/books/info/9780062136497)\
-      \ by David D. Burns\n- (paper) [Feet Of Clay](/books/info/9780552142373) by\
-      \ Terry Pratchett\n- (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009)\
-      \ by Terry Pratchett\n- (paper) [First You Write a Sentence](/books/info/9780143134343)\
+      \ by Gene Kranz\n- (paper) [Feeling Good](/books/info/9780062136497) by David\
+      \ D. Burns\n- (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett\n\
+      - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry\
+      \ Pratchett\n- (paper) [First You Write a Sentence](/books/info/9780143134343)\
       \ by Joe Moran\n- (audio) [First You Write a Sentence](/books/info/059315018X)\
       \ by Joe Moran\n- (paper) [Flight of the Last Dragon](/books/info/9781101648056)\
       \ by Robert Burleigh\n- (paper) [Founders at Work](/books/info/9781430210771)\
@@ -165,12 +155,9 @@ index:
       \ by \n- (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton,\
       \ Jennifer Cole Phillips\n- (paper) [Graphic Design Theory](/books/info/9781568987729)\
       \ by Helen Armstrong\n- (paper) [Graphic Design Thinking](/books/info/9781568989792)\
-      \ by Jennifer Cole Phillips\n- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG)\
-      \ by Garrett G. Fagan, The Great Courses\n- (paper) [Great Books](/books/info/9780684835334)\
-      \ by Denby\n- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland,\
-      \ The Great Courses\n- (paper) [Greek Myths](/books/info/9780241397459) by Jean\
-      \ Menzies\n- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n- (paper)\
-      \ [Groucho](/books/info/9780375702075) by Stefan Kanfer\n- (paper) [Guards!\
+      \ by Jennifer Cole Phillips\n- (paper) [Great Books](/books/info/9780684835334)\
+      \ by Denby\n- (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies\n\
+      - (paper) [Groucho](/books/info/9780375702075) by Stefan Kanfer\n- (paper) [Guards!\
       \ Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett\n-\
       \ (paper) [Hackers](/books/info/9781449388393) by Steven Levy\n- (paper) [Hacking\
       \ Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David\
@@ -181,10 +168,8 @@ index:
       \ by Stefanie Molin\n- (paper) [Hands-On Data Analysis with Pandas - Second\
       \ Edition](/books/info/9781800563452) by Stefanie Molin\n- (paper) [Helvetica\
       \ and the New York City Subway System](/books/info/9780262015486) by Paul Shaw\n\
-      - (audio) [Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection\
-      \ with Foreword by Charles Todd (Hercule Poirot Mysteries) (Unabridged)](/books/info/0063066734)\
-      \ by Agatha Christie\n- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth\
-      \ Vandiver, The Great Courses\n- (paper) [Hiding the Elephant](/books/info/9780786712267)\
+      - (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
+      \ by Agatha Christie\n- (paper) [Hiding the Elephant](/books/info/9780786712267)\
       \ by Jim Steinmeyer\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
       \ by Luke Pearson\n- (paper) [Hilda and the Black Hound](/books/info/9781912497553)\
       \ by Luke Pearson\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
@@ -201,8 +186,7 @@ index:
       \ Risk](/books/info/9781119085294) by Douglas W. Hubbard, Richard Seiersen\n\
       - (paper) [How to Take Smart Notes](/books/info/9783982438801) by S\xF6nke Ahrens\n\
       - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)\
-      \ by Debbie Millman\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
-      \ by Donald J. Robertson\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
+      \ by Debbie Millman\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
       \ by Mark Collier, Bill Manley\n- (paper) [I Took the Moon for a Walk](/books/info/9781841488035)\
       \ by Carolyn Curtis\n- (paper) [IDEO Method Cards](/books/info/9780954413217)\
       \ by Ideo\n- (paper) [Indie Publishing](/books/info/9781568987606) by Ellen\
@@ -236,18 +220,16 @@ index:
       \ [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr\
       \ James Davies\n- (paper) [Linked](/books/info/9780738206677) by Albert-L\xE1\
       szl\xF3 Barab\xE1si, Jennifer Frangos\n- (paper) [Little Wizards Second Printing](/books/info/9781940094984)\
-      \ by Crafty Games, Antoine Bauza\n- (audio) [Living History](/books/info/B00XP3CMHI)\
-      \ by Robert Garland, The Great Courses\n- (paper) [Logic Made Easy](/books/info/9780393326925)\
+      \ by Crafty Games, Antoine Bauza\n- (paper) [Logic Made Easy](/books/info/9780393326925)\
       \ by Deborah J Bennett\n- (audio) [Long Live Latin](/books/info/125075044X)\
-      \ by Nicola Gardini, Todd Portnowitz\n- (paper) [MTIV Process, Inspiration and\
-      \ Practice for the New Media Designer](/books/info/9780735711655) by Hillman\
-      \ Curtis\n- (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388)\
-      \ by Chris Albon\n- (paper) [Machine Learning with R Cookbook](/books/info/9781783982042)\
+      \ by Nicola Gardini\n- (paper) [MTIV Process, Inspiration and Practice for the\
+      \ New Media Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper)\
+      \ [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris\
+      \ Albon\n- (paper) [Machine Learning with R Cookbook](/books/info/9781783982042)\
       \ by Yu-Wei Chiu\n- (paper) [Magic](/books/info/9780761149873) by Joshua Jay\n\
       - (paper) [Magic Across the Table](/books/info/9780679201021) by Bill Severn\n\
       - (paper) [Magic and Showmanship](/books/info/9780486410876) by Henning Nelms\n\
-      - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson\n- (audio)\
-      \ [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky\n- (paper)\
+      - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson\n- (paper)\
       \ [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst, Richard\
       \ Bozulich\n- (paper) [Making Things Talk](/books/info/9780596510510) by Tom\
       \ Igoe\n- (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt,\
@@ -256,29 +238,26 @@ index:
       \ by Jeffrey E.F. Friedl\n- (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357)\
       \ by Martin Gardner\n- (paper) [Meditations](/books/info/9780812968255) by Marcus\
       \ Aurelius\n- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
-      - (audio) [Memories, Dreams, Reflections (Unabridged)](/books/info/B01BW37O5C)\
-      \ by Carl Jung\n- (paper) [Men At Arms](/books/info/9780552140287) by Terry\
-      \ Pratchett\n- (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032)\
-      \ by Terry Pratchett\n- (paper) [Microstyle](/books/info/9780393341812) by Christopher\
-      \ Johnson\n- (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis Greenberger,\
+      - (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C) by Carl Jung\n\
+      - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett\n- (paper)\
+      \ [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett\n\
+      - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson\n-\
+      \ (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis Greenberger,\
       \ Christine A. Padesky\n- (paper) [Mindset](/books/info/9780345472328) by Carol\
       \ S. Dweck\n- (paper) [Modern Coin Magic](/books/info/9780486154237) by J. B.\
       \ Bobo\n- (paper) [Moi Asimov](/books/info/9782070313020) by Isaac Asimov\n\
       - (paper) [Moonwalking with Einstein](/books/info/9781101475973) by Joshua Foer\n\
       - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG\
       \ Team\n- (paper) [More Magic](/books/info/9781492274124) by Professor Hoffmann\n\
-      - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth,\
-      \ The Great Courses\n- (audio) [Naked Economics](/books/info/B003TFSY7E) by\
-      \ Charles Wheelan\n- (paper) [Nerdy, Shy, and Socially Inappropriate](/books/info/9781849057578)\
-      \ by Cynthia Kim\n- (paper) [Nineteen Eighty Four](/books/info/9780140126716)\
-      \ by George Orwell\n- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE)\
-      \ by Tina Payne Bryson PhD, Daniel j. Siegel MD\n- (paper) [Nonsense: Red Herrings,\
-      \ Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula\n\
-      - (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan\n\
-      - (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King\n- (paper) [On\
-      \ Writing Well](/books/info/9780060006648) by William Zinsser\n- (paper) [One\
-      \ Thousand and One Life-and-Death Problems](/books/info/9784906574728) by Richard\
-      \ Bozulich\n- (paper) [Opening Theory Made Easy](/books/info/9784906574360)\
+      - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan\n- (paper)\
+      \ [Nerdy, Shy, and Socially Inappropriate](/books/info/9781849057578) by Cynthia\
+      \ Kim\n- (paper) [Nineteen Eighty Four](/books/info/9780140126716) by George\
+      \ Orwell\n- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Daniel\
+      \ j. Siegel MD\n- (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264)\
+      \ by Robert J. Gula\n- (paper) [Ocean Meets Sky](/books/info/9781481470377)\
+      \ by Terry Fan, Eric Fan\n- (paper) [On Writing Well](/books/info/9780060006648)\
+      \ by William Zinsser\n- (paper) [One Thousand and One Life-and-Death Problems](/books/info/9784906574728)\
+      \ by Richard Bozulich\n- (paper) [Opening Theory Made Easy](/books/info/9784906574360)\
       \ by Hideo Otake\n- (paper) [Ordering Disorder](/books/info/9780321703538) by\
       \ Khoi Vinh\n- (paper) [Out of Our Minds](/books/info/9781841121253) by Ken\
       \ Robinson\n- (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot\
@@ -312,19 +291,16 @@ index:
       \ Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice\
       \ at Queen Mary University of London David Ormerod\n- (paper) [Rescuing Socrates](/books/info/9780691224398)\
       \ by Roosevelt Montas\n- (paper) [Resonate](/books/info/9780470632017) by Nancy\
-      \ Duarte\n- (audio) [Road Trip Elegies: Montreal to New York: Words + Music\
-      \ | Vol. 9](/books/info/B08M93Q9SP) by Rufus Wainwright\n- (paper) [Roman Art](/books/info/9781785511837)\
-      \ by Paul Zanker, Se\xE1n Hemingway, Christopher S. Lightfoot, Joan R. Mertens\n\
-      - (paper) [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820)\
-      \ by Tom Stoppard\n- (paper) [Royal Road to Card Magic](/books/info/9780571063895)\
-      \ by Jean Hugard, Frederick Braue\n- (audio) [SPQR](/books/info/B01865AOJW)\
-      \ by Mary Beard\n- (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf\n\
-      - (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien\n- (paper)\
-      \ [Security Engineering](/books/info/9780470068526) by Ross J. Anderson\n- (paper)\
-      \ [Semiology of Graphics](/books/info/9781589482616) by Jacques Bertin\n- (paper)\
-      \ [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn\
-      \ Klinkenborg\n- (audio) [Several Short Sentences About Writing (Unabridged)](/books/info/B0774ZRRJL)\
-      \ by Verlyn Klinkenborg\n- (audio) [Sherlock Holmes (Unabridged)](/books/info/B06WLMWF2S)\
+      \ Duarte\n- (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Se\xE1\
+      n Hemingway, Christopher S. Lightfoot, Joan R. Mertens\n- (paper) [Rosencrantz\
+      \ and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard\n- (paper)\
+      \ [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick\
+      \ Braue\n- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [Samarkand](/books/info/9781566562935)\
+      \ by Amin Maalouf\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
+      \ J.R.R. Tolkien\n- (paper) [Security Engineering](/books/info/9780470068526)\
+      \ by Ross J. Anderson\n- (paper) [Semiology of Graphics](/books/info/9781589482616)\
+      \ by Jacques Bertin\n- (paper) [Several Short Sentences About Writing](/books/info/9780307279415)\
+      \ by Verlyn Klinkenborg\n- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S)\
       \ by Arthur Conan Doyle, Stephen Fry - introductions\n- (audio) [Shrinking Violets](/books/info/B06VSQVPCY)\
       \ by Joe Moran\n- (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176)\
       \ by Terry Pratchett\n- (paper) [Smart Brevity](/books/info/9781523516971) by\
@@ -378,14 +354,13 @@ index:
       \ by Adrienne Mayor\n- (paper) [The Game Master's Book of Random Encounters\
       \ (Special Edition)](/books/info/9781956403398) by Jeff Ashworth\n- (paper)\
       \ [The Good Neighbor](/books/info/9781419727726) by Maxwell King\n- (paper)\
-      \ [The Grammar of Romance](/books/info/9781475246636) by Joshua Rudder\n- (audio)\
-      \ [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale, The\
-      \ Great Courses\n- (paper) [The Hacker Crackdown](/books/info/9780553563702)\
-      \ by Bruce Sterling\n- (paper) [The Hill We Climb](/books/info/9780593465271)\
-      \ by Amanda Gorman\n- (paper) [The Hill We Climb and Other Poems](/books/info/9780593465066)\
-      \ by Amanda Gorman\n- (paper) [The Hobbit](/books/info/9780547928241) by J R\
-      \ R Tolkien\n- (paper) [The Illustrated History of Magic](/books/info/9780690431650)\
-      \ by Milbourne Christopher\n- (paper) [The Information Design Handbook](/books/info/9781600610486)\
+      \ [The Grammar of Romance](/books/info/9781475246636) by Joshua Rudder\n- (paper)\
+      \ [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling\n- (paper)\
+      \ [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman\n- (paper)\
+      \ [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman\n\
+      - (paper) [The Hobbit](/books/info/9780547928241) by J R R Tolkien\n- (paper)\
+      \ [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne\
+      \ Christopher\n- (paper) [The Information Design Handbook](/books/info/9781600610486)\
       \ by Jenn Visocky O'Grady, Ken Visocky O'Grady\n- (paper) [The Iridescence of\
       \ Birds](/books/info/9781596439481) by Patricia MacLachlan\n- (paper) [The Last\
       \ Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer\n\
@@ -406,14 +381,11 @@ index:
       \ [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas\n\
       - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
       - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell\n\
-      - (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by The Great Courses, Gregory\
-      \ S. Aldrete\n- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory\
-      \ S. Aldrete, The Great Courses\n- (paper) [The Roman Provence Guide (Interlink\
-      \ Guide)](/books/info/9781566568968) by Edwin Mullins\n- (paper) [The Rosetta\
-      \ Stone](/books/info/9780714150215) by Richard Parkinson\n- (paper) [The Ruby\
-      \ Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro\
-      \ Matsumoto\n- (paper) [The School of Life](/books/info/9781912891160) by The\
-      \ School of Life\n- (paper) [The Second Book of Go](/books/info/9784906574315)\
+      - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
+      \ by Edwin Mullins\n- (paper) [The Rosetta Stone](/books/info/9780714150215)\
+      \ by Richard Parkinson\n- (paper) [The Ruby Programming Language](/books/info/9780596516178)\
+      \ by David Flanagan, Yukihiro Matsumoto\n- (paper) [The School of Life](/books/info/9781912891160)\
+      \ by The School of Life\n- (paper) [The Second Book of Go](/books/info/9784906574315)\
       \ by Richard Bozulich\n- (paper) [The Sense of Style](/books/info/9780143127796)\
       \ by Steven Pinker\n- (paper) [The Stand](/books/info/9780307947307) by Stephen\
       \ King\n- (paper) [The Treasure Chest Enigma](/books/info/9784871871020) by\
@@ -428,9 +400,8 @@ index:
       \ Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed\n- (paper)\
       \ [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan\
       \ Sagmeister\n- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo\
-      \ Pigliucci, The Great Courses\n- (audio) [Thinking Statistically (Unabridged)](/books/info/B00TP2UMTS)\
-      \ by Uri Bram\n- (paper) [Thinking Strategically](/books/info/9780393069792)\
-      \ by Avinash K. Dixit, Barry J. Nalebuff\n- (paper) [Thinking with Type](/books/info/9781568984483)\
+      \ Pigliucci\n- (paper) [Thinking Strategically](/books/info/9780393069792) by\
+      \ Avinash K. Dixit, Barry J. Nalebuff\n- (paper) [Thinking with Type](/books/info/9781568984483)\
       \ by Ellen Lupton\n- (paper) [Thinking, Fast and Slow](/books/info/9780374533557)\
       \ by Daniel Kahneman\n- (paper) [Threat Modeling](/books/info/9780735619913)\
       \ by Frank Swiderski, Window Snyder\n- (paper) [Three Plays](/books/info/9780802150646)\
@@ -461,8 +432,7 @@ index:
       \ by A. A. Milne\n- (paper) [Wool (Silo, #1)](/books/info/9781476733951) by\
       \ Hugh Howey\n- (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter\
       \ Clark\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
-      \ by Roy Peter Clark\n- (audio) [Writing and Civilization](/books/info/B00F52DXH0)\
-      \ by Marc Zender, The Great Courses\n- (paper) [Writing with Pleasure](/books/info/9780691191775)\
+      \ by Roy Peter Clark\n- (paper) [Writing with Pleasure](/books/info/9780691191775)\
       \ by Helen Sword\n- (paper) [Xanathar's Guide to Everything](/books/info/9780786966110)\
       \ by Wizards RPG Team"
     items:
@@ -479,7 +449,6 @@ index:
       - '9780679747888'
       - '9780201563177'
       - '9781466586963'
-      - B00D7JMGEY
       - '9780689847431'
       - '9784871870436'
       - '9780387402727'
@@ -499,11 +468,8 @@ index:
       - '9781984858788'
       - '9780596517984'
       - '9781930824164'
-      - B08ZYXLTYG
-      - B06XWYMP73
       - '9780713997279'
       - '9780452298606'
-      - B00SJIVE3W
       - '9780470876411'
       - '9781585104024'
       - '9780672326974'
@@ -515,9 +481,6 @@ index:
       - '9781118790816'
       - '9781616890582'
       - '9780133264227'
-      - B00LG7MR20
-      - B00DG7NVXC
-      - B00D99PNKQ
       - '9780691602998'
       - '9780262542043'
       - '9781430219491'
@@ -557,14 +520,12 @@ index:
       - '9780486252117'
       - '9780961392116'
       - '9781608460021'
-      - B0BX7CJVCS
       - '9781629561011'
       - '9783319456522'
       - '9780201076165'
       - '9780195089653'
       - '9780571200580'
       - '9780743200790'
-      - B00D8G1DPO
       - '9780062136497'
       - '9780552142373'
       - '9780575059009'
@@ -596,11 +557,8 @@ index:
       - '9781568987026'
       - '9781568987729'
       - '9781568989792'
-      - B00DB92ATG
       - '9780684835334'
-      - B00DEK3UAU
       - '9780241397459'
-      - B01D3AC5BA
       - '9780375702075'
       - '9780575046061'
       - '9781449388393'
@@ -611,7 +569,6 @@ index:
       - '9781800563452'
       - '9780262015486'
       - '0063066734'
-      - B00DC8CFZK
       - '9780786712267'
       - '9781911171027'
       - '9781912497553'
@@ -628,7 +585,6 @@ index:
       - '9781119085294'
       - '9783982438801'
       - '9781581154962'
-      - B07FB135GG
       - '9780714119106'
       - '9781841488035'
       - '9780954413217'
@@ -661,7 +617,6 @@ index:
       - '9784906574131'
       - '9780738206677'
       - '9781940094984'
-      - B00XP3CMHI
       - '9780393326925'
       - 125075044X
       - '9780735711655'
@@ -671,7 +626,6 @@ index:
       - '9780679201021'
       - '9780486410876'
       - '9780553394702'
-      - B07DHSQL6Q
       - '9784906574735'
       - '9780596510510'
       - '9781568822112'
@@ -690,14 +644,12 @@ index:
       - '9781101475973'
       - '9780786967872'
       - '9781492274124'
-      - B00DDXQ61S
       - B003TFSY7E
       - '9781849057578'
       - '9780140126716'
       - B00NJ58OWE
       - '9780975366264'
       - '9781481470377'
-      - B002V1A0WE
       - '9780060006648'
       - '9784906574728'
       - '9784906574360'
@@ -730,7 +682,6 @@ index:
       - '9780981912189'
       - '9780691224398'
       - '9780470632017'
-      - B08M93Q9SP
       - '9781785511837'
       - '9780571081820'
       - '9780571063895'
@@ -740,7 +691,6 @@ index:
       - '9780470068526'
       - '9781589482616'
       - '9780307279415'
-      - B0774ZRRJL
       - B06WLMWF2S
       - B06VSQVPCY
       - '9780061092176'
@@ -791,7 +741,6 @@ index:
       - '9781956403398'
       - '9781419727726'
       - '9781475246636'
-      - B00DC5SB06
       - '9780553563702'
       - '9780593465271'
       - '9780593465066'
@@ -815,8 +764,6 @@ index:
       - '9780201616224'
       - '9780544173767'
       - '9781107602700'
-      - B078HDSHQJ
-      - B07MDHVBLY
       - '9781566568968'
       - '9780714150215'
       - '9780596516178'
@@ -834,7 +781,6 @@ index:
       - '9781984859549'
       - '9780810995291'
       - '1644650649'
-      - B00TP2UMTS
       - '9780393069792'
       - '9781568984483'
       - '9780374533557'
@@ -865,7 +811,6 @@ index:
       - '9781476733951'
       - '9780316014991'
       - '1549108603'
-      - B00F52DXH0
       - '9780691191775'
       - '9780786966110'
   French:
@@ -1118,7 +1063,7 @@ index:
 ### [Catalan](/books/in_catalan) (2)
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 - (paper) [Memòries. Història d'una convicció (1930 - 1980) (Memòries #1)](/books/info/9788484370451) by Jordi Pujol
-### [English](/books/in_english) (400)
+### [English](/books/in_english) (375)
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
 - (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson
@@ -1130,7 +1075,6 @@ index:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
-- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney, The Great Courses
 - (paper) [Alice's Adventures in Wonderland](/books/info/9780689847431) by Lewis Carroll
 - (paper) [All about Life and Death](/books/info/9784871870436) by Cho Chikun, Cho Chikun Nine-Dan
 - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
@@ -1150,11 +1094,8 @@ index:
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
 - (paper) [Beautiful Evidence](/books/info/9781930824164) by Edward R. Tufte
-- (audio) [Beginner's Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
-- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard
 - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan, The Great Courses
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
 - (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
@@ -1166,9 +1107,6 @@ index:
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier
 - (paper) [Cartographies of Time](/books/info/9781616890582) by Daniel Rosenberg, Anthony Grafton
 - (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by H. E. L. Mellersh
-- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck, The Great Courses
-- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale, The Great Courses
-- (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver, The Great Courses
 - (paper) [Clear and Simple As the Truth](/books/info/9780691602998) by Francis-Noël Thomas, Mark Turner
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
@@ -1208,14 +1146,12 @@ index:
 - (paper) [Entertaining Mathematical Puzzles](/books/info/9780486252117) by Martin Gardner
 - (paper) [Envisioning Information](/books/info/9780961392116) by Edward R. Tufte
 - (paper) [Essays](/books/info/9781608460021) by Wallace Shawn
-- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
 - (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan
 - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
 - (paper) [Exploring Data in Engineering, the Sciences, and Medicine](/books/info/9780195089653) by Ronald Pearson
 - (paper) [Faber Classics New York Trilogy](/books/info/9780571200580) by Paul Auster
 - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
-- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears, The Great Courses
 - (paper) [Feeling Good](/books/info/9780062136497) by David D. Burns
 - (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
@@ -1247,11 +1183,8 @@ index:
 - (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton, Jennifer Cole Phillips
 - (paper) [Graphic Design Theory](/books/info/9781568987729) by Helen Armstrong
 - (paper) [Graphic Design Thinking](/books/info/9781568989792) by Jennifer Cole Phillips
-- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan, The Great Courses
 - (paper) [Great Books](/books/info/9780684835334) by Denby
-- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland, The Great Courses
 - (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies
-- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth
 - (paper) [Groucho](/books/info/9780375702075) by Stefan Kanfer
 - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
@@ -1261,8 +1194,7 @@ index:
 - (paper) [Hands-On Data Analysis with Pandas](/books/info/9781789615326) by Stefanie Molin
 - (paper) [Hands-On Data Analysis with Pandas - Second Edition](/books/info/9781800563452) by Stefanie Molin
 - (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486) by Paul Shaw
-- (audio) [Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot Mysteries) (Unabridged)](/books/info/0063066734) by Agatha Christie
-- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver, The Great Courses
+- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734) by Agatha Christie
 - (paper) [Hiding the Elephant](/books/info/9780786712267) by Jim Steinmeyer
 - (paper) [Hilda and the Bird Parade](/books/info/9781911171027) by Luke Pearson
 - (paper) [Hilda and the Black Hound](/books/info/9781912497553) by Luke Pearson
@@ -1279,7 +1211,6 @@ index:
 - (paper) [How to Measure Anything in Cybersecurity Risk](/books/info/9781119085294) by Douglas W. Hubbard, Richard Seiersen
 - (paper) [How to Take Smart Notes](/books/info/9783982438801) by Sönke Ahrens
 - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962) by Debbie Millman
-- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn Curtis
 - (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo
@@ -1312,9 +1243,8 @@ index:
 - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr James Davies
 - (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 - (paper) [Little Wizards Second Printing](/books/info/9781940094984) by Crafty Games, Antoine Bauza
-- (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland, The Great Courses
 - (paper) [Logic Made Easy](/books/info/9780393326925) by Deborah J Bennett
-- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini
 - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655) by Hillman Curtis
 - (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
@@ -1322,7 +1252,6 @@ index:
 - (paper) [Magic Across the Table](/books/info/9780679201021) by Bill Severn
 - (paper) [Magic and Showmanship](/books/info/9780486410876) by Henning Nelms
 - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson
-- (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 - (paper) [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst, Richard Bozulich
 - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
@@ -1330,7 +1259,7 @@ index:
 - (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357) by Martin Gardner
 - (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius
 - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius
-- (audio) [Memories, Dreams, Reflections (Unabridged)](/books/info/B01BW37O5C) by Carl Jung
+- (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C) by Carl Jung
 - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett
 - (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett
 - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson
@@ -1341,14 +1270,12 @@ index:
 - (paper) [Moonwalking with Einstein](/books/info/9781101475973) by Joshua Foer
 - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
 - (paper) [More Magic](/books/info/9781492274124) by Professor Hoffmann
-- (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth, The Great Courses
 - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan
 - (paper) [Nerdy, Shy, and Socially Inappropriate](/books/info/9781849057578) by Cynthia Kim
 - (paper) [Nineteen Eighty Four](/books/info/9780140126716) by George Orwell
-- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
+- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Daniel j. Siegel MD
 - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula
 - (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan
-- (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [On Writing Well](/books/info/9780060006648) by William Zinsser
 - (paper) [One Thousand and One Life-and-Death Problems](/books/info/9784906574728) by Richard Bozulich
 - (paper) [Opening Theory Made Easy](/books/info/9784906574360) by Hideo Otake
@@ -1381,7 +1308,6 @@ index:
 - (paper) [Relentless](/books/info/9780981912189) by Younggil. Ormerod Law Commissioner For Criminal Law And Evidence And Professor Of. An, Professor Law Commissioner for Criminal Law and Evidence and of Criminal Justice at Queen Mary University of London David Ormerod
 - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
-- (audio) [Road Trip Elegies: Montreal to New York: Words + Music | Vol. 9](/books/info/B08M93Q9SP) by Rufus Wainwright
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
 - (paper) [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard
 - (paper) [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue
@@ -1391,8 +1317,7 @@ index:
 - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson
 - (paper) [Semiology of Graphics](/books/info/9781589482616) by Jacques Bertin
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
-- (audio) [Several Short Sentences About Writing (Unabridged)](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
-- (audio) [Sherlock Holmes (Unabridged)](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
+- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
 - (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran
 - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
@@ -1442,7 +1367,6 @@ index:
 - (paper) [The Game Master's Book of Random Encounters (Special Edition)](/books/info/9781956403398) by Jeff Ashworth
 - (paper) [The Good Neighbor](/books/info/9781419727726) by Maxwell King
 - (paper) [The Grammar of Romance](/books/info/9781475246636) by Joshua Rudder
-- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale, The Great Courses
 - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
 - (paper) [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman
 - (paper) [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman
@@ -1466,8 +1390,6 @@ index:
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
 - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
-- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by The Great Courses, Gregory S. Aldrete
-- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete, The Great Courses
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
 - (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
 - (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
@@ -1484,8 +1406,7 @@ index:
 - (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan Sagmeister
-- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci, The Great Courses
-- (audio) [Thinking Statistically (Unabridged)](/books/info/B00TP2UMTS) by Uri Bram
+- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
 - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
 - (paper) [Thinking with Type](/books/info/9781568984483) by Ellen Lupton
 - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman
@@ -1516,7 +1437,6 @@ index:
 - (paper) [Wool (Silo, #1)](/books/info/9781476733951) by Hugh Howey
 - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark
-- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender, The Great Courses
 - (paper) [Writing with Pleasure](/books/info/9780691191775) by Helen Sword
 - (paper) [Xanathar's Guide to Everything](/books/info/9780786966110) by Wizards RPG Team
 ### [French](/books/in_french) (35)

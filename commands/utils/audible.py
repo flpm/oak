@@ -82,6 +82,7 @@ def import_from_audible():
                 }
                 book["book_id"] = asin
                 book["type"] = book_type
+                book["full_title"] = book["full_title"].replace(" (Unabridged)", "")
                 title_parts = book["full_title"].split(": ")
                 if len(title_parts) == 2:
                     book["title"] = title_parts[0].strip()

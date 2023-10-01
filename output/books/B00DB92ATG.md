@@ -17,7 +17,6 @@ topics:
 - Military
 authors:
 - Garrett G. Fagan
-- The Great Courses
 narrators:
 - Garrett G. Fagan
 publisher: The Great Courses

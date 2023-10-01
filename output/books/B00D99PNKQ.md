@@ -19,7 +19,6 @@ topics:
 - Classic Greek Mythology
 authors:
 - Elizabeth Vandiver
-- The Great Courses
 narrators:
 - Elizabeth Vandiver
 publisher: The Great Courses

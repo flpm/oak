@@ -19,7 +19,6 @@ topics:
 - Ancient English History
 authors:
 - Jeremy McInerney
-- The Great Courses
 narrators:
 - Jeremy McInerney
 publisher: The Great Courses

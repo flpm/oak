@@ -35,7 +35,7 @@ I have 18 books about Learning Latin in my bookshelf.
 - (paper) [Lingua Latina Per Se Illustrata](/books/info/9781585100743) by Hans Henning Orberg
 - (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208) by Hans Henning Orberg
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
-- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini
 - (paper) [North American Cambridge Latin Course Unit 1 Audio CD](/books/info/9780521005029) by North American Cambridge Classics Project
 - (paper) [North American Cambridge Latin Course Unit 1 Student's Book](/books/info/9781107690639) by Cambridge School Classics Project
 - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood
