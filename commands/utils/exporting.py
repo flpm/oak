@@ -175,3 +175,16 @@ def create_theme_list(catalogue):
         "index_title_preposition": "about",
     }
     return make_list(catalogue, list_data)
+
+
+def create_author_list(catalogue):
+    list_data = {
+        "name": "authors",
+        "title": "Index by author",
+        "items": list(),
+        "description": "Go back to the [Bookshelf project](/books).",
+        "attribute": "authors",
+        "attribute_type": "list",
+        "index_title_preposition": "by",
+    }
+    return make_list(catalogue, list_data)

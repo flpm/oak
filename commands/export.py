@@ -2,7 +2,12 @@
 
 from rich import print
 from .utils.file import read_catalogue, write_markdown_book, write_markdown_list
-from .utils.exporting import create_language_list, create_theme_list, include_book
+from .utils.exporting import (
+    create_language_list,
+    create_theme_list,
+    include_book,
+    create_author_list,
+)
 
 
 def export_markdown(output_folder):
@@ -57,14 +62,6 @@ def export_markdown(output_folder):
             list_output_folder=list_output_folder,
             include_items=True,
         )
-    # lang_list["description"] = ""
-    # lang_list["title"] = "All books by language"
-    # write_markdown_list(
-    #     lang_list,
-    #     filename="all_by_language.md",
-    #     list_output_folder=list_output_folder,
-    #     include_items=True,
-    # )
 
     theme_list = create_theme_list(catalogue)
     write_markdown_list(
@@ -80,11 +77,10 @@ def export_markdown(output_folder):
             list_output_folder=list_output_folder,
             include_items=True,
         )
-    # theme_list["description"] = ""
-    # lang_list["title"] = "All books by subject"
-    # write_markdown_list(
-    #     theme_list,
-    #     filename="all_by_subject.md",
-    #     list_output_folder=list_output_folder,
-    #     include_items=True,
-    # )
+
+    author_list = create_author_list(catalogue)
+    write_markdown_list(
+        author_list,
+        list_output_folder=list_output_folder,
+        include_items=False,
+    )

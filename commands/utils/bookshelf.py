@@ -133,6 +133,7 @@ def import_from_bookshelf(export_date):
                 results[isbn]["book"] = book
 
     # Some special corrections for errors in the Bookshelf data
+
     results["9788420482279"]["book"]["language"] = [
         "Spanish"
     ]  # Fix incorrect language in "Que me Quieres Amor"
@@ -142,4 +143,16 @@ def import_from_bookshelf(export_date):
     results["9788501053145"]["book"]["language"] = [
         "Portuguese"
     ]  # Fix incorrect language in "Suor"
+
+    # Harmonize Tolkien name spellings
+    for book_types in results.values():
+        for book_id, book in book_types.items():
+            for author in book["authors"]:
+                if author in ("J.R.R. Tolkien", "J R R Tolkien"):
+                    book["authors"].remove(author)
+                    book["authors"].append("J. R. R. Tolkien")
+
+    # Fix author in Relentless
+    results["9780981912189"]["book"]["authors"] = ["Go Game Guru"]
+
     return results
