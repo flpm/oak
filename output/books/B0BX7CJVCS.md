@@ -1,10 +1,9 @@
 ---
 book_id: B0BX7CJVCS
 full_title: 'Everybody Writes (2nd Edition): Your New and Improved Go-to Guide to
-  Creating Ridiculously Good Content (Unabridged)'
+  Creating Ridiculously Good Content'
 title: Everybody Writes (2nd Edition)
 subtitle: Your New and Improved Go-to Guide to Creating Ridiculously Good Content
-  (Unabridged)
 asin: B0BX7CJVCS
 length: '41184000'
 owned: 'true'
@@ -35,6 +34,8 @@ cover_filename: B0BX7CJVCS.jpg
 purchase_date: '2023-04-17'
 listening_date: '2023-04-17'
 theme: writing
+duration: PT11H26M
+type: audiobook
 ---
 In the newly revised and updated edition of Everybody Writes, marketer and author Ann Handley improves on her Wall Street Journal bestselling book that's helped hundreds of thousands become better, more confident writers.
 In this brand-new edition, she delivers all the practical, how-to advice and insight you need for the process and strategy of content creation, production, and publishing.

@@ -23,11 +23,12 @@ items:
   - '9780262013192'
   - '9781593276201'
   - '9780387848570'
+  - B00TP2UMTS
   - '9783319397559'
   - '9781491949641'
 subtitle: Books about mathematics in general, including probability and statistics
 ---
-I have 21 books about Math in my bookshelf.
+I have 22 books about Math in my bookshelf.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
@@ -49,5 +50,6 @@ I have 21 books about Math in my bookshelf.
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri Bram
 - (paper) [Uncertainty](/books/info/9783319397559) by William Briggs
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg

@@ -252,8 +252,4 @@ def find_book_details(soup):
             value = re.sub(r"\<\/?[^\>]*\>", "", value)
             value = "\n".join([i.strip() for i in value.split("\n") if i.strip()])
         book_details[key] = value
-    if book_details.get("authors") and book_details.get("narrators"):
-        book_details["authors"] = [
-            i for i in book_details["authors"] if i not in book_details["narrators"]
-        ]
     return book_details

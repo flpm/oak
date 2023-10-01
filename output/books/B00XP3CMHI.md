@@ -1,9 +1,9 @@
 ---
 book_id: B00XP3CMHI
 full_title: 'Living History: Experiencing Great Events of the Ancient and Medieval
-  Worlds (Unabridged)'
+  Worlds'
 title: Living History
-subtitle: Experiencing Great Events of the Ancient and Medieval Worlds (Unabridged)
+subtitle: Experiencing Great Events of the Ancient and Medieval Worlds
 asin: B00XP3CMHI
 length: '45551000'
 owned: 'true'
@@ -33,6 +33,8 @@ rating:
 cover_filename: B00XP3CMHI.jpg
 listening_date: '2022-04-15'
 theme: ancient history
+duration: PT12H39M
+type: audiobook
 ---
 Macedonia, 336 B.C.E. - King Philip II is murdered under mysterious circumstances amid a cloud of intrigue.
 Constantinople, 532 C.E. - The Byzantine Emperor Justinian nearly abandons the city to an angry mob until his wife, Theodora, persuades him to stay.

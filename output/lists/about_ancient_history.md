@@ -4,18 +4,31 @@ title: 'Theme: Ancient History'
 items:
 - title: null
   books:
+  - B00D7JMGEY
   - B00MXDGT2A
+  - '9781585104024'
   - B00MFQLERK
   - '9781541699250'
   - '9780133264227'
+  - B00LG7MR20
+  - B00DG7NVXC
+  - '9780520061156'
   - '9780806140278'
   - '9788420635484'
+  - B00D8G1DPO
   - '9781107675698'
+  - B00DB92ATG
+  - B00DEK3UAU
+  - B00DC8CFZK
+  - '9782711841103'
+  - '9780714119106'
   - B002V8KXYC
   - '9782080812988'
   - '9788420691060'
+  - '9781606064665'
   - '9782877726351'
   - '9782877726894'
+  - B00XP3CMHI
   - '9788420635507'
   - '9788420637440'
   - B01865AOJW
@@ -23,25 +36,45 @@ items:
   - '9780500288993'
   - '1977330053'
   - 197734996X
+  - '9780691245607'
+  - B00DC5SB06
+  - B078HDSHQJ
+  - B07MDHVBLY
   - '9781566568968'
+  - '9780714150215'
+  - '9780691166407'
   - '9782228930376'
+  - B00F52DXH0
 subtitle: Books from the beginning of recorded human history to the Early Middle Ages
 ---
-I have 21 books about Ancient History in my bookshelf.
+I have 41 books about Ancient History in my bookshelf.
 
 ### Titles:
+- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
+- (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
 - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
 - (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by H. E. L. Mellersh
+- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck
+- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale
+- (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker
 - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
+- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
 - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
+- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan
+- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
+- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver
+- (paper) [Hiéroglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin
+- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
 - (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
+- (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
+- (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
@@ -49,5 +82,12 @@ I have 21 books about Ancient History in my bookshelf.
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy
 - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard
+- (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor
+- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale
+- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete
+- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
+- (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
+- (paper) [Three Stones Make a Wall](/books/info/9780691166407) by Eric H. Cline
 - (paper) [Une journée dans la Rome antique](/books/info/9782228930376) by Alberto Angela
+- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender

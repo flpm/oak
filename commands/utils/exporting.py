@@ -1,6 +1,18 @@
 from collections import defaultdict
 
 
+include_themes = {
+    "archaeology": ["ancient history"],
+    "epigraphy": ["ancient history", "archaeology"],
+    "typography": ["design"],
+    "anxiety": ["psychology"],
+    "autism": ["psychology"],
+    "software": ["engineering"],
+    "ancient history": ["history"],
+    "historical novel": ["novel"],
+    "math": ["science"],
+}
+
 subtitles_by_value = {
     # Themes
     "ancient history": "Books from the beginning of recorded human history to the Early Middle Ages",
@@ -29,7 +41,7 @@ subtitles_by_value = {
     "graphic novels": "Graphic novels, including comics",
     "graphs": "Books about graphs and graph theory",
     "historical novel": "Novels set in the past, including historical fiction",
-    "history": "Books about history in general, excluding ancient history",
+    "history": "Books about history in general",
     "humor": "Books about humor and comedy",
     "kids": "Books for kids",
     "labyrinths": "Books about labyrinths, including mazes",
@@ -41,14 +53,14 @@ subtitles_by_value = {
     "music": "Books about music and musicians",
     "mythology": "Books about mythology, including the study of myths and the history of myths",
     "new york": "Books about New York City",
-    "novel": "Novels, excluding historical novels",
+    "novel": "Novels, including historical novels",
     "paris": "Books about the city of Paris",
     "personal growth": "Books about personal growth and related topics",
     "philosophy": "Books about philosophy in general, including the history of philosophy",
     "photography": "Books about photography and photographers",
     "poetry": "Books about poetry, including collections of poems",
     "presentation": "Books about presentation skills",
-    "psychology": "Books about psychology in general, excluding autism and anxiety",
+    "psychology": "Books about psychology in general",
     "puzzles": "Books about puzzles and other games",
     "reading": "Books about reading, including critical reading and literature analysis",
     "role-playing games": "Books about tabletop role-playing games",
@@ -75,10 +87,14 @@ def make_list(catalogue, list_data, include_audiobook_samples=False):
             entry = book.get(list_data["attribute"], None)
             if entry:
                 if entry_type == "str":
-                    ordered_data[entry].append(book)
+                    for alias_entry in include_themes.get(entry, []) + [entry]:
+                        ordered_data[alias_entry].append(book)
                 elif entry_type == "list":
                     for element in entry:
-                        ordered_data[element].append(book)
+                        for alias_element in include_themes.get(element, []) + [
+                            element
+                        ]:
+                            ordered_data[alias_element].append(book)
                 else:
                     ValueError(f"Unknown attribute type {entry_type}")
 

@@ -30,6 +30,8 @@ rating:
 cover_filename: B00DC8CFZK.jpg
 listening_date: '2023-05-15'
 theme: ancient history
+duration: PT12H17M
+type: audiobook
 ---
 Witness the "works and wonders" of the ancient world through the eyes of its first great historian in this sparkling series of 24 lectures from a much-honored teacher and classical scholar.
 Herodotus (c. 484-420 B.C.E.) was a Greek who was born in what is now the modern Turkish resort town of Bodrum and who died, so tradition says, in the south of Italy. In between, his tirelessly inquiring mind took him from one corner of the known world to another. And he reported on or visited all of its continents (Europe, Asia, and Africa) to write about the vast array of subjects that captured his interest. These included the "great works" of the ancient land of Egypt; the remarkable kings who built the vast Persian Empire; and the strange customs and unlikely origins of the Scythians, a warlike, mounted people who lived beyond the Danube and whose repulse of Darius and the Persians in 513 B.C.E. made them the first Europeans to throw back an eastern invasion.

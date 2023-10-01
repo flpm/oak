@@ -11,6 +11,7 @@ items:
   - '9780345457684'
   - '9788535906172'
   - '9788501009418'
+  - '9788408267461'
   - '9788433924889'
   - '9788432217104'
   - '9788408093107'
@@ -38,9 +39,9 @@ items:
   - '9782070361038'
   - '9789725684573'
   - '9788420482279'
-subtitle: Novels, excluding historical novels
+subtitle: Novels, including historical novels
 ---
-I have 34 books about Novel in my bookshelf.
+I have 35 books about Novel in my bookshelf.
 
 ### Titles:
 - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge Amado
@@ -50,6 +51,7 @@ I have 34 books about Novel in my bookshelf.
 - (paper) [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
 - (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado
+- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461) by Luis Garcia Jambrina
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 - (paper) [La ciudad de los prodigios](/books/info/9788432217104) by Eduardo Mendoza
 - (paper) [La sombra del viento](/books/info/9788408093107) by Carlos Ruiz Zafon

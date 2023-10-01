@@ -10,9 +10,10 @@ items:
   - '9780714119106'
   - '9781606064665'
   - '9780714150215'
+  - B00F52DXH0
 subtitle: Books about the study of inscriptions and writing systems
 ---
-I have 6 books about Epigraphy in my bookshelf.
+I have 7 books about Epigraphy in my bookshelf.
 
 ### Titles:
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
@@ -21,3 +22,4 @@ I have 6 books about Epigraphy in my bookshelf.
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
+- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender

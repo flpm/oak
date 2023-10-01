@@ -24,6 +24,7 @@ topics:
 - Child Development
 - Trauma Informed Parenting
 authors:
+- Tina Payne Bryson PhD
 - Daniel j. Siegel MD
 narrators:
 - Daniel J. Siegel MD

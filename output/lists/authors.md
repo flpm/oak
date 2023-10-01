@@ -518,6 +518,20 @@ index:
     - title: null
       books:
       - '9780201616224'
+  Angela Duckworth:
+    name: by Angela Duckworth
+    title: 'Authors: Angela Duckworth'
+    subtitle: Books by Angela Duckworth
+    description: 'I have 1 book by Angela Duckworth in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth'
+    items:
+    - title: null
+      books:
+      - B01D3AC5BA
   Anil K. Jain:
     name: by Anil K. Jain
     title: 'Authors: Anil K. Jain'
@@ -533,6 +547,20 @@ index:
     - title: null
       books:
       - '9781848822542'
+  Ann Handley:
+    name: by Ann Handley
+    title: 'Authors: Ann Handley'
+    subtitle: Books by Ann Handley
+    description: 'I have 1 book by Ann Handley in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley'
+    items:
+    - title: null
+      books:
+      - B0BX7CJVCS
   Anne H. Groton:
     name: by Anne H. Groton
     title: 'Authors: Anne H. Groton'
@@ -1632,8 +1660,8 @@ index:
 
       ### Titles:
 
-      - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Daniel j. Siegel
-      MD'
+      - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson
+      PhD, Daniel j. Siegel MD'
     items:
     - title: null
       books:
@@ -2098,6 +2126,21 @@ index:
     - title: null
       books:
       - '9781591842316'
+  Donald J. Robertson:
+    name: by Donald J. Robertson
+    title: 'Authors: Donald J. Robertson'
+    subtitle: Books by Donald J. Robertson
+    description: 'I have 1 book by Donald J. Robertson in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald
+      J. Robertson'
+    items:
+    - title: null
+      books:
+      - B07FB135GG
   Donis A Dondis:
     name: by Donis A Dondis
     title: 'Authors: Donis A Dondis'
@@ -2173,6 +2216,20 @@ index:
     - title: null
       books:
       - '9780205309023'
+  Eddie Izzard:
+    name: by Eddie Izzard
+    title: 'Authors: Eddie Izzard'
+    subtitle: Books by Eddie Izzard
+    description: 'I have 1 book by Eddie Izzard in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard'
+    items:
+    - title: null
+      books:
+      - B06XWYMP73
   Edmund J. Bourne:
     name: by Edmund J. Bourne
     title: 'Authors: Edmund J. Bourne'
@@ -2258,6 +2315,23 @@ index:
     - title: null
       books:
       - '9783931141967'
+  Elizabeth Vandiver:
+    name: by Elizabeth Vandiver
+    title: 'Authors: Elizabeth Vandiver'
+    subtitle: Books by Elizabeth Vandiver
+    description: 'I have 2 books by Elizabeth Vandiver in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver
+
+      - (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver'
+    items:
+    - title: null
+      books:
+      - B00D99PNKQ
+      - B00DC8CFZK
   Ellen Lupton:
     name: by Ellen Lupton
     title: 'Authors: Ellen Lupton'
@@ -2617,6 +2691,21 @@ index:
     - title: null
       books:
       - '9781461471370'
+  Garrett G. Fagan:
+    name: by Garrett G. Fagan
+    title: 'Authors: Garrett G. Fagan'
+    subtitle: Books by Garrett G. Fagan
+    description: 'I have 1 book by Garrett G. Fagan in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett
+      G. Fagan'
+    items:
+    - title: null
+      books:
+      - B00DB92ATG
   Gary Larson:
     name: by Gary Larson
     title: 'Authors: Gary Larson'
@@ -2840,6 +2929,20 @@ index:
     - title: null
       books:
       - '9788501005588'
+  Grant L. Voth:
+    name: by Grant L. Voth
+    title: 'Authors: Grant L. Voth'
+    subtitle: Books by Grant L. Voth
+    description: 'I have 1 book by Grant L. Voth in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth'
+    items:
+    - title: null
+      books:
+      - B00DDXQ61S
   Greg D'Onofrio:
     name: by Greg D'Onofrio
     title: 'Authors: Greg D''Onofrio'
@@ -2873,17 +2976,23 @@ index:
     name: by Gregory S. Aldrete
     title: 'Authors: Gregory S. Aldrete'
     subtitle: Books by Gregory S. Aldrete
-    description: 'I have 1 book by Gregory S. Aldrete in my bookshelf.
+    description: 'I have 3 books by Gregory S. Aldrete in my bookshelf.
 
 
       ### Titles:
 
       - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory
-      S. Aldrete'
+      S. Aldrete
+
+      - (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete
+
+      - (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete'
     items:
     - title: null
       books:
       - '9780806140278'
+      - B078HDSHQJ
+      - B07MDHVBLY
   Groucho Marx:
     name: by Groucho Marx
     title: 'Authors: Groucho Marx'
@@ -3316,6 +3425,20 @@ index:
       - '9788445071779'
       - '9788445071762'
       - '9780547928241'
+  J. Rufus Fears:
+    name: by J. Rufus Fears
+    title: 'Authors: J. Rufus Fears'
+    subtitle: Books by J. Rufus Fears
+    description: 'I have 1 book by J. Rufus Fears in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears'
+    items:
+    - title: null
+      books:
+      - B00D8G1DPO
   J.C. Catford:
     name: by J.C. Catford
     title: 'Authors: J.C. Catford'
@@ -3398,6 +3521,20 @@ index:
     - title: null
       books:
       - '9782203399327'
+  Jake Knapp:
+    name: by Jake Knapp
+    title: 'Authors: Jake Knapp'
+    subtitle: Books by Jake Knapp
+    description: 'I have 1 book by Jake Knapp in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky'
+    items:
+    - title: null
+      books:
+      - B07DHSQL6Q
   James Davies:
     name: by James Davies
     title: 'Authors: James Davies'
@@ -3721,6 +3858,21 @@ index:
     - title: null
       books:
       - '9783836545303'
+  Jeremy McInerney:
+    name: by Jeremy Mcinerney
+    title: 'Authors: Jeremy Mcinerney'
+    subtitle: Books by Jeremy Mcinerney
+    description: 'I have 1 book by Jeremy Mcinerney in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)
+      by Jeremy McInerney'
+    items:
+    - title: null
+      books:
+      - B00D7JMGEY
   Jeremy Miles:
     name: by Jeremy Miles
     title: 'Authors: Jeremy Miles'
@@ -4034,6 +4186,24 @@ index:
     - title: null
       books:
       - '9784906574018'
+  John R. Hale:
+    name: by John R. Hale
+    title: 'Authors: John R. Hale'
+    subtitle: Books by John R. Hale
+    description: 'I have 2 books by John R. Hale in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)
+      by John R. Hale
+
+      - (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale'
+    items:
+    - title: null
+      books:
+      - B00DG7NVXC
+      - B00DC5SB06
   John Tukey:
     name: by John Tukey
     title: 'Authors: John Tukey'
@@ -4048,6 +4218,20 @@ index:
     - title: null
       books:
       - '9780201076165'
+  John Zeratsky:
+    name: by John Zeratsky
+    title: 'Authors: John Zeratsky'
+    subtitle: Books by John Zeratsky
+    description: 'I have 1 book by John Zeratsky in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky'
+    items:
+    - title: null
+      books:
+      - B07DHSQL6Q
   Jordan Ellenberg:
     name: by Jordan Ellenberg
     title: 'Authors: Jordan Ellenberg'
@@ -4498,6 +4682,20 @@ index:
     - title: null
       books:
       - '9781466887817'
+  Kevin Flanigan:
+    name: by Kevin Flanigan
+    title: 'Authors: Kevin Flanigan'
+    subtitle: Books by Kevin Flanigan
+    description: 'I have 1 book by Kevin Flanigan in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan'
+    items:
+    - title: null
+      books:
+      - B00SJIVE3W
   Kevin Hemenway:
     name: by Kevin Hemenway
     title: 'Authors: Kevin Hemenway'
@@ -4871,6 +5069,20 @@ index:
     - title: null
       books:
       - '9788420482279'
+  Marc Zender:
+    name: by Marc Zender
+    title: 'Authors: Marc Zender'
+    subtitle: Books by Marc Zender
+    description: 'I have 1 book by Marc Zender in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender'
+    items:
+    - title: null
+      books:
+      - B00F52DXH0
   Marc {OCLCbr#C9}tienne:
     name: by Marc {Oclcbr#C9}Tienne
     title: 'Authors: Marc {Oclcbr#C9}Tienne'
@@ -5278,7 +5490,8 @@ index:
 
       ### Titles:
 
-      - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini'
+      - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd
+      Portnowitz'
     items:
     - title: null
       books:
@@ -5972,6 +6185,23 @@ index:
     - title: null
       books:
       - '9781101648056'
+  Robert Garland:
+    name: by Robert Garland
+    title: 'Authors: Robert Garland'
+    subtitle: Books by Robert Garland
+    description: 'I have 2 books by Robert Garland in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
+
+      - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland'
+    items:
+    - title: null
+      books:
+      - B00DEK3UAU
+      - B00XP3CMHI
   Robert J. Gula:
     name: by Robert J. Gula
     title: 'Authors: Robert J. Gula'
@@ -6186,6 +6416,21 @@ index:
       books:
       - '9788571641143'
       - '9788520924556'
+  Rufus Wainwright:
+    name: by Rufus Wainwright
+    title: 'Authors: Rufus Wainwright'
+    subtitle: Books by Rufus Wainwright
+    description: 'I have 1 book by Rufus Wainwright in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP)
+      by Rufus Wainwright'
+    items:
+    - title: null
+      books:
+      - B08M93Q9SP
   S.I. Hayakawa:
     name: by S.I. Hayakawa
     title: 'Authors: S.I. Hayakawa'
@@ -6550,15 +6795,18 @@ index:
     name: by Stephen King
     title: 'Authors: Stephen King'
     subtitle: Books by Stephen King
-    description: 'I have 1 book by Stephen King in my bookshelf.
+    description: 'I have 2 books by Stephen King in my bookshelf.
 
 
       ### Titles:
+
+      - (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 
       - (paper) [The Stand](/books/info/9780307947307) by Stephen King'
     items:
     - title: null
       books:
+      - B002V1A0WE
       - '9780307947307'
   Stephen Prata:
     name: by Stephen Prata
@@ -6616,6 +6864,21 @@ index:
     - title: null
       books:
       - '9781419724015'
+  Steven L. Tuck:
+    name: by Steven L. Tuck
+    title: 'Authors: Steven L. Tuck'
+    subtitle: Books by Steven L. Tuck
+    description: 'I have 1 book by Steven L. Tuck in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L.
+      Tuck'
+    items:
+    - title: null
+      books:
+      - B00LG7MR20
   Steven Levy:
     name: by Steven Levy
     title: 'Authors: Steven Levy'
@@ -6897,6 +7160,36 @@ index:
     - title: null
       books:
       - '9781592533879'
+  Tina Payne Bryson PhD:
+    name: by Tina Payne Bryson Phd
+    title: 'Authors: Tina Payne Bryson Phd'
+    subtitle: Books by Tina Payne Bryson Phd
+    description: 'I have 1 book by Tina Payne Bryson Phd in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson
+      PhD, Daniel j. Siegel MD'
+    items:
+    - title: null
+      books:
+      - B00NJ58OWE
+  Todd Portnowitz:
+    name: by Todd Portnowitz
+    title: 'Authors: Todd Portnowitz'
+    subtitle: Books by Todd Portnowitz
+    description: 'I have 1 book by Todd Portnowitz in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd
+      Portnowitz'
+    items:
+    - title: null
+      books:
+      - 125075044X
   Tom Igoe:
     name: by Tom Igoe
     title: 'Authors: Tom Igoe'
@@ -7015,6 +7308,20 @@ index:
       books:
       - '9782205054064'
       - '9782205050080'
+  Uri Bram:
+    name: by Uri Bram
+    title: 'Authors: Uri Bram'
+    subtitle: Books by Uri Bram
+    description: 'I have 1 book by Uri Bram in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri Bram'
+    items:
+    - title: null
+      books:
+      - B00TP2UMTS
   Vahram Muratyan:
     name: by Vahram Muratyan
     title: 'Authors: Vahram Muratyan'
@@ -7048,17 +7355,21 @@ index:
     name: by Verlyn Klinkenborg
     title: 'Authors: Verlyn Klinkenborg'
     subtitle: Books by Verlyn Klinkenborg
-    description: 'I have 1 book by Verlyn Klinkenborg in my bookshelf.
+    description: 'I have 2 books by Verlyn Klinkenborg in my bookshelf.
 
 
       ### Titles:
 
       - (paper) [Several Short Sentences About Writing](/books/info/9780307279415)
-      by Verlyn Klinkenborg'
+      by Verlyn Klinkenborg
+
+      - (audio) [Several Short Sentences About Writing](/books/info/B0774ZRRJL) by
+      Verlyn Klinkenborg'
     items:
     - title: null
       books:
       - '9780307279415'
+      - B0774ZRRJL
   Victor Hugo:
     name: by Victor Hugo
     title: 'Authors: Victor Hugo'
@@ -7377,6 +7688,20 @@ index:
     - title: null
       books:
       - '9781623485566'
+  Yo-Yo Ma:
+    name: by Yo-Yo Ma
+    title: 'Authors: Yo-Yo Ma'
+    subtitle: Books by Yo-Yo Ma
+    description: 'I have 1 book by Yo-Yo Ma in my bookshelf.
+
+
+      ### Titles:
+
+      - (audio) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma'
+    items:
+    - title: null
+      books:
+      - B08ZYXLTYG
   Yoann Chivard ; dit Yoann:
     name: by Yoann Chivard ; Dit Yoann
     title: 'Authors: Yoann Chivard ; Dit Yoann'
@@ -7569,8 +7894,12 @@ index:
 - (paper) [Discovering Statistics Using R](/books/info/9781446200469) by Andy Field, Jeremy Miles, Zoe Field
 ### [Andy Hunt](/books/by_andy_hunt) (1)
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
+### [Angela Duckworth](/books/by_angela_duckworth) (1)
+- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth
 ### [Anil K. Jain](/books/by_anil_k._jain) (1)
 - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
+### [Ann Handley](/books/by_ann_handley) (1)
+- (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
 ### [Anne H. Groton](/books/by_anne_h._groton) (1)
 - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M. May, Frederic M. Wheelock
 ### [Anthony Grafton](/books/by_anthony_grafton) (1)
@@ -7727,7 +8056,7 @@ index:
 ### [Daniel Shiffman](/books/by_daniel_shiffman) (1)
 - (paper) [The Nature of Code](/books/info/9780985930806) by Daniel Shiffman
 ### [Daniel j. Siegel MD](/books/by_daniel_j._siegel_md) (1)
-- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Daniel j. Siegel MD
+- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
 ### [Daphne Koller](/books/by_daphne_koller) (1)
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 ### [Dario Maio](/books/by_dario_maio) (1)
@@ -7794,6 +8123,8 @@ index:
 - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don Norman
 ### [Don Tapscott](/books/by_don_tapscott) (1)
 - (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
+### [Donald J. Robertson](/books/by_donald_j._robertson) (1)
+- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 ### [Donis A Dondis](/books/by_donis_a_dondis) (1)
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis
 ### [Douglas Crockford](/books/by_douglas_crockford) (1)
@@ -7804,6 +8135,8 @@ index:
 - (paper) [How to Measure Anything in Cybersecurity Risk](/books/info/9781119085294) by Douglas W. Hubbard, Richard Seiersen
 ### [E.B. White](/books/by_e.b._white) (1)
 - (paper) [The Elements of Style](/books/info/9780205309023) by Jr. William Strunk, E.B. White
+### [Eddie Izzard](/books/by_eddie_izzard) (1)
+- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard
 ### [Edmund J. Bourne](/books/by_edmund_j._bourne) (1)
 - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund J. Bourne
 ### [Eduardo Mendoza](/books/by_eduardo_mendoza) (1)
@@ -7817,6 +8150,9 @@ index:
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
 ### [Elizabeth Janus](/books/by_elizabeth_janus) (1)
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
+### [Elizabeth Vandiver](/books/by_elizabeth_vandiver) (2)
+- (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver
+- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver
 ### [Ellen Lupton](/books/by_ellen_lupton) (5)
 - (paper) [D.I.Y.: Design It Yourself](/books/info/9781568985527) by Ellen Lupton
 - (paper) [Design Writing Research](/books/info/9780714838519) by Ellen Lupton
@@ -7873,6 +8209,8 @@ index:
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
 ### [Gareth James](/books/by_gareth_james) (1)
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
+### [Garrett G. Fagan](/books/by_garrett_g._fagan) (1)
+- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan
 ### [Gary Larson](/books/by_gary_larson) (1)
 - (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary Larson
 ### [Gene Kranz](/books/by_gene_kranz) (1)
@@ -7905,12 +8243,16 @@ index:
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 ### [Graciliano Ramos](/books/by_graciliano_ramos) (1)
 - (paper) [Vidas Secas](/books/info/9788501005588) by Graciliano Ramos
+### [Grant L. Voth](/books/by_grant_l._voth) (1)
+- (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth
 ### [Greg D'Onofrio](/books/by_greg_d'onofrio) (1)
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
 ### [Gregory G. Colomb](/books/by_gregory_g._colomb) (1)
 - (paper) [Style](/books/info/9780226899152) by Joseph M. Williams, Gregory G. Colomb
-### [Gregory S. Aldrete](/books/by_gregory_s._aldrete) (1)
+### [Gregory S. Aldrete](/books/by_gregory_s._aldrete) (3)
 - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
+- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete
+- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete
 ### [Groucho Marx](/books/by_groucho_marx) (1)
 - (paper) [The Essential Groucho](/books/info/9780140294255) by Groucho Marx
 ### [Guy Kawasaki](/books/by_guy_kawasaki) (1)
@@ -7980,6 +8322,8 @@ index:
 - (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [Las dos torres (El Señor de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien
 - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
+### [J. Rufus Fears](/books/by_j._rufus_fears) (1)
+- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
 ### [J.C. Catford](/books/by_j.c._catford) (1)
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
 ### [J.R.R. Tolkien](/books/by_j.r.r._tolkien) (2)
@@ -7993,6 +8337,8 @@ index:
 - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert
 ### [Jacques Tardi](/books/by_jacques_tardi) (1)
 - (paper) [Nestor Burma](/books/info/9782203399327) by Jacques Tardi, Léo Malet, Emmanuel Moynot
+### [Jake Knapp](/books/by_jake_knapp) (1)
+- (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 ### [James Davies](/books/by_james_davies) (3)
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
 - (paper) [Attack and Defense (Elementary Go Series, #5)](/books/info/9784906574148) by Akira Ishida, James Davies
@@ -8041,6 +8387,8 @@ index:
 - (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 ### [Jens Müller](/books/by_jens_müller) (1)
 - (paper) [LOGO Modernism](/books/info/9783836545303) by Jens Müller
+### [Jeremy McInerney](/books/by_jeremy_mcinerney) (1)
+- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
 ### [Jeremy Miles](/books/by_jeremy_miles) (1)
 - (paper) [Discovering Statistics Using R](/books/info/9781446200469) by Andy Field, Jeremy Miles, Zoe Field
 ### [Jerome Friedman](/books/by_jerome_friedman) (1)
@@ -8089,8 +8437,13 @@ index:
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
 ### [John Power](/books/by_john_power) (1)
 - (paper) [Invincible](/books/info/9784906574018) by John Power
+### [John R. Hale](/books/by_john_r._hale) (2)
+- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale
+- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale
 ### [John Tukey](/books/by_john_tukey) (1)
 - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
+### [John Zeratsky](/books/by_john_zeratsky) (1)
+- (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 ### [Jordan Ellenberg](/books/by_jordan_ellenberg) (1)
 - (paper) [How Not to Be Wrong](/books/info/9781594205224) by Jordan Ellenberg
 ### [Jordi Pujol](/books/by_jordi_pujol) (1)
@@ -8159,6 +8512,8 @@ index:
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
 ### [Kenneth Grahame](/books/by_kenneth_grahame) (1)
 - (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
+### [Kevin Flanigan](/books/by_kevin_flanigan) (1)
+- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 ### [Kevin Hemenway](/books/by_kevin_hemenway) (1)
 - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
 ### [Khoi Vinh](/books/by_khoi_vinh) (1)
@@ -8216,6 +8571,8 @@ index:
 - (paper) [Visual Complexity](/books/info/9781616892197) by Manuel Lima
 ### [Manuel Rivas](/books/by_manuel_rivas) (1)
 - (paper) [¿Qué me quieres, amor?](/books/info/9788420482279) by Manuel Rivas
+### [Marc Zender](/books/by_marc_zender) (1)
+- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender
 ### [Marc {OCLCbr#C9}tienne](/books/by_marc_{oclcbr#c9}tienne) (1)
 - (paper) [Les Dieux de l'Egypte](/books/info/9782711837564) by Marc {OCLCbr#C9}tienne
 ### [Marcus Aurelius](/books/by_marcus_aurelius) (2)
@@ -8277,7 +8634,7 @@ index:
 ### [Nancy Duarte](/books/by_nancy_duarte) (1)
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
 ### [Nicola Gardini](/books/by_nicola_gardini) (1)
-- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 ### [Nigel Findley](/books/by_nigel_findley) (1)
 - (paper) [Tome of Magic (Advanced Dungeon & Dragons](/books/info/9781560761075) by David Zeb Cook, Nigel Findley, Anthony Herring, Christopher Kubasik, Carl Sargent, Rick Swan
 ### [Nigel Warburton](/books/by_nigel_warburton) (2)
@@ -8377,6 +8734,9 @@ index:
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
 ### [Robert Burleigh](/books/by_robert_burleigh) (1)
 - (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
+### [Robert Garland](/books/by_robert_garland) (2)
+- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
+- (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 ### [Robert J. Gula](/books/by_robert_j._gula) (1)
 - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula
 ### [Robert Kirkman](/books/by_robert_kirkman) (1)
@@ -8410,6 +8770,8 @@ index:
 ### [Rubem Fonseca](/books/by_rubem_fonseca) (2)
 - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
 - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
+### [Rufus Wainwright](/books/by_rufus_wainwright) (1)
+- (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP) by Rufus Wainwright
 ### [S.I. Hayakawa](/books/by_s.i._hayakawa) (1)
 - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R. Hayakawa
 ### [Salil Prabhakar](/books/by_salil_prabhakar) (1)
@@ -8462,7 +8824,8 @@ index:
 - (paper) [D-Day: June 6, 1944](/books/info/9780684801377) by Stephen E. Ambrose
 ### [Stephen Fry - introductions](/books/by_stephen_fry_-_introductions) (1)
 - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
-### [Stephen King](/books/by_stephen_king) (1)
+### [Stephen King](/books/by_stephen_king) (2)
+- (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [The Stand](/books/info/9780307947307) by Stephen King
 ### [Stephen Prata](/books/by_stephen_prata) (1)
 - (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
@@ -8472,6 +8835,8 @@ index:
 - (paper) [Interviewing Users](/books/info/9781933820118) by Steve Portigal
 ### [Steven Heller](/books/by_steven_heller) (1)
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
+### [Steven L. Tuck](/books/by_steven_l._tuck) (1)
+- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck
 ### [Steven Levy](/books/by_steven_levy) (1)
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
 ### [Steven Pinker](/books/by_steven_pinker) (1)
@@ -8516,6 +8881,10 @@ index:
 - (paper) [The School of Life](/books/info/9781912891160) by The School of Life
 ### [Timothy Samara](/books/by_timothy_samara) (1)
 - (paper) [Design Evolution](/books/info/9781592533879) by Timothy Samara
+### [Tina Payne Bryson PhD](/books/by_tina_payne_bryson_phd) (1)
+- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
+### [Todd Portnowitz](/books/by_todd_portnowitz) (1)
+- (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 ### [Tom Igoe](/books/by_tom_igoe) (1)
 - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 ### [Tom Stoppard](/books/by_tom_stoppard) (1)
@@ -8534,12 +8903,15 @@ index:
 ### [Trondheim/Lewis](/books/by_trondheim/lewis) (2)
 - (paper) [L'Accélérateur Atomique (Les Formidables Aventures De Lapinot, #9)](/books/info/9782205054064) by Trondheim/Lewis
 - (paper) [Pichenettes (Les Formidables Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis
+### [Uri Bram](/books/by_uri_bram) (1)
+- (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri Bram
 ### [Vahram Muratyan](/books/by_vahram_muratyan) (1)
 - (paper) [Paris versus New York](/books/info/9780143120254) by Vahram Muratyan
 ### [Varios autores](/books/by_varios_autores) (1)
 - (paper) [Las divertidas aventuras de las letras](/books/info/9788421685129) by Varios autores
-### [Verlyn Klinkenborg](/books/by_verlyn_klinkenborg) (1)
+### [Verlyn Klinkenborg](/books/by_verlyn_klinkenborg) (2)
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
+- (audio) [Several Short Sentences About Writing](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
 ### [Victor Hugo](/books/by_victor_hugo) (3)
 - (paper) [Les Misérables](/books/info/9782253096344) by Victor Hugo
 - (paper) [Les Misérables](/books/info/9782253096337) by Victor Hugo
@@ -8590,6 +8962,8 @@ index:
 - (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata
 ### [Yevgeniya Yerektskaya](/books/by_yevgeniya_yerektskaya) (1)
 - (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
+### [Yo-Yo Ma](/books/by_yo-yo_ma) (1)
+- (audio) [Beginner's Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
 ### [Yoann Chivard ; dit Yoann](/books/by_yoann_chivard_;_dit_yoann) (1)
 - (paper) [La Voleuse du Père-Fauteuil, Tome 2](/books/info/9782205053326) by Omond, Yoann Chivard ; dit Yoann
 ### [Yoshinori Kano](/books/by_yoshinori_kano) (4)
