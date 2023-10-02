@@ -24,7 +24,7 @@ subtitles_by_value = {
     "autism": "Books about autism and related topics",
     "biography": "Books about the life of a person",
     "business": "Books about business and related topics",
-    "ciphers": "Books about ciphers befpre modern cryptography",
+    "ciphers": "Books about ciphers before modern cryptography",
     "computational design": "Books about graphic design and art created using code",
     "crime Fiction": "Books about fictionale stories involving a crime",
     "data": "Books about data and data analysis",
