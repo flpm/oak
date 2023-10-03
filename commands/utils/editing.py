@@ -60,6 +60,10 @@ def book_action(
         "rename": "Rename theme",
         "find theme": "Find a book by theme",
         "top shelf": "Add top shelf attributes",
+        "rank": "Edit the book ranking",
+        "note": "Edit the book note",
+        "list": "List all book attributes",
+        "set": "Set a book attribute",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -124,6 +128,13 @@ def edit_loop(catalogue):
             "purchase_date", x[2].get("listening_date", "9999-99-99")
         ),
     )
+    ranking = sorted(
+        [book for book in flat_catalogue if book[2].get("ranking") is not None],
+        key=lambda x: x[2].get("ranking"),
+    )
+    print(f"Initial ranking: {len(ranking)} books.")
+    for *_, b_book in ranking:
+        print(f"Ranking: {b_book.get('ranking')} {b_book.get('title')}")
 
     orders = read_amazon_orders()
 
@@ -131,7 +142,6 @@ def edit_loop(catalogue):
     current_index = 0
     while True:
         book_id, book_type, book = flat_catalogue[current_index]
-        print(book.get("title", "<missing title>"))
         answer = None
         while answer not in ("next", "prev", "go", "find"):
             answer = book_action(
@@ -199,6 +209,11 @@ def edit_loop(catalogue):
                     break
 
             elif answer == "save":
+                for *_, b_book in flat_catalogue:
+                    b_book.pop("ranking", None)
+                for position, (*_, b_book) in enumerate(ranking):
+                    print(f"Ranking: {position + 1} {b_book.get('title')}")
+                    b_book["ranking"] = position + 1
                 save_catalogue(catalogue)
                 print("[green]Catalogue saved[/green]")
 
@@ -305,3 +320,69 @@ def edit_loop(catalogue):
                         book.pop("first_edition", None)
                         book.pop("first_edition_details", None)
                 answer = "not top shelf"
+
+            elif answer == "rank":
+                print(f"Current ranking ({len(ranking)} books):")
+                for position, (*_, b_book) in enumerate(ranking):
+                    print(f"{position + 1} {b_book.get('title', '<missing title>')}")
+                if book_id in [b[0] for b in ranking]:
+                    if confirm("Remove this book from ranking?", False):
+                        ranking = [b for b in ranking if b[0] != book_id]
+                rank = Prompt.ask("Enter the ranking for this book (e.g. 1)")
+                if rank:
+                    try:
+                        rank = int(rank)
+                        if book_id in [b[0] for b in ranking]:
+                            ranking = [b for b in ranking if b[0] != book_id]
+                        if rank < 1 or rank > len(ranking) + 2:
+                            raise ValueError
+
+                        ranking = [b for b in ranking if b[0] != book_id]
+                        if rank > len(ranking):
+                            ranking.append((book_id, book_type, book))
+                        else:
+                            ranking = (
+                                ranking[: rank - 1]
+                                + [(book_id, book_type, book)]
+                                + ranking[rank - 1 :]
+                            )
+                        print("[green]Update ranking.[/green]")
+                    except ValueError:
+                        print("[red]Invalid rank[/red]")
+                answer = "not rank"
+
+            elif answer == "note":
+                current_note = book.get("note")
+                if current_note:
+                    print("Current note:")
+                    print(f"[bold white]{current_note}[/bold white]")
+                    if confirm("Remove the note?", False):
+                        book.pop("note")
+                        print("[red]Deleted note.[/red]")
+                note = Prompt.ask("Enter a note for the book (you can enter markdown)")
+                if note:
+                    book["note"] = note
+                    print("[green]Theme set[/green]")
+                answer = "not note"
+
+            elif answer == "list":
+                print("\n[bold yellow]Book attributes:[/bold yellow]")
+                for attribute, value in book.items():
+                    if not value:
+                        value = "<blank>"
+                    print(f"{attribute}: [bold white]{value}[/bold white]")
+                if confirm("Change an attribute?", False):
+                    attribute = Prompt.ask("Enter the attribute to set (e.g. language)")
+                    if old_value := book.get(attribute):
+                        print(
+                            f"Current {attribute}: [bold white]{old_value}[/bold white]"
+                        )
+                    value = Prompt.ask(
+                        "Enter the attribute value (e.g. ['English', 'French'])"
+                    )
+                    if not value and confirm("Set the attribute to None?", False):
+                        value = None
+                    print(f"New {attribute}: [bold yellow]{value}[/bold yellow]")
+                    if confirm("Change the attribute?", False):
+                        book[attribute] = value
+                        print("[green]Attribute set[/green]")

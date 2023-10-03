@@ -13,7 +13,6 @@ def run_edit_loop():
     """Run the edit loop."""
     catalogue = defaultdict(dict, read_catalogue())
     print(f"Books in catalogue: {len(catalogue)} books.")
-    print(f"Manage the book purchase dates.")
     catalogue = edit_loop(catalogue)
     if typer.confirm("Save catalogue?", False):
         print("[green]Saving catalogue...[/green]")

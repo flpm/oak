@@ -36,5 +36,6 @@ listening_date: '2022-07-24'
 theme: ancient history
 duration: PT24H46M
 type: audiobook
+ranking: 9
 ---
 Tracing the extraordinary trajectory of Julius Caesar's life, Adrian Goldsworthy covers not only the great Roman emperor's accomplishments as charismatic orator, conquering general, and powerful dictator but also lesser-known chapters. Ultimately, Goldsworthy realizes the full complexity of Caesar's character and shows why his political and military leadership continues to resonate some 2,000 years later. In this landmark biography, Goldsworthy examines Caesar as a military leader, as well as his other roles, and places his subject firmly within the context of Roman society in the first century B.C.

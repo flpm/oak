@@ -261,7 +261,7 @@ def create_ranking_list(catalogue):
         for book_type, book in book_types.items():
             if book_type == "audiobook_sample":
                 continue
-            if rank := book.get("ranking", 1):
+            if rank := book.get("ranking", 100000):
                 ordered_data.append((rank, book))
     ordered_data.sort(key=lambda x: x[0])
     recent_description = list()
