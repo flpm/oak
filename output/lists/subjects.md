@@ -287,7 +287,7 @@ index:
   ciphers:
     name: about Ciphers
     title: 'Theme: Ciphers'
-    subtitle: Books about ciphers befpre modern cryptography
+    subtitle: Books about ciphers before modern cryptography
     description: "I have 3 books about Ciphers in my bookshelf.\n\n### Titles:\n-\
       \ (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines\n\
       - (paper) [Cryptanalysis of the Single Columnar Transposition Cipher](/books/info/9780894121937)\

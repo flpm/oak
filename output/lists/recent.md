@@ -15,10 +15,8 @@ items:
   - '9781523094110'
   - B075FG7HLK
   - '9780786967025'
-attribute: purchase_date
-attribute_type: str
-index_title_preposition: by
 subtitle: The last 10 books added to the bookshelf.
+attribute: purchase_date
 ---
 ### Last 10 books added to the bookshelf:
 - 09-28-2023 (Hardcover in essays) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns

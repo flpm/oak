@@ -93,10 +93,3 @@ def export_markdown(output_folder):
         list_output_folder=list_output_folder,
         include_items=True,
     )
-
-    top_list = create_ranking_list(catalogue)
-    write_markdown_list(
-        top_list,
-        list_output_folder=list_output_folder,
-        include_items=True,
-    )

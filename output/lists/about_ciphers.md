@@ -7,7 +7,7 @@ items:
   - '9780486200972'
   - '9780894121937'
   - '9788483062784'
-subtitle: Books about ciphers befpre modern cryptography
+subtitle: Books about ciphers before modern cryptography
 ---
 I have 3 books about Ciphers in my bookshelf.
 
