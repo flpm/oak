@@ -1,6 +1,7 @@
 import datetime as dt
 from collections import defaultdict
 from inspect import cleandoc
+from calendar import month_name
 
 include_themes = {
     "archaeology": ["ancient history"],
@@ -207,40 +208,83 @@ def create_author_list(catalogue):
     return make_list(catalogue, list_data)
 
 
-def create_recent_list(catalogue):
-    list_data = {
-        "name": "recent",
-        "title": "Recent additions",
-        "subtitle": "The last 10 books added to the bookshelf.",
-        "items": list(),
-        "description": "",
-        "attribute": "purchase_date",
-    }
+def create_recent_list(catalogue, number_of_books=10):
+    if number_of_books is None:
+        list_data = {
+            "name": "timeline",
+            "title": "Book Timeline",
+            "subtitle": f"Books ordered by date of acquisition",
+            "items": list(),
+            "description": "",
+            "attribute": "purchase_date",
+        }
+    else:
+        list_data = {
+            "name": "recent",
+            "title": "Recent acquisitions",
+            "subtitle": f"The last {number_of_books} books added to the bookshelf",
+            "items": list(),
+            "description": "",
+            "attribute": "purchase_date",
+        }
 
     ordered_data = list()
     for book_types in catalogue.values():
         for book_type, book in book_types.items():
             if book_type == "audiobook_sample":
                 continue
-            if date := book.get("purchase_date"):
-                ordered_data.append((date, book))
+            if not include_book(book):
+                continue
+            if date := book.get("purchase_date", book.get("list_date", "1900-01-01")):
+                date_str = dt.date.fromisoformat(date).strftime("%Y-%m-%d")
+                ordered_data.append((date_str, book))
     ordered_data.sort(key=lambda x: x[0], reverse=True)
     recent_description = list()
-    recent_description.append("### Last 10 books added to the bookshelf:")
-    recent_book_list = list()
-    for _, book in ordered_data[:10]:
-        date_str = dt.date.fromisoformat(book["purchase_date"]).strftime("%m-%d-%Y")
-        recent_description.append(
-            f"- {date_str} ({book['format']} in {book['theme']}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-        )
-        recent_book_list.append(book["book_id"])
 
+    if number_of_books is None:
+        pass
+    else:
+        recent_description.append(
+            f"### Last {number_of_books} books added to the bookshelf:"
+        )
+    recent_book_list = list()
+    timeline = defaultdict(lambda: defaultdict(list))
+    for date, book in ordered_data[:number_of_books]:
+        if number_of_books is not None:
+            recent_description.append(
+                f"- {date} ({book['format']} in {book['theme']}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+            )
+        recent_book_list.append(book["book_id"])
+        if number_of_books is None:
+            year, month, day = date.split("-")
+            timeline[year][month].append(book)
     list_data["description"] = "\n".join(recent_description)
-    list_data["items"].append(
-        {
-            "title": None,
-            "description": None,
-            "books": recent_book_list,
-        }
-    )
+
+    if number_of_books is None:
+        for year, months in timeline.items():
+            if year == "1900":
+                continue
+            for month, books in months.items():
+                month_description = [
+                    "Book title:" if len(books) == 1 else "Book titles:",
+                ]
+                for book in books:
+                    month_description.append(
+                        f"- ({book['format']} in {book.get('theme', 'others')}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+                    )
+                list_data["items"].append(
+                    {
+                        "title": [f"{month_name[int(month)]} {year}"],
+                        "description": "\n".join(month_description),
+                        "books": [book["book_id"] for book in books],
+                    }
+                )
+    else:
+        list_data["items"].append(
+            {
+                "title": None,
+                "description": None,
+                "books": recent_book_list,
+            }
+        )
     return list_data

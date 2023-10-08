@@ -8,7 +8,6 @@ from .utils.exporting import (
     include_book,
     create_author_list,
     create_recent_list,
-    create_ranking_list,
 )
 
 
@@ -34,7 +33,9 @@ def export_markdown(output_folder):
             if book_type == "audiobook_sample":
                 continue
             if not include_book(book):
-                print(f"  - [bold red]Skipping[/bold red] {book['title']}")
+                print(
+                    f"  - [bold red]Skipping[/bold red] {book['title']} ({book['book_id']})"
+                )
                 continue
             filename = f"{book['book_id']}.md"
             exported = write_markdown_book(book, filename, book_output_folder)
@@ -88,6 +89,13 @@ def export_markdown(output_folder):
     )
 
     recent_list = create_recent_list(catalogue)
+    write_markdown_list(
+        recent_list,
+        list_output_folder=list_output_folder,
+        include_items=True,
+    )
+
+    recent_list = create_recent_list(catalogue, number_of_books=None)
     write_markdown_list(
         recent_list,
         list_output_folder=list_output_folder,
