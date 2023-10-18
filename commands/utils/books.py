@@ -40,6 +40,8 @@ def print_book(loop_position, bookd_id, book_type, book):
             f"[bold yellow]This book is a first {first_edition_details} edition.[/bold yellow]"
         )
     for show_key in ("purchase_date", "listening_date", "location"):
+        if not book.get("type") == "audiobook" and show_key == "listening_date":
+            continue
         print(
             "{}: [bold white]{}[/bold white]".format(
                 show_key, book.get(show_key, f"<missing {show_key}>")
@@ -51,11 +53,23 @@ def print_book(loop_position, bookd_id, book_type, book):
             for key, value in book["order"].items()
             if key in ("order_date", "product_name")
         ]
-    else:
+    elif book.get("type") == "book":
         order_info_string = "[bold white]<missing order information>[/bold white]"
-    print(f"order: {order_info_string}")
+        print(f"order: {order_info_string}")
     if topics := book.get("topics"):
         print(f"topics: {topics}")
     if book.get("theme"):
         print(f"theme: [bold white]{book['theme']}[/bold white]")
+    if book.get("status"):
+        rec_status = book.get("recommend")
+        recommendation = "."
+        if rec_status:
+            recommendation = " and I [bold white]recommend[/bold white] it."
+        elif rec_status is False:
+            recommendation = " and I [bold white]do not recommend[/bold white] it."
+
+        print(
+            f"status: I [bold white]{book['status']}[/bold white] this {book_type}{' multiple times' if book.get('multiple_reads') else ''}"
+            f"{recommendation}"
+        )
     print("---")

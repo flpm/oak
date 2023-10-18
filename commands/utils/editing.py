@@ -64,6 +64,9 @@ def book_action(
         "note": "Edit the book note",
         "list": "List all book attributes",
         "set": "Set a book attribute",
+        "stat": "Edit the read status",
+        "mult": "Edit the multiple reads status",
+        "rec": "Edit the recommendation status",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -365,6 +368,38 @@ def edit_loop(catalogue):
                     print("[green]Theme set[/green]")
                 answer = "not note"
 
+            elif answer == "stat":
+                read_options = {
+                    "n": "not started",
+                    "r": f"{'read' if book_type == 'book' else 'listened to'}",
+                    "p": f"partially {'read' if book_type == 'book' else 'listened to'}",
+                    "c": "consulted",
+                    "t": f"plan to {'read' if book_type == 'book' else 'listen to'}",
+                    "d": "did not finish",
+                }
+                read_opptions_str = ", ".join(
+                    f"{option} for {value}" for option, value in read_options.items()
+                )
+
+                status_str = None
+                while not status_str:
+                    status = Prompt.ask(
+                        f"Enter the read status ({read_opptions_str})",
+                        choices=list(read_options.keys()),
+                        default="S",
+                        show_choices=True,
+                        show_default=True,
+                    ).lower()
+                    status_str = read_options.get(status)
+                if status_str:
+                    book["status"] = status_str
+                    print(f"[green]Read status set to {read_options[status]}[/green]")
+                # automatically advance to next book
+                current_index += 1
+                if current_index >= total:
+                    current_index = total - 1
+                answer = "next"
+
             elif answer == "list":
                 print("\n[bold yellow]Book attributes:[/bold yellow]")
                 for attribute, value in book.items():
@@ -386,3 +421,18 @@ def edit_loop(catalogue):
                     if confirm("Change the attribute?", False):
                         book[attribute] = value
                         print("[green]Attribute set[/green]")
+
+            elif answer == "mult":
+                if confirm("Read this book multiple times?", False):
+                    book["multiple_reads"] = True
+                else:
+                    book.pop("multiple_reads")
+
+            elif answer == "rec":
+                if confirm("Do I recommend this book?", True):
+                    book["recommend"] = True
+                else:
+                    if confirm("Do I want to NOT recommend this book?", True):
+                        book["recommend"] = False
+                    else:
+                        book.pop("recommend", None)

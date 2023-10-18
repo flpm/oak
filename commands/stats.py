@@ -177,3 +177,32 @@ def generate_stats(stat_type):
         print(f"Topics summary:")
         for value, count in topics_info.items():
             print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "status":
+        print(f"Status:")
+        status_counter = Counter()
+        status_valus_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                if status := book.get("status"):
+                    status_counter[f"{book_type} with status"] += 1
+                    status_valus_counter[status] += 1
+
+        for value, count in sorted(status_counter.most_common(), reverse=True):
+            print(f"  - {value if value else 'Unknown'}: {count}")
+        for value, count in status_valus_counter.most_common():
+            print(f"  - {value if value else 'Unknown'}: {count}")
+
+    elif stat_type == "recommendation":
+        print(f"Recommendation:")
+        recommendation_counter = Counter()
+        for book_id, book_types in catalogue.items():
+            for book_type, book in book_types.items():
+                recommendation = book.get("recommend")
+                if recommendation:
+                    recommendation_counter[f"{book_type} with YES recommendation"] += 1
+                elif recommendation is False:
+                    recommendation_counter[f"{book_type} with NO recommendation"] += 1
+
+        for value, count in sorted(recommendation_counter.most_common(), reverse=True):
+            print(f"  - {value if value else 'Unknown'}: {count}")
