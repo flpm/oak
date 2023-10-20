@@ -184,7 +184,7 @@ def generate_stats(stat_type):
         status_valus_counter = Counter()
         for book_id, book_types in catalogue.items():
             for book_type, book in book_types.items():
-                if status := book.get("status"):
+                if status := book.get("read_status"):
                     status_counter[f"{book_type} with status"] += 1
                     status_valus_counter[status] += 1
 
@@ -198,7 +198,7 @@ def generate_stats(stat_type):
         recommendation_counter = Counter()
         for book_id, book_types in catalogue.items():
             for book_type, book in book_types.items():
-                recommendation = book.get("recommend")
+                recommendation = book.get("recommendation_status")
                 if recommendation:
                     recommendation_counter[f"{book_type} with YES recommendation"] += 1
                 elif recommendation is False:
