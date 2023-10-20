@@ -34,6 +34,8 @@ theme: crime fiction
 duration: PT62H52M
 type: audiobook
 status: have not started
+read_status: have not started
+recommendation_status: null
 ---
 "Fry's Holmes is crisp and high-handed, his Watson enthusiastic and bemused, and the rest of the narration colorful without being mannered. Have fun. Winner of AudioFile Earphones Award." (AudioFile magazine)
 "...it was reading the Sherlock Holmes stories as a boy that first turned me on to the power of writing and storytelling." (Stephen Fry)

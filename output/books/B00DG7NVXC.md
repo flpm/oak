@@ -39,6 +39,8 @@ type: audiobook
 ranking: 7
 status: listened to
 recommend: true
+read_status: listened to
+recommendation_status: true
 ---
 Over the years, Classical archaeology has evolved from a pastime of collectors and antiquarians to a mature science. Today, the field is a multidisciplinary effort that involves not only traditional diggers, but also geologists, geographers, anthropologists, and linguists.These 36 lectures introduce you to this fascinating field of study. Professor Hale guides you through dozens of ancient sites with the skill of a born storyteller.
 The riveting narrative unfolds like a series of detective stories and provides a new perspective from which to view the world of the Greeks and Romans, resurrecting them in all their glory and affording us a better grasp of cultures that have greatly influenced our own.

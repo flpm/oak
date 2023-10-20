@@ -60,8 +60,8 @@ def print_book(loop_position, bookd_id, book_type, book):
         print(f"topics: {topics}")
     if book.get("theme"):
         print(f"theme: [bold white]{book['theme']}[/bold white]")
-    if book.get("status"):
-        rec_status = book.get("recommend")
+    if book.get("read_status"):
+        rec_status = book.get("recommendation_status")
         recommendation = "."
         if rec_status:
             recommendation = " and I [bold white]recommend[/bold white] it."
@@ -69,7 +69,7 @@ def print_book(loop_position, bookd_id, book_type, book):
             recommendation = " and I [bold white]do not recommend[/bold white] it."
 
         print(
-            f"status: I [bold white]{book['status']}[/bold white] this {book_type}{' multiple times' if book.get('multiple_reads') else ''}"
+            f"status: I [bold white]{book['read_status']}[/bold white] this {book_type}{' multiple times' if book.get('multiple_reads') else ''}"
             f"{recommendation}"
         )
     print("---")

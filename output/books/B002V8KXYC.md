@@ -33,5 +33,7 @@ theme: ancient history
 duration: PT14H5M
 type: audiobook
 status: have not started
+read_status: have not started
+recommendation_status: null
 ---
 Since the Renaissance, Julius Caesar has been idolized as a superman. There is no doubt that Caesar was an extraordinary man. But as General Fuller points out, Caesar was more extraordinary for his reckless ambition, matchless daring, and ruthless tyranny than for his skills as a military commander. Caesar continually had to extricate himself from the results of mistaken judgments. His unpremeditated Gallic conquest was just one of Fuller's many examples. In telling Caesar's history, Fuller illuminates a century of Roman history as well, bringing to life Caesar's wars, his armies, his equipment, and his methods. Brilliant in design and impressive in scope, Julius Caesar clarifies how the military, political, and economic aspects of the Roman Republic worked together to produce a man whose name has come down to us as a synonym for absolute authority.

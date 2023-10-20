@@ -143,7 +143,12 @@ def edit_loop(catalogue):
 
     for book_id, book_type, book in flat_catalogue:
         # Insert her any code to modify the book attributes
-        pass
+        book["read_status"] = book.get("status")
+        if book.get("status"):
+            del book["status"]
+        book["recommendation_status"] = book.get("recommend")
+        if book.get("recommend"):
+            del book["recommend"]
 
     total = len(flat_catalogue)
     current_index = 0

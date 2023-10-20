@@ -35,6 +35,8 @@ theme: crime fiction
 duration: PT7H59M
 type: audiobook
 status: listened to
+read_status: listened to
+recommendation_status: null
 ---
 Soon to be a major motion picture sequel to Murder on the Orient Express with a screenplay by Michael Green, directed by and starring Kenneth Branagh alongside Gal Gadot and Armie Hammer - coming September 17, 2021!
 Beloved detective Hercule Poirot embarks on a journey to Egypt in one of Agatha Christie’s most famous mysteries.

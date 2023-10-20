@@ -34,6 +34,8 @@ theme: ancient history
 duration: PT18H51M
 type: audiobook
 status: listened to
+read_status: listened to
+recommendation_status: null
 ---
 Integrated approaches to teaching Greek and Roman history are a rarity in academia. Most scholars are historians of either Greek or Roman history and perform research solely in that specific field, an approach that author and award-winning Professor Robert Garland considers questionable.
 In these 36 passionate lectures, he provides an impressive and rare opportunity to understand the two dominant cultures of the ancient Mediterranean world in relation to one another - a relationship that has virtually no parallel in world history. He shows you how these two very different cultures intersected, coincided, and at times, collided.
