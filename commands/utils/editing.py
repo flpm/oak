@@ -141,6 +141,10 @@ def edit_loop(catalogue):
 
     orders = read_amazon_orders()
 
+    for book_id, book_type, book in flat_catalogue:
+        # Insert her any code to modify the book attributes
+        pass
+
     total = len(flat_catalogue)
     current_index = 0
     while True:
@@ -370,7 +374,7 @@ def edit_loop(catalogue):
 
             elif answer == "stat":
                 read_options = {
-                    "n": "not started",
+                    "n": "have not started",
                     "r": f"{'read' if book_type == 'book' else 'listened to'}",
                     "p": f"partially {'read' if book_type == 'book' else 'listened to'}",
                     "c": "consulted",

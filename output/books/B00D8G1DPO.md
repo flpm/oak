@@ -32,6 +32,7 @@ listening_date: '2021-12-01'
 theme: ancient history
 duration: PT12H26M
 type: audiobook
+status: listened to
 ---
 These 24 lectures retell the lives of the remarkable individuals - the statesmen, thinkers, warriors, and writers - who shaped the history of the Roman Empire and, by extension, our own history and culture.
 Among the fascinating gallery of individuals whose lives, ideas, actions, and legacies you'll explore are Hannibal (who caused the Second Punic War personally, much as Adolf Hitler caused World War II), Augustus (who, beginning at the age of just 19, brilliantly followed a doctrine of ruthless expediency in order to rescue Rome from a century of civil war), and Marcus Aurelius (that most noble and philosophic of rulers who may have hastened the Empire's decline by tolerating the wicked cruelty of his heir).

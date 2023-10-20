@@ -42,6 +42,7 @@ listening_date: '2016-03-06'
 theme: psychology
 duration: PT8H18M
 type: audiobook
+status: partially listened to
 ---
 The pioneering experts behind the bestselling The Whole-Brain Child - Tina Payne Bryson and Daniel J. Siegel, the New York Times bestselling author of Brainstorm - now explore the ultimate child-raising challenge: discipline. Highlighting the fascinating link between a child’s neurological development and the way a parent reacts to misbehavior, No-Drama Disciplineprovides an effective, compassionate road map for dealing with tantrums, tensions, and tears - without causing a scene.
 Defining the true meaning of the “d” word (to instruct, not to shout or reprimand), the authors explain how to reach your child, redirect emotions, and turn a meltdown into an opportunity for growth. By doing so, the cycle of negative behavior (and punishment) is essentially brought to a halt, as problem solving becomes a win/win situation. Inside this sanity-saving guide you’ll discover

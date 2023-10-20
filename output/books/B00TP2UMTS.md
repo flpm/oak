@@ -34,6 +34,7 @@ listening_date: '2016-02-25'
 theme: math
 duration: PT1H31M
 type: audiobook
+status: partially listened to
 ---
 Thinking Statistically is the book that shows you how to think like a statistician, without worrying about formal statistical techniques. Along the way we learn how selection bias can explain why your boss doesn't know he sucks (even when everyone else does); how to use Bayes' theorem to decide if your partner is cheating on you; and why Mark Zuckerberg should never be used as an example for anything. See the world in a whole new light, and make better decisions and judgments without ever going near a t-test.
 Think. Think Statistically.

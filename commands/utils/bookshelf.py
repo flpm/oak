@@ -94,6 +94,7 @@ def import_from_bookshelf(export_date):
                     if book_info.get("subtitle")
                     else book_info["title"]
                 )
+            book_info["type"] = "book"
             books[original_title] = book_info
 
     # Read the HTML file to extract the embedded cover images
