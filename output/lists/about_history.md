@@ -42,7 +42,7 @@ items:
   - '9782228930376'
 subtitle: Books about history in general
 ---
-I have 36 books about History in my bookshelf.
+I have 36 books about History in my personal library.
 
 ### Titles:
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney

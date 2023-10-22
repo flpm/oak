@@ -9,7 +9,7 @@ items:
   - '9780190627812'
 subtitle: Books about autism and related topics
 ---
-I have 3 books about Autism in my bookshelf.
+I have 3 books about Autism in my personal library.
 
 ### Titles:
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein

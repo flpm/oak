@@ -11,7 +11,7 @@ items:
   - '9781800563452'
 subtitle: Books about data and data analysis
 ---
-I have 5 books about Data in my bookshelf.
+I have 5 books about Data in my personal library.
 
 ### Titles:
 - (paper) [Everydata](/books/info/9781629561011) by John H. Johnson

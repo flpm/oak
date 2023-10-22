@@ -9,11 +9,11 @@ index:
     name: in Catalan
     title: 'Language: Catalan'
     subtitle: Books in Catalan
-    description: "I have 2 books in Catalan in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
-      \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [Mem\xF2ries.\
-      \ Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2ries #1)](/books/info/9788484370451)\
-      \ by Jordi Pujol"
+    description: "I have 2 books in Catalan in my personal library.\n\n### Titles:\n\
+      - (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by\
+      \ Andreu Buenafuente, Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n-\
+      \ (paper) [Mem\xF2ries. Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2\
+      ries #1)](/books/info/9788484370451) by Jordi Pujol"
     items:
     - title: null
       books:
@@ -23,9 +23,9 @@ index:
     name: in English
     title: 'Language: English'
     subtitle: Books in English
-    description: "I have 400 books in English in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James\
-      \ M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
+    description: "I have 389 books in English in my personal library.\n\n### Titles:\n\
+      - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007)\
+      \ by James M. Higgins\n- (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)\
       \ by Kiyoshi Kosugi, James Davies\n- (paper) [A Gamut of Games](/books/info/9780486273471)\
       \ by Sid Sackson\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
       \ by Richard A. Lanham\n- (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359)\
@@ -133,7 +133,6 @@ index:
       \ [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett\n\
       - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran\n\
       - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran\n\
-      - (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh\n\
       - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston\n\
       - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman,\
       \ Philippe Sollers, Elizabeth Janus\n- (paper) [From Caesar to Augustus (C.\
@@ -200,15 +199,13 @@ index:
       - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)\
       \ by Debbie Millman\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
       \ by Donald J. Robertson\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
-      \ by Mark Collier, Bill Manley\n- (paper) [I Took the Moon for a Walk](/books/info/9781841488035)\
-      \ by Carolyn Curtis\n- (paper) [IDEO Method Cards](/books/info/9780954413217)\
+      \ by Mark Collier, Bill Manley\n- (paper) [IDEO Method Cards](/books/info/9780954413217)\
       \ by Ideo\n- (paper) [Indie Publishing](/books/info/9781568987606) by Ellen\
       \ Lupton\n- (paper) [Interviewing Users](/books/info/9781933820118) by Steve\
       \ Portigal\n- (paper) [Introduction to Probability](/books/info/9781466575578)\
       \ by Joseph K. Blitzstein, Jessica Hwang\n- (paper) [Introductory Time Series\
       \ with R](/books/info/9780387886978) by Paul S.P. Cowpertwait\n- (paper) [Invincible](/books/info/9784906574018)\
-      \ by John Power\n- (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725)\
-      \ by Tricia Tusa\n- (paper) [It's Not All in Your Head](/books/info/9781606238134)\
+      \ by John Power\n- (paper) [It's Not All in Your Head](/books/info/9781606238134)\
       \ by Gordon J. G. Asmundson, Steven Taylor\n- (paper) [It's Not How Good You\
       \ Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden\n\
       - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov\n\
@@ -280,12 +277,10 @@ index:
       \ [Out of Our Minds](/books/info/9781841121253) by Ken Robinson\n- (paper) [Out\
       \ of the Blue](/books/info/9781782850427) by Barefoot Books\n- (paper) [Outlier\
       \ Analysis](/books/info/9783319475776) by Charu C. Aggarwal\n- (paper) [Outside\
-      \ the Board](/books/info/9781945025006) by Hajin Lee\n- (paper) [PP Welcome\
-      \ to the Zoo! -DWF Acct ONLY](/books/info/9780803734227) by Alison Jay\n- (paper)\
-      \ [Pablo Neruda](/books/info/9780805091984) by Monica Brown\n- (paper) [Parent\
-      \ Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss,\
-      \ Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram\
-      \ Smith, Lawrence Scahill\n- (paper) [Paris versus New York](/books/info/9780143120254)\
+      \ the Board](/books/info/9781945025006) by Hajin Lee\n- (paper) [Parent Training\
+      \ for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia\
+      \ R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith,\
+      \ Lawrence Scahill\n- (paper) [Paris versus New York](/books/info/9780143120254)\
       \ by Vahram Muratyan\n- (paper) [Patterns of the Sanrensei](/books/info/9781932001631)\
       \ by Michael Redmond\n- (paper) [Penguin Essentials Animal Farm](/books/info/9780140278736)\
       \ by George Orwell\n- (paper) [Philosophy](/books/info/9780415337984) by Nigel\
@@ -347,19 +342,17 @@ index:
       \ by Andrea Carandini\n- (paper) [The Best of Brevity](/books/info/9781941628232)\
       \ by Zo\xEB Bossiere, Dinty W. Moore\n- (paper) [The Book of Circles: Visualizing\
       \ Spheres of Knowledge](/books/info/9781616895280) by Manuel Lima\n- (paper)\
-      \ [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman\n\
-      - (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher\n- (paper)\
-      \ [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill\
-      \ Watterson\n- (paper) [The City Out My Window](/books/info/9781416569909) by\
-      \ Matteo Pericoli\n- (paper) [The Complete Guide to Capital Markets for Quantitative\
-      \ Professionals](/books/info/9780071468299) by Alex Kuznetsov\n- (paper) [The\
-      \ Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy\n- (audio)\
-      \ [The Copywriter's Handbook](/books/info/170526526X) by Robert W. Bly\n- (paper)\
-      \ [The Cuckoo's Egg](/books/info/9781416507789) by Cliff Stoll\n- (paper) [The\
-      \ Design of Everyday Things](/books/info/9780465067107) by Don Norman\n- (paper)\
-      \ [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261)\
-      \ by Takeo Kajiwara\n- (paper) [The Element](/books/info/9780670020478) by Sir\
-      \ PhD Ken Robinson\n- (audio) [The Elements of Eloquence](/books/info/B00O1GCA5M)\
+      \ [The Brownstone](/books/info/9781616894283) by Paula Scher\n- (paper) [The\
+      \ Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson\n\
+      - (paper) [The City Out My Window](/books/info/9781416569909) by Matteo Pericoli\n\
+      - (paper) [The Complete Guide to Capital Markets for Quantitative Professionals](/books/info/9780071468299)\
+      \ by Alex Kuznetsov\n- (paper) [The Complete Roman Army](/books/info/9780500288993)\
+      \ by Adrian Goldsworthy\n- (audio) [The Copywriter's Handbook](/books/info/170526526X)\
+      \ by Robert W. Bly\n- (paper) [The Cuckoo's Egg](/books/info/9781416507789)\
+      \ by Cliff Stoll\n- (paper) [The Design of Everyday Things](/books/info/9780465067107)\
+      \ by Don Norman\n- (paper) [The Direction of Play (Intermediate to Advanced\
+      \ Go Books)](/books/info/9784906574261) by Takeo Kajiwara\n- (paper) [The Element](/books/info/9780670020478)\
+      \ by Sir PhD Ken Robinson\n- (audio) [The Elements of Eloquence](/books/info/B00O1GCA5M)\
       \ by Mark Forsyth\n- (paper) [The Elements of Statistical Learning](/books/info/9780387848570)\
       \ by Trevor Hastie, Robert Tibshirani, Jerome Friedman\n- (paper) [The Elements\
       \ of Style](/books/info/9780205309023) by Jr. William Strunk, E.B. White\n-\
@@ -380,18 +373,15 @@ index:
       - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien\n- (paper)\
       \ [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne\
       \ Christopher\n- (paper) [The Information Design Handbook](/books/info/9781600610486)\
-      \ by Jenn Visocky O'Grady, Ken Visocky O'Grady\n- (paper) [The Iridescence of\
-      \ Birds](/books/info/9781596439481) by Patricia MacLachlan\n- (paper) [The Last\
-      \ Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer\n\
-      - (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by\
-      \ Stephen Denning\n- (paper) [The Little Prince](/books/info/9780547260693)\
-      \ by Antoine de Saint-Exup\xE9ry\n- (paper) [The Magic School Bus on the Ocean\
-      \ Floor](/books/info/9781435264298) by Joanna Cole\n- (paper) [The Master Theorem\
-      \ - A Book of Puzzles, Intrigue and Wit](/books/info/9780692189825) by M\n-\
-      \ (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata\n\
-      - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio\n\
-      - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by\
-      \ Catherine Burns\n- (paper) [The Nature of Code](/books/info/9780985930806)\
+      \ by Jenn Visocky O'Grady, Ken Visocky O'Grady\n- (paper) [The Last Greatest\
+      \ Magician in the World](/books/info/9780399160035) by Jim Steinmeyer\n- (paper)\
+      \ [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen\
+      \ Denning\n- (paper) [The Little Prince](/books/info/9780547260693) by Antoine\
+      \ de Saint-Exup\xE9ry\n- (paper) [The Master Theorem - A Book of Puzzles, Intrigue\
+      \ and Wit](/books/info/9780692189825) by M\n- (paper) [The Master of Go](/books/info/9780307833648)\
+      \ by Yasunari Kawabata\n- (paper) [The Moderns](/books/info/9781419724015) by\
+      \ Steven Heller, Greg D'Onofrio\n- (paper) [The Moth Presents All These Wonders](/books/info/9781101904404)\
+      \ by Catherine Burns\n- (paper) [The Nature of Code](/books/info/9780985930806)\
       \ by Daniel Shiffman\n- (paper) [The New School of Information Security](/books/info/9780321502780)\
       \ by Adam Shostack, Andrew Stewart\n- (paper) [The Nutcracker](/books/info/9781623485566)\
       \ by Jessica Southwick, Yevgeniya Yerektskaya\n- (paper) [The Penguin History\
@@ -415,16 +405,15 @@ index:
       \ by Carl Sagan\n- (paper) [The Visual Display of Quantitative Information](/books/info/9780961392147)\
       \ by Edward R. Tufte\n- (paper) [The Visual Miscellaneum](/books/info/9780061748363)\
       \ by David McCandless\n- (paper) [The Walking Dead](/books/info/9781607066309)\
-      \ by Robert Kirkman\n- (paper) [The Wind in the Willows](/books/info/9781466887817)\
-      \ by Kenneth Grahame, Susan Hill\n- (paper) [The Young Adventurer's Collection\
-      \ [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub,\
-      \ Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed\n- (paper)\
-      \ [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan\
-      \ Sagmeister\n- (audio) [Think like a Stoic](/books/info/1644650649) by Massimo\
-      \ Pigliucci\n- (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri\
-      \ Bram\n- (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash\
-      \ K. Dixit, Barry J. Nalebuff\n- (paper) [Thinking with Type](/books/info/9781568984483)\
-      \ by Ellen Lupton\n- (paper) [Thinking, Fast and Slow](/books/info/9780374533557)\
+      \ by Robert Kirkman\n- (paper) [The Young Adventurer's Collection [Dungeons\
+      \ & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy\
+      \ King, Andrew Wheeler, Official Dungeons & Dragons Licensed\n- (paper) [Things\
+      \ I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan Sagmeister\n\
+      - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci\n\
+      - (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri Bram\n- (paper)\
+      \ [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry\
+      \ J. Nalebuff\n- (paper) [Thinking with Type](/books/info/9781568984483) by\
+      \ Ellen Lupton\n- (paper) [Thinking, Fast and Slow](/books/info/9780374533557)\
       \ by Daniel Kahneman\n- (paper) [Threat Modeling](/books/info/9780735619913)\
       \ by Frank Swiderski, Window Snyder\n- (paper) [Three Plays](/books/info/9780802150646)\
       \ by George S. Kaufman, Moss Hart\n- (paper) [Three Stones Make a Wall](/books/info/9780691166407)\
@@ -442,18 +431,15 @@ index:
       \ by Manuel Lima\n- (paper) [Visual Explanations](/books/info/9781930824157)\
       \ by Edward R. Tufte\n- (paper) [Vita Nostra](/books/info/9781093905632) by\
       \ Stephen a Berard\n- (paper) [Volo's Guide to Monsters](/books/info/9780786966011)\
-      \ by Wizards RPG Team\n- (paper) [Voyage to the Volcano (Magic School Bus Science\
-      \ Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna\
-      \ Cole, Bruce Degen\n- (paper) [What If? Serious Scientific Answers to Absurd\
+      \ by Wizards RPG Team\n- (paper) [What If? Serious Scientific Answers to Absurd\
       \ Hypothetical Questions](/books/info/9780544272996) by Randall Munroe\n- (paper)\
       \ [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris\n\
       - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg\n- (paper)\
       \ [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi\n- (paper)\
       \ [Why Design Matters](/books/info/9780062872968) by Debbie Millman\n- (paper)\
-      \ [Wikinomics](/books/info/9781591842316) by Don Tapscott\n- (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ)\
-      \ by A. A. Milne\n- (paper) [Wool (Silo, #1)](/books/info/9781476733951) by\
-      \ Hugh Howey\n- (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter\
-      \ Clark\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
+      \ [Wikinomics](/books/info/9781591842316) by Don Tapscott\n- (paper) [Wool (Silo,\
+      \ #1)](/books/info/9781476733951) by Hugh Howey\n- (paper) [Writing Tools](/books/info/9780316014991)\
+      \ by Roy Peter Clark\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
       \ by Roy Peter Clark\n- (audio) [Writing and Civilization](/books/info/B00F52DXH0)\
       \ by Marc Zender\n- (paper) [Writing with Pleasure](/books/info/9780691191775)\
       \ by Helen Sword\n- (paper) [Xanathar's Guide to Everything](/books/info/9780786966110)\
@@ -563,7 +549,6 @@ index:
       - '9780575059009'
       - '9780143134343'
       - 059315018X
-      - '9781101648056'
       - '9781430210771'
       - '9783931141967'
       - '9781107675698'
@@ -623,14 +608,12 @@ index:
       - '9781581154962'
       - B07FB135GG
       - '9780714119106'
-      - '9781841488035'
       - '9780954413217'
       - '9781568987606'
       - '9781933820118'
       - '9781466575578'
       - '9780387886978'
       - '9784906574018'
-      - '9781250235725'
       - '9781606238134'
       - '9780714843377'
       - '9781449396947'
@@ -699,8 +682,6 @@ index:
       - '9781782850427'
       - '9783319475776'
       - '9781945025006'
-      - '9780803734227'
-      - '9780805091984'
       - '9780190627812'
       - '9780143120254'
       - '9781932001631'
@@ -761,7 +742,6 @@ index:
       - '9780691163475'
       - '9781941628232'
       - '9781616895280'
-      - '9781596433076'
       - '9781616894283'
       - '9780836218527'
       - '9781416569909'
@@ -791,11 +771,9 @@ index:
       - '9780547928241'
       - '9780690431650'
       - '9781600610486'
-      - '9781596439481'
       - '9780399160035'
       - '9780787976750'
       - '9780547260693'
-      - '9781435264298'
       - '9780692189825'
       - '9780307833648'
       - '9781419724015'
@@ -823,7 +801,6 @@ index:
       - '9780961392147'
       - '9780061748363'
       - '9781607066309'
-      - '9781466887817'
       - '9781984859549'
       - '9780810995291'
       - '1644650649'
@@ -847,14 +824,12 @@ index:
       - '9781930824157'
       - '9781093905632'
       - '9780786966011'
-      - '9780439429351'
       - '9780544272996'
       - '9780316143479'
       - '9781491949641'
       - '9780691148540'
       - '9780062872968'
       - '9781591842316'
-      - B002V1BPOQ
       - '9781476733951'
       - '9780316014991'
       - '1549108603'
@@ -865,8 +840,8 @@ index:
     name: in French
     title: 'Language: French'
     subtitle: Books in French
-    description: "I have 35 books in French in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
+    description: "I have 35 books in French in my personal library.\n\n### Titles:\n\
+      - (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
       \ by Trondheim\n- (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette\n\
       - (paper) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne\
       \ Faivre-Martin\n- (paper) [L'Acc\xE9l\xE9rateur Atomique (Les Formidables Aventures\
@@ -949,9 +924,9 @@ index:
     name: in Latin
     title: 'Language: Latin'
     subtitle: Books in Latin
-    description: "I have 16 books in Latin in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M.\
-      \ May, Frederic M. Wheelock\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
+    description: "I have 16 books in Latin in my personal library.\n\n### Titles:\n\
+      - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James\
+      \ M. May, Frederic M. Wheelock\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
       \ by Jeanne Neumann\n- (paper) [A Practical Grammar of the Latin Language](/books/info/9781333776749)\
       \ by George J. Adler\n- (paper) [Colloquia Personarum](/books/info/9781585109388)\
       \ by Hans H. Orberg\n- (paper) [Latin Alive](/books/info/9780521734189) by Joseph\
@@ -992,7 +967,7 @@ index:
     name: in Portuguese
     title: 'Language: Portuguese'
     subtitle: Books in Portuguese
-    description: "I have 17 books in Portuguese in my bookshelf.\n\n### Titles:\n\
+    description: "I have 17 books in Portuguese in my personal library.\n\n### Titles:\n\
       - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616)\
       \ by Jorge Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem\
       \ Fonseca\n- (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira\
@@ -1035,10 +1010,10 @@ index:
     name: in Spanish
     title: 'Language: Spanish'
     subtitle: Books in Spanish
-    description: "I have 31 books in Spanish in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n- (paper)\
-      \ [El Rey Lear](/books/info/9788423972685) by William Shakespeare\n- (paper)\
-      \ [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
+    description: "I have 31 books in Spanish in my personal library.\n\n### Titles:\n\
+      - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n-\
+      \ (paper) [El Rey Lear](/books/info/9788423972685) by William Shakespeare\n\
+      - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
       \ by Luis Garcia Jambrina\n- (paper) [El retorno del rey (El se\xF1or de los\
       \ anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien\n- (paper) [El\
       \ \xFAltimo libro de Sergi P\xE0mies](/books/info/9788433924889) by Sergi Pamies\n\
@@ -1111,7 +1086,7 @@ index:
 ### [Catalan](/books/in_catalan) (2)
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 - (paper) [Memòries. Història d'una convicció (1930 - 1980) (Memòries #1)](/books/info/9788484370451) by Jordi Pujol
-### [English](/books/in_english) (400)
+### [English](/books/in_english) (389)
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
 - (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson
@@ -1214,7 +1189,6 @@ index:
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
-- (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
 - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
 - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
@@ -1274,14 +1248,12 @@ index:
 - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962) by Debbie Millman
 - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
-- (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn Curtis
 - (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo
 - (paper) [Indie Publishing](/books/info/9781568987606) by Ellen Lupton
 - (paper) [Interviewing Users](/books/info/9781933820118) by Steve Portigal
 - (paper) [Introduction to Probability](/books/info/9781466575578) by Joseph K. Blitzstein, Jessica Hwang
 - (paper) [Introductory Time Series with R](/books/info/9780387886978) by Paul S.P. Cowpertwait
 - (paper) [Invincible](/books/info/9784906574018) by John Power
-- (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
 - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
@@ -1350,8 +1322,6 @@ index:
 - (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot Books
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
-- (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227) by Alison Jay
-- (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 - (paper) [Paris versus New York](/books/info/9780143120254) by Vahram Muratyan
 - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael Redmond
@@ -1412,7 +1382,6 @@ index:
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Best of Brevity](/books/info/9781941628232) by Zoë Bossiere, Dinty W. Moore
 - (paper) [The Book of Circles: Visualizing Spheres of Knowledge](/books/info/9781616895280) by Manuel Lima
-- (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman
 - (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher
 - (paper) [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson
 - (paper) [The City Out My Window](/books/info/9781416569909) by Matteo Pericoli
@@ -1442,11 +1411,9 @@ index:
 - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
-- (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia MacLachlan
 - (paper) [The Last Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer
 - (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
 - (paper) [The Little Prince](/books/info/9780547260693) by Antoine de Saint-Exupéry
-- (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298) by Joanna Cole
 - (paper) [The Master Theorem - A Book of Puzzles, Intrigue and Wit](/books/info/9780692189825) by M
 - (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
@@ -1474,7 +1441,6 @@ index:
 - (paper) [The Visual Display of Quantitative Information](/books/info/9780961392147) by Edward R. Tufte
 - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless
 - (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
-- (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan Sagmeister
 - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
@@ -1498,14 +1464,12 @@ index:
 - (paper) [Visual Explanations](/books/info/9781930824157) by Edward R. Tufte
 - (paper) [Vita Nostra](/books/info/9781093905632) by Stephen a Berard
 - (paper) [Volo's Guide to Monsters](/books/info/9780786966011) by Wizards RPG Team
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
 - (paper) [What If? Serious Scientific Answers to Absurd Hypothetical Questions](/books/info/9780544272996) by Randall Munroe
 - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
 - (paper) [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi
 - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman
 - (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
-- (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne
 - (paper) [Wool (Silo, #1)](/books/info/9781476733951) by Hugh Howey
 - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark

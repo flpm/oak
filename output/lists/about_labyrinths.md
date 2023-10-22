@@ -8,7 +8,7 @@ items:
   - '9783791321448'
 subtitle: Books about labyrinths, including mazes
 ---
-I have 2 books about Labyrinths in my bookshelf.
+I have 2 books about Labyrinths in my personal library.
 
 ### Titles:
 - (paper) [Labyrinths & Mazes](/books/info/9781616895129) by Francesca Tatarella

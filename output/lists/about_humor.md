@@ -10,7 +10,7 @@ items:
   - '9788466306782'
 subtitle: Books about humor and comedy
 ---
-I have 4 books about Humor in my bookshelf.
+I have 4 books about Humor in my personal library.
 
 ### Titles:
 - (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard

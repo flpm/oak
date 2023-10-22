@@ -11,7 +11,7 @@ items:
   - '9781591842316'
 subtitle: Books about economics, including game theory and behavioural economics
 ---
-I have 5 books about Economics in my bookshelf.
+I have 5 books about Economics in my personal library.
 
 ### Titles:
 - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan

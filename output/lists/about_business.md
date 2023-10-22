@@ -17,7 +17,7 @@ items:
   - '9780140277821'
 subtitle: Books about business and related topics
 ---
-I have 11 books about Business in my bookshelf.
+I have 11 books about Business in my personal library.
 
 ### Titles:
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins

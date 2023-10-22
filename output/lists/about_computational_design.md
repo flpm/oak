@@ -11,7 +11,7 @@ items:
   - '9780985930806'
 subtitle: Books about graphic design and art created using code
 ---
-I have 5 books about Computational Design in my bookshelf.
+I have 5 books about Computational Design in my personal library.
 
 ### Titles:
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin

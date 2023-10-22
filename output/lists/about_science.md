@@ -33,7 +33,7 @@ items:
   - '9780691148540'
 subtitle: Books about science in general
 ---
-I have 27 books about Science in my bookshelf.
+I have 27 books about Science in my personal library.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski

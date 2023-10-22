@@ -1,11 +1,15 @@
 """Export book catalogue to Markdown files"""
 
 from rich import print
-from .utils.file import read_catalogue, write_markdown_book, write_markdown_list
+from .utils.file import (
+    read_catalogue,
+    write_markdown_book,
+    write_markdown_list,
+    include_book,
+)
 from .utils.exporting import (
     create_language_list,
     create_theme_list,
-    include_book,
     create_author_list,
     create_recent_list,
 )
@@ -75,11 +79,16 @@ def export_markdown(output_folder):
     print(f"  - subjects")
     for sublist_data in theme_list["index"].values():
         print(f"    - {sublist_data['name']}")
-        write_markdown_list(
-            sublist_data,
-            list_output_folder=list_output_folder,
-            include_items=True,
-        )
+        if (
+            sublist_data["items"]
+            and len(sublist_data["items"]) > 0
+            and len(sublist_data["items"][0]["books"]) > 0
+        ):
+            write_markdown_list(
+                sublist_data,
+                list_output_folder=list_output_folder,
+                include_items=True,
+            )
 
     author_list = create_author_list(catalogue)
     write_markdown_list(

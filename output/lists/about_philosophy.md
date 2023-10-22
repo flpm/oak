@@ -18,7 +18,7 @@ items:
   - '1644650649'
 subtitle: Books about philosophy in general, including the history of philosophy
 ---
-I have 12 books about Philosophy in my bookshelf.
+I have 12 books about Philosophy in my personal library.
 
 ### Titles:
 - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus

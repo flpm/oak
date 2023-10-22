@@ -8,7 +8,7 @@ items:
   - '9780692189825'
 subtitle: Books about puzzles and other games
 ---
-I have 2 books about Puzzles in my bookshelf.
+I have 2 books about Puzzles in my personal library.
 
 ### Titles:
 - (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson

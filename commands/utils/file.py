@@ -3,6 +3,7 @@ Convert the export files from the Bookshelf IOS app into a JSON file for archivi
 """
 import json
 import yaml
+import os
 
 work_catalogue_filename = "./work/catalogue.json"
 output_cover_folder = "./output/covers"
@@ -143,7 +144,9 @@ def write_markdown(
         if key in do_not_update:
             data_to_write[key] = current_data[key]
         else:
-            data_to_write[key] = data[key]
+            if data_value := data.get(key):
+                data_to_write[key] = data[key]
+
     for key, value in current_data.items():
         if key not in top_attributes:
             data_to_write[key] = value
@@ -215,7 +218,12 @@ def write_markdown_list(
     include_items : bool, optional
         Whether to include the items in the list, by default True
     """
-    top_attributes = ["name", "title", "description", "items"]
+    top_attributes = [
+        "name",
+        "title",
+        "subtitle",
+        "description",
+    ]
     if not filename:
         filename = f"{book_list['name'].lower().replace(' ', '_')}.md"
     write_markdown(
@@ -226,3 +234,34 @@ def write_markdown_list(
         override_do_not_update,
         include_items,
     )
+
+
+def include_book(book):
+    return (
+        book.get("authors")
+        and book.get("title")
+        and book.get("cover_filename")
+        and book.get("theme") != "kids"
+    )
+
+
+def flat_catalogue(catalogue):
+    """
+    Flatten the catalogue into a list of books.
+
+    Parameters
+    ----------
+    catalogue : dict
+        The catalogue.
+
+    Returns
+    -------
+    list
+        A list of books.
+    """
+    books = list()
+    for book_id, book_types in catalogue.items():
+        for book_type, book in book_types.items():
+            if include_book(book):
+                books.append((book_id, book_type, book))
+    return books

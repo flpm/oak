@@ -13,7 +13,7 @@ items:
   - B00F52DXH0
 subtitle: Books about the study of inscriptions and writing systems
 ---
-I have 7 books about Epigraphy in my bookshelf.
+I have 7 books about Epigraphy in my personal library.
 
 ### Titles:
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett

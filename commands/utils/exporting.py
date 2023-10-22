@@ -2,6 +2,7 @@ import datetime as dt
 from collections import defaultdict
 from inspect import cleandoc
 from calendar import month_name
+from .file import include_book
 
 include_themes = {
     "archaeology": ["ancient history"],
@@ -32,7 +33,7 @@ subtitles_by_value = {
     "design": "Books about design, including methods, approaches and techniques",
     "drama": "Books about drama, including plays and screenplays",
     "economics": "Books about economics, including game theory and behavioural economics",
-    "engineering": "Books about engineering, not including software engineering",
+    "engineering": "Books about engineering, including software engineering and programming languages",
     "entrepreneurship": "Books about entrepreneurship and related topics",
     "epigraphy": "Books about the study of inscriptions and writing systems",
     "essays": "Books about essays, including collections of essays",
@@ -75,11 +76,9 @@ subtitles_by_value = {
 }
 
 
-def include_book(book):
-    return book.get("authors") and book.get("title") and book.get("cover_filename")
-
-
-def make_list(catalogue, list_data, include_audiobook_samples=False):
+def make_list(
+    catalogue, list_data, include_audiobook_samples=False, make_subsection_links=True
+):
     ordered_data = defaultdict(list)
     for book_types in catalogue.values():
         for book_type, book in book_types.items():
@@ -107,9 +106,14 @@ def make_list(catalogue, list_data, include_audiobook_samples=False):
         included = [book for book in books if include_book(book)]
         sublist_name = f"{list_data.get('index_title_preposition', 'about')} {attribute_value.title()}"
         sublist_address = sublist_name.replace(" ", "_").lower()
-        description.append(
-            f"### [{attribute_value if attribute_value else 'Blank'}](/books/{sublist_address}) ({len(included)})"
-        )
+        if make_subsection_links:
+            description.append(
+                f"### [{attribute_value if attribute_value else 'Blank'}](/books/{sublist_address}) ({len(included)})"
+            )
+        else:
+            description.append(
+                f"### {attribute_value if attribute_value else 'Blank'} ({len(included)})"
+            )
         for book in sorted(included, key=lambda x: x["title"]):
             description.append(
                 f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
@@ -126,7 +130,7 @@ def make_list(catalogue, list_data, include_audiobook_samples=False):
                     (
                         f"I have {len(included)} "
                         f"book{'s' if len(included) != 1 else ''} {list_data.get('index_title_preposition', 'about')} {attribute_value.title()} "
-                        "in my bookshelf."
+                        "in my personal library."
                     ),
                     "",
                     "### Titles:",
@@ -205,7 +209,7 @@ def create_author_list(catalogue):
         "attribute_type": "list",
         "index_title_preposition": "by",
     }
-    return make_list(catalogue, list_data)
+    return make_list(catalogue, list_data, make_subsection_links=False)
 
 
 def create_recent_list(catalogue, number_of_books=10):

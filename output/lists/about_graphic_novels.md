@@ -33,7 +33,7 @@ items:
   - '9782205055641'
 subtitle: Graphic novels, including comics
 ---
-I have 27 books about Graphic Novels in my bookshelf.
+I have 27 books about Graphic Novels in my personal library.
 
 ### Titles:
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim

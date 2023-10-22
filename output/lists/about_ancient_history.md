@@ -47,7 +47,7 @@ items:
   - B00F52DXH0
 subtitle: Books from the beginning of recorded human history to the Early Middle Ages
 ---
-I have 41 books about Ancient History in my bookshelf.
+I have 41 books about Ancient History in my personal library.
 
 ### Titles:
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney

@@ -23,9 +23,10 @@ items:
   - '9780978739232'
   - '9780201616224'
   - '9780596516178'
-subtitle: Books about engineering, not including software engineering
+subtitle: Books about engineering, including software engineering and programming
+  languages
 ---
-I have 19 books about Engineering in my bookshelf.
+I have 19 books about Engineering in my personal library.
 
 ### Titles:
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens

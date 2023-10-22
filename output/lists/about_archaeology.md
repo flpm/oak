@@ -17,7 +17,7 @@ items:
 subtitle: Books about the study of history through the recovery and analysis of material
   culture
 ---
-I have 10 books about Archaeology in my bookshelf.
+I have 10 books about Archaeology in my personal library.
 
 ### Titles:
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett

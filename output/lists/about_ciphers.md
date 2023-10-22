@@ -9,7 +9,7 @@ items:
   - '9788483062784'
 subtitle: Books about ciphers before modern cryptography
 ---
-I have 3 books about Ciphers in my bookshelf.
+I have 3 books about Ciphers in my personal library.
 
 ### Titles:
 - (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines

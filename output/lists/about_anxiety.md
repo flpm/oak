@@ -11,7 +11,7 @@ items:
   - '9781572248915'
 subtitle: Books about anxiety and how to deal with it
 ---
-I have 5 books about Anxiety in my bookshelf.
+I have 5 books about Anxiety in my personal library.
 
 ### Titles:
 - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch

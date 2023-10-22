@@ -11,7 +11,7 @@ items:
   - '9780593465066'
 subtitle: Books about poetry, including collections of poems
 ---
-I have 5 books about Poetry in my bookshelf.
+I have 5 books about Poetry in my personal library.
 
 ### Titles:
 - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert

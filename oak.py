@@ -6,6 +6,7 @@ import commands.add
 import commands.enrich
 import commands.edit
 import commands.export
+import commands.sync
 
 from commands.stats import generate_stats
 
@@ -20,9 +21,14 @@ app.add_typer(
 
 
 @app.command()
-def tag():
-    """Tag books with keywords."""
-    print("Tag books.")
+def sync():
+    """Sync books folders."""
+    commands.sync.sync_folders(
+        "./output/books", "../flpm.github.io/bookshelf/books", "books"
+    )
+    commands.sync.sync_folders(
+        "./output/lists", "../flpm.github.io/bookshelf/lists", "lists"
+    )
 
 
 @app.command()

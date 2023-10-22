@@ -10,7 +10,7 @@ items:
   - '9780802150646'
 subtitle: Books about drama, including plays and screenplays
 ---
-I have 4 books about Drama in my bookshelf.
+I have 4 books about Drama in my personal library.
 
 ### Titles:
 - (paper) [El Rey Lear](/books/info/9788423972685) by William Shakespeare

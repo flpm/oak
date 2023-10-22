@@ -12,7 +12,7 @@ items:
   - '9780316143479'
 subtitle: Books about essays, including collections of essays
 ---
-I have 6 books about Essays in my bookshelf.
+I have 6 books about Essays in my personal library.
 
 ### Titles:
 - (paper) [Essays](/books/info/9781608460021) by Wallace Shawn

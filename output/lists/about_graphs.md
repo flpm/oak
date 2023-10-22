@@ -9,7 +9,7 @@ items:
   - '9780738206677'
 subtitle: Books about graphs and graph theory
 ---
-I have 3 books about Graphs in my bookshelf.
+I have 3 books about Graphs in my personal library.
 
 ### Titles:
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan

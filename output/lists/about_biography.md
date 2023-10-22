@@ -15,7 +15,7 @@ items:
   - '9781421560908'
 subtitle: Books about the life of a person
 ---
-I have 9 books about Biography in my bookshelf.
+I have 9 books about Biography in my personal library.
 
 ### Titles:
 - (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena Jobim

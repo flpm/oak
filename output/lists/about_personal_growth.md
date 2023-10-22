@@ -8,7 +8,7 @@ items:
   - '9780670020478'
 subtitle: Books about personal growth and related topics
 ---
-I have 2 books about Personal Growth in my bookshelf.
+I have 2 books about Personal Growth in my personal library.
 
 ### Titles:
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson

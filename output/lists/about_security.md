@@ -22,7 +22,7 @@ items:
   - '9780735619913'
 subtitle: Books about security, intelligence and risk
 ---
-I have 16 books about Security in my bookshelf.
+I have 16 books about Security in my personal library.
 
 ### Titles:
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier

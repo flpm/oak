@@ -17,7 +17,7 @@ items:
   - '9780399160035'
 subtitle: Books about magic, including tricks, performance and the history of magic
 ---
-I have 11 books about Magic in my bookshelf.
+I have 11 books about Magic in my personal library.
 
 ### Titles:
 - (paper) [Art and Artifice and Other Essays of Illusion](/books/info/9780786718061) by Jim Steinmeyer

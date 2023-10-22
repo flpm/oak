@@ -31,7 +31,7 @@ items:
   - '9784871871020'
 subtitle: Books about the game of go, including problems, strategy and game records
 ---
-I have 25 books about Game Of Go in my bookshelf.
+I have 25 books about Game Of Go in my personal library.
 
 ### Titles:
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies

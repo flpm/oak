@@ -23,7 +23,7 @@ items:
   - '9780596516178'
 subtitle: Books about software development and programming languages
 ---
-I have 17 books about Software in my bookshelf.
+I have 17 books about Software in my personal library.
 
 ### Titles:
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens

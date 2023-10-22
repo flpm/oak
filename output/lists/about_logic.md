@@ -8,7 +8,7 @@ items:
   - '9780975366264'
 subtitle: Books about logic and logical thinking
 ---
-I have 2 books about Logic in my bookshelf.
+I have 2 books about Logic in my personal library.
 
 ### Titles:
 - (paper) [Logic Made Easy](/books/info/9780393326925) by Deborah J Bennett

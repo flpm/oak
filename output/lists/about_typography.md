@@ -16,7 +16,7 @@ items:
   - '9781568984483'
 subtitle: Books about typography and type design
 ---
-I have 10 books about Typography in my bookshelf.
+I have 10 books about Typography in my personal library.
 
 ### Titles:
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst

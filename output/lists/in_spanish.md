@@ -37,7 +37,7 @@ items:
   - '9788420482279'
 subtitle: Books in Spanish
 ---
-I have 31 books in Spanish in my bookshelf.
+I have 31 books in Spanish in my personal library.
 
 ### Titles:
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov

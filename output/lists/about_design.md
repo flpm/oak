@@ -43,7 +43,7 @@ items:
   - '9780062872968'
 subtitle: Books about design, including methods, approaches and techniques
 ---
-I have 37 books about Design in my bookshelf.
+I have 37 books about Design in my personal library.
 
 ### Titles:
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis

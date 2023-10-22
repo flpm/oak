@@ -18,7 +18,7 @@ items:
   - '9781930824157'
 subtitle: Books about data and information visualization
 ---
-I have 12 books about Visualization in my bookshelf.
+I have 12 books about Visualization in my personal library.
 
 ### Titles:
 - (paper) [Beautiful Evidence](/books/info/9781930824164) by Edward R. Tufte

@@ -41,7 +41,7 @@ items:
   - '9788420482279'
 subtitle: Novels, including historical novels
 ---
-I have 35 books about Novel in my bookshelf.
+I have 35 books about Novel in my personal library.
 
 ### Titles:
 - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge Amado

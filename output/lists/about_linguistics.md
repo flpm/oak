@@ -11,7 +11,7 @@ items:
   - '9781475246636'
 subtitle: Books about linguistics, including the history of languages
 ---
-I have 5 books about Linguistics in my bookshelf.
+I have 5 books about Linguistics in my personal library.
 
 ### Titles:
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford

@@ -25,7 +25,7 @@ items:
   - '9780786966110'
 subtitle: Books about tabletop role-playing games
 ---
-I have 19 books about Role-Playing Games in my bookshelf.
+I have 19 books about Role-Playing Games in my personal library.
 
 ### Titles:
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed

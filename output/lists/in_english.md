@@ -106,7 +106,6 @@ items:
   - '9780575059009'
   - '9780143134343'
   - 059315018X
-  - '9781101648056'
   - '9781430210771'
   - '9783931141967'
   - '9781107675698'
@@ -166,14 +165,12 @@ items:
   - '9781581154962'
   - B07FB135GG
   - '9780714119106'
-  - '9781841488035'
   - '9780954413217'
   - '9781568987606'
   - '9781933820118'
   - '9781466575578'
   - '9780387886978'
   - '9784906574018'
-  - '9781250235725'
   - '9781606238134'
   - '9780714843377'
   - '9781449396947'
@@ -242,8 +239,6 @@ items:
   - '9781782850427'
   - '9783319475776'
   - '9781945025006'
-  - '9780803734227'
-  - '9780805091984'
   - '9780190627812'
   - '9780143120254'
   - '9781932001631'
@@ -304,7 +299,6 @@ items:
   - '9780691163475'
   - '9781941628232'
   - '9781616895280'
-  - '9781596433076'
   - '9781616894283'
   - '9780836218527'
   - '9781416569909'
@@ -334,11 +328,9 @@ items:
   - '9780547928241'
   - '9780690431650'
   - '9781600610486'
-  - '9781596439481'
   - '9780399160035'
   - '9780787976750'
   - '9780547260693'
-  - '9781435264298'
   - '9780692189825'
   - '9780307833648'
   - '9781419724015'
@@ -366,7 +358,6 @@ items:
   - '9780961392147'
   - '9780061748363'
   - '9781607066309'
-  - '9781466887817'
   - '9781984859549'
   - '9780810995291'
   - '1644650649'
@@ -390,14 +381,12 @@ items:
   - '9781930824157'
   - '9781093905632'
   - '9780786966011'
-  - '9780439429351'
   - '9780544272996'
   - '9780316143479'
   - '9781491949641'
   - '9780691148540'
   - '9780062872968'
   - '9781591842316'
-  - B002V1BPOQ
   - '9781476733951'
   - '9780316014991'
   - '1549108603'
@@ -406,7 +395,7 @@ items:
   - '9780786966110'
 subtitle: Books in English
 ---
-I have 400 books in English in my bookshelf.
+I have 389 books in English in my personal library.
 
 ### Titles:
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
@@ -511,7 +500,6 @@ I have 400 books in English in my bookshelf.
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
-- (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
 - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
 - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
@@ -571,14 +559,12 @@ I have 400 books in English in my bookshelf.
 - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962) by Debbie Millman
 - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
-- (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn Curtis
 - (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo
 - (paper) [Indie Publishing](/books/info/9781568987606) by Ellen Lupton
 - (paper) [Interviewing Users](/books/info/9781933820118) by Steve Portigal
 - (paper) [Introduction to Probability](/books/info/9781466575578) by Joseph K. Blitzstein, Jessica Hwang
 - (paper) [Introductory Time Series with R](/books/info/9780387886978) by Paul S.P. Cowpertwait
 - (paper) [Invincible](/books/info/9784906574018) by John Power
-- (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
 - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
@@ -647,8 +633,6 @@ I have 400 books in English in my bookshelf.
 - (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot Books
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
-- (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227) by Alison Jay
-- (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 - (paper) [Paris versus New York](/books/info/9780143120254) by Vahram Muratyan
 - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael Redmond
@@ -709,7 +693,6 @@ I have 400 books in English in my bookshelf.
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Best of Brevity](/books/info/9781941628232) by Zoë Bossiere, Dinty W. Moore
 - (paper) [The Book of Circles: Visualizing Spheres of Knowledge](/books/info/9781616895280) by Manuel Lima
-- (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman
 - (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher
 - (paper) [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson
 - (paper) [The City Out My Window](/books/info/9781416569909) by Matteo Pericoli
@@ -739,11 +722,9 @@ I have 400 books in English in my bookshelf.
 - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
-- (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia MacLachlan
 - (paper) [The Last Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer
 - (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
 - (paper) [The Little Prince](/books/info/9780547260693) by Antoine de Saint-Exupéry
-- (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298) by Joanna Cole
 - (paper) [The Master Theorem - A Book of Puzzles, Intrigue and Wit](/books/info/9780692189825) by M
 - (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
@@ -771,7 +752,6 @@ I have 400 books in English in my bookshelf.
 - (paper) [The Visual Display of Quantitative Information](/books/info/9780961392147) by Edward R. Tufte
 - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless
 - (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
-- (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan Sagmeister
 - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
@@ -795,14 +775,12 @@ I have 400 books in English in my bookshelf.
 - (paper) [Visual Explanations](/books/info/9781930824157) by Edward R. Tufte
 - (paper) [Vita Nostra](/books/info/9781093905632) by Stephen a Berard
 - (paper) [Volo's Guide to Monsters](/books/info/9780786966011) by Wizards RPG Team
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
 - (paper) [What If? Serious Scientific Answers to Absurd Hypothetical Questions](/books/info/9780544272996) by Randall Munroe
 - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
 - (paper) [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi
 - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman
 - (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
-- (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne
 - (paper) [Wool (Silo, #1)](/books/info/9781476733951) by Hugh Howey
 - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark

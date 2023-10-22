@@ -28,7 +28,7 @@ items:
   - '9781491949641'
 subtitle: Books about mathematics in general, including probability and statistics
 ---
-I have 22 books about Math in my bookshelf.
+I have 22 books about Math in my personal library.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski

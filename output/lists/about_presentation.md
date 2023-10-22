@@ -9,7 +9,7 @@ items:
   - '9780470632017'
 subtitle: Books about presentation skills
 ---
-I have 3 books about Presentation in my bookshelf.
+I have 3 books about Presentation in my personal library.
 
 ### Titles:
 - (paper) [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg

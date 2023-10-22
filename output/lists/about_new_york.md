@@ -11,7 +11,7 @@ items:
   - '9788432217074'
 subtitle: Books about New York City
 ---
-I have 5 books about New York in my bookshelf.
+I have 5 books about New York in my personal library.
 
 ### Titles:
 - (paper) [Faber Classics New York Trilogy](/books/info/9780571200580) by Paul Auster

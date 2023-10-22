@@ -13,7 +13,7 @@ items:
   - B008RBDG46
 subtitle: Books about Crime Fiction
 ---
-I have 7 books about Crime Fiction in my bookshelf.
+I have 7 books about Crime Fiction in my personal library.
 
 ### Titles:
 - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie

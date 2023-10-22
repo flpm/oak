@@ -23,7 +23,7 @@ items:
   - '9788501005588'
 subtitle: Books in Portuguese
 ---
-I have 17 books in Portuguese in my bookshelf.
+I have 17 books in Portuguese in my personal library.
 
 ### Titles:
 - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge Amado

@@ -8,7 +8,7 @@ items:
   - '9781785511837'
 subtitle: Books about the study of art in its historical context
 ---
-I have 2 books about Art History in my bookshelf.
+I have 2 books about Art History in my personal library.
 
 ### Titles:
 - (paper) [Art History](/books/info/9780192801814) by Dana Arnold

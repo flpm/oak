@@ -19,7 +19,7 @@ items:
   - '9780544173767'
 subtitle: Books about fantasy, including fantasy novels
 ---
-I have 13 books about Fantasy in my bookshelf.
+I have 13 books about Fantasy in my personal library.
 
 ### Titles:
 - (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien

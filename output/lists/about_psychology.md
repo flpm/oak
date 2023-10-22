@@ -29,7 +29,7 @@ items:
   - '9781912891160'
 subtitle: Books about psychology in general
 ---
-I have 23 books about Psychology in my bookshelf.
+I have 23 books about Psychology in my personal library.
 
 ### Titles:
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein

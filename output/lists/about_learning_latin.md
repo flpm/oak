@@ -24,7 +24,7 @@ items:
   - '9780061997228'
 subtitle: Books about learning the Latin language
 ---
-I have 18 books about Learning Latin in my bookshelf.
+I have 18 books about Learning Latin in my personal library.
 
 ### Titles:
 - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M. May, Frederic M. Wheelock

@@ -547,14 +547,6 @@ items:
   - '9780593465271'
   - '9781950911066'
 - title:
-  - February 2020
-  description: 'Book title:
-
-    - (Paperback in kids) [Is That You, Eleanor Sue?](/books/info/9781250235725) by
-    Tricia Tusa'
-  books:
-  - '9781250235725'
-- title:
   - December 2019
   description: 'Book titles:
 
@@ -611,14 +603,6 @@ items:
   books:
   - '9781680508604'
 - title:
-  - June 2018
-  description: 'Book title:
-
-    - (Paperback in kids) [Flight of the Last Dragon](/books/info/9781101648056) by
-    Robert Burleigh'
-  books:
-  - '9781101648056'
-- title:
   - May 2018
   description: 'Book titles:
 
@@ -633,14 +617,6 @@ items:
   - '9781416507789'
   - '9780553563702'
   - '9781449388393'
-- title:
-  - February 2018
-  description: 'Book title:
-
-    - (Paperback in kids) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298)
-    by Joanna Cole'
-  books:
-  - '9781435264298'
 - title:
   - January 2018
   description: 'Book title:
@@ -694,22 +670,6 @@ items:
   books:
   - '9781784740245'
 - title:
-  - January 2017
-  description: 'Book title:
-
-    - (Paperback in kids) [The Wind in the Willows](/books/info/9781466887817) by
-    Kenneth Grahame, Susan Hill'
-  books:
-  - '9781466887817'
-- title:
-  - December 2016
-  description: 'Book title:
-
-    - (Paperback in kids) [I Took the Moon for a Walk](/books/info/9781841488035)
-    by Carolyn Curtis'
-  books:
-  - '9781841488035'
-- title:
   - May 2016
   description: 'Book titles:
 
@@ -756,21 +716,6 @@ items:
     by Kruschke John'
   books:
   - '9780124058880'
-- title:
-  - September 2015
-  description: 'Book titles:
-
-    - (Hardcover in kids) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
-
-    - (Hardcover in kids) [The Iridescence of Birds](/books/info/9781596439481) by
-    Patricia MacLachlan
-
-    - (Hardcover in kids) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah
-    Heiligman'
-  books:
-  - '9780805091984'
-  - '9781596439481'
-  - '9781596433076'
 - title:
   - August 2015
   description: 'Book title:

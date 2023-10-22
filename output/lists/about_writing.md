@@ -30,7 +30,7 @@ items:
   - '9780691191775'
 subtitle: Books about writing, grammar, and style
 ---
-I have 24 books about Writing in my bookshelf.
+I have 24 books about Writing in my personal library.
 
 ### Titles:
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham

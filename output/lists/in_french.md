@@ -41,7 +41,7 @@ items:
   - '9782205055641'
 subtitle: Books in French
 ---
-I have 35 books in French in my bookshelf.
+I have 35 books in French in my personal library.
 
 ### Titles:
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim

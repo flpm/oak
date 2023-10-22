@@ -10,8 +10,8 @@ index:
     title: 'Theme: Ancient History'
     subtitle: Books from the beginning of recorded human history to the Early Middle
       Ages
-    description: "I have 41 books about Ancient History in my bookshelf.\n\n### Titles:\n\
-      - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
+    description: "I have 41 books about Ancient History in my personal library.\n\n\
+      ### Titles:\n- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
       \ by Jeremy McInerney\n- (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian\
       \ Goldsworthy\n- (paper) [By Roman Hands](/books/info/9781585104024) by Matthew\
       \ Hartnett\n- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy\n\
@@ -101,7 +101,7 @@ index:
     name: about Anthropology
     title: 'Theme: Anthropology'
     subtitle: Books about the study of human behaviour and societies
-    description: 'I have 1 book about Anthropology in my bookshelf.
+    description: 'I have 1 book about Anthropology in my personal library.
 
 
       ### Titles:
@@ -116,7 +116,7 @@ index:
     name: about Anxiety
     title: 'Theme: Anxiety'
     subtitle: Books about anxiety and how to deal with it
-    description: 'I have 5 books about Anxiety in my bookshelf.
+    description: 'I have 5 books about Anxiety in my personal library.
 
 
       ### Titles:
@@ -146,9 +146,9 @@ index:
     title: 'Theme: Archaeology'
     subtitle: Books about the study of history through the recovery and analysis of
       material culture
-    description: "I have 10 books about Archaeology in my bookshelf.\n\n### Titles:\n\
-      - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett\n\
-      - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)\
+    description: "I have 10 books about Archaeology in my personal library.\n\n###\
+      \ Titles:\n- (paper) [By Roman Hands](/books/info/9781585104024) by Matthew\
+      \ Hartnett\n- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)\
       \ by John R. Hale\n- (paper) [Cuneiform](/books/info/9780520061156) by C. B.\
       \ F. Walker\n- (paper) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103)\
       \ by Evelyne Faivre-Martin\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
@@ -175,9 +175,9 @@ index:
     name: about Art History
     title: 'Theme: Art History'
     subtitle: Books about the study of art in its historical context
-    description: "I have 2 books about Art History in my bookshelf.\n\n### Titles:\n\
-      - (paper) [Art History](/books/info/9780192801814) by Dana Arnold\n- (paper)\
-      \ [Roman Art](/books/info/9781785511837) by Paul Zanker, Se\xE1n Hemingway,\
+    description: "I have 2 books about Art History in my personal library.\n\n###\
+      \ Titles:\n- (paper) [Art History](/books/info/9780192801814) by Dana Arnold\n\
+      - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Se\xE1n Hemingway,\
       \ Christopher S. Lightfoot, Joan R. Mertens"
     items:
     - title: null
@@ -188,7 +188,7 @@ index:
     name: about Autism
     title: 'Theme: Autism'
     subtitle: Books about autism and related topics
-    description: 'I have 3 books about Autism in my bookshelf.
+    description: 'I have 3 books about Autism in my personal library.
 
 
       ### Titles:
@@ -211,7 +211,7 @@ index:
     name: about Biography
     title: 'Theme: Biography'
     subtitle: Books about the life of a person
-    description: "I have 9 books about Biography in my bookshelf.\n\n### Titles:\n\
+    description: "I have 9 books about Biography in my personal library.\n\n### Titles:\n\
       - (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena Jobim\n\
       - (paper) [Groucho](/books/info/9780375702075) by Stefan Kanfer\n- (paper) [Mem\xF2\
       ries. Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2ries #1)](/books/info/9788484370451)\
@@ -237,7 +237,7 @@ index:
     name: about Business
     title: 'Theme: Business'
     subtitle: Books about business and related topics
-    description: 'I have 11 books about Business in my bookshelf.
+    description: 'I have 11 books about Business in my personal library.
 
 
       ### Titles:
@@ -288,8 +288,8 @@ index:
     name: about Ciphers
     title: 'Theme: Ciphers'
     subtitle: Books about ciphers before modern cryptography
-    description: "I have 3 books about Ciphers in my bookshelf.\n\n### Titles:\n-\
-      \ (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines\n\
+    description: "I have 3 books about Ciphers in my personal library.\n\n### Titles:\n\
+      - (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines\n\
       - (paper) [Cryptanalysis of the Single Columnar Transposition Cipher](/books/info/9780894121937)\
       \ by Wayne G. Barker\n- (paper) [Los C\xF3digos Secretos](/books/info/9788483062784)\
       \ by Simon Singh"
@@ -303,9 +303,9 @@ index:
     name: about Computational Design
     title: 'Theme: Computational Design'
     subtitle: Books about graphic design and art created using code
-    description: "I have 5 books about Computational Design in my bookshelf.\n\n###\
-      \ Titles:\n- (paper) [Code as Creative Medium](/books/info/9780262542043) by\
-      \ Tega Brain, Golan Levin\n- (paper) [Generative Design](/books/info/9781616890773)\
+    description: "I have 5 books about Computational Design in my personal library.\n\
+      \n### Titles:\n- (paper) [Code as Creative Medium](/books/info/9780262542043)\
+      \ by Tega Brain, Golan Levin\n- (paper) [Generative Design](/books/info/9781616890773)\
       \ by Hartmut Bohnacker, Benedikt Gro\xDF\n- (paper) [Getting Started with P5.Js](/books/info/9781457186776)\
       \ by Lauren McCarthy, Ben Fry, Casey Reas\n- (paper) [Getting Started with Processing.py](/books/info/9781457186837)\
       \ by Allison Parrish, Ben Fry, Casey Reas\n- (paper) [The Nature of Code](/books/info/9780985930806)\
@@ -322,9 +322,9 @@ index:
     name: about Crime Fiction
     title: 'Theme: Crime Fiction'
     subtitle: Books about Crime Fiction
-    description: "I have 7 books about Crime Fiction in my bookshelf.\n\n### Titles:\n\
-      - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie\n-\
-      \ (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
+    description: "I have 7 books about Crime Fiction in my personal library.\n\n###\
+      \ Titles:\n- (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie\n\
+      - (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
       \ by Agatha Christie\n- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
       \ by Georges Simenon\n- (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623)\
       \ by Arturo P\xE9rez-Reverte\n- (audio) [Poirot Investigates](/books/info/B008EUR8O4)\
@@ -345,7 +345,7 @@ index:
     name: about Data
     title: 'Theme: Data'
     subtitle: Books about data and data analysis
-    description: 'I have 5 books about Data in my bookshelf.
+    description: 'I have 5 books about Data in my personal library.
 
 
       ### Titles:
@@ -374,8 +374,8 @@ index:
     name: about Design
     title: 'Theme: Design'
     subtitle: Books about design, including methods, approaches and techniques
-    description: "I have 37 books about Design in my bookshelf.\n\n### Titles:\n-\
-      \ (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis\
+    description: "I have 37 books about Design in my personal library.\n\n### Titles:\n\
+      - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis\
       \ A Dondis\n- (paper) [A Short History of the Printed Word](/books/info/9780881791549)\
       \ by Warren Chappell, Robert Bringhurst\n- (paper) [An Essay on Typography](/books/info/9780879239503)\
       \ by Eric Gill\n- (paper) [Color Design Workbook](/books/info/9781592534333)\
@@ -460,7 +460,7 @@ index:
     name: about Drama
     title: 'Theme: Drama'
     subtitle: Books about drama, including plays and screenplays
-    description: 'I have 4 books about Drama in my bookshelf.
+    description: 'I have 4 books about Drama in my personal library.
 
 
       ### Titles:
@@ -485,7 +485,7 @@ index:
     name: about Economics
     title: 'Theme: Economics'
     subtitle: Books about economics, including game theory and behavioural economics
-    description: 'I have 5 books about Economics in my bookshelf.
+    description: 'I have 5 books about Economics in my personal library.
 
 
       ### Titles:
@@ -511,8 +511,9 @@ index:
   engineering:
     name: about Engineering
     title: 'Theme: Engineering'
-    subtitle: Books about engineering, not including software engineering
-    description: 'I have 19 books about Engineering in my bookshelf.
+    subtitle: Books about engineering, including software engineering and programming
+      languages
+    description: 'I have 19 books about Engineering in my personal library.
 
 
       ### Titles:
@@ -587,7 +588,7 @@ index:
     name: about Entrepreneurship
     title: 'Theme: Entrepreneurship'
     subtitle: Books about entrepreneurship and related topics
-    description: 'I have 2 books about Entrepreneurship in my bookshelf.
+    description: 'I have 2 books about Entrepreneurship in my personal library.
 
 
       ### Titles:
@@ -604,7 +605,7 @@ index:
     name: about Epigraphy
     title: 'Theme: Epigraphy'
     subtitle: Books about the study of inscriptions and writing systems
-    description: "I have 7 books about Epigraphy in my bookshelf.\n\n### Titles:\n\
+    description: "I have 7 books about Epigraphy in my personal library.\n\n### Titles:\n\
       - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett\n\
       - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker\n- (paper)\
       \ [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin\n\
@@ -627,7 +628,7 @@ index:
     name: about Essays
     title: 'Theme: Essays'
     subtitle: Books about essays, including collections of essays
-    description: 'I have 6 books about Essays in my bookshelf.
+    description: 'I have 6 books about Essays in my personal library.
 
 
       ### Titles:
@@ -660,7 +661,7 @@ index:
     name: about Fantasy
     title: 'Theme: Fantasy'
     subtitle: Books about fantasy, including fantasy novels
-    description: "I have 13 books about Fantasy in my bookshelf.\n\n### Titles:\n\
+    description: "I have 13 books about Fantasy in my personal library.\n\n### Titles:\n\
       - (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
       \ by J. R. R. Tolkien\n- (paper) [Feet Of Clay](/books/info/9780552142373) by\
       \ Terry Pratchett\n- (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009)\
@@ -695,7 +696,7 @@ index:
     name: about Financial Markets
     title: 'Theme: Financial Markets'
     subtitle: Books about financial markets and related topics
-    description: 'I have 1 book about Financial Markets in my bookshelf.
+    description: 'I have 1 book about Financial Markets in my personal library.
 
 
       ### Titles:
@@ -710,7 +711,7 @@ index:
     name: about Game Of Go
     title: 'Theme: Game Of Go'
     subtitle: Books about the game of go, including problems, strategy and game records
-    description: 'I have 25 books about Game Of Go in my bookshelf.
+    description: 'I have 25 books about Game Of Go in my personal library.
 
 
       ### Titles:
@@ -817,14 +818,15 @@ index:
     name: about Graphic Novels
     title: 'Theme: Graphic Novels'
     subtitle: Graphic novels, including comics
-    description: "I have 27 books about Graphic Novels in my bookshelf.\n\n### Titles:\n\
-      - (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059)\
-      \ by Trondheim\n- (paper) [Attack of the Deranged Mutant Killer Monster Snow\
-      \ Goons](/books/info/9780751509335) by Bill Watterson\n- (paper) [Griffu](/books/info/9782203030466)\
-      \ by Tardi/Manchette\n- (paper) [Hilda and the Bird Parade](/books/info/9781911171027)\
-      \ by Luke Pearson\n- (paper) [Hilda and the Black Hound](/books/info/9781912497553)\
-      \ by Luke Pearson\n- (paper) [Hilda and the Midnight Giant](/books/info/9781909263796)\
-      \ by Luke Pearson\n- (paper) [Hilda and the Mountain King](/books/info/9781913123918)\
+    description: "I have 27 books about Graphic Novels in my personal library.\n\n\
+      ### Titles:\n- (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot,\
+      \ #4)](/books/info/9782205050059) by Trondheim\n- (paper) [Attack of the Deranged\
+      \ Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson\n\
+      - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette\n- (paper)\
+      \ [Hilda and the Bird Parade](/books/info/9781911171027) by Luke Pearson\n-\
+      \ (paper) [Hilda and the Black Hound](/books/info/9781912497553) by Luke Pearson\n\
+      - (paper) [Hilda and the Midnight Giant](/books/info/9781909263796) by Luke\
+      \ Pearson\n- (paper) [Hilda and the Mountain King](/books/info/9781913123918)\
       \ by Luke Pearson\n- (paper) [Hilda and the Stone Forest](/books/info/9781911171713)\
       \ by Luke Pearson\n- (paper) [Hilda and the Troll](/books/info/9781912497546)\
       \ by Luke Pearson\n- (paper) [L'Acc\xE9l\xE9rateur Atomique (Les Formidables\
@@ -885,8 +887,8 @@ index:
     name: about Graphs
     title: 'Theme: Graphs'
     subtitle: Books about graphs and graph theory
-    description: "I have 3 books about Graphs in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)\
+    description: "I have 3 books about Graphs in my personal library.\n\n### Titles:\n\
+      - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)\
       \ by Pan\n- (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank\
       \ Kejriwal, Pedro Szekely, Craig A. Knoblock\n- (paper) [Linked](/books/info/9780738206677)\
       \ by Albert-L\xE1szl\xF3 Barab\xE1si, Jennifer Frangos"
@@ -900,7 +902,7 @@ index:
     name: about Historical Novel
     title: 'Theme: Historical Novel'
     subtitle: Novels set in the past, including historical fiction
-    description: 'I have 1 book about Historical Novel in my bookshelf.
+    description: 'I have 1 book about Historical Novel in my personal library.
 
 
       ### Titles:
@@ -915,7 +917,7 @@ index:
     name: about History
     title: 'Theme: History'
     subtitle: Books about history in general
-    description: "I have 36 books about History in my bookshelf.\n\n### Titles:\n\
+    description: "I have 36 books about History in my personal library.\n\n### Titles:\n\
       - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
       \ by Jeremy McInerney\n- (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian\
       \ Goldsworthy\n- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy\n\
@@ -997,12 +999,12 @@ index:
     name: about Humor
     title: 'Theme: Humor'
     subtitle: Books about humor and comedy
-    description: "I have 4 books about Humor in my bookshelf.\n\n### Titles:\n- (audio)\
-      \ [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n- (paper) [Digue'm agosarat.\
-      \ Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente, Xavier\
-      \ Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential Groucho](/books/info/9780140294255)\
-      \ by Groucho Marx\n- (paper) [Tinto de verano (Tinto de verano #1)](/books/info/9788466306782)\
-      \ by Elvira Lindo"
+    description: "I have 4 books about Humor in my personal library.\n\n### Titles:\n\
+      - (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n- (paper) [Digue'm\
+      \ agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
+      \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential\
+      \ Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto de verano\
+      \ (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
     items:
     - title: null
       books:
@@ -1014,57 +1016,18 @@ index:
     name: about Kids
     title: 'Theme: Kids'
     subtitle: Books for kids
-    description: 'I have 11 books about Kids in my bookshelf.
+    description: 'I have 0 books about Kids in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
-
-      - (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn
-      Curtis
-
-      - (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa
-
-      - (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227)
-      by Alison Jay
-
-      - (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
-
-      - (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman
-
-      - (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia
-      MacLachlan
-
-      - (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298)
-      by Joanna Cole
-
-      - (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame,
-      Susan Hill
-
-      - (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351)
-      by Judith Bauer Stamper, Joanna Cole, Bruce Degen
-
-      - (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781101648056'
-      - '9781841488035'
-      - '9781250235725'
-      - '9780803734227'
-      - '9780805091984'
-      - '9781596433076'
-      - '9781596439481'
-      - '9781435264298'
-      - '9781466887817'
-      - '9780439429351'
-      - B002V1BPOQ
+      books: []
   labyrinths:
     name: about Labyrinths
     title: 'Theme: Labyrinths'
     subtitle: Books about labyrinths, including mazes
-    description: 'I have 2 books about Labyrinths in my bookshelf.
+    description: 'I have 2 books about Labyrinths in my personal library.
 
 
       ### Titles:
@@ -1081,14 +1044,15 @@ index:
     name: about Learning Latin
     title: 'Theme: Learning Latin'
     subtitle: Books about learning the Latin language
-    description: "I have 18 books about Learning Latin in my bookshelf.\n\n### Titles:\n\
-      - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James\
-      \ M. May, Frederic M. Wheelock\n- (paper) [A Companion to Familia Romana](/books/info/9781585108091)\
-      \ by Jeanne Neumann\n- (paper) [A Practical Grammar of the Latin Language](/books/info/9781333776749)\
-      \ by George J. Adler\n- (paper) [Colloquia Personarum](/books/info/9781585109388)\
-      \ by Hans H. Orberg\n- (paper) [Latin Alive](/books/info/9780521734189) by Joseph\
-      \ B. Solodow\n- (paper) [Lingua Latina Per Se Illustrata](/books/info/9781585100743)\
-      \ by Hans Henning Orberg\n- (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208)\
+    description: "I have 18 books about Learning Latin in my personal library.\n\n\
+      ### Titles:\n- (paper) [38 Latin Stories](/books/info/9780865162891) by Anne\
+      \ H. Groton, James M. May, Frederic M. Wheelock\n- (paper) [A Companion to Familia\
+      \ Romana](/books/info/9781585108091) by Jeanne Neumann\n- (paper) [A Practical\
+      \ Grammar of the Latin Language](/books/info/9781333776749) by George J. Adler\n\
+      - (paper) [Colloquia Personarum](/books/info/9781585109388) by Hans H. Orberg\n\
+      - (paper) [Latin Alive](/books/info/9780521734189) by Joseph B. Solodow\n- (paper)\
+      \ [Lingua Latina Per Se Illustrata](/books/info/9781585100743) by Hans Henning\
+      \ Orberg\n- (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208)\
       \ by Hans Henning Orberg\n- (paper) [Lingua Latina: Caesaris](/books/info/9781585102327)\
       \ by Hans Henning \xD8rberg, Gaius Julius Caesar\n- (audio) [Long Live Latin](/books/info/125075044X)\
       \ by Nicola Gardini, Todd Portnowitz\n- (paper) [North American Cambridge Latin\
@@ -1128,7 +1092,7 @@ index:
     name: about Linguistics
     title: 'Theme: Linguistics'
     subtitle: Books about linguistics, including the history of languages
-    description: 'I have 5 books about Linguistics in my bookshelf.
+    description: 'I have 5 books about Linguistics in my personal library.
 
 
       ### Titles:
@@ -1157,7 +1121,7 @@ index:
     name: about Logic
     title: 'Theme: Logic'
     subtitle: Books about logic and logical thinking
-    description: 'I have 2 books about Logic in my bookshelf.
+    description: 'I have 2 books about Logic in my personal library.
 
 
       ### Titles:
@@ -1176,7 +1140,7 @@ index:
     title: 'Theme: Magic'
     subtitle: Books about magic, including tricks, performance and the history of
       magic
-    description: 'I have 11 books about Magic in my bookshelf.
+    description: 'I have 11 books about Magic in my personal library.
 
 
       ### Titles:
@@ -1225,9 +1189,9 @@ index:
     name: about Math
     title: 'Theme: Math'
     subtitle: Books about mathematics in general, including probability and statistics
-    description: "I have 22 books about Math in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n-\
-      \ (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
+    description: "I have 22 books about Math in my personal library.\n\n### Titles:\n\
+      - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n\
+      - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
       - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370)\
       \ by Gareth James, Trevor Hastie, Robert Tibshirani\n- (paper) [Complex Adaptive\
       \ Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page\n- (paper)\
@@ -1280,7 +1244,7 @@ index:
     name: about Music
     title: 'Theme: Music'
     subtitle: Books about music and musicians
-    description: 'I have 2 books about Music in my bookshelf.
+    description: 'I have 2 books about Music in my personal library.
 
 
       ### Titles:
@@ -1299,7 +1263,7 @@ index:
     title: 'Theme: Mythology'
     subtitle: Books about mythology, including the study of myths and the history
       of myths
-    description: 'I have 5 books about Mythology in my bookshelf.
+    description: 'I have 5 books about Mythology in my personal library.
 
 
       ### Titles:
@@ -1325,7 +1289,7 @@ index:
     name: about New York
     title: 'Theme: New York'
     subtitle: Books about New York City
-    description: 'I have 5 books about New York in my bookshelf.
+    description: 'I have 5 books about New York in my personal library.
 
 
       ### Titles:
@@ -1353,13 +1317,13 @@ index:
     name: about Novel
     title: 'Theme: Novel'
     subtitle: Novels, including historical novels
-    description: "I have 35 books about Novel in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge\
-      \ Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca\n\
-      - (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira de Queiroz\n\
-      - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca\n- (paper)\
-      \ [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan\n- (paper)\
-      \ [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
+    description: "I have 35 books about Novel in my personal library.\n\n### Titles:\n\
+      - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616)\
+      \ by Jorge Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem\
+      \ Fonseca\n- (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira\
+      \ de Queiroz\n- (paper) [A grande arte](/books/info/9788520924556) by Rubem\
+      \ Fonseca\n- (paper) [Altered Carbon](/books/info/9780345457684) by Richard\
+      \ K. Morgan\n- (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
       \ by J\xF4. Soares\n- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by\
       \ Jorge Amado\n- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
       \ by Luis Garcia Jambrina\n- (paper) [El \xFAltimo libro de Sergi P\xE0mies](/books/info/9788433924889)\
@@ -1432,9 +1396,10 @@ index:
     name: about Paris
     title: 'Theme: Paris'
     subtitle: Books about the city of Paris
-    description: "I have 2 books about Paris in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Par\xEDs no se acaba nunca](/books/info/9788433968517) by Enrique Vila-Matas\n\
-      - (paper) [Rayuela](/books/info/9788437604572) by Julio Cort\xE1zar"
+    description: "I have 2 books about Paris in my personal library.\n\n### Titles:\n\
+      - (paper) [Par\xEDs no se acaba nunca](/books/info/9788433968517) by Enrique\
+      \ Vila-Matas\n- (paper) [Rayuela](/books/info/9788437604572) by Julio Cort\xE1\
+      zar"
     items:
     - title: null
       books:
@@ -1444,7 +1409,7 @@ index:
     name: about Personal Growth
     title: 'Theme: Personal Growth'
     subtitle: Books about personal growth and related topics
-    description: 'I have 2 books about Personal Growth in my bookshelf.
+    description: 'I have 2 books about Personal Growth in my personal library.
 
 
       ### Titles:
@@ -1461,12 +1426,12 @@ index:
     name: about Philosophy
     title: 'Theme: Philosophy'
     subtitle: Books about philosophy in general, including the history of philosophy
-    description: "I have 12 books about Philosophy in my bookshelf.\n\n### Titles:\n\
-      - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus\n\
-      - (paper) [Ensaio sobre a lucidez](/books/info/9788535904802) by Jos\xE9 Saramago\n\
-      - (paper) [How Proust Can Change Your Life](/books/info/9780679779155) by Alain\
-      \ De Botton\n- (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo\
-      \ Pigliucci\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
+    description: "I have 12 books about Philosophy in my personal library.\n\n###\
+      \ Titles:\n- (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181)\
+      \ by Epictetus\n- (paper) [Ensaio sobre a lucidez](/books/info/9788535904802)\
+      \ by Jos\xE9 Saramago\n- (paper) [How Proust Can Change Your Life](/books/info/9780679779155)\
+      \ by Alain De Botton\n- (paper) [How to Be a Stoic](/books/info/9781541644533)\
+      \ by Massimo Pigliucci\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
       \ by Donald J. Robertson\n- (paper) [Letters from a Stoic](/books/info/9780140442106)\
       \ by Seneca\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
       - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n- (paper)\
@@ -1493,7 +1458,7 @@ index:
     name: about Photography
     title: 'Theme: Photography'
     subtitle: Books about photography and photographers
-    description: 'I have 1 book about Photography in my bookshelf.
+    description: 'I have 1 book about Photography in my personal library.
 
 
       ### Titles:
@@ -1508,12 +1473,12 @@ index:
     name: about Poetry
     title: 'Theme: Poetry'
     subtitle: Books about poetry, including collections of poems
-    description: "I have 5 books about Poetry in my bookshelf.\n\n### Titles:\n- (paper)\
-      \ [Paroles](/books/info/9782070367627) by Jacques Prevert\n- (paper) [Poeta\
-      \ En Nueva York](/books/info/9788423919468) by Federico Garc\xEDa Lorca\n- (paper)\
-      \ [Rimas y leyendas](/books/info/9788423974030) by Becquer\n- (paper) [The Hill\
-      \ We Climb](/books/info/9780593465271) by Amanda Gorman\n- (paper) [The Hill\
-      \ We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman"
+    description: "I have 5 books about Poetry in my personal library.\n\n### Titles:\n\
+      - (paper) [Paroles](/books/info/9782070367627) by Jacques Prevert\n- (paper)\
+      \ [Poeta En Nueva York](/books/info/9788423919468) by Federico Garc\xEDa Lorca\n\
+      - (paper) [Rimas y leyendas](/books/info/9788423974030) by Becquer\n- (paper)\
+      \ [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman\n- (paper)\
+      \ [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman"
     items:
     - title: null
       books:
@@ -1526,7 +1491,7 @@ index:
     name: about Presentation
     title: 'Theme: Presentation'
     subtitle: Books about presentation skills
-    description: 'I have 3 books about Presentation in my bookshelf.
+    description: 'I have 3 books about Presentation in my personal library.
 
 
       ### Titles:
@@ -1546,14 +1511,14 @@ index:
     name: about Psychology
     title: 'Theme: Psychology'
     subtitle: Books about psychology in general
-    description: "I have 23 books about Psychology in my bookshelf.\n\n### Titles:\n\
-      - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein\n- (paper)\
-      \ [Blink](/books/info/9780713997279) by Malcolm Gladwell\n- (audio) [Comebacks\
-      \ at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher T. Noblet\n\
-      - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch\n\
-      - (paper) [Feeling Good](/books/info/9780062136497) by David D. Burns\n- (audio)\
-      \ [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n- (paper) [Guia Practica\
-      \ de Psicologia](/books/info/9788478809240) by Juan Antonio Vallejo-Nagera\n\
+    description: "I have 23 books about Psychology in my personal library.\n\n###\
+      \ Titles:\n- (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein\n\
+      - (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell\n- (audio)\
+      \ [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher\
+      \ T. Noblet\n- (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D.\
+      \ Guy Winch\n- (paper) [Feeling Good](/books/info/9780062136497) by David D.\
+      \ Burns\n- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n- (paper)\
+      \ [Guia Practica de Psicologia](/books/info/9788478809240) by Juan Antonio Vallejo-Nagera\n\
       - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J.\
       \ G. Asmundson, Steven Taylor\n- (paper) [La fuerza del optimismo](/books/info/9788466318884)\
       \ by Luis Rojas Marcos\n- (paper) [Learned Optimism](/books/info/9781400078394)\
@@ -1604,7 +1569,7 @@ index:
     name: about Puzzles
     title: 'Theme: Puzzles'
     subtitle: Books about puzzles and other games
-    description: 'I have 2 books about Puzzles in my bookshelf.
+    description: 'I have 2 books about Puzzles in my personal library.
 
 
       ### Titles:
@@ -1622,7 +1587,7 @@ index:
     name: about Reading
     title: 'Theme: Reading'
     subtitle: Books about reading, including critical reading and literature analysis
-    description: 'I have 2 books about Reading in my bookshelf.
+    description: 'I have 2 books about Reading in my personal library.
 
 
       ### Titles:
@@ -1639,7 +1604,7 @@ index:
     name: about Role-Playing Games
     title: 'Theme: Role-Playing Games'
     subtitle: Books about tabletop role-playing games
-    description: 'I have 19 books about Role-Playing Games in my bookshelf.
+    description: 'I have 19 books about Role-Playing Games in my personal library.
 
 
       ### Titles:
@@ -1728,7 +1693,7 @@ index:
     name: about Science
     title: 'Theme: Science'
     subtitle: Books about science in general
-    description: "I have 27 books about Science in my bookshelf.\n\n### Titles:\n\
+    description: "I have 27 books about Science in my personal library.\n\n### Titles:\n\
       - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n\
       - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
       - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
@@ -1795,7 +1760,7 @@ index:
     name: about Security
     title: 'Theme: Security'
     subtitle: Books about security, intelligence and risk
-    description: 'I have 16 books about Security in my bookshelf.
+    description: 'I have 16 books about Security in my personal library.
 
 
       ### Titles:
@@ -1862,7 +1827,7 @@ index:
     name: about Software
     title: 'Theme: Software'
     subtitle: Books about software development and programming languages
-    description: 'I have 17 books about Software in my bookshelf.
+    description: 'I have 17 books about Software in my personal library.
 
 
       ### Titles:
@@ -1931,7 +1896,7 @@ index:
     name: about Typography
     title: 'Theme: Typography'
     subtitle: Books about typography and type design
-    description: 'I have 10 books about Typography in my bookshelf.
+    description: 'I have 10 books about Typography in my personal library.
 
 
       ### Titles:
@@ -1977,7 +1942,7 @@ index:
     name: about Visualization
     title: 'Theme: Visualization'
     subtitle: Books about data and information visualization
-    description: 'I have 12 books about Visualization in my bookshelf.
+    description: 'I have 12 books about Visualization in my personal library.
 
 
       ### Titles:
@@ -2029,7 +1994,7 @@ index:
     name: about Writing
     title: 'Theme: Writing'
     subtitle: Books about writing, grammar, and style
-    description: "I have 24 books about Writing in my bookshelf.\n\n### Titles:\n\
+    description: "I have 24 books about Writing in my personal library.\n\n### Titles:\n\
       - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard\
       \ A. Lanham\n- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia\
       \ Tufte\n- (paper) [Building Great Sentences](/books/info/9780452298606) by\
@@ -2403,18 +2368,7 @@ index:
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 - (paper) [The Essential Groucho](/books/info/9780140294255) by Groucho Marx
 - (paper) [Tinto de verano (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo
-### [kids](/books/about_kids) (11)
-- (paper) [Flight of the Last Dragon](/books/info/9781101648056) by Robert Burleigh
-- (paper) [I Took the Moon for a Walk](/books/info/9781841488035) by Carolyn Curtis
-- (paper) [Is That You, Eleanor Sue?](/books/info/9781250235725) by Tricia Tusa
-- (paper) [PP Welcome to the Zoo! -DWF Acct ONLY](/books/info/9780803734227) by Alison Jay
-- (paper) [Pablo Neruda](/books/info/9780805091984) by Monica Brown
-- (paper) [The Boy Who Loved Math](/books/info/9781596433076) by Deborah Heiligman
-- (paper) [The Iridescence of Birds](/books/info/9781596439481) by Patricia MacLachlan
-- (paper) [The Magic School Bus on the Ocean Floor](/books/info/9781435264298) by Joanna Cole
-- (paper) [The Wind in the Willows](/books/info/9781466887817) by Kenneth Grahame, Susan Hill
-- (paper) [Voyage to the Volcano (Magic School Bus Science Chapter Books, #15)](/books/info/9780439429351) by Judith Bauer Stamper, Joanna Cole, Bruce Degen
-- (audio) [Winnie-the-Pooh](/books/info/B002V1BPOQ) by A. A. Milne
+### [kids](/books/about_kids) (0)
 ### [labyrinths](/books/about_labyrinths) (2)
 - (paper) [Labyrinths & Mazes](/books/info/9781616895129) by Francesca Tatarella
 - (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern

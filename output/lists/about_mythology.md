@@ -11,7 +11,7 @@ items:
   - B00DDXQ61S
 subtitle: Books about mythology, including the study of myths and the history of myths
 ---
-I have 5 books about Mythology in my bookshelf.
+I have 5 books about Mythology in my personal library.
 
 ### Titles:
 - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver
