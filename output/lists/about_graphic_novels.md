@@ -1,6 +1,7 @@
 ---
 name: about Graphic Novels
 title: 'Theme: Graphic Novels'
+subtitle: Graphic novels, including comics
 items:
 - title: null
   books:
@@ -31,7 +32,6 @@ items:
   - '9781607066309'
   - '9782205051926'
   - '9782205055641'
-subtitle: Graphic novels, including comics
 ---
 I have 27 books about Graphic Novels in my personal library.
 

@@ -32,7 +32,6 @@ listening_date: '2019-12-11'
 theme: economics
 duration: PT13H44M
 type: audiobook
-status: partially listened to
 read_status: partially listened to
 recommendation_status: null
 ---

@@ -1,6 +1,7 @@
 ---
 name: in Portuguese
 title: 'Language: Portuguese'
+subtitle: Books in Portuguese
 items:
 - title: null
   books:
@@ -21,7 +22,6 @@ items:
   - '9789722019569'
   - '9788576655299'
   - '9788501005588'
-subtitle: Books in Portuguese
 ---
 I have 17 books in Portuguese in my personal library.
 

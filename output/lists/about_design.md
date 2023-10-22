@@ -1,6 +1,7 @@
 ---
 name: about Design
 title: 'Theme: Design'
+subtitle: Books about design, including methods, approaches and techniques
 items:
 - title: null
   books:
@@ -41,7 +42,6 @@ items:
   - '9781631597480'
   - '9781592530076'
   - '9780062872968'
-subtitle: Books about design, including methods, approaches and techniques
 ---
 I have 37 books about Design in my personal library.
 

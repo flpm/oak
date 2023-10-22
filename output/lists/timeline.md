@@ -1,6 +1,7 @@
 ---
 name: timeline
 title: Book Timeline
+subtitle: Books ordered by date of acquisition
 items:
 - title:
   - September 2023
@@ -1489,7 +1490,6 @@ items:
     Gaines'
   books:
   - '9780486200972'
-subtitle: Books ordered by date of acquisition
 attribute: purchase_date
 ---
-
+No description available

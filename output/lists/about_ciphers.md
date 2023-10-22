@@ -1,13 +1,13 @@
 ---
 name: about Ciphers
 title: 'Theme: Ciphers'
+subtitle: Books about ciphers before modern cryptography
 items:
 - title: null
   books:
   - '9780486200972'
   - '9780894121937'
   - '9788483062784'
-subtitle: Books about ciphers before modern cryptography
 ---
 I have 3 books about Ciphers in my personal library.
 

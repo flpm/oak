@@ -1,6 +1,7 @@
 ---
 name: about Crime Fiction
 title: 'Theme: Crime Fiction'
+subtitle: Books about Crime Fiction
 items:
 - title: null
   books:
@@ -11,7 +12,6 @@ items:
   - B008EUR8O4
   - B06WLMWF2S
   - B008RBDG46
-subtitle: Books about Crime Fiction
 ---
 I have 7 books about Crime Fiction in my personal library.
 

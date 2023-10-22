@@ -1,6 +1,7 @@
 ---
 name: about Humor
 title: 'Theme: Humor'
+subtitle: Books about humor and comedy
 items:
 - title: null
   books:
@@ -8,7 +9,6 @@ items:
   - '9788483009512'
   - '9780140294255'
   - '9788466306782'
-subtitle: Books about humor and comedy
 ---
 I have 4 books about Humor in my personal library.
 

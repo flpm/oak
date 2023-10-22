@@ -2,7 +2,6 @@
 book_id: B00TP2UMTS
 full_title: Thinking Statistically
 title: Thinking Statistically
-subtitle: null
 asin: B00TP2UMTS
 length: '5494073'
 owned: 'true'
@@ -34,7 +33,6 @@ listening_date: '2016-02-25'
 theme: math
 duration: PT1H31M
 type: audiobook
-status: partially listened to
 read_status: partially listened to
 recommendation_status: null
 ---

@@ -1,12 +1,12 @@
 ---
 name: about Labyrinths
 title: 'Theme: Labyrinths'
+subtitle: Books about labyrinths, including mazes
 items:
 - title: null
   books:
   - '9781616895129'
   - '9783791321448'
-subtitle: Books about labyrinths, including mazes
 ---
 I have 2 books about Labyrinths in my personal library.
 

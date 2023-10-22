@@ -2,7 +2,6 @@
 book_id: B0774ZRRJL
 full_title: Several Short Sentences About Writing
 title: Several Short Sentences About Writing
-subtitle: null
 asin: B0774ZRRJL
 length: '15960000'
 owned: 'true'
@@ -32,7 +31,6 @@ listening_date: '2023-05-13'
 theme: writing
 duration: PT4H26M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

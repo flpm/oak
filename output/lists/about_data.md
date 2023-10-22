@@ -1,6 +1,7 @@
 ---
 name: about Data
 title: 'Theme: Data'
+subtitle: Books about data and data analysis
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9780195089653'
   - '9781789615326'
   - '9781800563452'
-subtitle: Books about data and data analysis
 ---
 I have 5 books about Data in my personal library.
 

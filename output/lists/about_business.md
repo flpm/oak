@@ -1,6 +1,7 @@
 ---
 name: about Business
 title: 'Theme: Business'
+subtitle: Books about business and related topics
 items:
 - title: null
   books:
@@ -15,7 +16,6 @@ items:
   - '9781885705020'
   - '9780787976750'
   - '9780140277821'
-subtitle: Books about business and related topics
 ---
 I have 11 books about Business in my personal library.
 

@@ -2,7 +2,6 @@
 book_id: B06WLMWF2S
 full_title: Sherlock Holmes
 title: Sherlock Holmes
-subtitle: null
 asin: B06WLMWF2S
 length: '226362000'
 owned: 'true'
@@ -33,7 +32,6 @@ listening_date: '2022-01-24'
 theme: crime fiction
 duration: PT62H52M
 type: audiobook
-status: have not started
 read_status: have not started
 recommendation_status: null
 ---

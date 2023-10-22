@@ -33,7 +33,6 @@ listening_date: '2021-09-29'
 theme: psychology
 duration: PT9H22M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

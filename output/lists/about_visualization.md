@@ -1,6 +1,7 @@
 ---
 name: about Visualization
 title: 'Theme: Visualization'
+subtitle: Books about data and information visualization
 items:
 - title: null
   books:
@@ -16,7 +17,6 @@ items:
   - '9780061748363'
   - '9781616892197'
   - '9781930824157'
-subtitle: Books about data and information visualization
 ---
 I have 12 books about Visualization in my personal library.
 

@@ -1,6 +1,7 @@
 ---
 name: about Typography
 title: 'Theme: Typography'
+subtitle: Books about typography and type design
 items:
 - title: null
   books:
@@ -14,7 +15,6 @@ items:
   - '9780879236366'
   - '9780881792065'
   - '9781568984483'
-subtitle: Books about typography and type design
 ---
 I have 10 books about Typography in my personal library.
 

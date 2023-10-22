@@ -1,6 +1,7 @@
 ---
 name: about Essays
 title: 'Theme: Essays'
+subtitle: Books about essays, including collections of essays
 items:
 - title: null
   books:
@@ -10,7 +11,6 @@ items:
   - '9780143126676'
   - '9781101904404'
   - '9780316143479'
-subtitle: Books about essays, including collections of essays
 ---
 I have 6 books about Essays in my personal library.
 

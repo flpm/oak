@@ -36,7 +36,6 @@ listening_date: '2021-08-09'
 theme: business
 duration: PT4H58M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

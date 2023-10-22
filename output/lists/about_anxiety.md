@@ -1,6 +1,7 @@
 ---
 name: about Anxiety
 title: 'Theme: Anxiety'
+subtitle: Books about anxiety and how to deal with it
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9781606238134'
   - '9781572246270'
   - '9781572248915'
-subtitle: Books about anxiety and how to deal with it
 ---
 I have 5 books about Anxiety in my personal library.
 

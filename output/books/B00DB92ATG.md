@@ -2,7 +2,6 @@
 book_id: B00DB92ATG
 full_title: Great Battles of the Ancient World
 title: Great Battles of the Ancient World
-subtitle: null
 asin: B00DB92ATG
 length: '44006000'
 owned: 'true'
@@ -31,7 +30,6 @@ listening_date: '2022-08-31'
 theme: ancient history
 duration: PT12H13M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

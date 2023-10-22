@@ -32,7 +32,6 @@ listening_date: '2023-05-15'
 theme: ancient history
 duration: PT12H17M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

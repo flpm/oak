@@ -1,13 +1,13 @@
 ---
 name: about Presentation
 title: 'Theme: Presentation'
+subtitle: Books about presentation skills
 items:
 - title: null
   books:
   - '9781523094110'
   - B075FG7HLK
   - '9780470632017'
-subtitle: Books about presentation skills
 ---
 I have 3 books about Presentation in my personal library.
 

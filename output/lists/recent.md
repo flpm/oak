@@ -1,6 +1,7 @@
 ---
 name: recent
 title: Recent acquisitions
+subtitle: The last 10 books added to the bookshelf
 items:
 - title: null
   description: null
@@ -15,7 +16,6 @@ items:
   - '9781523094110'
   - B075FG7HLK
   - '9780786967025'
-subtitle: The last 10 books added to the bookshelf
 attribute: purchase_date
 ---
 ### Last 10 books added to the bookshelf:

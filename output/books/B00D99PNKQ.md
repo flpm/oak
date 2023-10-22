@@ -2,7 +2,6 @@
 book_id: B00D99PNKQ
 full_title: Classical Mythology
 title: Classical Mythology
-subtitle: null
 asin: B00D99PNKQ
 length: '44747000'
 owned: 'true'
@@ -34,7 +33,6 @@ listening_date: '2022-05-10'
 theme: mythology
 duration: PT12H25M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

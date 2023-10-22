@@ -32,8 +32,6 @@ listening_date: '2021-10-27'
 theme: music
 duration: PT1H32M
 type: audiobook
-status: listened to
-recommend: true
 read_status: listened to
 recommendation_status: true
 ---

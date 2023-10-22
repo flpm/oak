@@ -1,6 +1,7 @@
 ---
 name: about Psychology
 title: 'Theme: Psychology'
+subtitle: Books about psychology in general
 items:
 - title: null
   books:
@@ -27,7 +28,6 @@ items:
   - '9781572248915'
   - '9780142001103'
   - '9781912891160'
-subtitle: Books about psychology in general
 ---
 I have 23 books about Psychology in my personal library.
 

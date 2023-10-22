@@ -1,6 +1,7 @@
 ---
 name: about Biography
 title: 'Theme: Biography'
+subtitle: Books about the life of a person
 items:
 - title: null
   books:
@@ -13,7 +14,6 @@ items:
   - '9781421505947'
   - '9781419727726'
   - '9781421560908'
-subtitle: Books about the life of a person
 ---
 I have 9 books about Biography in my personal library.
 

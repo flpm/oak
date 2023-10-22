@@ -36,7 +36,6 @@ listening_date: '2023-04-17'
 theme: writing
 duration: PT11H26M
 type: audiobook
-status: did not finish
 read_status: did not finish
 recommendation_status: null
 ---

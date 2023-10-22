@@ -1,6 +1,7 @@
 ---
 name: about Novel
 title: 'Theme: Novel'
+subtitle: Novels, including historical novels
 items:
 - title: null
   books:
@@ -39,7 +40,6 @@ items:
   - '9782070361038'
   - '9789725684573'
   - '9788420482279'
-subtitle: Novels, including historical novels
 ---
 I have 35 books about Novel in my personal library.
 

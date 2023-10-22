@@ -1,6 +1,7 @@
 ---
 name: about Writing
 title: 'Theme: Writing'
+subtitle: Books about writing, grammar, and style
 items:
 - title: null
   books:
@@ -28,7 +29,6 @@ items:
   - '9780316014991'
   - '1549108603'
   - '9780691191775'
-subtitle: Books about writing, grammar, and style
 ---
 I have 24 books about Writing in my personal library.
 

@@ -2,7 +2,6 @@
 book_id: B00DDXQ61S
 full_title: Myth in Human History
 title: Myth in Human History
-subtitle: null
 asin: B00DDXQ61S
 length: '66519000'
 owned: 'true'
@@ -32,8 +31,6 @@ listening_date: '2022-04-15'
 theme: mythology
 duration: PT18H28M
 type: audiobook
-ranking: 5
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

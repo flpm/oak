@@ -1,12 +1,12 @@
 ---
 name: about Music
 title: 'Theme: Music'
+subtitle: Books about music and musicians
 items:
 - title: null
   books:
   - B08ZYXLTYG
   - B08M93Q9SP
-subtitle: Books about music and musicians
 ---
 I have 2 books about Music in my personal library.
 

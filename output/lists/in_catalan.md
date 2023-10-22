@@ -1,12 +1,12 @@
 ---
 name: in Catalan
 title: 'Language: Catalan'
+subtitle: Books in Catalan
 items:
 - title: null
   books:
   - '9788483009512'
   - '9788484370451'
-subtitle: Books in Catalan
 ---
 I have 2 books in Catalan in my personal library.
 

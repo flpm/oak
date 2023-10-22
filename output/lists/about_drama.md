@@ -1,6 +1,7 @@
 ---
 name: about Drama
 title: 'Theme: Drama'
+subtitle: Books about drama, including plays and screenplays
 items:
 - title: null
   books:
@@ -8,7 +9,6 @@ items:
   - '9788437610979'
   - '9780571081820'
   - '9780802150646'
-subtitle: Books about drama, including plays and screenplays
 ---
 I have 4 books about Drama in my personal library.
 

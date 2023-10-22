@@ -1,6 +1,7 @@
 ---
 name: about Poetry
 title: 'Theme: Poetry'
+subtitle: Books about poetry, including collections of poems
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9788423974030'
   - '9780593465271'
   - '9780593465066'
-subtitle: Books about poetry, including collections of poems
 ---
 I have 5 books about Poetry in my personal library.
 

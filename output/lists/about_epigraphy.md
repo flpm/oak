@@ -1,6 +1,7 @@
 ---
 name: about Epigraphy
 title: 'Theme: Epigraphy'
+subtitle: Books about the study of inscriptions and writing systems
 items:
 - title: null
   books:
@@ -11,7 +12,6 @@ items:
   - '9781606064665'
   - '9780714150215'
   - B00F52DXH0
-subtitle: Books about the study of inscriptions and writing systems
 ---
 I have 7 books about Epigraphy in my personal library.
 

@@ -1,6 +1,7 @@
 ---
 name: about Economics
 title: 'Theme: Economics'
+subtitle: Books about economics, including game theory and behavioural economics
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9780393069792'
   - '9780374533557'
   - '9781591842316'
-subtitle: Books about economics, including game theory and behavioural economics
 ---
 I have 5 books about Economics in my personal library.
 

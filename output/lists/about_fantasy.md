@@ -1,6 +1,7 @@
 ---
 name: about Fantasy
 title: 'Theme: Fantasy'
+subtitle: Books about fantasy, including fantasy novels
 items:
 - title: null
   books:
@@ -17,7 +18,6 @@ items:
   - '9780061092176'
   - '9780547928241'
   - '9780544173767'
-subtitle: Books about fantasy, including fantasy novels
 ---
 I have 13 books about Fantasy in my personal library.
 

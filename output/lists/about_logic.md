@@ -1,12 +1,12 @@
 ---
 name: about Logic
 title: 'Theme: Logic'
+subtitle: Books about logic and logical thinking
 items:
 - title: null
   books:
   - '9780393326925'
   - '9780975366264'
-subtitle: Books about logic and logical thinking
 ---
 I have 2 books about Logic in my personal library.
 

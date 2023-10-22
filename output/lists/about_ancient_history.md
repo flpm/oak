@@ -1,6 +1,7 @@
 ---
 name: about Ancient History
 title: 'Theme: Ancient History'
+subtitle: Books from the beginning of recorded human history to the Early Middle Ages
 items:
 - title: null
   books:
@@ -45,7 +46,6 @@ items:
   - '9780691166407'
   - '9782228930376'
   - B00F52DXH0
-subtitle: Books from the beginning of recorded human history to the Early Middle Ages
 ---
 I have 41 books about Ancient History in my personal library.
 

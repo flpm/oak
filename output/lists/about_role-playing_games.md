@@ -1,6 +1,7 @@
 ---
 name: about Role-Playing Games
 title: 'Theme: Role-Playing Games'
+subtitle: Books about tabletop role-playing games
 items:
 - title: null
   books:
@@ -23,7 +24,6 @@ items:
   - '9781560761075'
   - '9780786966011'
   - '9780786966110'
-subtitle: Books about tabletop role-playing games
 ---
 I have 19 books about Role-Playing Games in my personal library.
 

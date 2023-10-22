@@ -2,7 +2,6 @@
 book_id: B0877CXKYX
 full_title: Cape Cod National Seashore
 title: Cape Cod National Seashore
-subtitle: null
 asin: B0877CXKYX
 length: '3280000'
 owned: 'true'

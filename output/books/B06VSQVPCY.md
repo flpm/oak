@@ -33,7 +33,6 @@ cover_filename: B06VSQVPCY.jpg
 listening_date: '2023-05-16'
 duration: PT8H18M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

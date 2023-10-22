@@ -36,9 +36,7 @@ listening_date: '2023-06-04'
 theme: presentation
 duration: PT1H53M
 type: audiobook
-status: listened to
 multiple_reads: true
-recommend: true
 read_status: listened to
 recommendation_status: true
 ---

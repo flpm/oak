@@ -1,6 +1,7 @@
 ---
 name: in English
 title: 'Language: English'
+subtitle: Books in English
 items:
 - title: null
   books:
@@ -393,7 +394,6 @@ items:
   - B00F52DXH0
   - '9780691191775'
   - '9780786966110'
-subtitle: Books in English
 ---
 I have 389 books in English in my personal library.
 

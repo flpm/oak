@@ -1,6 +1,7 @@
 ---
 name: in French
 title: 'Language: French'
+subtitle: Books in French
 items:
 - title: null
   books:
@@ -39,7 +40,6 @@ items:
   - '9782070424832'
   - '9782070361038'
   - '9782205055641'
-subtitle: Books in French
 ---
 I have 35 books in French in my personal library.
 

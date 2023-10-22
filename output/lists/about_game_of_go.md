@@ -1,6 +1,7 @@
 ---
 name: about Game Of Go
 title: 'Theme: Game Of Go'
+subtitle: Books about the game of go, including problems, strategy and game records
 items:
 - title: null
   books:
@@ -29,7 +30,6 @@ items:
   - '9784906574261'
   - '9784906574315'
   - '9784871871020'
-subtitle: Books about the game of go, including problems, strategy and game records
 ---
 I have 25 books about Game Of Go in my personal library.
 

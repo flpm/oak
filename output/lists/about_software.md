@@ -1,6 +1,7 @@
 ---
 name: about Software
 title: 'Theme: Software'
+subtitle: Books about software development and programming languages
 items:
 - title: null
   books:
@@ -21,7 +22,6 @@ items:
   - '9780978739232'
   - '9780201616224'
   - '9780596516178'
-subtitle: Books about software development and programming languages
 ---
 I have 17 books about Software in my personal library.
 

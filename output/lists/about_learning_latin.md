@@ -1,6 +1,7 @@
 ---
 name: about Learning Latin
 title: 'Theme: Learning Latin'
+subtitle: Books about learning the Latin language
 items:
 - title: null
   books:
@@ -22,7 +23,6 @@ items:
   - '9780520253865'
   - '9781093905632'
   - '9780061997228'
-subtitle: Books about learning the Latin language
 ---
 I have 18 books about Learning Latin in my personal library.
 

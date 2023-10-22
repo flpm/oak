@@ -2,7 +2,6 @@
 book_id: B00D7JMGEY
 full_title: Alexander the Great and the Hellenistic Age
 title: Alexander the Great and the Hellenistic Age
-subtitle: null
 asin: B00D7JMGEY
 length: '44023000'
 owned: 'true'
@@ -33,7 +32,6 @@ listening_date: '2022-10-05'
 theme: ancient history
 duration: PT12H13M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

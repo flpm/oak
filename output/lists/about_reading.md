@@ -1,12 +1,12 @@
 ---
 name: about Reading
 title: 'Theme: Reading'
+subtitle: Books about reading, including critical reading and literature analysis
 items:
 - title: null
   books:
   - '9780684835334'
   - '9780691224398'
-subtitle: Books about reading, including critical reading and literature analysis
 ---
 I have 2 books about Reading in my personal library.
 

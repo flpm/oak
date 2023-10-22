@@ -36,9 +36,6 @@ listening_date: '2022-07-24'
 theme: ancient history
 duration: PT24H46M
 type: audiobook
-ranking: 9
-status: listened to
-recommend: true
 read_status: listened to
 recommendation_status: true
 ---

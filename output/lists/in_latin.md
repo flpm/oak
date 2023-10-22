@@ -1,6 +1,7 @@
 ---
 name: in Latin
 title: 'Language: Latin'
+subtitle: Books in Latin
 items:
 - title: null
   books:
@@ -20,7 +21,6 @@ items:
   - '9798648057418'
   - '9780520253865'
   - '9780061997228'
-subtitle: Books in Latin
 ---
 I have 16 books in Latin in my personal library.
 

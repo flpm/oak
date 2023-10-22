@@ -2,7 +2,6 @@
 book_id: B00D8G1DPO
 full_title: Famous Romans
 title: Famous Romans
-subtitle: null
 asin: B00D8G1DPO
 length: '44801000'
 owned: 'true'
@@ -32,7 +31,6 @@ listening_date: '2021-12-01'
 theme: ancient history
 duration: PT12H26M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

@@ -1,6 +1,7 @@
 ---
 name: about New York
 title: 'Theme: New York'
+subtitle: Books about New York City
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9780143120254'
   - '9781416569909'
   - '9788432217074'
-subtitle: Books about New York City
 ---
 I have 5 books about New York in my personal library.
 

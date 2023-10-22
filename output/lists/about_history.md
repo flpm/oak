@@ -1,6 +1,7 @@
 ---
 name: about History
 title: 'Theme: History'
+subtitle: Books about history in general
 items:
 - title: null
   books:
@@ -40,7 +41,6 @@ items:
   - '9781566568968'
   - '9788576655299'
   - '9782228930376'
-subtitle: Books about history in general
 ---
 I have 36 books about History in my personal library.
 

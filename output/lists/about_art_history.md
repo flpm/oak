@@ -1,12 +1,12 @@
 ---
 name: about Art History
 title: 'Theme: Art History'
+subtitle: Books about the study of art in its historical context
 items:
 - title: null
   books:
   - '9780192801814'
   - '9781785511837'
-subtitle: Books about the study of art in its historical context
 ---
 I have 2 books about Art History in my personal library.
 

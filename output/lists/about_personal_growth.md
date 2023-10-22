@@ -1,12 +1,12 @@
 ---
 name: about Personal Growth
 title: 'Theme: Personal Growth'
+subtitle: Books about personal growth and related topics
 items:
 - title: null
   books:
   - '9781841121253'
   - '9780670020478'
-subtitle: Books about personal growth and related topics
 ---
 I have 2 books about Personal Growth in my personal library.
 

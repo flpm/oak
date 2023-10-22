@@ -2,7 +2,6 @@
 book_id: B00SJIVE3W
 full_title: Building a Better Vocabulary
 title: Building a Better Vocabulary
-subtitle: null
 asin: B00SJIVE3W
 length: '67741000'
 owned: 'true'
@@ -34,7 +33,6 @@ listening_date: '2023-02-23'
 theme: writing
 duration: PT18H48M
 type: audiobook
-status: did not finish
 read_status: did not finish
 recommendation_status: null
 ---

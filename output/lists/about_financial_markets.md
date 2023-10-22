@@ -1,11 +1,11 @@
 ---
 name: about Financial Markets
 title: 'Theme: Financial Markets'
+subtitle: Books about financial markets and related topics
 items:
 - title: null
   books:
   - '9780071468299'
-subtitle: Books about financial markets and related topics
 ---
 I have 1 book about Financial Markets in my personal library.
 

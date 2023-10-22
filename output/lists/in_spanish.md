@@ -1,6 +1,7 @@
 ---
 name: in Spanish
 title: 'Language: Spanish'
+subtitle: Books in Spanish
 items:
 - title: null
   books:
@@ -35,7 +36,6 @@ items:
   - '9788497594257'
   - '9788432217074'
   - '9788420482279'
-subtitle: Books in Spanish
 ---
 I have 31 books in Spanish in my personal library.
 

@@ -32,7 +32,6 @@ listening_date: '2023-05-27'
 theme: writing
 duration: PT5H29M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

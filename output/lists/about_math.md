@@ -1,6 +1,7 @@
 ---
 name: about Math
 title: 'Theme: Math'
+subtitle: Books about mathematics in general, including probability and statistics
 items:
 - title: null
   books:
@@ -26,7 +27,6 @@ items:
   - B00TP2UMTS
   - '9783319397559'
   - '9781491949641'
-subtitle: Books about mathematics in general, including probability and statistics
 ---
 I have 22 books about Math in my personal library.
 

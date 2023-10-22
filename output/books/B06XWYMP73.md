@@ -33,8 +33,6 @@ listening_date: '2022-01-20'
 theme: humor
 duration: PT14H39M
 type: audiobook
-status: listened to
-recommend: true
 read_status: listened to
 recommendation_status: true
 ---

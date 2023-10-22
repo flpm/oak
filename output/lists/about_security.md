@@ -1,6 +1,7 @@
 ---
 name: about Security
 title: 'Theme: Security'
+subtitle: Books about security, intelligence and risk
 items:
 - title: null
   books:
@@ -20,7 +21,6 @@ items:
   - '9780321502780'
   - '9781107602700'
   - '9780735619913'
-subtitle: Books about security, intelligence and risk
 ---
 I have 16 books about Security in my personal library.
 

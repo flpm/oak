@@ -1,13 +1,13 @@
 ---
 name: about Autism
 title: 'Theme: Autism'
+subtitle: Books about autism and related topics
 items:
 - title: null
   books:
   - '9780399535727'
   - '9781849057578'
   - '9780190627812'
-subtitle: Books about autism and related topics
 ---
 I have 3 books about Autism in my personal library.
 

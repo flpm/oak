@@ -1,6 +1,8 @@
 ---
 name: about Archaeology
 title: 'Theme: Archaeology'
+subtitle: Books about the study of history through the recovery and analysis of material
+  culture
 items:
 - title: null
   books:
@@ -14,8 +16,6 @@ items:
   - '9780714150215'
   - '9780691166407'
   - B00F52DXH0
-subtitle: Books about the study of history through the recovery and analysis of material
-  culture
 ---
 I have 10 books about Archaeology in my personal library.
 

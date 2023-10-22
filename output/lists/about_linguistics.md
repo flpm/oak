@@ -1,6 +1,7 @@
 ---
 name: about Linguistics
 title: 'Theme: Linguistics'
+subtitle: Books about linguistics, including the history of languages
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9780008348090'
   - '9780500286609'
   - '9781475246636'
-subtitle: Books about linguistics, including the history of languages
 ---
 I have 5 books about Linguistics in my personal library.
 

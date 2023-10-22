@@ -34,7 +34,6 @@ listening_date: '2015-08-10'
 theme: crime fiction
 duration: PT7H59M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

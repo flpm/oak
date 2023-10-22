@@ -1,6 +1,7 @@
 ---
 name: about Computational Design
 title: 'Theme: Computational Design'
+subtitle: Books about graphic design and art created using code
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9781457186776'
   - '9781457186837'
   - '9780985930806'
-subtitle: Books about graphic design and art created using code
 ---
 I have 5 books about Computational Design in my personal library.
 

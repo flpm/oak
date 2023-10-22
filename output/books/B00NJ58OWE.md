@@ -42,7 +42,6 @@ listening_date: '2016-03-06'
 theme: psychology
 duration: PT8H18M
 type: audiobook
-status: partially listened to
 read_status: partially listened to
 recommendation_status: null
 ---

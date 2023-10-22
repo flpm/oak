@@ -1,12 +1,12 @@
 ---
 name: about Puzzles
 title: 'Theme: Puzzles'
+subtitle: Books about puzzles and other games
 items:
 - title: null
   books:
   - '9780486273471'
   - '9780692189825'
-subtitle: Books about puzzles and other games
 ---
 I have 2 books about Puzzles in my personal library.
 

@@ -2,7 +2,6 @@
 book_id: B078HDSHQJ
 full_title: The Rise of Rome
 title: The Rise of Rome
-subtitle: null
 asin: B078HDSHQJ
 length: '44176000'
 owned: 'true'
@@ -33,7 +32,6 @@ listening_date: '2022-03-08'
 theme: ancient history
 duration: PT12H16M
 type: audiobook
-status: listened to
 read_status: listened to
 recommendation_status: null
 ---

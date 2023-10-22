@@ -1,6 +1,7 @@
 ---
 name: about Science
 title: 'Theme: Science'
+subtitle: Books about science in general
 items:
 - title: null
   books:
@@ -31,7 +32,6 @@ items:
   - '9780544272996'
   - '9781491949641'
   - '9780691148540'
-subtitle: Books about science in general
 ---
 I have 27 books about Science in my personal library.
 

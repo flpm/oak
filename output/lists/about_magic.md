@@ -1,6 +1,7 @@
 ---
 name: about Magic
 title: 'Theme: Magic'
+subtitle: Books about magic, including tricks, performance and the history of magic
 items:
 - title: null
   books:
@@ -15,7 +16,6 @@ items:
   - '9780571063895'
   - '9780690431650'
   - '9780399160035'
-subtitle: Books about magic, including tricks, performance and the history of magic
 ---
 I have 11 books about Magic in my personal library.
 

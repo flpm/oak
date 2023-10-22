@@ -1,6 +1,7 @@
 ---
 name: about Mythology
 title: 'Theme: Mythology'
+subtitle: Books about mythology, including the study of myths and the history of myths
 items:
 - title: null
   books:
@@ -9,7 +10,6 @@ items:
   - '9780241397459'
   - '9782711837564'
   - B00DDXQ61S
-subtitle: Books about mythology, including the study of myths and the history of myths
 ---
 I have 5 books about Mythology in my personal library.
 

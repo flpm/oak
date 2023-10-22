@@ -1,6 +1,7 @@
 ---
 name: about Philosophy
 title: 'Theme: Philosophy'
+subtitle: Books about philosophy in general, including the history of philosophy
 items:
 - title: null
   books:
@@ -16,7 +17,6 @@ items:
   - '9780415327732'
   - '9780375424441'
   - '1644650649'
-subtitle: Books about philosophy in general, including the history of philosophy
 ---
 I have 12 books about Philosophy in my personal library.
 

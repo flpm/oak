@@ -2,7 +2,6 @@
 book_id: B00DG7NVXC
 full_title: Classical Archaeology of Ancient Greece and Rome
 title: Classical Archaeology of Ancient Greece and Rome
-subtitle: null
 asin: B00DG7NVXC
 length: '67292000'
 owned: 'true'
@@ -36,9 +35,6 @@ listening_date: '2022-01-29'
 theme: archaeology
 duration: PT18H41M
 type: audiobook
-ranking: 7
-status: listened to
-recommend: true
 read_status: listened to
 recommendation_status: true
 ---
