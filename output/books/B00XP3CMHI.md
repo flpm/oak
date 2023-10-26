@@ -7,6 +7,7 @@ subtitle: Experiencing Great Events of the Ancient and Medieval Worlds
 asin: B00XP3CMHI
 length: '45551000'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 12.0
@@ -14,6 +15,7 @@ listening:
   last_time: '2022-04-15'
 link: https://www.audible.com/pd/B00XP3CMHI
 source: Audible
+listening_date: '2022-04-15'
 topics:
 - Ancient
 - World
@@ -30,13 +32,10 @@ language:
 rating:
   rating: 4.486486486486487
   count: 1850
-cover_filename: B00XP3CMHI.jpg
-listening_date: '2022-04-15'
-theme: ancient history
 duration: PT12H39M
-type: audiobook
+cover_filename: B00XP3CMHI.jpg
 read_status: partially listened to
-recommendation_status: null
+theme: ancient history
 ---
 Macedonia, 336 B.C.E. - King Philip II is murdered under mysterious circumstances amid a cloud of intrigue.
 Constantinople, 532 C.E. - The Byzantine Emperor Justinian nearly abandons the city to an angry mob until his wife, Theodora, persuades him to stay.

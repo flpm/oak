@@ -8,7 +8,6 @@ items:
   - '9788501041616'
   - '9788571641143'
   - '9788501058331'
-  - '9788520924556'
   - '9788520906842'
   - '9788535906172'
   - '9788501009418'
@@ -23,13 +22,12 @@ items:
   - '9788576655299'
   - '9788501005588'
 ---
-I have 17 books in Portuguese in my personal library.
+I have 16 books in Portuguese in my personal library.
 
 ### Titles:
 - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge Amado
 - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
 - (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira de Queiroz
-- (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 - (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena Jobim
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
 - (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado

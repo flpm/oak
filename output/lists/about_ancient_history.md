@@ -25,7 +25,6 @@ items:
   - '9780714119106'
   - B002V8KXYC
   - '9782080812988'
-  - '9788420691060'
   - '9781606064665'
   - '9782877726351'
   - '9782877726894'
@@ -47,7 +46,7 @@ items:
   - '9782228930376'
   - B00F52DXH0
 ---
-I have 41 books about Ancient History in my personal library.
+I have 40 books about Ancient History in my personal library.
 
 ### Titles:
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
@@ -70,7 +69,6 @@ I have 41 books about Ancient History in my personal library.
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
-- (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon

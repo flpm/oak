@@ -6,7 +6,6 @@ items:
 - title: null
   books:
   - '9780679747888'
-  - '9780387402727'
   - '9780312130664'
   - '9781461471370'
   - '9781400835522'
@@ -33,11 +32,10 @@ items:
   - '9781491949641'
   - '9780691148540'
 ---
-I have 27 books about Science in my personal library.
+I have 26 books about Science in my personal library.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page

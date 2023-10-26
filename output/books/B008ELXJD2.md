@@ -6,6 +6,7 @@ subtitle: A Hercule Poirot Mystery
 asin: B008ELXJD2
 length: '0'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 109782.0
@@ -13,6 +14,8 @@ listening:
   last_time: '2017-01-18'
 link: https://www.audible.com/pd/B008ELXJD2
 source: Audible
+purchase_date: '2015-08-13'
+listening_date: '2015-08-10'
 topics:
 - Historical Fiction
 - Crime Fiction
@@ -28,14 +31,10 @@ language:
 rating:
   rating: 4.643914631801577
   count: 5201
-cover_filename: B008ELXJD2.jpg
-purchase_date: '2015-08-13'
-listening_date: '2015-08-10'
-theme: crime fiction
 duration: PT7H59M
-type: audiobook
+cover_filename: B008ELXJD2.jpg
 read_status: listened to
-recommendation_status: null
+theme: crime fiction
 ---
 Soon to be a major motion picture sequel to Murder on the Orient Express with a screenplay by Michael Green, directed by and starring Kenneth Branagh alongside Gal Gadot and Armie Hammer - coming September 17, 2021!
 Beloved detective Hercule Poirot embarks on a journey to Egypt in one of Agatha Christie’s most famous mysteries.

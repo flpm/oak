@@ -5,6 +5,7 @@ title: Sherlock Holmes
 asin: B06WLMWF2S
 length: '226362000'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 11158.0
@@ -12,6 +13,7 @@ listening:
   last_time: '2022-01-27'
 link: https://www.audible.com/pd/B06WLMWF2S
 source: Audible
+listening_date: '2022-01-24'
 topics:
 - Traditional Detectives
 - Classic Mystery
@@ -27,13 +29,10 @@ language:
 rating:
   rating: 4.842273372541067
   count: 19724
-cover_filename: B06WLMWF2S.jpg
-listening_date: '2022-01-24'
-theme: crime fiction
 duration: PT62H52M
-type: audiobook
+cover_filename: B06WLMWF2S.jpg
 read_status: have not started
-recommendation_status: null
+theme: crime fiction
 ---
 "Fry's Holmes is crisp and high-handed, his Watson enthusiastic and bemused, and the rest of the narration colorful without being mannered. Have fun. Winner of AudioFile Earphones Award." (AudioFile magazine)
 "...it was reading the Sherlock Holmes stories as a boy that first turned me on to the power of writing and storytelling." (Stephen Fry)

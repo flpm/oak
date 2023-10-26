@@ -18,11 +18,10 @@ items:
   - '9781493000609'
   - '9781416507789'
   - '9780553563702'
-  - '9780321502780'
   - '9781107602700'
   - '9780735619913'
 ---
-I have 16 books about Security in my personal library.
+I have 15 books about Security in my personal library.
 
 ### Titles:
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier
@@ -38,6 +37,5 @@ I have 16 books about Security in my personal library.
 - (paper) [The Art of the Con](/books/info/9781493000609) by R. Paul Wilson
 - (paper) [The Cuckoo's Egg](/books/info/9781416507789) by Cliff Stoll
 - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
-- (paper) [The New School of Information Security](/books/info/9780321502780) by Adam Shostack, Andrew Stewart
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
 - (paper) [Threat Modeling](/books/info/9780735619913) by Frank Swiderski, Window Snyder

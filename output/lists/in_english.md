@@ -12,6 +12,7 @@ items:
   - '9780199246359'
   - '9780262540292'
   - '9780673525338'
+  - '9780205118458'
   - '9780881791549'
   - '9780679747888'
   - '9780201563177'
@@ -19,8 +20,8 @@ items:
   - B00D7JMGEY
   - '9780689847431'
   - '9784871870436'
-  - '9780387402727'
   - '9780345457684'
+  - '9780063081918'
   - '9780312130664'
   - '9780879239503'
   - '9781461471370'
@@ -33,6 +34,7 @@ items:
   - '9780751509335'
   - '9780399535727'
   - B00MXDGT2A
+  - '9780822332138'
   - '9781984858788'
   - '9780596517984'
   - '9781930824164'
@@ -43,10 +45,10 @@ items:
   - B00SJIVE3W
   - '9780470876411'
   - '9781585104024'
-  - '9780672326974'
   - '9781775093343'
   - B00MFQLERK
   - '9781568821818'
+  - '9780786967223'
   - '9781541699250'
   - B0877CXKYX
   - '9781118790816'
@@ -88,6 +90,8 @@ items:
   - '9780786965618'
   - '9780786965601'
   - '9780786966950'
+  - '9780786966653'
+  - '9780786966264'
   - '9780241608197'
   - '9780465051366'
   - '9780142181072'
@@ -95,12 +99,13 @@ items:
   - '9780961392116'
   - '9781608460021'
   - B0BX7CJVCS
-  - '9781629561011'
+  - '9781319056278'
   - '9783319456522'
   - '9780201076165'
   - '9780195089653'
   - '9780571200580'
   - '9780743200790'
+  - '9781668002193'
   - B00D8G1DPO
   - '9780062136497'
   - '9780552142373'
@@ -117,12 +122,10 @@ items:
   - '9781523094110'
   - B075FG7HLK
   - '9780887309588'
-  - '9781457186776'
-  - '9781457186837'
   - '9780142000281'
   - '9781440673108'
-  - '9780060502935'
   - '9780385603423'
+  - '9780060853976'
   - '9784906574490'
   - '9784906574483'
   - '9784906574476'
@@ -160,6 +163,7 @@ items:
   - '9781594205224'
   - '9780679779155'
   - '9781840915457'
+  - '9780197656884'
   - '9781541644533'
   - '9781119085294'
   - '9783982438801'
@@ -174,7 +178,6 @@ items:
   - '9784906574018'
   - '9781606238134'
   - '9780714843377'
-  - '9781449396947'
   - '9780596554873'
   - B002V8KXYC
   - '9780374104436'
@@ -186,16 +189,15 @@ items:
   - '9780195179576'
   - '9781631596315'
   - '9781400078394'
-  - '9780596000462'
   - '9784906574285'
   - '9781568987651'
   - '9780140442106'
   - '9780879236366'
   - '9781118143308'
   - '9784906574131'
-  - '9780738206677'
   - '9781940094984'
   - B00XP3CMHI
+  - '9781631402241'
   - '9780393326925'
   - 125075044X
   - '9780735711655'
@@ -207,6 +209,7 @@ items:
   - '9780553394702'
   - B07DHSQL6Q
   - '9784906574735'
+  - '9781982167738'
   - '9780596510510'
   - '9781568822112'
   - '9781565922570'
@@ -230,14 +233,12 @@ items:
   - '9780140126716'
   - B00NJ58OWE
   - '9780975366264'
-  - '9781481470377'
   - B002V1A0WE
   - '9780060006648'
   - '9784906574728'
   - '9784906574360'
   - '9780321703538'
   - '9781841121253'
-  - '9781782850427'
   - '9783319475776'
   - '9781945025006'
   - '9780190627812'
@@ -253,12 +254,12 @@ items:
   - '9780262013192'
   - '9780262182621'
   - '9780825630842'
+  - '9781848310308'
   - '9781684224128'
   - '9781593278960'
   - '9781680508604'
   - '9781572246270'
   - '9781449316952'
-  - '9780130211002'
   - '9780981912189'
   - '9780691224398'
   - '9780470632017'
@@ -274,6 +275,7 @@ items:
   - '9780307279415'
   - B0774ZRRJL
   - B06WLMWF2S
+  - '9781781252635'
   - B06VSQVPCY
   - '9780061092176'
   - '9781523516971'
@@ -281,6 +283,7 @@ items:
   - '9780385348249'
   - '9780751504835'
   - '9780596005771'
+  - '9781846683800'
   - '9781421505947'
   - '9781593276201'
   - '9780500286609'
@@ -290,7 +293,6 @@ items:
   - '9780786967025'
   - '9784906574124'
   - '9780978739232'
-  - '9780321518422'
   - '9781107420984'
   - '9781572248915'
   - '9780142001103'
@@ -300,7 +302,6 @@ items:
   - '9780691163475'
   - '9781941628232'
   - '9781616895280'
-  - '9781616894283'
   - '9780836218527'
   - '9781416569909'
   - '9780071468299'
@@ -331,14 +332,11 @@ items:
   - '9781600610486'
   - '9780399160035'
   - '9780787976750'
-  - '9780547260693'
   - '9780692189825'
   - '9780307833648'
   - '9781419724015'
   - '9781101904404'
   - '9780985930806'
-  - '9780321502780'
-  - '9781623485566'
   - '9780140252552'
   - '9780375424441'
   - '9780201616224'
@@ -348,7 +346,6 @@ items:
   - B07MDHVBLY
   - '9781566568968'
   - '9780714150215'
-  - '9780596516178'
   - '9781912891160'
   - '9784906574315'
   - '9780143127796'
@@ -358,7 +355,6 @@ items:
   - '9780143112624'
   - '9780961392147'
   - '9780061748363'
-  - '9781607066309'
   - '9781984859549'
   - '9780810995291'
   - '1644650649'
@@ -371,7 +367,6 @@ items:
   - '9780691166407'
   - '9783791321448'
   - '9781536217186'
-  - '9780061772030'
   - '9781560761075'
   - '9781421560908'
   - '9780140277821'
@@ -387,7 +382,6 @@ items:
   - '9781491949641'
   - '9780691148540'
   - '9780062872968'
-  - '9781591842316'
   - '9781476733951'
   - '9780316014991'
   - '1549108603'
@@ -395,7 +389,7 @@ items:
   - '9780691191775'
   - '9780786966110'
 ---
-I have 389 books in English in my personal library.
+I have 383 books in English in my personal library.
 
 ### Titles:
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
@@ -405,6 +399,7 @@ I have 389 books in English in my personal library.
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis
 - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert
+- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
@@ -412,8 +407,8 @@ I have 389 books in English in my personal library.
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
 - (paper) [Alice's Adventures in Wonderland](/books/info/9780689847431) by Lewis Carroll
 - (paper) [All about Life and Death](/books/info/9784871870436) by Cho Chikun, Cho Chikun Nine-Dan
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan
+- (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
 - (paper) [An Essay on Typography](/books/info/9780879239503) by Eric Gill
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
@@ -426,6 +421,7 @@ I have 389 books in English in my personal library.
 - (paper) [Attack of the Deranged Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
+- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman, Olivia Frey
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
 - (paper) [Beautiful Evidence](/books/info/9781930824164) by Edward R. Tufte
@@ -436,10 +432,10 @@ I have 389 books in English in my personal library.
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
-- (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
 - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
 - (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen, Lynn Willis
+- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team
 - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
 - (audio) [Cape Cod National Seashore](/books/info/B0877CXKYX) by Gordon Hempton
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier
@@ -481,6 +477,8 @@ I have 389 books in English in my personal library.
 - (paper) [Dungeons & Dragons Monster Manual (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965618) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Player's Handbook (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965601) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Spellbook Cards](/books/info/9780786966950) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards RPG Team
 - (paper) [Egyptian Myths](/books/info/9780241608197) by Jean Menzies
 - (paper) [Emotional Design](/books/info/9780465051366) by Don Norman
 - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch
@@ -488,12 +486,13 @@ I have 389 books in English in my personal library.
 - (paper) [Envisioning Information](/books/info/9780961392116) by Edward R. Tufte
 - (paper) [Essays](/books/info/9781608460021) by Wallace Shawn
 - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
-- (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
+- (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan
 - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
 - (paper) [Exploring Data in Engineering, the Sciences, and Medicine](/books/info/9780195089653) by Ronald Pearson
 - (paper) [Faber Classics New York Trilogy](/books/info/9780571200580) by Paul Auster
 - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
+- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King
 - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
 - (paper) [Feeling Good](/books/info/9780062136497) by David D. Burns
 - (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett
@@ -510,12 +509,10 @@ I have 389 books in English in my personal library.
 - (paper) [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg
 - (audio) [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg
 - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
-- (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
-- (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
 - (paper) [Getting Things Done](/books/info/9780142000281) by David Allen
 - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William L. Ury
-- (paper) [Going Postal](/books/info/9780060502935) by Terry Pratchett
 - (paper) [Going Postal](/books/info/9780385603423) by Terry Pratchett
+- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
 - (paper) [Graded Go Problems For Beginners Volume Four Advanced Problems (Graded Go Problems for Beginners, #4)](/books/info/9784906574490) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners Volume Three Intermediate Problems 15 to 8 Kyu (Graded Go Problems for Beginners, #3)](/books/info/9784906574483) by Yoshinori Kano
 - (paper) [Graded Go Problems For Beginners: Volume Two](/books/info/9784906574476) by Yoshinori Kano
@@ -553,6 +550,7 @@ I have 389 books in English in my personal library.
 - (paper) [How Not to Be Wrong](/books/info/9781594205224) by Jordan Ellenberg
 - (paper) [How Proust Can Change Your Life](/books/info/9780679779155) by Alain De Botton
 - (paper) [How To Design a House](/books/info/9781840915457) by Design Museum Enterprise Limit
+- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
 - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci
 - (paper) [How to Measure Anything in Cybersecurity Risk](/books/info/9781119085294) by Douglas W. Hubbard, Richard Seiersen
 - (paper) [How to Take Smart Notes](/books/info/9783982438801) by Sönke Ahrens
@@ -567,7 +565,6 @@ I have 389 books in English in my personal library.
 - (paper) [Invincible](/books/info/9784906574018) by John Power
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
-- (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
 - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas Crockford
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [Just Enough Liebling](/books/info/9780374104436) by Abbott Joseph Liebling
@@ -579,16 +576,15 @@ I have 389 books in English in my personal library.
 - (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
 - (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315) by Beth Tondreau
 - (paper) [Learned Optimism](/books/info/9781400078394) by Martin E.P. Seligman
-- (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 - (paper) [Lessons in the Fundamentals of Go (Beginner and Elementary Go Books)](/books/info/9784906574285) by Toshiro Kageyama
 - (paper) [Lettering & Type](/books/info/9781568987651) by Bruce Willen, Nolen Strals
 - (paper) [Letters from a Stoic](/books/info/9780140442106) by Seneca
 - (paper) [Letters of Credit](/books/info/9780879236366) by Walter Tracey
 - (paper) [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier
 - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr James Davies
-- (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 - (paper) [Little Wizards Second Printing](/books/info/9781940094984) by Crafty Games, Antoine Bauza
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
+- (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241) by Joe Hill
 - (paper) [Logic Made Easy](/books/info/9780393326925) by Deborah J Bennett
 - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655) by Hillman Curtis
@@ -600,6 +596,7 @@ I have 389 books in English in my personal library.
 - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson
 - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 - (paper) [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst, Richard Bozulich
+- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart
 - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
 - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey E.F. Friedl
@@ -623,14 +620,12 @@ I have 389 books in English in my personal library.
 - (paper) [Nineteen Eighty Four](/books/info/9780140126716) by George Orwell
 - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
 - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula
-- (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan
 - (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [On Writing Well](/books/info/9780060006648) by William Zinsser
 - (paper) [One Thousand and One Life-and-Death Problems](/books/info/9784906574728) by Richard Bozulich
 - (paper) [Opening Theory Made Easy](/books/info/9784906574360) by Hideo Otake
 - (paper) [Ordering Disorder](/books/info/9780321703538) by Khoi Vinh
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson
-- (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot Books
 - (paper) [Outlier Analysis](/books/info/9783319475776) by Charu C. Aggarwal
 - (paper) [Outside the Board](/books/info/9781945025006) by Hajin Lee
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
@@ -646,12 +641,12 @@ I have 389 books in English in my personal library.
 - (paper) [Probabilistic Graphical Models](/books/info/9780262013192) by Daphne Koller, Nir Friedman
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 - (paper) [Professor Hoffmann's Modern Magic](/books/info/9780825630842) by Professor Hoffmann
+- (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
 - (paper) [Psychology of Intelligence Analysis](/books/info/9781684224128) by Richards J Heuer
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
 - (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270) by Colleen Carney, Rachel Manber
 - (paper) [R Graphics Cookbook](/books/info/9781449316952) by Winston Chang
-- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
 - (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
@@ -661,12 +656,13 @@ I have 389 books in English in my personal library.
 - (paper) [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
 - (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf
-- (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien
+- (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
 - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson
 - (paper) [Semiology of Graphics](/books/info/9781589482616) by Jacques Bertin
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
 - (audio) [Several Short Sentences About Writing](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
 - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
+- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
 - (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran
 - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
@@ -674,6 +670,7 @@ I have 389 books in English in my personal library.
 - (paper) [So, Anyway...](/books/info/9780385348249) by John Cleese
 - (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson
 - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
+- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
 - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew Robinson
@@ -683,7 +680,6 @@ I have 389 books in English in my personal library.
 - (paper) [Tasha's Cauldron of Everything (D&D Rules Expansion) (Dungeons & Dragons)](/books/info/9780786967025) by Wizards RPG Team
 - (paper) [Tesuji](/books/info/9784906574124) by James Davies
 - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
-- (paper) [The Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by Sharon Steuer
 - (paper) [The Anthropology of Childhood](/books/info/9781107420984) by David F. Lancy
 - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund J. Bourne
 - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone Zander, Benjamin Zander
@@ -693,7 +689,6 @@ I have 389 books in English in my personal library.
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Best of Brevity](/books/info/9781941628232) by Zoë Bossiere, Dinty W. Moore
 - (paper) [The Book of Circles: Visualizing Spheres of Knowledge](/books/info/9781616895280) by Manuel Lima
-- (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher
 - (paper) [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson
 - (paper) [The City Out My Window](/books/info/9781416569909) by Matteo Pericoli
 - (paper) [The Complete Guide to Capital Markets for Quantitative Professionals](/books/info/9780071468299) by Alex Kuznetsov
@@ -724,14 +719,11 @@ I have 389 books in English in my personal library.
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
 - (paper) [The Last Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer
 - (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
-- (paper) [The Little Prince](/books/info/9780547260693) by Antoine de Saint-Exupéry
 - (paper) [The Master Theorem - A Book of Puzzles, Intrigue and Wit](/books/info/9780692189825) by M
 - (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
 - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
 - (paper) [The Nature of Code](/books/info/9780985930806) by Daniel Shiffman
-- (paper) [The New School of Information Security](/books/info/9780321502780) by Adam Shostack, Andrew Stewart
-- (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
 - (paper) [The Penguin History of the USA](/books/info/9780140252552) by Hugh Brogan
 - (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441) by Alain De Botton
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
@@ -741,7 +733,6 @@ I have 389 books in English in my personal library.
 - (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
 - (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
-- (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
 - (paper) [The School of Life](/books/info/9781912891160) by The School of Life
 - (paper) [The Second Book of Go](/books/info/9784906574315) by Richard Bozulich
 - (paper) [The Sense of Style](/books/info/9780143127796) by Steven Pinker
@@ -751,7 +742,6 @@ I have 389 books in English in my personal library.
 - (paper) [The Varieties of Scientific Experience](/books/info/9780143112624) by Carl Sagan
 - (paper) [The Visual Display of Quantitative Information](/books/info/9780961392147) by Edward R. Tufte
 - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless
-- (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Things I Have Learned In My Life So Far](/books/info/9780810995291) by Stefan Sagmeister
 - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
@@ -764,7 +754,6 @@ I have 389 books in English in my personal library.
 - (paper) [Three Stones Make a Wall](/books/info/9780691166407) by Eric H. Cline
 - (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern
 - (paper) [Tiger, Tiger, Burning Bright!](/books/info/9781536217186) by Nosy Crow
-- (paper) [Tiptoe Joe](/books/info/9780061772030) by Ginger Foglesong Gibson
 - (paper) [Tome of Magic (Advanced Dungeon & Dragons](/books/info/9781560761075) by David Zeb Cook, Nigel Findley, Anthony Herring, Christopher Kubasik, Carl Sargent, Rick Swan
 - (paper) [Turning Point](/books/info/9781421560908) by Hayao Miyazaki
 - (paper) [UC Difficult Conversations](/books/info/9780140277821) by Douglas Stone, Sheila Heen, Bruce Patton
@@ -780,7 +769,6 @@ I have 389 books in English in my personal library.
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
 - (paper) [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi
 - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman
-- (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
 - (paper) [Wool (Silo, #1)](/books/info/9781476733951) by Hugh Howey
 - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark

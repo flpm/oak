@@ -6,7 +6,6 @@ items:
 - title: null
   books:
   - '9780679747888'
-  - '9780387402727'
   - '9781461471370'
   - '9781400835522'
   - '9781446200469'
@@ -28,11 +27,10 @@ items:
   - '9783319397559'
   - '9781491949641'
 ---
-I have 22 books about Math in my personal library.
+I have 21 books about Math in my personal library.
 
 ### Titles:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
 - (paper) [Discovering Statistics Using R](/books/info/9781446200469) by Andy Field, Jeremy Miles, Zoe Field

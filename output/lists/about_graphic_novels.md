@@ -29,11 +29,10 @@ items:
   - '9780751504835'
   - '9780836218527'
   - '9780836220629'
-  - '9781607066309'
   - '9782205051926'
   - '9782205055641'
 ---
-I have 27 books about Graphic Novels in my personal library.
+I have 26 books about Graphic Novels in my personal library.
 
 ### Titles:
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
@@ -60,6 +59,5 @@ I have 27 books about Graphic Novels in my personal library.
 - (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson
 - (paper) [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson
 - (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary Larson
-- (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
 - (paper) [Vacances de printemps (Les Formidables Aventures De Lapinot, #5)](/books/info/9782205051926) by Lewis Trondheim, Frank Le Gall
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido

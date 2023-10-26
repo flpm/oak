@@ -5,6 +5,7 @@ title: Building a Better Vocabulary
 asin: B00SJIVE3W
 length: '67741000'
 owned: 'true'
+type: audiobook
 format: Lecture
 listening:
   duration: 9494.0
@@ -12,6 +13,7 @@ listening:
   last_time: '2023-03-01'
 link: https://www.audible.com/pd/B00SJIVE3W
 source: Audible
+listening_date: '2023-02-23'
 topics:
 - Communication & Social Skills
 - English Grammar
@@ -28,13 +30,10 @@ language:
 rating:
   rating: 4.382224168126094
   count: 2284
-cover_filename: B00SJIVE3W.jpg
-listening_date: '2023-02-23'
-theme: writing
 duration: PT18H48M
-type: audiobook
+cover_filename: B00SJIVE3W.jpg
 read_status: did not finish
-recommendation_status: null
+theme: writing
 ---
 What is the difference between specious and spurious? What does the word bombast have to do with cushion stuffing? Would you want to be called a snollygoster?
 The hallmark of a powerful vocabulary is not simply knowing many words; rather, it's knowing the exact word to use in a specific context or situation. A great vocabulary can enhance your speaking, writing, and even thinking skills. This course will boost your vocabulary, whether you want to enhance your personal lexicon, write or speak more articulately in professional settings, or advance your knowledge of the English language. For anyone who has ever grasped for the perfect word at a particular moment, this course provides a research-based and enjoyable method for improving your vocabulary.

@@ -6,26 +6,26 @@ items:
 - title: null
   description: null
   books:
-  - '9781101904404'
-  - '9781419724015'
-  - '9780143126676'
-  - '9780691224398'
-  - '9780691245607'
-  - '9780452298606'
-  - '9780786967872'
-  - '9781523094110'
-  - B075FG7HLK
-  - '9780786967025'
+  - '9780197656884'
+  - '9781848310308'
+  - '9780822332138'
+  - '9780786966653'
+  - '9780205118458'
+  - '9781846683800'
+  - '9781982167738'
+  - '9781319056278'
+  - '9780786966264'
+  - '9780786967223'
 attribute: purchase_date
 ---
 ### Last 10 books added to the bookshelf:
-- 2023-09-28 (Hardcover in essays) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
-- 2023-09-28 (Hardcover in design) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
-- 2023-09-27 (Hardcover in essays) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith Schalansky
-- 2023-08-02 (Paperback in reading) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas
-- 2023-08-02 (Paperback in archaeology) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor
-- 2023-06-08 (Paperback in writing) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-- 2023-06-06 (Hardcover in role-playing games) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
-- 2023-06-06 (Paperback in presentation) [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg
-- 2023-06-04 (Audiobook in presentation) [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg
-- 2023-06-01 (Hardcover in role-playing games) [Tasha's Cauldron of Everything (D&D Rules Expansion) (Dungeons & Dragons)](/books/info/9780786967025) by Wizards RPG Team
+- 2023-10-21 (Paperback in Others) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+- 2023-10-21 (Paperback in Others) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
+- 2023-10-19 (Paperback in Others) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman, Olivia Frey
+- 2023-10-13 (Non-Traditional in Others) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team
+- 2023-10-12 (Paperback in Others) [A Short Guide to Writing about Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain
+- 2023-10-11 (Hardcover in Others) [Spqr](/books/info/9781846683800) by Professor Mary Beard
+- 2023-10-10 (Hardcover in Others) [Making It So](/books/info/9781982167738) by Patrick Stewart
+- 2023-10-10 (Paperback in Others) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
+- 2023-10-09 (Hardcover in Others) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards RPG Team
+- 2023-10-09 (Hardcover in Others) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team

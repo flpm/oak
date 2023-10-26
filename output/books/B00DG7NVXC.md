@@ -5,6 +5,7 @@ title: Classical Archaeology of Ancient Greece and Rome
 asin: B00DG7NVXC
 length: '67292000'
 owned: 'true'
+type: audiobook
 format: Lecture
 listening:
   duration: 73567.0
@@ -12,6 +13,8 @@ listening:
   last_time: '2022-03-08'
 link: https://www.audible.com/pd/B00DG7NVXC
 source: Audible
+purchase_date: '2022-01-29'
+listening_date: '2022-01-29'
 topics:
 - Collections
 - Classics
@@ -29,14 +32,11 @@ language:
 rating:
   rating: 4.825214899713467
   count: 349
-cover_filename: B00DG7NVXC.jpg
-purchase_date: '2022-01-29'
-listening_date: '2022-01-29'
-theme: archaeology
 duration: PT18H41M
-type: audiobook
+cover_filename: B00DG7NVXC.jpg
 read_status: listened to
 recommendation_status: true
+theme: archaeology
 ---
 Over the years, Classical archaeology has evolved from a pastime of collectors and antiquarians to a mature science. Today, the field is a multidisciplinary effort that involves not only traditional diggers, but also geologists, geographers, anthropologists, and linguists.These 36 lectures introduce you to this fascinating field of study. Professor Hale guides you through dozens of ancient sites with the skill of a born storyteller.
 The riveting narrative unfolds like a series of detective stories and provides a new perspective from which to view the world of the Greeks and Romans, resurrecting them in all their glory and affording us a better grasp of cultures that have greatly influenced our own.

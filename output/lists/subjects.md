@@ -10,7 +10,7 @@ index:
     title: 'Theme: Ancient History'
     subtitle: Books from the beginning of recorded human history to the Early Middle
       Ages
-    description: "I have 41 books about Ancient History in my personal library.\n\n\
+    description: "I have 40 books about Ancient History in my personal library.\n\n\
       ### Titles:\n- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
       \ by Jeremy McInerney\n- (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian\
       \ Goldsworthy\n- (paper) [By Roman Hands](/books/info/9781585104024) by Matthew\
@@ -31,8 +31,7 @@ index:
       \ by Evelyne Faivre-Martin\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
       \ by Mark Collier, Bill Manley\n- (audio) [Julius Caesar](/books/info/B002V8KXYC)\
       \ by J. F. C. Fuller\n- (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988)\
-      \ by Samuel Noah Kramer\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420691060)\
-      \ by Isaac Asimov\n- (paper) [Latin Inscriptions](/books/info/9781606064665)\
+      \ by Samuel Noah Kramer\n- (paper) [Latin Inscriptions](/books/info/9781606064665)\
       \ by Dirk Booms\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
       \ by G\xE9rard Coulon\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
       \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by\
@@ -76,7 +75,6 @@ index:
       - '9780714119106'
       - B002V8KXYC
       - '9782080812988'
-      - '9788420691060'
       - '9781606064665'
       - '9782877726351'
       - '9782877726894'
@@ -303,20 +301,16 @@ index:
     name: about Computational Design
     title: 'Theme: Computational Design'
     subtitle: Books about graphic design and art created using code
-    description: "I have 5 books about Computational Design in my personal library.\n\
+    description: "I have 3 books about Computational Design in my personal library.\n\
       \n### Titles:\n- (paper) [Code as Creative Medium](/books/info/9780262542043)\
       \ by Tega Brain, Golan Levin\n- (paper) [Generative Design](/books/info/9781616890773)\
-      \ by Hartmut Bohnacker, Benedikt Gro\xDF\n- (paper) [Getting Started with P5.Js](/books/info/9781457186776)\
-      \ by Lauren McCarthy, Ben Fry, Casey Reas\n- (paper) [Getting Started with Processing.py](/books/info/9781457186837)\
-      \ by Allison Parrish, Ben Fry, Casey Reas\n- (paper) [The Nature of Code](/books/info/9780985930806)\
+      \ by Hartmut Bohnacker, Benedikt Gro\xDF\n- (paper) [The Nature of Code](/books/info/9780985930806)\
       \ by Daniel Shiffman"
     items:
     - title: null
       books:
       - '9780262542043'
       - '9781616890773'
-      - '9781457186776'
-      - '9781457186837'
       - '9780985930806'
   crime fiction:
     name: about Crime Fiction
@@ -345,12 +339,10 @@ index:
     name: about Data
     title: 'Theme: Data'
     subtitle: Books about data and data analysis
-    description: 'I have 5 books about Data in my personal library.
+    description: 'I have 4 books about Data in my personal library.
 
 
       ### Titles:
-
-      - (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
 
       - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
 
@@ -365,7 +357,6 @@ index:
     items:
     - title: null
       books:
-      - '9781629561011'
       - '9780201076165'
       - '9780195089653'
       - '9781789615326'
@@ -374,7 +365,7 @@ index:
     name: about Design
     title: 'Theme: Design'
     subtitle: Books about design, including methods, approaches and techniques
-    description: "I have 37 books about Design in my personal library.\n\n### Titles:\n\
+    description: "I have 36 books about Design in my personal library.\n\n### Titles:\n\
       - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis\
       \ A Dondis\n- (paper) [A Short History of the Printed Word](/books/info/9780881791549)\
       \ by Warren Chappell, Robert Bringhurst\n- (paper) [An Essay on Typography](/books/info/9780879239503)\
@@ -405,15 +396,13 @@ index:
       \ by Walter Tracey\n- (paper) [MTIV Process, Inspiration and Practice for the\
       \ New Media Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper)\
       \ [Ordering Disorder](/books/info/9780321703538) by Khoi Vinh\n- (paper) [The\
-      \ Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by Sharon Steuer\n\
-      - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don\
-      \ Norman\n- (paper) [The Elements of Typographic Style](/books/info/9780881792065)\
-      \ by Robert Bringhurst\n- (paper) [The Moderns](/books/info/9781419724015) by\
-      \ Steven Heller, Greg D'Onofrio\n- (paper) [Things I Have Learned In My Life\
-      \ So Far](/books/info/9780810995291) by Stefan Sagmeister\n- (paper) [Thinking\
-      \ with Type](/books/info/9781568984483) by Ellen Lupton\n- (paper) [Universal\
-      \ Methods of Design Expanded and Revised](/books/info/9781631597480) by Bruce\
-      \ Hanington, Bella Martin\n- (paper) [Universal Principles of Design](/books/info/9781592530076)\
+      \ Design of Everyday Things](/books/info/9780465067107) by Don Norman\n- (paper)\
+      \ [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst\n\
+      - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio\n\
+      - (paper) [Things I Have Learned In My Life So Far](/books/info/9780810995291)\
+      \ by Stefan Sagmeister\n- (paper) [Thinking with Type](/books/info/9781568984483)\
+      \ by Ellen Lupton\n- (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480)\
+      \ by Bruce Hanington, Bella Martin\n- (paper) [Universal Principles of Design](/books/info/9781592530076)\
       \ by William Lidwell, Jill Butler, Kritina Holden\n- (paper) [Why Design Matters](/books/info/9780062872968)\
       \ by Debbie Millman"
     items:
@@ -447,7 +436,6 @@ index:
       - '9780879236366'
       - '9780735711655'
       - '9780321703538'
-      - '9780321518422'
       - '9780465067107'
       - '9780881792065'
       - '9781419724015'
@@ -485,7 +473,7 @@ index:
     name: about Economics
     title: 'Theme: Economics'
     subtitle: Books about economics, including game theory and behavioural economics
-    description: 'I have 5 books about Economics in my personal library.
+    description: 'I have 4 books about Economics in my personal library.
 
 
       ### Titles:
@@ -497,9 +485,7 @@ index:
       - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K.
       Dixit, Barry J. Nalebuff
 
-      - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman
-
-      - (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott'
+      - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman'
     items:
     - title: null
       books:
@@ -507,13 +493,12 @@ index:
       - '9780262041690'
       - '9780393069792'
       - '9780374533557'
-      - '9781591842316'
   engineering:
     name: about Engineering
     title: 'Theme: Engineering'
     subtitle: Books about engineering, including software engineering and programming
       languages
-    description: 'I have 19 books about Engineering in my personal library.
+    description: 'I have 15 books about Engineering in my personal library.
 
 
       ### Titles:
@@ -526,20 +511,14 @@ index:
       - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis,
       Georgios Gousios
 
-      - (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
-
       - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 
       - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
 
       - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
 
-      - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
-
       - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas
       Crockford
-
-      - (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 
       - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 
@@ -558,23 +537,17 @@ index:
       - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 
       - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt,
-      Dave Thomas
-
-      - (paper) [The Ruby Programming Language](/books/info/9780596516178) by David
-      Flanagan, Yukihiro Matsumoto'
+      Dave Thomas'
     items:
     - title: null
       books:
       - '9780201563177'
       - '9781466586963'
       - '9780596517984'
-      - '9780672326974'
       - '9781775093343'
       - '9781430219491'
       - '9780743200790'
-      - '9781449396947'
       - '9780596554873'
-      - '9780596000462'
       - '9780596510510'
       - '9781565922570'
       - '9780262182621'
@@ -583,7 +556,6 @@ index:
       - '9780596005771'
       - '9780978739232'
       - '9780201616224'
-      - '9780596516178'
   entrepreneurship:
     name: about Entrepreneurship
     title: 'Theme: Entrepreneurship'
@@ -661,15 +633,14 @@ index:
     name: about Fantasy
     title: 'Theme: Fantasy'
     subtitle: Books about fantasy, including fantasy novels
-    description: "I have 13 books about Fantasy in my personal library.\n\n### Titles:\n\
+    description: "I have 12 books about Fantasy in my personal library.\n\n### Titles:\n\
       - (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
       \ by J. R. R. Tolkien\n- (paper) [Feet Of Clay](/books/info/9780552142373) by\
       \ Terry Pratchett\n- (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009)\
-      \ by Terry Pratchett\n- (paper) [Going Postal](/books/info/9780060502935) by\
-      \ Terry Pratchett\n- (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061)\
+      \ by Terry Pratchett\n- (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061)\
       \ by Terry Pratchett\n- (paper) [Hogfather](/books/info/9780552145428) by Terry\
       \ Pratchett\n- (paper) [La comunidad del anillo (El se\xF1or de los anillos,\
-      \ #1)](/books/info/9788445071403) by J.R.R. Tolkien\n- (paper) [Las dos torres\
+      \ #1)](/books/info/9788445071403) by J. R. R. Tolkien\n- (paper) [Las dos torres\
       \ (El Se\xF1or de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien\n\
       - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett\n- (paper)\
       \ [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett\n\
@@ -682,7 +653,6 @@ index:
       - '9788445071779'
       - '9780552142373'
       - '9780575059009'
-      - '9780060502935'
       - '9780575046061'
       - '9780552145428'
       - '9788445071403'
@@ -818,7 +788,7 @@ index:
     name: about Graphic Novels
     title: 'Theme: Graphic Novels'
     subtitle: Graphic novels, including comics
-    description: "I have 27 books about Graphic Novels in my personal library.\n\n\
+    description: "I have 26 books about Graphic Novels in my personal library.\n\n\
       ### Titles:\n- (paper) [Amour & Int\xE9rim (Les Formidables Aventures De Lapinot,\
       \ #4)](/books/info/9782205050059) by Trondheim\n- (paper) [Attack of the Deranged\
       \ Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson\n\
@@ -848,11 +818,10 @@ index:
       \ the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson\n- (paper)\
       \ [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill\
       \ Watterson\n- (paper) [The Far Side Gallery](/books/info/9780836220629) by\
-      \ Gary Larson\n- (paper) [The Walking Dead](/books/info/9781607066309) by Robert\
-      \ Kirkman\n- (paper) [Vacances de printemps (Les Formidables Aventures De Lapinot,\
-      \ #5)](/books/info/9782205051926) by Lewis Trondheim, Frank Le Gall\n- (paper)\
-      \ [\xC2me rouge (Blacksad, #3)](/books/info/9782205055641) by Juan D\xEDaz Canales,\
-      \ Juanjo Guarnido"
+      \ Gary Larson\n- (paper) [Vacances de printemps (Les Formidables Aventures De\
+      \ Lapinot, #5)](/books/info/9782205051926) by Lewis Trondheim, Frank Le Gall\n\
+      - (paper) [\xC2me rouge (Blacksad, #3)](/books/info/9782205055641) by Juan D\xED\
+      az Canales, Juanjo Guarnido"
     items:
     - title: null
       books:
@@ -880,24 +849,27 @@ index:
       - '9780751504835'
       - '9780836218527'
       - '9780836220629'
-      - '9781607066309'
       - '9782205051926'
       - '9782205055641'
   graphs:
     name: about Graphs
     title: 'Theme: Graphs'
     subtitle: Books about graphs and graph theory
-    description: "I have 3 books about Graphs in my personal library.\n\n### Titles:\n\
-      - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)\
-      \ by Pan\n- (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank\
-      \ Kejriwal, Pedro Szekely, Craig A. Knoblock\n- (paper) [Linked](/books/info/9780738206677)\
-      \ by Albert-L\xE1szl\xF3 Barab\xE1si, Jennifer Frangos"
+    description: 'I have 2 books about Graphs in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)
+      by Pan
+
+      - (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank Kejriwal,
+      Pedro Szekely, Craig A. Knoblock'
     items:
     - title: null
       books:
       - '9783319456522'
       - '9780262045094'
-      - '9780738206677'
   historical novel:
     name: about Historical Novel
     title: 'Theme: Historical Novel'
@@ -917,7 +889,7 @@ index:
     name: about History
     title: 'Theme: History'
     subtitle: Books about history in general
-    description: "I have 36 books about History in my personal library.\n\n### Titles:\n\
+    description: "I have 35 books about History in my personal library.\n\n### Titles:\n\
       - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
       \ by Jeremy McInerney\n- (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian\
       \ Goldsworthy\n- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy\n\
@@ -937,8 +909,7 @@ index:
       \ Vandiver\n- (paper) [Hist\xF3ria concisa do Brasil](/books/info/9788531405921)\
       \ by Boris Fausto\n- (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F.\
       \ C. Fuller\n- (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988)\
-      \ by Samuel Noah Kramer\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420691060)\
-      \ by Isaac Asimov\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
+      \ by Samuel Noah Kramer\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
       \ by G\xE9rard Coulon\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
       \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by\
       \ Robert Garland\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac\
@@ -977,7 +948,6 @@ index:
       - '9788531405921'
       - B002V8KXYC
       - '9782080812988'
-      - '9788420691060'
       - '9782877726351'
       - '9782877726894'
       - B00XP3CMHI
@@ -1103,7 +1073,7 @@ index:
       - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I.
       Hayakawa, Alan R. Hayakawa
 
-      - (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien
+      - (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
 
       - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew
       Robinson
@@ -1189,9 +1159,8 @@ index:
     name: about Math
     title: 'Theme: Math'
     subtitle: Books about mathematics in general, including probability and statistics
-    description: "I have 22 books about Math in my personal library.\n\n### Titles:\n\
+    description: "I have 21 books about Math in my personal library.\n\n### Titles:\n\
       - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n\
-      - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
       - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370)\
       \ by Gareth James, Trevor Hastie, Robert Tibshirani\n- (paper) [Complex Adaptive\
       \ Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page\n- (paper)\
@@ -1219,7 +1188,6 @@ index:
     - title: null
       books:
       - '9780679747888'
-      - '9780387402727'
       - '9781461471370'
       - '9781400835522'
       - '9781446200469'
@@ -1317,12 +1285,11 @@ index:
     name: about Novel
     title: 'Theme: Novel'
     subtitle: Novels, including historical novels
-    description: "I have 35 books about Novel in my personal library.\n\n### Titles:\n\
+    description: "I have 34 books about Novel in my personal library.\n\n### Titles:\n\
       - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616)\
       \ by Jorge Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem\
       \ Fonseca\n- (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira\
-      \ de Queiroz\n- (paper) [A grande arte](/books/info/9788520924556) by Rubem\
-      \ Fonseca\n- (paper) [Altered Carbon](/books/info/9780345457684) by Richard\
+      \ de Queiroz\n- (paper) [Altered Carbon](/books/info/9780345457684) by Richard\
       \ K. Morgan\n- (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
       \ by J\xF4. Soares\n- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by\
       \ Jorge Amado\n- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
@@ -1360,7 +1327,6 @@ index:
       - '9788501041616'
       - '9788571641143'
       - '9788501058331'
-      - '9788520924556'
       - '9780345457684'
       - '9788535906172'
       - '9788501009418'
@@ -1693,9 +1659,8 @@ index:
     name: about Science
     title: 'Theme: Science'
     subtitle: Books about science in general
-    description: "I have 27 books about Science in my personal library.\n\n### Titles:\n\
+    description: "I have 26 books about Science in my personal library.\n\n### Titles:\n\
       - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski\n\
-      - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman\n\
       - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
       \ by James Randi, Arthur C. Clarke\n- (paper) [An Introduction to Statistical\
       \ Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert\
@@ -1730,7 +1695,6 @@ index:
     - title: null
       books:
       - '9780679747888'
-      - '9780387402727'
       - '9780312130664'
       - '9781461471370'
       - '9781400835522'
@@ -1760,7 +1724,7 @@ index:
     name: about Security
     title: 'Theme: Security'
     subtitle: Books about security, intelligence and risk
-    description: 'I have 16 books about Security in my personal library.
+    description: 'I have 15 books about Security in my personal library.
 
 
       ### Titles:
@@ -1797,9 +1761,6 @@ index:
 
       - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
 
-      - (paper) [The New School of Information Security](/books/info/9780321502780)
-      by Adam Shostack, Andrew Stewart
-
       - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
 
       - (paper) [Threat Modeling](/books/info/9780735619913) by Frank Swiderski, Window
@@ -1820,14 +1781,13 @@ index:
       - '9781493000609'
       - '9781416507789'
       - '9780553563702'
-      - '9780321502780'
       - '9781107602700'
       - '9780735619913'
   software:
     name: about Software
     title: 'Theme: Software'
     subtitle: Books about software development and programming languages
-    description: 'I have 17 books about Software in my personal library.
+    description: 'I have 13 books about Software in my personal library.
 
 
       ### Titles:
@@ -1840,18 +1800,12 @@ index:
       - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis,
       Georgios Gousios
 
-      - (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
-
       - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 
       - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
 
-      - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
-
       - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas
       Crockford
-
-      - (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 
       - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey
       E.F. Friedl
@@ -1868,22 +1822,16 @@ index:
       - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 
       - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt,
-      Dave Thomas
-
-      - (paper) [The Ruby Programming Language](/books/info/9780596516178) by David
-      Flanagan, Yukihiro Matsumoto'
+      Dave Thomas'
     items:
     - title: null
       books:
       - '9780201563177'
       - '9781466586963'
       - '9780596517984'
-      - '9780672326974'
       - '9781775093343'
       - '9781430219491'
-      - '9781449396947'
       - '9780596554873'
-      - '9780596000462'
       - '9781565922570'
       - '9780262182621'
       - '9781593278960'
@@ -1891,7 +1839,6 @@ index:
       - '9780596005771'
       - '9780978739232'
       - '9780201616224'
-      - '9780596516178'
   typography:
     name: about Typography
     title: 'Theme: Typography'
@@ -2049,7 +1996,7 @@ index:
       - '9780691191775'
 ---
 
-### [ancient history](/books/about_ancient_history) (41)
+### [ancient history](/books/about_ancient_history) (40)
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
@@ -2070,7 +2017,6 @@ index:
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
-- (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
@@ -2143,11 +2089,9 @@ index:
 - (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines
 - (paper) [Cryptanalysis of the Single Columnar Transposition Cipher](/books/info/9780894121937) by Wayne G. Barker
 - (paper) [Los Códigos Secretos](/books/info/9788483062784) by Simon Singh
-### [computational design](/books/about_computational_design) (5)
+### [computational design](/books/about_computational_design) (3)
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
 - (paper) [Generative Design](/books/info/9781616890773) by Hartmut Bohnacker, Benedikt Groß
-- (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
-- (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
 - (paper) [The Nature of Code](/books/info/9780985930806) by Daniel Shiffman
 ### [crime fiction](/books/about_crime_fiction) (7)
 - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
@@ -2157,13 +2101,12 @@ index:
 - (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha Christie
 - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
 - (audio) [The Under Dog and Other Stories](/books/info/B008RBDG46) by Agatha Christie
-### [data](/books/about_data) (5)
-- (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
+### [data](/books/about_data) (4)
 - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
 - (paper) [Exploring Data in Engineering, the Sciences, and Medicine](/books/info/9780195089653) by Ronald Pearson
 - (paper) [Hands-On Data Analysis with Pandas](/books/info/9781789615326) by Stefanie Molin
 - (paper) [Hands-On Data Analysis with Pandas - Second Edition](/books/info/9781800563452) by Stefanie Molin
-### [design](/books/about_design) (37)
+### [design](/books/about_design) (36)
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [An Essay on Typography](/books/info/9780879239503) by Eric Gill
@@ -2192,7 +2135,6 @@ index:
 - (paper) [Letters of Credit](/books/info/9780879236366) by Walter Tracey
 - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655) by Hillman Curtis
 - (paper) [Ordering Disorder](/books/info/9780321703538) by Khoi Vinh
-- (paper) [The Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by Sharon Steuer
 - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don Norman
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
@@ -2206,23 +2148,19 @@ index:
 - (paper) [Hamlet](/books/info/9788437610979) by William Shakespeare
 - (paper) [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard
 - (paper) [Three Plays](/books/info/9780802150646) by George S. Kaufman, Moss Hart
-### [economics](/books/about_economics) (5)
+### [economics](/books/about_economics) (4)
 - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan
 - (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
 - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
 - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman
-- (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
-### [engineering](/books/about_engineering) (19)
+### [engineering](/books/about_engineering) (15)
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
-- (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
 - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
 - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
-- (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
 - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas Crockford
-- (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey E.F. Friedl
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
@@ -2231,7 +2169,6 @@ index:
 - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
 - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
-- (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
 ### [entrepreneurship](/books/about_entrepreneurship) (2)
 - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
 - (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki
@@ -2250,14 +2187,13 @@ index:
 - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith Schalansky
 - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
 - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris
-### [fantasy](/books/about_fantasy) (13)
+### [fantasy](/books/about_fantasy) (12)
 - (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
 - (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
-- (paper) [Going Postal](/books/info/9780060502935) by Terry Pratchett
 - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett
 - (paper) [Hogfather](/books/info/9780552145428) by Terry Pratchett
-- (paper) [La comunidad del anillo (El señor de los anillos, #1)](/books/info/9788445071403) by J.R.R. Tolkien
+- (paper) [La comunidad del anillo (El señor de los anillos, #1)](/books/info/9788445071403) by J. R. R. Tolkien
 - (paper) [Las dos torres (El Señor de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien
 - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett
 - (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032) by Terry Pratchett
@@ -2292,7 +2228,7 @@ index:
 - (paper) [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261) by Takeo Kajiwara
 - (paper) [The Second Book of Go](/books/info/9784906574315) by Richard Bozulich
 - (paper) [The Treasure Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama
-### [graphic novels](/books/about_graphic_novels) (27)
+### [graphic novels](/books/about_graphic_novels) (26)
 - (paper) [Amour & Intérim (Les Formidables Aventures De Lapinot, #4)](/books/info/9782205050059) by Trondheim
 - (paper) [Attack of the Deranged Mutant Killer Monster Snow Goons](/books/info/9780751509335) by Bill Watterson
 - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
@@ -2317,16 +2253,14 @@ index:
 - (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson
 - (paper) [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill Watterson
 - (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary Larson
-- (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
 - (paper) [Vacances de printemps (Les Formidables Aventures De Lapinot, #5)](/books/info/9782205051926) by Lewis Trondheim, Frank Le Gall
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido
-### [graphs](/books/about_graphs) (3)
+### [graphs](/books/about_graphs) (2)
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan
 - (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank Kejriwal, Pedro Szekely, Craig A. Knoblock
-- (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 ### [historical novel](/books/about_historical_novel) (1)
 - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461) by Luis Garcia Jambrina
-### [history](/books/about_history) (36)
+### [history](/books/about_history) (35)
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
@@ -2345,7 +2279,6 @@ index:
 - (paper) [História concisa do Brasil](/books/info/9788531405921) by Boris Fausto
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
-- (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
@@ -2394,7 +2327,7 @@ index:
 ### [linguistics](/books/about_linguistics) (5)
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
 - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R. Hayakawa
-- (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien
+- (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
 - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew Robinson
 - (paper) [The Grammar of Romance](/books/info/9781475246636) by Joshua Rudder
 ### [logic](/books/about_logic) (2)
@@ -2412,9 +2345,8 @@ index:
 - (paper) [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
 - (paper) [The Last Greatest Magician in the World](/books/info/9780399160035) by Jim Steinmeyer
-### [math](/books/about_math) (22)
+### [math](/books/about_math) (21)
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
 - (paper) [Discovering Statistics Using R](/books/info/9781446200469) by Andy Field, Jeremy Miles, Zoe Field
@@ -2450,11 +2382,10 @@ index:
 - (paper) [Paris versus New York](/books/info/9780143120254) by Vahram Muratyan
 - (paper) [The City Out My Window](/books/info/9781416569909) by Matteo Pericoli
 - (paper) [Ventanas De Manhattan](/books/info/9788432217074) by Antonio Munoz Molina
-### [novel](/books/about_novel) (35)
+### [novel](/books/about_novel) (34)
 - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by Jorge Amado
 - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
 - (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira de Queiroz
-- (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 - (paper) [Altered Carbon](/books/info/9780345457684) by Richard K. Morgan
 - (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172) by Jô. Soares
 - (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge Amado
@@ -2567,9 +2498,8 @@ index:
 - (paper) [Tome of Magic (Advanced Dungeon & Dragons](/books/info/9781560761075) by David Zeb Cook, Nigel Findley, Anthony Herring, Christopher Kubasik, Carl Sargent, Rick Swan
 - (paper) [Volo's Guide to Monsters](/books/info/9780786966011) by Wizards RPG Team
 - (paper) [Xanathar's Guide to Everything](/books/info/9780786966110) by Wizards RPG Team
-### [science](/books/about_science) (27)
+### [science](/books/about_science) (26)
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
@@ -2595,7 +2525,7 @@ index:
 - (paper) [What If? Serious Scientific Answers to Absurd Hypothetical Questions](/books/info/9780544272996) by Randall Munroe
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
 - (paper) [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi
-### [security](/books/about_security) (16)
+### [security](/books/about_security) (15)
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier
 - (paper) [Critical Thinking for Strategic Intelligence](/books/info/9781544374260) by Katherine Hibbs Pherson, Randolph H. Pherson
 - (paper) [Data-Driven Security](/books/info/9781118793725) by Jay Jacobs, Bob Rudis
@@ -2609,19 +2539,15 @@ index:
 - (paper) [The Art of the Con](/books/info/9781493000609) by R. Paul Wilson
 - (paper) [The Cuckoo's Egg](/books/info/9781416507789) by Cliff Stoll
 - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
-- (paper) [The New School of Information Security](/books/info/9780321502780) by Adam Shostack, Andrew Stewart
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
 - (paper) [Threat Modeling](/books/info/9780735619913) by Frank Swiderski, Window Snyder
-### [software](/books/about_software) (17)
+### [software](/books/about_software) (13)
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
-- (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
 - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
-- (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
 - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas Crockford
-- (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey E.F. Friedl
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
@@ -2629,7 +2555,6 @@ index:
 - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
 - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
-- (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
 ### [typography](/books/about_typography) (10)
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [An Essay on Typography](/books/info/9780879239503) by Eric Gill

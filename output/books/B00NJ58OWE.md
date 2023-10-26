@@ -8,6 +8,7 @@ subtitle: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Develop
 asin: B00NJ58OWE
 length: '29936187'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 8468.0
@@ -15,6 +16,8 @@ listening:
   last_time: '2016-05-20'
 link: https://www.audible.com/pd/B00NJ58OWE
 source: Audible
+purchase_date: '2016-02-23'
+listening_date: '2016-03-06'
 topics:
 - Child Psychology
 - Parenting & Families
@@ -36,14 +39,10 @@ language:
 rating:
   rating: 4.662573548222052
   count: 3909
-cover_filename: B00NJ58OWE.jpg
-purchase_date: '2016-02-23'
-listening_date: '2016-03-06'
-theme: psychology
 duration: PT8H18M
-type: audiobook
+cover_filename: B00NJ58OWE.jpg
 read_status: partially listened to
-recommendation_status: null
+theme: psychology
 ---
 The pioneering experts behind the bestselling The Whole-Brain Child - Tina Payne Bryson and Daniel J. Siegel, the New York Times bestselling author of Brainstorm - now explore the ultimate child-raising challenge: discipline. Highlighting the fascinating link between a child’s neurological development and the way a parent reacts to misbehavior, No-Drama Disciplineprovides an effective, compassionate road map for dealing with tantrums, tensions, and tears - without causing a scene.
 Defining the true meaning of the “d” word (to instruct, not to shout or reprimand), the authors explain how to reach your child, redirect emotions, and turn a meltdown into an opportunity for growth. By doing so, the cycle of negative behavior (and punishment) is essentially brought to a halt, as problem solving becomes a win/win situation. Inside this sanity-saving guide you’ll discover

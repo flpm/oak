@@ -46,21 +46,6 @@ index:
     - title: null
       books:
       - '9780374104436'
-  Adam Shostack:
-    name: by Adam Shostack
-    title: 'Authors: Adam Shostack'
-    subtitle: Books by Adam Shostack
-    description: 'I have 1 book by Adam Shostack in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The New School of Information Security](/books/info/9780321502780)
-      by Adam Shostack, Andrew Stewart'
-    items:
-    - title: null
-      books:
-      - '9780321502780'
   Adrian Goldsworthy:
     name: by Adrian Goldsworthy
     title: 'Authors: Adrian Goldsworthy'
@@ -191,17 +176,6 @@ index:
     - title: null
       books:
       - '9780887309588'
-  "Albert-L\xE1szl\xF3 Barab\xE1si":
-    name: "by Albert-L\xE1szl\xF3 Barab\xE1si"
-    title: "Authors: Albert-L\xE1szl\xF3 Barab\xE1si"
-    subtitle: "Books by Albert-L\xE1szl\xF3 Barab\xE1si"
-    description: "I have 1 book by Albert-L\xE1szl\xF3 Barab\xE1si in my personal\
-      \ library.\n\n### Titles:\n- (paper) [Linked](/books/info/9780738206677) by\
-      \ Albert-L\xE1szl\xF3 Barab\xE1si, Jennifer Frangos"
-    items:
-    - title: null
-      books:
-      - '9780738206677'
   Alberto Angela:
     name: by Alberto Angela
     title: 'Authors: Alberto Angela'
@@ -302,32 +276,6 @@ index:
     - title: null
       books:
       - '9782070417681'
-  Alison Jay:
-    name: by Alison Jay
-    title: 'Authors: Alison Jay'
-    subtitle: Books by Alison Jay
-    description: 'I have 0 books by Alison Jay in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
-  Allison Parrish:
-    name: by Allison Parrish
-    title: 'Authors: Allison Parrish'
-    subtitle: Books by Allison Parrish
-    description: 'I have 1 book by Allison Parrish in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Getting Started with Processing.py](/books/info/9781457186837) by
-      Allison Parrish, Ben Fry, Casey Reas'
-    items:
-    - title: null
-      books:
-      - '9781457186837'
   Amanda Gorman:
     name: by Amanda Gorman
     title: 'Authors: Amanda Gorman'
@@ -392,6 +340,21 @@ index:
     - title: null
       books:
       - '9788571642829'
+  Andrea A. Lunsford:
+    name: by Andrea A. Lunsford
+    title: 'Authors: Andrea A. Lunsford'
+    subtitle: Books by Andrea A. Lunsford
+    description: 'I have 1 book by Andrea A. Lunsford in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Everything''s an Argument](/books/info/9781319056278) by Andrea A.
+      Lunsford, John J. Ruszkiewicz'
+    items:
+    - title: null
+      books:
+      - '9781319056278'
   Andrea Carandini:
     name: by Andrea Carandini
     title: 'Authors: Andrea Carandini'
@@ -446,21 +409,6 @@ index:
     - title: null
       books:
       - '9780500286609'
-  Andrew Stewart:
-    name: by Andrew Stewart
-    title: 'Authors: Andrew Stewart'
-    subtitle: Books by Andrew Stewart
-    description: 'I have 1 book by Andrew Stewart in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The New School of Information Security](/books/info/9780321502780)
-      by Adam Shostack, Andrew Stewart'
-    items:
-    - title: null
-      books:
-      - '9780321502780'
   Andrew Wheeler:
     name: by Andrew Wheeler
     title: 'Authors: Andrew Wheeler'
@@ -640,17 +588,6 @@ index:
     - title: null
       books:
       - '9782849907481'
-  "Antoine de Saint-Exup\xE9ry":
-    name: "by Antoine De Saint-Exup\xE9ry"
-    title: "Authors: Antoine De Saint-Exup\xE9ry"
-    subtitle: "Books by Antoine De Saint-Exup\xE9ry"
-    description: "I have 1 book by Antoine De Saint-Exup\xE9ry in my personal library.\n\
-      \n### Titles:\n- (paper) [The Little Prince](/books/info/9780547260693) by Antoine\
-      \ de Saint-Exup\xE9ry"
-    items:
-    - title: null
-      books:
-      - '9780547260693'
   Antonio Munoz Molina:
     name: by Antonio Munoz Molina
     title: 'Authors: Antonio Munoz Molina'
@@ -722,20 +659,6 @@ index:
     - title: null
       books:
       - '9780393069792'
-  Barefoot Books:
-    name: by Barefoot Books
-    title: 'Authors: Barefoot Books'
-    subtitle: Books by Barefoot Books
-    description: 'I have 1 book by Barefoot Books in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot Books'
-    items:
-    - title: null
-      books:
-      - '9781782850427'
   Barry J. Nalebuff:
     name: by Barry J. Nalebuff
     title: 'Authors: Barry J. Nalebuff'
@@ -784,23 +707,15 @@ index:
     name: by Ben Fry
     title: 'Authors: Ben Fry'
     subtitle: Books by Ben Fry
-    description: 'I have 3 books by Ben Fry in my personal library.
+    description: 'I have 1 book by Ben Fry in my personal library.
 
 
       ### Titles:
-
-      - (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren
-      McCarthy, Ben Fry, Casey Reas
-
-      - (paper) [Getting Started with Processing.py](/books/info/9781457186837) by
-      Allison Parrish, Ben Fry, Casey Reas
 
       - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry'
     items:
     - title: null
       books:
-      - '9781457186776'
-      - '9781457186837'
       - '9780262182621'
   "Benedikt Gro\xDF":
     name: "by Benedikt Gro\xDF"
@@ -1010,17 +925,6 @@ index:
     - title: null
       books:
       - '9780452298606'
-  Bruce Degen:
-    name: by Bruce Degen
-    title: 'Authors: Bruce Degen'
-    subtitle: Books by Bruce Degen
-    description: 'I have 0 books by Bruce Degen in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Bruce Hanington:
     name: by Bruce Hanington
     title: 'Authors: Bruce Hanington'
@@ -1211,38 +1115,19 @@ index:
     - title: null
       books:
       - '9780345472328'
-  Carolyn Curtis:
-    name: by Carolyn Curtis
-    title: 'Authors: Carolyn Curtis'
-    subtitle: Books by Carolyn Curtis
-    description: 'I have 0 books by Carolyn Curtis in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Casey Reas:
     name: by Casey Reas
     title: 'Authors: Casey Reas'
     subtitle: Books by Casey Reas
-    description: 'I have 3 books by Casey Reas in my personal library.
+    description: 'I have 1 book by Casey Reas in my personal library.
 
 
       ### Titles:
-
-      - (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren
-      McCarthy, Ben Fry, Casey Reas
-
-      - (paper) [Getting Started with Processing.py](/books/info/9781457186837) by
-      Allison Parrish, Ben Fry, Casey Reas
 
       - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry'
     items:
     - title: null
       books:
-      - '9781457186776'
-      - '9781457186837'
       - '9780262182621'
   Catherine Burns:
     name: by Catherine Burns
@@ -1826,21 +1711,6 @@ index:
     - title: null
       books:
       - '9781107420984'
-  David Flanagan:
-    name: by David Flanagan
-    title: 'Authors: David Flanagan'
-    subtitle: Books by David Flanagan
-    description: 'I have 1 book by David Flanagan in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Ruby Programming Language](/books/info/9780596516178) by David
-      Flanagan, Yukihiro Matsumoto'
-    items:
-    - title: null
-      books:
-      - '9780596516178'
   David Keirsey:
     name: by David Keirsey
     title: 'Authors: David Keirsey'
@@ -2024,6 +1894,21 @@ index:
     - title: null
       books:
       - '9781840915457'
+  Diane P. Freedman:
+    name: by Diane P. Freedman
+    title: 'Authors: Diane P. Freedman'
+    subtitle: Books by Diane P. Freedman
+    description: 'I have 1 book by Diane P. Freedman in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
+      by Diane P. Freedman, Olivia Frey'
+    items:
+    - title: null
+      books:
+      - '9780822332138'
   Dinah Silveira de Queiroz:
     name: by Dinah Silveira De Queiroz
     title: 'Authors: Dinah Silveira De Queiroz'
@@ -2096,20 +1981,6 @@ index:
       books:
       - '9780465051366'
       - '9780465067107'
-  Don Tapscott:
-    name: by Don Tapscott
-    title: 'Authors: Don Tapscott'
-    subtitle: Books by Don Tapscott
-    description: 'I have 1 book by Don Tapscott in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott'
-    items:
-    - title: null
-      books:
-      - '9781591842316'
   Donald J. Robertson:
     name: by Donald J. Robertson
     title: 'Authors: Donald J. Robertson'
@@ -2426,20 +2297,6 @@ index:
     - title: null
       books:
       - '9780190627812'
-  Eric Fan:
-    name: by Eric Fan
-    title: 'Authors: Eric Fan'
-    subtitle: Books by Eric Fan
-    description: 'I have 1 book by Eric Fan in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan'
-    items:
-    - title: null
-      books:
-      - '9781481470377'
   Eric Gill:
     name: by Eric Gill
     title: 'Authors: Eric Gill'
@@ -2468,20 +2325,6 @@ index:
     - title: null
       books:
       - '9780691166407'
-  Eric J. Ray:
-    name: by Eric J. Ray
-    title: 'Authors: Eric J. Ray'
-    subtitle: Books by Eric J. Ray
-    description: 'I have 1 book by Eric J. Ray in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray'
-    items:
-    - title: null
-      books:
-      - '9780596000462'
   Eric Matthes:
     name: by Eric Matthes
     title: 'Authors: Eric Matthes'
@@ -2796,20 +2639,6 @@ index:
     - title: null
       books:
       - '9780596517984'
-  Ginger Foglesong Gibson:
-    name: by Ginger Foglesong Gibson
-    title: 'Authors: Ginger Foglesong Gibson'
-    subtitle: Books by Ginger Foglesong Gibson
-    description: 'I have 1 book by Ginger Foglesong Gibson in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Tiptoe Joe](/books/info/9780061772030) by Ginger Foglesong Gibson'
-    items:
-    - title: null
-      books:
-      - '9780061772030'
   Giorgia Lupi:
     name: by Giorgia Lupi
     title: 'Authors: Giorgia Lupi'
@@ -3308,17 +3137,19 @@ index:
     name: by Isaac Asimov
     title: 'Authors: Isaac Asimov'
     subtitle: Books by Isaac Asimov
-    description: "I have 5 books by Isaac Asimov in my personal library.\n\n### Titles:\n\
-      - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n-\
-      \ (paper) [La Rep\xFAblica Romana](/books/info/9788420691060) by Isaac Asimov\n\
-      - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov\n- (paper)\
-      \ [Los griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper) [Moi Asimov](/books/info/9782070313020)\
-      \ by Isaac Asimov"
+    description: "I have 6 books by Isaac Asimov in my personal library.\n\n### Titles:\n\
+      - (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)\
+      \ by Isaac Asimov\n- (paper) [El Imperio Romano](/books/info/9788420635484)\
+      \ by Isaac Asimov\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420635347)\
+      \ by Isaac Asimov\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac\
+      \ Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n\
+      - (paper) [Moi Asimov](/books/info/9782070313020) by Isaac Asimov"
     items:
     - title: null
       books:
+      - '9788420637457'
       - '9788420635484'
-      - '9788420691060'
+      - '9788420635347'
       - '9788420635507'
       - '9788420637440'
       - '9782070313020'
@@ -3398,16 +3229,21 @@ index:
     name: by J. R. R. Tolkien
     title: 'Authors: J. R. R. Tolkien'
     subtitle: Books by J. R. R. Tolkien
-    description: "I have 3 books by J. R. R. Tolkien in my personal library.\n\n###\
+    description: "I have 5 books by J. R. R. Tolkien in my personal library.\n\n###\
       \ Titles:\n- (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
-      \ by J. R. R. Tolkien\n- (paper) [Las dos torres (El Se\xF1or de los Anillos,\
-      \ #2)](/books/info/9788445071762) by J. R. R. Tolkien\n- (paper) [The Hobbit](/books/info/9780547928241)\
-      \ by J. R. R. Tolkien"
+      \ by J. R. R. Tolkien\n- (paper) [La comunidad del anillo (El se\xF1or de los\
+      \ anillos, #1)](/books/info/9788445071403) by J. R. R. Tolkien\n- (paper) [Las\
+      \ dos torres (El Se\xF1or de los Anillos, #2)](/books/info/9788445071762) by\
+      \ J. R. R. Tolkien\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
+      \ J. R. R. Tolkien\n- (paper) [The Hobbit](/books/info/9780547928241) by J.\
+      \ R. R. Tolkien"
     items:
     - title: null
       books:
       - '9788445071779'
+      - '9788445071403'
       - '9788445071762'
+      - '9780008348090'
       - '9780547928241'
   J. Rufus Fears:
     name: by J. Rufus Fears
@@ -3438,19 +3274,6 @@ index:
     - title: null
       books:
       - '9780199246359'
-  J.R.R. Tolkien:
-    name: by J.R.R. Tolkien
-    title: 'Authors: J.R.R. Tolkien'
-    subtitle: Books by J.R.R. Tolkien
-    description: "I have 2 books by J.R.R. Tolkien in my personal library.\n\n###\
-      \ Titles:\n- (paper) [La comunidad del anillo (El se\xF1or de los anillos, #1)](/books/info/9788445071403)\
-      \ by J.R.R. Tolkien\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
-      \ J.R.R. Tolkien"
-    items:
-    - title: null
-      books:
-      - '9788445071403'
-      - '9780008348090'
   Jacques Bertin:
     name: by Jacques Bertin
     title: 'Authors: Jacques Bertin'
@@ -3629,6 +3452,17 @@ index:
     - title: null
       books:
       - '9780312130664'
+  "Javier S\xE1ez Cast\xE1n":
+    name: "by Javier S\xE1ez Cast\xE1n"
+    title: "Authors: Javier S\xE1ez Cast\xE1n"
+    subtitle: "Books by Javier S\xE1ez Cast\xE1n"
+    description: "I have 1 book by Javier S\xE1ez Cast\xE1n in my personal library.\n\
+      \n### Titles:\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
+      \ by Javier S\xE1ez Cast\xE1n"
+    items:
+    - title: null
+      books:
+      - '9788437507521'
   Jay Jacobs:
     name: by Jay Jacobs
     title: 'Authors: Jay Jacobs'
@@ -3821,17 +3655,6 @@ index:
       books:
       - '9781568987026'
       - '9781568989792'
-  Jennifer Frangos:
-    name: by Jennifer Frangos
-    title: 'Authors: Jennifer Frangos'
-    subtitle: Books by Jennifer Frangos
-    description: "I have 1 book by Jennifer Frangos in my personal library.\n\n###\
-      \ Titles:\n- (paper) [Linked](/books/info/9780738206677) by Albert-L\xE1szl\xF3\
-      \ Barab\xE1si, Jennifer Frangos"
-    items:
-    - title: null
-      books:
-      - '9780738206677'
   "Jens M\xFCller":
     name: "by Jens M\xFCller"
     title: "Authors: Jens M\xFCller"
@@ -3930,21 +3753,6 @@ index:
     - title: null
       books:
       - '9781430210771'
-  Jessica Southwick:
-    name: by Jessica Southwick
-    title: 'Authors: Jessica Southwick'
-    subtitle: Books by Jessica Southwick
-    description: 'I have 1 book by Jessica Southwick in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick,
-      Yevgeniya Yerektskaya'
-    items:
-    - title: null
-      books:
-      - '9781623485566'
   Jill Butler:
     name: by Jill Butler
     title: 'Authors: Jill Butler'
@@ -4057,22 +3865,26 @@ index:
     - title: null
       books:
       - '9781785511837'
-  Joanna Cole:
-    name: by Joanna Cole
-    title: 'Authors: Joanna Cole'
-    subtitle: Books by Joanna Cole
-    description: 'I have 0 books by Joanna Cole in my personal library.
+  Joe Hill:
+    name: by Joe Hill
+    title: 'Authors: Joe Hill'
+    subtitle: Books by Joe Hill
+    description: 'I have 1 book by Joe Hill in my personal library.
 
 
-      ### Titles:'
+      ### Titles:
+
+      - (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241) by
+      Joe Hill'
     items:
     - title: null
-      books: []
+      books:
+      - '9781631402241'
   Joe Moran:
     name: by Joe Moran
     title: 'Authors: Joe Moran'
     subtitle: Books by Joe Moran
-    description: 'I have 3 books by Joe Moran in my personal library.
+    description: 'I have 4 books by Joe Moran in my personal library.
 
 
       ### Titles:
@@ -4081,12 +3893,15 @@ index:
 
       - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
 
+      - (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
+
       - (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran'
     items:
     - title: null
       books:
       - '9780143134343'
       - 059315018X
+      - '9781781252635'
       - B06VSQVPCY
   Joel Schwartzberg:
     name: by Joel Schwartzberg
@@ -4119,20 +3934,6 @@ index:
     - title: null
       books:
       - '9780385348249'
-  John H. Johnson:
-    name: by John H. Johnson
-    title: 'Authors: John H. Johnson'
-    subtitle: Books by John H. Johnson
-    description: 'I have 1 book by John H. Johnson in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Everydata](/books/info/9781629561011) by John H. Johnson'
-    items:
-    - title: null
-      books:
-      - '9781629561011'
   John H. Miller:
     name: by John H. Miller
     title: 'Authors: John H. Miller'
@@ -4148,6 +3949,21 @@ index:
     - title: null
       books:
       - '9781400835522'
+  John J. Ruszkiewicz:
+    name: by John J. Ruszkiewicz
+    title: 'Authors: John J. Ruszkiewicz'
+    subtitle: Books by John J. Ruszkiewicz
+    description: 'I have 1 book by John J. Ruszkiewicz in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Everything''s an Argument](/books/info/9781319056278) by Andrea A.
+      Lunsford, John J. Ruszkiewicz'
+    items:
+    - title: null
+      books:
+      - '9781319056278'
   John Power:
     name: by John Power
     title: 'Authors: John Power'
@@ -4429,17 +4245,6 @@ index:
     - title: null
       books:
       - '9782205055641'
-  Judith Bauer Stamper:
-    name: by Judith Bauer Stamper
-    title: 'Authors: Judith Bauer Stamper'
-    subtitle: Books by Judith Bauer Stamper
-    description: 'I have 0 books by Judith Bauer Stamper in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Judith Schalansky:
     name: by Judith Schalansky
     title: 'Authors: Judith Schalansky'
@@ -4641,17 +4446,6 @@ index:
     - title: null
       books:
       - '9781600610486'
-  Kenneth Grahame:
-    name: by Kenneth Grahame
-    title: 'Authors: Kenneth Grahame'
-    subtitle: Books by Kenneth Grahame
-    description: 'I have 0 books by Kenneth Grahame in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Kevin Flanigan:
     name: by Kevin Flanigan
     title: 'Authors: Kevin Flanigan'
@@ -4754,35 +4548,6 @@ index:
     - title: null
       books:
       - '9780124058880'
-  Larry Wasserman:
-    name: by Larry Wasserman
-    title: 'Authors: Larry Wasserman'
-    subtitle: Books by Larry Wasserman
-    description: 'I have 1 book by Larry Wasserman in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman'
-    items:
-    - title: null
-      books:
-      - '9780387402727'
-  Lauren McCarthy:
-    name: by Lauren Mccarthy
-    title: 'Authors: Lauren Mccarthy'
-    subtitle: Books by Lauren Mccarthy
-    description: 'I have 1 book by Lauren Mccarthy in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren
-      McCarthy, Ben Fry, Casey Reas'
-    items:
-    - title: null
-      books:
-      - '9781457186776'
   Lawrence Scahill:
     name: by Lawrence Scahill
     title: 'Authors: Lawrence Scahill'
@@ -5215,18 +4980,20 @@ index:
     - title: null
       books:
       - '9788576655299'
-  "Mar\xEDa Del Pilar L\xF3pez \xC1vila":
-    name: "by Mar\xEDa Del Pilar L\xF3pez \xC1vila"
-    title: "Authors: Mar\xEDa Del Pilar L\xF3pez \xC1vila"
-    subtitle: "Books by Mar\xEDa Del Pilar L\xF3pez \xC1vila"
-    description: "I have 1 book by Mar\xEDa Del Pilar L\xF3pez \xC1vila in my personal\
-      \ library.\n\n### Titles:\n- (paper) [M\xE1s divertidas aventuras de las letras.\
-      \ Cuentos de la A a la Z](/books/info/9788469603536) by Mar\xEDa Del Pilar L\xF3\
-      pez \xC1vila"
+  Maryanne Wolf:
+    name: by Maryanne Wolf
+    title: 'Authors: Maryanne Wolf'
+    subtitle: Books by Maryanne Wolf
+    description: 'I have 1 book by Maryanne Wolf in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf'
     items:
     - title: null
       books:
-      - '9788469603536'
+      - '9781848310308'
   Masaru Aoki:
     name: by Masaru Aoki
     title: 'Authors: Masaru Aoki'
@@ -5448,6 +5215,37 @@ index:
     - title: null
       books:
       - '9780470632017'
+  Naomi Baron:
+    name: by Naomi Baron
+    title: 'Authors: Naomi Baron'
+    subtitle: Books by Naomi Baron
+    description: 'I have 1 book by Naomi Baron in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron'
+    items:
+    - title: null
+      books:
+      - '9780197656884'
+  Neil Gaiman:
+    name: by Neil Gaiman
+    title: 'Authors: Neil Gaiman'
+    subtitle: Books by Neil Gaiman
+    description: 'I have 2 books by Neil Gaiman in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
+
+      - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett'
+    items:
+    - title: null
+      books:
+      - '9780063081918'
+      - '9780060853976'
   Nicola Gardini:
     name: by Nicola Gardini
     title: 'Authors: Nicola Gardini'
@@ -5608,6 +5406,21 @@ index:
       books:
       - '9781984858788'
       - '9781984859549'
+  Olivia Frey:
+    name: by Olivia Frey
+    title: 'Authors: Olivia Frey'
+    subtitle: Books by Olivia Frey
+    description: 'I have 1 book by Olivia Frey in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
+      by Diane P. Freedman, Olivia Frey'
+    items:
+    - title: null
+      books:
+      - '9780822332138'
   Olivier Bocquet:
     name: by Olivier Bocquet
     title: 'Authors: Olivier Bocquet'
@@ -5660,6 +5473,20 @@ index:
     items:
     - title: null
       books: []
+  Patrick Stewart:
+    name: by Patrick Stewart
+    title: 'Authors: Patrick Stewart'
+    subtitle: Books by Patrick Stewart
+    description: 'I have 1 book by Patrick Stewart in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart'
+    items:
+    - title: null
+      books:
+      - '9781982167738'
   Paul Arden:
     name: by Paul Arden
     title: 'Authors: Paul Arden'
@@ -5731,20 +5558,6 @@ index:
     - title: null
       books:
       - '9781785511837'
-  Paula Scher:
-    name: by Paula Scher
-    title: 'Authors: Paula Scher'
-    subtitle: Books by Paula Scher
-    description: 'I have 1 book by Paula Scher in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher'
-    items:
-    - title: null
-      books:
-      - '9781616894283'
   Pedro Szekely:
     name: by Pedro Szekely
     title: 'Authors: Pedro Szekely'
@@ -5833,17 +5646,6 @@ index:
     - title: null
       books:
       - '9783931141967'
-  Pilar Lopez Avila:
-    name: by Pilar Lopez Avila
-    title: 'Authors: Pilar Lopez Avila'
-    subtitle: Books by Pilar Lopez Avila
-    description: "I have 1 book by Pilar Lopez Avila in my personal library.\n\n###\
-      \ Titles:\n- (paper) [Las hermanas peque\xF1as de las letras divertidas](/books/info/9788469625156)\
-      \ by Pilar Lopez Avila"
-    items:
-    - title: null
-      books:
-      - '9788469625156'
   Prajit K. Dutta:
     name: by Prajit K. Dutta
     title: 'Authors: Prajit K. Dutta'
@@ -5876,6 +5678,20 @@ index:
       books:
       - '9781492274124'
       - '9780825630842'
+  Professor Mary Beard:
+    name: by Professor Mary Beard
+    title: 'Authors: Professor Mary Beard'
+    subtitle: Books by Professor Mary Beard
+    description: 'I have 1 book by Professor Mary Beard in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard'
+    items:
+    - title: null
+      books:
+      - '9781846683800'
   R. Paul Wilson:
     name: by R. Paul Wilson
     title: 'Authors: R. Paul Wilson'
@@ -6136,17 +5952,6 @@ index:
       books:
       - '9780881791549'
       - '9780881792065'
-  Robert Burleigh:
-    name: by Robert Burleigh
-    title: 'Authors: Robert Burleigh'
-    subtitle: Books by Robert Burleigh
-    description: 'I have 0 books by Robert Burleigh in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Robert Garland:
     name: by Robert Garland
     title: 'Authors: Robert Garland'
@@ -6179,20 +5984,6 @@ index:
     - title: null
       books:
       - '9780975366264'
-  Robert Kirkman:
-    name: by Robert Kirkman
-    title: 'Authors: Robert Kirkman'
-    subtitle: Books by Robert Kirkman
-    description: 'I have 1 book by Robert Kirkman in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman'
-    items:
-    - title: null
-      books:
-      - '9781607066309'
   Robert Sabuda:
     name: by Robert Sabuda
     title: 'Authors: Robert Sabuda'
@@ -6365,19 +6156,16 @@ index:
     name: by Rubem Fonseca
     title: 'Authors: Rubem Fonseca'
     subtitle: Books by Rubem Fonseca
-    description: 'I have 2 books by Rubem Fonseca in my personal library.
+    description: 'I have 1 book by Rubem Fonseca in my personal library.
 
 
       ### Titles:
 
-      - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
-
-      - (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca'
+      - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca'
     items:
     - title: null
       books:
       - '9788571641143'
-      - '9788520924556'
   Rufus Wainwright:
     name: by Rufus Wainwright
     title: 'Authors: Rufus Wainwright'
@@ -6463,20 +6251,6 @@ index:
     - title: null
       books:
       - '9781568821818'
-  Scott Carpenter:
-    name: by Scott Carpenter
-    title: 'Authors: Scott Carpenter'
-    subtitle: Books by Scott Carpenter
-    description: 'I have 1 book by Scott Carpenter in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter'
-    items:
-    - title: null
-      books:
-      - '9780130211002'
   Scott E. Page:
     name: by Scott E. Page
     title: 'Authors: Scott E. Page'
@@ -6543,21 +6317,6 @@ index:
     - title: null
       books:
       - '9781785511837'
-  Sharon Steuer:
-    name: by Sharon Steuer
-    title: 'Authors: Sharon Steuer'
-    subtitle: Books by Sharon Steuer
-    description: 'I have 1 book by Sharon Steuer in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by
-      Sharon Steuer'
-    items:
-    - title: null
-      books:
-      - '9780321518422'
   Shawn DeWolfe:
     name: by Shawn Dewolfe
     title: 'Authors: Shawn Dewolfe'
@@ -6757,10 +6516,12 @@ index:
     name: by Stephen King
     title: 'Authors: Stephen King'
     subtitle: Books by Stephen King
-    description: 'I have 2 books by Stephen King in my personal library.
+    description: 'I have 3 books by Stephen King in my personal library.
 
 
       ### Titles:
+
+      - (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King
 
       - (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 
@@ -6768,22 +6529,9 @@ index:
     items:
     - title: null
       books:
+      - '9781668002193'
       - B002V1A0WE
       - '9780307947307'
-  Stephen Prata:
-    name: by Stephen Prata
-    title: 'Authors: Stephen Prata'
-    subtitle: Books by Stephen Prata
-    description: 'I have 1 book by Stephen Prata in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata'
-    items:
-    - title: null
-      books:
-      - '9780672326974'
   Stephen a Berard:
     name: by Stephen A Berard
     title: 'Authors: Stephen A Berard'
@@ -6884,46 +6632,25 @@ index:
     - title: null
       books:
       - '9781606238134'
-  Stoyan Stefanov:
-    name: by Stoyan Stefanov
-    title: 'Authors: Stoyan Stefanov'
-    subtitle: Books by Stoyan Stefanov
-    description: 'I have 1 book by Stoyan Stefanov in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov'
-    items:
-    - title: null
-      books:
-      - '9781449396947'
-  Susan Hill:
-    name: by Susan Hill
-    title: 'Authors: Susan Hill'
-    subtitle: Books by Susan Hill
-    description: 'I have 0 books by Susan Hill in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Sylvan Barnet:
     name: by Sylvan Barnet
     title: 'Authors: Sylvan Barnet'
     subtitle: Books by Sylvan Barnet
-    description: 'I have 1 book by Sylvan Barnet in my personal library.
+    description: 'I have 2 books by Sylvan Barnet in my personal library.
 
 
       ### Titles:
 
       - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)
-      by Sylvan Barnet, Reid Gilbert'
+      by Sylvan Barnet, Reid Gilbert
+
+      - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
+      by Sylvan Barnet, William E. Cain'
     items:
     - title: null
       books:
       - '9780673525338'
+      - '9780205118458'
   "S\xE9rgio Buarque de Holanda":
     name: "by S\xE9rgio Buarque De Holanda"
     title: "Authors: S\xE9rgio Buarque De Holanda"
@@ -7020,20 +6747,6 @@ index:
     - title: null
       books:
       - '9780262542043'
-  Terry Fan:
-    name: by Terry Fan
-    title: 'Authors: Terry Fan'
-    subtitle: Books by Terry Fan
-    description: 'I have 1 book by Terry Fan in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan'
-    items:
-    - title: null
-      books:
-      - '9781481470377'
   Terry Lee Stone:
     name: by Terry Lee Stone
     title: 'Authors: Terry Lee Stone'
@@ -7063,9 +6776,9 @@ index:
       - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry
       Pratchett
 
-      - (paper) [Going Postal](/books/info/9780060502935) by Terry Pratchett
-
       - (paper) [Going Postal](/books/info/9780385603423) by Terry Pratchett
+
+      - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
 
       - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry
       Pratchett
@@ -7084,8 +6797,8 @@ index:
       books:
       - '9780552142373'
       - '9780575059009'
-      - '9780060502935'
       - '9780385603423'
+      - '9780060853976'
       - '9780575046061'
       - '9780552145428'
       - '9780552140287'
@@ -7212,17 +6925,6 @@ index:
       books:
       - '9781461471370'
       - '9780387848570'
-  Tricia Tusa:
-    name: by Tricia Tusa
-    title: 'Authors: Tricia Tusa'
-    subtitle: Books by Tricia Tusa
-    description: 'I have 0 books by Tricia Tusa in my personal library.
-
-
-      ### Titles:'
-    items:
-    - title: null
-      books: []
   Tristram Smith:
     name: by Tristram Smith
     title: 'Authors: Tristram Smith'
@@ -7292,21 +6994,6 @@ index:
     - title: null
       books:
       - '9780143120254'
-  Varios autores:
-    name: by Varios Autores
-    title: 'Authors: Varios Autores'
-    subtitle: Books by Varios Autores
-    description: 'I have 1 book by Varios Autores in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [Las divertidas aventuras de las letras](/books/info/9788421685129)
-      by Varios autores'
-    items:
-    - title: null
-      books:
-      - '9788421685129'
   Verlyn Klinkenborg:
     name: by Verlyn Klinkenborg
     title: 'Authors: Verlyn Klinkenborg'
@@ -7457,6 +7144,21 @@ index:
     - title: null
       books:
       - '9783319397559'
+  William E. Cain:
+    name: by William E. Cain
+    title: 'Authors: William E. Cain'
+    subtitle: Books by William E. Cain
+    description: 'I have 1 book by William E. Cain in my personal library.
+
+
+      ### Titles:
+
+      - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
+      by Sylvan Barnet, William E. Cain'
+    items:
+    - title: null
+      books:
+      - '9780205118458'
   William Goldman:
     name: by William Goldman
     title: 'Authors: William Goldman'
@@ -7565,10 +7267,13 @@ index:
     name: by Wizards Rpg Team
     title: 'Authors: Wizards Rpg Team'
     subtitle: Books by Wizards Rpg Team
-    description: 'I have 8 books by Wizards Rpg Team in my personal library.
+    description: 'I have 11 books by Wizards Rpg Team in my personal library.
 
 
       ### Titles:
+
+      - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
+      by Wizards RPG Team
 
       - (paper) [Dungeons & Dragons Dungeon Master''s Guide (Core Rulebook, D&D Roleplaying
       Game)](/books/info/9780786965625) by Wizards RPG Team
@@ -7581,6 +7286,12 @@ index:
 
       - (paper) [Dungeons & Dragons Spellbook Cards](/books/info/9780786966950) by
       Wizards RPG Team
+
+      - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
+      RPG Team
+
+      - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards
+      RPG Team
 
       - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG
       Team
@@ -7596,10 +7307,13 @@ index:
     items:
     - title: null
       books:
+      - '9780786967223'
       - '9780786965625'
       - '9780786965618'
       - '9780786965601'
       - '9780786966950'
+      - '9780786966653'
+      - '9780786966264'
       - '9780786967872'
       - '9780786967025'
       - '9780786966011'
@@ -7629,21 +7343,6 @@ index:
     - title: null
       books:
       - '9780307833648'
-  Yevgeniya Yerektskaya:
-    name: by Yevgeniya Yerektskaya
-    title: 'Authors: Yevgeniya Yerektskaya'
-    subtitle: Books by Yevgeniya Yerektskaya
-    description: 'I have 1 book by Yevgeniya Yerektskaya in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick,
-      Yevgeniya Yerektskaya'
-    items:
-    - title: null
-      books:
-      - '9781623485566'
   Yo-Yo Ma:
     name: by Yo-Yo Ma
     title: 'Authors: Yo-Yo Ma'
@@ -7713,21 +7412,6 @@ index:
     - title: null
       books:
       - '9781783982042'
-  Yukihiro Matsumoto:
-    name: by Yukihiro Matsumoto
-    title: 'Authors: Yukihiro Matsumoto'
-    subtitle: Books by Yukihiro Matsumoto
-    description: 'I have 1 book by Yukihiro Matsumoto in my personal library.
-
-
-      ### Titles:
-
-      - (paper) [The Ruby Programming Language](/books/info/9780596516178) by David
-      Flanagan, Yukihiro Matsumoto'
-    items:
-    - title: null
-      books:
-      - '9780596516178'
   Yves Pigneur:
     name: by Yves Pigneur
     title: 'Authors: Yves Pigneur'
@@ -7776,8 +7460,6 @@ index:
 - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
 ### Abbott Joseph Liebling (1)
 - (paper) [Just Enough Liebling](/books/info/9780374104436) by Abbott Joseph Liebling
-### Adam Shostack (1)
-- (paper) [The New School of Information Security](/books/info/9780321502780) by Adam Shostack, Andrew Stewart
 ### Adrian Goldsworthy (5)
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
@@ -7800,8 +7482,6 @@ index:
 - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R. Hayakawa
 ### Alan Sharp (1)
 - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
-### Albert-László Barabási (1)
-- (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 ### Alberto Angela (1)
 - (paper) [Une journée dans la Rome antique](/books/info/9782228930376) by Alberto Angela
 ### Aldous Huxley (1)
@@ -7816,9 +7496,6 @@ index:
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 ### Alexandre Dumas (1)
 - (paper) [Les Trois Mousquetaires](/books/info/9782070417681) by Alexandre Dumas
-### Alison Jay (0)
-### Allison Parrish (1)
-- (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
 ### Amanda Gorman (2)
 - (paper) [The Hill We Climb](/books/info/9780593465271) by Amanda Gorman
 - (paper) [The Hill We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman
@@ -7831,6 +7508,8 @@ index:
 - (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf
 ### Amyr Klink (1)
 - (paper) [Paratii](/books/info/9788571642829) by Amyr Klink
+### Andrea A. Lunsford (1)
+- (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
 ### Andrea Carandini (1)
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 ### Andreu Buenafuente (1)
@@ -7839,8 +7518,6 @@ index:
 - (paper) [Architecture](/books/info/9780192801791) by Andrew Ballantyne
 ### Andrew Robinson (1)
 - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew Robinson
-### Andrew Stewart (1)
-- (paper) [The New School of Information Security](/books/info/9780321502780) by Adam Shostack, Andrew Stewart
 ### Andrew Wheeler (2)
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
@@ -7866,8 +7543,6 @@ index:
 - (paper) [Little Wizards Second Printing](/books/info/9781940094984) by Crafty Games, Antoine Bauza
 ### Antoine Compagnon (1)
 - (paper) [Un été avec Pascal](/books/info/9782849907481) by Antoine Compagnon
-### Antoine de Saint-Exupéry (1)
-- (paper) [The Little Prince](/books/info/9780547260693) by Antoine de Saint-Exupéry
 ### Antonio Munoz Molina (1)
 - (paper) [Ventanas De Manhattan](/books/info/9788432217074) by Antonio Munoz Molina
 ### Arthur C. Clarke (1)
@@ -7878,17 +7553,13 @@ index:
 - (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623) by Arturo Pérez-Reverte
 ### Avinash K. Dixit (1)
 - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
-### Barefoot Books (1)
-- (paper) [Out of the Blue](/books/info/9781782850427) by Barefoot Books
 ### Barry J. Nalebuff (1)
 - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
 ### Becquer (1)
 - (paper) [Rimas y leyendas](/books/info/9788423974030) by Becquer
 ### Bella Martin (1)
 - (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480) by Bruce Hanington, Bella Martin
-### Ben Fry (3)
-- (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
-- (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
+### Ben Fry (1)
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 ### Benedikt Groß (1)
 - (paper) [Generative Design](/books/info/9781616890773) by Hartmut Bohnacker, Benedikt Groß
@@ -7920,7 +7591,6 @@ index:
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
 ### Brooks Landon (1)
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
-### Bruce Degen (0)
 ### Bruce Hanington (1)
 - (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480) by Bruce Hanington, Bella Martin
 ### Bruce Patton (1)
@@ -7948,10 +7618,7 @@ index:
 - (paper) [La sombra del viento](/books/info/9788408093107) by Carlos Ruiz Zafon
 ### Carol S. Dweck (1)
 - (paper) [Mindset](/books/info/9780345472328) by Carol S. Dweck
-### Carolyn Curtis (0)
-### Casey Reas (3)
-- (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
-- (paper) [Getting Started with Processing.py](/books/info/9781457186837) by Allison Parrish, Ben Fry, Casey Reas
+### Casey Reas (1)
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 ### Catherine Burns (1)
 - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
@@ -8033,8 +7700,6 @@ index:
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 ### David F. Lancy (1)
 - (paper) [The Anthropology of Childhood](/books/info/9781107420984) by David F. Lancy
-### David Flanagan (1)
-- (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
 ### David Keirsey (1)
 - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
 ### David McCandless (1)
@@ -8061,6 +7726,8 @@ index:
 - (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis Greenberger, Christine A. Padesky
 ### Design Museum Enterprise Limit (1)
 - (paper) [How To Design a House](/books/info/9781840915457) by Design Museum Enterprise Limit
+### Diane P. Freedman (1)
+- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman, Olivia Frey
 ### Dinah Silveira de Queiroz (1)
 - (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira de Queiroz
 ### Dinty W. Moore (1)
@@ -8072,8 +7739,6 @@ index:
 ### Don Norman (2)
 - (paper) [Emotional Design](/books/info/9780465051366) by Don Norman
 - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don Norman
-### Don Tapscott (1)
-- (paper) [Wikinomics](/books/info/9781591842316) by Don Tapscott
 ### Donald J. Robertson (1)
 - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson
 ### Donis A Dondis (1)
@@ -8123,14 +7788,10 @@ index:
 - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus
 ### Eric Butter (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
-### Eric Fan (1)
-- (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan
 ### Eric Gill (1)
 - (paper) [An Essay on Typography](/books/info/9780879239503) by Eric Gill
 ### Eric H. Cline (1)
 - (paper) [Three Stones Make a Wall](/books/info/9780691166407) by Eric H. Cline
-### Eric J. Ray (1)
-- (paper) [Learning XML](/books/info/9780596000462) by Eric J. Ray
 ### Eric Matthes (1)
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 ### Evelyne Faivre-Martin (1)
@@ -8177,8 +7838,6 @@ index:
 - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
 ### Georgios Gousios (1)
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
-### Ginger Foglesong Gibson (1)
-- (paper) [Tiptoe Joe](/books/info/9780061772030) by Ginger Foglesong Gibson
 ### Giorgia Lupi (1)
 - (paper) [Dear Data](/books/info/9781616895327) by Giorgia Lupi, Stefanie Posavec
 ### Glynis M. Breakwell (1)
@@ -8253,9 +7912,10 @@ index:
 - (paper) [Wool (Silo, #1)](/books/info/9781476733951) by Hugh Howey
 ### Ideo (1)
 - (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo
-### Isaac Asimov (5)
+### Isaac Asimov (6)
+- (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457) by Isaac Asimov
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
-- (paper) [La República Romana](/books/info/9788420691060) by Isaac Asimov
+- (paper) [La República Romana](/books/info/9788420635347) by Isaac Asimov
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
 - (paper) [Moi Asimov](/books/info/9782070313020) by Isaac Asimov
@@ -8269,17 +7929,16 @@ index:
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 ### J. Gray (1)
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
-### J. R. R. Tolkien (3)
+### J. R. R. Tolkien (5)
 - (paper) [El retorno del rey (El señor de los anillos, #3)](/books/info/9788445071779) by J. R. R. Tolkien
+- (paper) [La comunidad del anillo (El señor de los anillos, #1)](/books/info/9788445071403) by J. R. R. Tolkien
 - (paper) [Las dos torres (El Señor de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien
+- (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
 - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
 ### J. Rufus Fears (1)
 - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
 ### J.C. Catford (1)
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
-### J.R.R. Tolkien (2)
-- (paper) [La comunidad del anillo (El señor de los anillos, #1)](/books/info/9788445071403) by J.R.R. Tolkien
-- (paper) [Secret Vice, A](/books/info/9780008348090) by J.R.R. Tolkien
 ### Jacques Bertin (1)
 - (paper) [Semiology of Graphics](/books/info/9781589482616) by Jacques Bertin
 ### Jacques Lob (1)
@@ -8306,6 +7965,8 @@ index:
 - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood
 ### James Randi (1)
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
+### Javier Sáez Castán (1)
+- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521) by Javier Sáez Castán
 ### Jay Jacobs (1)
 - (paper) [Data-Driven Security](/books/info/9781118793725) by Jay Jacobs, Bob Rudis
 ### Jay M. Feinman (1)
@@ -8334,8 +7995,6 @@ index:
 ### Jennifer Cole Phillips (2)
 - (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton, Jennifer Cole Phillips
 - (paper) [Graphic Design Thinking](/books/info/9781568989792) by Jennifer Cole Phillips
-### Jennifer Frangos (1)
-- (paper) [Linked](/books/info/9780738206677) by Albert-László Barabási, Jennifer Frangos
 ### Jens Müller (1)
 - (paper) [LOGO Modernism](/books/info/9783836545303) by Jens Müller
 ### Jeremy McInerney (1)
@@ -8350,8 +8009,6 @@ index:
 - (paper) [Introduction to Probability](/books/info/9781466575578) by Joseph K. Blitzstein, Jessica Hwang
 ### Jessica Livingston (1)
 - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
-### Jessica Southwick (1)
-- (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
 ### Jill Butler (1)
 - (paper) [Universal Principles of Design](/books/info/9781592530076) by William Lidwell, Jill Butler, Kritina Holden
 ### Jim Steinmeyer (3)
@@ -8370,20 +8027,22 @@ index:
 - (paper) [Le Journal de mon Père](/books/info/9782203396098) by Jirō Taniguchi
 ### Joan R. Mertens (1)
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
-### Joanna Cole (0)
-### Joe Moran (3)
+### Joe Hill (1)
+- (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241) by Joe Hill
+### Joe Moran (4)
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
+- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
 - (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran
 ### Joel Schwartzberg (2)
 - (paper) [Get to the Point!](/books/info/9781523094110) by Joel Schwartzberg
 - (audio) [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg
 ### John Cleese (1)
 - (paper) [So, Anyway...](/books/info/9780385348249) by John Cleese
-### John H. Johnson (1)
-- (paper) [Everydata](/books/info/9781629561011) by John H. Johnson
 ### John H. Miller (1)
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
+### John J. Ruszkiewicz (1)
+- (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
 ### John Power (1)
 - (paper) [Invincible](/books/info/9784906574018) by John Power
 ### John R. Hale (2)
@@ -8429,7 +8088,6 @@ index:
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido
 ### Juanjo Guarnido (1)
 - (paper) [Âme rouge (Blacksad, #3)](/books/info/9782205055641) by Juan Díaz Canales, Juanjo Guarnido
-### Judith Bauer Stamper (0)
 ### Judith Schalansky (1)
 - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith Schalansky
 ### Jules Verne (1)
@@ -8458,7 +8116,6 @@ index:
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson
 ### Ken Visocky O'Grady (1)
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
-### Kenneth Grahame (0)
 ### Kevin Flanigan (1)
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 ### Kevin Hemenway (1)
@@ -8473,10 +8130,6 @@ index:
 - (paper) [Universal Principles of Design](/books/info/9781592530076) by William Lidwell, Jill Butler, Kritina Holden
 ### Kruschke John (1)
 - (paper) [Doing Bayesian Data Analysis](/books/info/9780124058880) by Kruschke John
-### Larry Wasserman (1)
-- (paper) [All of Statistics](/books/info/9780387402727) by Larry Wasserman
-### Lauren McCarthy (1)
-- (paper) [Getting Started with P5.Js](/books/info/9781457186776) by Lauren McCarthy, Ben Fry, Casey Reas
 ### Lawrence Scahill (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Lewis Carroll (1)
@@ -8545,8 +8198,8 @@ index:
 - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard
 ### Mary del Priore (1)
 - (paper) [Uma Breve História do Brasil](/books/info/9788576655299) by Mary del Priore, Renato Venancio
-### María Del Pilar López Ávila (1)
-- (paper) [Más divertidas aventuras de las letras. Cuentos de la A a la Z](/books/info/9788469603536) by María Del Pilar López Ávila
+### Maryanne Wolf (1)
+- (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
 ### Masaru Aoki (2)
 - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
 - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
@@ -8579,6 +8232,11 @@ index:
 - (paper) [Life and Death (Elementary Go (Kiseido))](/books/info/9784906574131) by Mr James Davies
 ### Nancy Duarte (1)
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
+### Naomi Baron (1)
+- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+### Neil Gaiman (2)
+- (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
+- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
 ### Nicola Gardini (1)
 - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 ### Nigel Findley (1)
@@ -8601,6 +8259,8 @@ index:
 ### Official Dungeons & Dragons Licensed (2)
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
+### Olivia Frey (1)
+- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman, Olivia Frey
 ### Olivier Bocquet (1)
 - (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654) by Jacques Lob, Benjamin Legrand, Olivier Bocquet
 ### Omond (1)
@@ -8608,6 +8268,8 @@ index:
 ### Pan (1)
 - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522) by Pan
 ### Patricia MacLachlan (0)
+### Patrick Stewart (1)
+- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart
 ### Paul Arden (1)
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
 ### Paul Auster (1)
@@ -8618,8 +8280,6 @@ index:
 - (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486) by Paul Shaw
 ### Paul Zanker (1)
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
-### Paula Scher (1)
-- (paper) [The Brownstone](/books/info/9781616894283) by Paula Scher
 ### Pedro Szekely (1)
 - (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank Kejriwal, Pedro Szekely, Craig A. Knoblock
 ### Penelope Love (1)
@@ -8632,13 +8292,13 @@ index:
 - (paper) [Short Latin Stories](/books/info/9780521315920) by Philip Dunlop
 ### Philippe Sollers (1)
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
-### Pilar Lopez Avila (1)
-- (paper) [Las hermanas pequeñas de las letras divertidas](/books/info/9788469625156) by Pilar Lopez Avila
 ### Prajit K. Dutta (1)
 - (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
 ### Professor Hoffmann (2)
 - (paper) [More Magic](/books/info/9781492274124) by Professor Hoffmann
 - (paper) [Professor Hoffmann's Modern Magic](/books/info/9780825630842) by Professor Hoffmann
+### Professor Mary Beard (1)
+- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 ### R. Paul Wilson (1)
 - (paper) [The Art of the Con](/books/info/9781493000609) by R. Paul Wilson
 ### Rachel Manber (1)
@@ -8677,14 +8337,11 @@ index:
 ### Robert Bringhurst (2)
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
-### Robert Burleigh (0)
 ### Robert Garland (2)
 - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 ### Robert J. Gula (1)
 - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula
-### Robert Kirkman (1)
-- (paper) [The Walking Dead](/books/info/9781607066309) by Robert Kirkman
 ### Robert Sabuda (2)
 - (paper) [Enciclopedia Prehistorica/ Prehistoric Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart
 - (paper) [Enciclopedia Prehistórica](/books/info/9788484413257) by Robert Sabuda, Matthew Reinhart
@@ -8711,9 +8368,8 @@ index:
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark
 ### Roy Schwartz (1)
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
-### Rubem Fonseca (2)
+### Rubem Fonseca (1)
 - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
-- (paper) [A grande arte](/books/info/9788520924556) by Rubem Fonseca
 ### Rufus Wainwright (1)
 - (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP) by Rufus Wainwright
 ### S.I. Hayakawa (1)
@@ -8726,8 +8382,6 @@ index:
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
 ### Sandy Petersen (1)
 - (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen, Lynn Willis
-### Scott Carpenter (1)
-- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
 ### Scott E. Page (1)
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
 ### Sean Adams (1)
@@ -8738,8 +8392,6 @@ index:
 - (paper) [El último libro de Sergi Pàmies](/books/info/9788433924889) by Sergi Pamies
 ### Seán Hemingway (1)
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
-### Sharon Steuer (1)
-- (paper) [The Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by Sharon Steuer
 ### Shawn DeWolfe (1)
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
 ### Sheila Heen (1)
@@ -8768,11 +8420,10 @@ index:
 - (paper) [D-Day: June 6, 1944](/books/info/9780684801377) by Stephen E. Ambrose
 ### Stephen Fry - introductions (1)
 - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
-### Stephen King (2)
+### Stephen King (3)
+- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King
 - (audio) [On Writing](/books/info/B002V1A0WE) by Stephen King
 - (paper) [The Stand](/books/info/9780307947307) by Stephen King
-### Stephen Prata (1)
-- (paper) [C++ Primer Plus](/books/info/9780672326974) by Stephen Prata
 ### Stephen a Berard (1)
 - (paper) [Vita Nostra](/books/info/9781093905632) by Stephen a Berard
 ### Steve Portigal (1)
@@ -8787,11 +8438,9 @@ index:
 - (paper) [The Sense of Style](/books/info/9780143127796) by Steven Pinker
 ### Steven Taylor (1)
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
-### Stoyan Stefanov (1)
-- (paper) [JavaScript Patterns](/books/info/9781449396947) by Stoyan Stefanov
-### Susan Hill (0)
-### Sylvan Barnet (1)
+### Sylvan Barnet (2)
 - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert
+- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain
 ### Sérgio Buarque de Holanda (1)
 - (paper) [Caminhos e fronteiras (Portuguese Edition)](/books/info/9788571644113) by Sérgio Buarque de Holanda
 ### Sönke Ahrens (1)
@@ -8806,15 +8455,13 @@ index:
 - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 ### Tega Brain (1)
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
-### Terry Fan (1)
-- (paper) [Ocean Meets Sky](/books/info/9781481470377) by Terry Fan, Eric Fan
 ### Terry Lee Stone (1)
 - (paper) [Color Design Workbook](/books/info/9781592534333) by Terry Lee Stone, Sean Adams, Noreen Morioka
 ### Terry Pratchett (9)
 - (paper) [Feet Of Clay](/books/info/9780552142373) by Terry Pratchett
 - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry Pratchett
-- (paper) [Going Postal](/books/info/9780060502935) by Terry Pratchett
 - (paper) [Going Postal](/books/info/9780385603423) by Terry Pratchett
+- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
 - (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061) by Terry Pratchett
 - (paper) [Hogfather](/books/info/9780552145428) by Terry Pratchett
 - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett
@@ -8837,7 +8484,6 @@ index:
 ### Trevor Hastie (2)
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
-### Tricia Tusa (0)
 ### Tristram Smith (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Trondheim (1)
@@ -8849,8 +8495,6 @@ index:
 - (audio) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri Bram
 ### Vahram Muratyan (1)
 - (paper) [Paris versus New York](/books/info/9780143120254) by Vahram Muratyan
-### Varios autores (1)
-- (paper) [Las divertidas aventuras de las letras](/books/info/9788421685129) by Varios autores
 ### Verlyn Klinkenborg (2)
 - (paper) [Several Short Sentences About Writing](/books/info/9780307279415) by Verlyn Klinkenborg
 - (audio) [Several Short Sentences About Writing](/books/info/B0774ZRRJL) by Verlyn Klinkenborg
@@ -8874,6 +8518,8 @@ index:
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
 ### William Briggs (1)
 - (paper) [Uncertainty](/books/info/9783319397559) by William Briggs
+### William E. Cain (1)
+- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain
 ### William Goldman (1)
 - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman
 ### William L. Ury (1)
@@ -8889,11 +8535,14 @@ index:
 - (paper) [Threat Modeling](/books/info/9780735619913) by Frank Swiderski, Window Snyder
 ### Winston Chang (1)
 - (paper) [R Graphics Cookbook](/books/info/9781449316952) by Winston Chang
-### Wizards RPG Team (8)
+### Wizards RPG Team (11)
+- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Dungeon Master's Guide (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965625) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Monster Manual (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965618) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Player's Handbook (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965601) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Spellbook Cards](/books/info/9780786966950) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards RPG Team
 - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team
 - (paper) [Tasha's Cauldron of Everything (D&D Rules Expansion) (Dungeons & Dragons)](/books/info/9780786967025) by Wizards RPG Team
 - (paper) [Volo's Guide to Monsters](/books/info/9780786966011) by Wizards RPG Team
@@ -8902,8 +8551,6 @@ index:
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 ### Yasunari Kawabata (1)
 - (paper) [The Master of Go](/books/info/9780307833648) by Yasunari Kawabata
-### Yevgeniya Yerektskaya (1)
-- (paper) [The Nutcracker](/books/info/9781623485566) by Jessica Southwick, Yevgeniya Yerektskaya
 ### Yo-Yo Ma (1)
 - (audio) [Beginner's Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
 ### Yoann Chivard ; dit Yoann (1)
@@ -8915,8 +8562,6 @@ index:
 - (paper) [Graded Go Problems for Beginners, 30 Kyu to 25 Kyu (Beginner & Elementary Go Bks.) (Beginner & Elementary Go Books)](/books/info/9784906574469) by Yoshinori Kano
 ### Yu-Wei Chiu (1)
 - (paper) [Machine Learning with R Cookbook](/books/info/9781783982042) by Yu-Wei Chiu
-### Yukihiro Matsumoto (1)
-- (paper) [The Ruby Programming Language](/books/info/9780596516178) by David Flanagan, Yukihiro Matsumoto
 ### Yves Pigneur (1)
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
 ### Zoe Field (1)

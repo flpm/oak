@@ -5,6 +5,7 @@ title: Myth in Human History
 asin: B00DDXQ61S
 length: '66519000'
 owned: 'true'
+type: audiobook
 format: Lecture
 listening:
   duration: 70001.0
@@ -12,6 +13,7 @@ listening:
   last_time: '2022-05-09'
 link: https://www.audible.com/pd/B00DDXQ61S
 source: Audible
+listening_date: '2022-04-15'
 topics:
 - Collections
 - Classics
@@ -26,13 +28,10 @@ language:
 rating:
   rating: 4.4366729678638945
   count: 529
-cover_filename: B00DDXQ61S.jpg
-listening_date: '2022-04-15'
-theme: mythology
 duration: PT18H28M
-type: audiobook
+cover_filename: B00DDXQ61S.jpg
 read_status: listened to
-recommendation_status: null
+theme: mythology
 ---
 Myths provide the keys to truly grasping the ways that principles, rituals, codes, and taboos are woven into the fabric of a particular society or civilization.
 It's through myths that we can answer these and other fundamental questions: How was the universe created, and why? What is the purpose of evil? Why is society organized the way it is? How did natural features like rivers, mountains, and oceans emerge?

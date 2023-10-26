@@ -6,6 +6,7 @@ subtitle: Undressing the Dismal Science
 asin: B003TFSY7E
 length: '49474000'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 2003.0
@@ -13,6 +14,8 @@ listening:
   last_time: '2019-12-11'
 link: https://www.audible.com/pd/B003TFSY7E
 source: Audible
+purchase_date: '2010-11-23'
+listening_date: '2019-12-11'
 topics:
 - Theory
 authors:
@@ -26,13 +29,9 @@ language:
 rating:
   rating: 4.492350486787204
   count: 719
-cover_filename: B003TFSY7E.jpg
-purchase_date: '2010-11-23'
-listening_date: '2019-12-11'
-theme: economics
 duration: PT13H44M
-type: audiobook
+cover_filename: B003TFSY7E.jpg
 read_status: partially listened to
-recommendation_status: null
+theme: economics
 ---
 In Naked Economics, journalist Charles Wheelan does “the impossible”—he makes economic principles relevant, interesting and fun. Brimming with scores of down-to-earth examples and sprinkled with humorous anecdotes, this comprehensive overview will keep listeners smiling and wide awake.

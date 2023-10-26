@@ -33,7 +33,6 @@ items:
   - '9780879236366'
   - '9780735711655'
   - '9780321703538'
-  - '9780321518422'
   - '9780465067107'
   - '9780881792065'
   - '9781419724015'
@@ -43,7 +42,7 @@ items:
   - '9781592530076'
   - '9780062872968'
 ---
-I have 37 books about Design in my personal library.
+I have 36 books about Design in my personal library.
 
 ### Titles:
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis
@@ -74,7 +73,6 @@ I have 37 books about Design in my personal library.
 - (paper) [Letters of Credit](/books/info/9780879236366) by Walter Tracey
 - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655) by Hillman Curtis
 - (paper) [Ordering Disorder](/books/info/9780321703538) by Khoi Vinh
-- (paper) [The Adobe Illustrator CS3 Wow! Book](/books/info/9780321518422) by Sharon Steuer
 - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don Norman
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio

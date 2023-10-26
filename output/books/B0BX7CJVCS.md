@@ -7,6 +7,7 @@ subtitle: Your New and Improved Go-to Guide to Creating Ridiculously Good Conten
 asin: B0BX7CJVCS
 length: '41184000'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 32405.0
@@ -14,6 +15,8 @@ listening:
   last_time: '2023-04-29'
 link: https://www.audible.com/pd/B0BX7CJVCS
 source: Audible
+purchase_date: '2023-04-17'
+listening_date: '2023-04-17'
 topics:
 - Marketing
 - Career Success
@@ -30,14 +33,10 @@ language:
 rating:
   rating: 5.0
   count: 1
-cover_filename: B0BX7CJVCS.jpg
-purchase_date: '2023-04-17'
-listening_date: '2023-04-17'
-theme: writing
 duration: PT11H26M
-type: audiobook
+cover_filename: B0BX7CJVCS.jpg
 read_status: did not finish
-recommendation_status: null
+theme: writing
 ---
 In the newly revised and updated edition of Everybody Writes, marketer and author Ann Handley improves on her Wall Street Journal bestselling book that's helped hundreds of thousands become better, more confident writers.
 In this brand-new edition, she delivers all the practical, how-to advice and insight you need for the process and strategy of content creation, production, and publishing.

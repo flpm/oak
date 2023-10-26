@@ -6,6 +6,7 @@ subtitle: The Power of Passion and Perseverance
 asin: B01D3AC5BA
 length: '33765000'
 owned: 'true'
+type: audiobook
 format: Audiobook
 listening:
   duration: 30839.0
@@ -13,6 +14,8 @@ listening:
   last_time: '2021-10-18'
 link: https://www.audible.com/pd/B01D3AC5BA
 source: Audible
+purchase_date: '2021-09-29'
+listening_date: '2021-09-29'
 topics:
 - Education
 - Developmental Psychology
@@ -27,14 +30,10 @@ language:
 rating:
   rating: 4.68859615236035
   count: 25886
-cover_filename: B01D3AC5BA.jpg
-purchase_date: '2021-09-29'
-listening_date: '2021-09-29'
-theme: psychology
 duration: PT9H22M
-type: audiobook
+cover_filename: B01D3AC5BA.jpg
 read_status: listened to
-recommendation_status: null
+theme: psychology
 ---
 In this must-listen book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and businesspeople - both seasoned and new - that the secret to outstanding achievement is not talent but a focused persistence called "grit".
 Why do some people succeed and others fail? Sharing new insights from her landmark research on grit, MacArthur "genius" Angela Duckworth explains why talent is hardly a guarantor of success. Rather, other factors can be even more crucial, such as identifying our passions and following through on our commitments.
