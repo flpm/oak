@@ -161,6 +161,7 @@ cython_debug/
 
 # Project specific ignores
 raw/
+backup/
 
 # Visual Studio Code
 *.code-workspace
