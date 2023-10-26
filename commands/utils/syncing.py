@@ -157,14 +157,13 @@ def update_files(update_list, output_foler, item_type="books"):
     int
         The number of files updated.
     """
-    created = 0
+    count = 0
     for item_id, item in update_list:
         filename = f"{output_foler}/{item_id}.md"
-        if not os.path.exists(filename):
-            created += 1
-            if item_type == "books":
-                write_markdown_book(item, f"{item_id}.md", output_foler)
-            if item_type == "lists":
-                write_markdown_list(item, f"{item_id}.md", output_foler)
+        count += 1
+        if item_type == "books":
+            write_markdown_book(item, f"{item_id}.md", output_foler)
+        if item_type == "lists":
+            write_markdown_list(item, f"{item_id}.md", output_foler)
 
-    return created
+    return count

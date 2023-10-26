@@ -1,14 +1,37 @@
 """
 Convert the export files from the Bookshelf IOS app into a JSON file for archiving.
 """
+import datetime as dt
 import json
 import yaml
 import os
+import shutil
+from collections import defaultdict
 
 work_catalogue_filename = "./work/catalogue.json"
+backup_catalogue_filename = f"./backup/{dt.date.today().isoformat()}_catalogue.json"
+output_folder = "./output"
 output_cover_folder = "./output/covers"
 output_list_folder = "./output/lists"
+output_book_folder = "./output/books"
 amazon_orders_filename = "./raw/amazon/amazon_orders.json"
+
+
+def reset_catalogue():
+    """
+    Reset the catalogue to an empty dictionary.
+    """
+    print(f"Saving backup of catalogue to {backup_catalogue_filename}")
+    try:
+        shutil.copyfile(work_catalogue_filename, backup_catalogue_filename)
+    except FileNotFoundError:
+        pass
+    shutil.rmtree(output_folder)
+    os.mkdir(output_folder)
+    os.mkdir(output_cover_folder)
+    os.mkdir(output_list_folder)
+    os.mkdir(output_book_folder)
+    save_catalogue(dict())
 
 
 def read_catalogue(file_name=work_catalogue_filename):
@@ -145,7 +168,7 @@ def write_markdown(
             data_to_write[key] = current_data[key]
         else:
             if data_value := data.get(key):
-                data_to_write[key] = data[key]
+                data_to_write[key] = data_value
 
     for key, value in current_data.items():
         if key not in top_attributes:
@@ -165,7 +188,7 @@ def write_markdown(
         fp.write("---\n")
         fp.write(yaml_frontmatter)
         fp.write("---\n")
-        fp.write(data_to_write.get("description", "No description available"))
+        fp.write(data_to_write.get("description", ""))
         fp.write("\n")
     return True
 
@@ -265,3 +288,59 @@ def flat_catalogue(catalogue):
             if include_book(book):
                 books.append((book_id, book_type, book))
     return books
+
+
+def save_attributes(args=None, attributes_storage_file="./raw/attributes.json"):
+    """Save current attribute states so it can be used to enrich the data later on."""
+
+    attributes_to_save = (
+        "order",
+        "theme",
+        "purchase_date",
+        "location",
+        "listening_date",
+        "read_status",
+        "multiple_reads",
+        "recommendation_status",
+        "locked",
+        "do_not_update",
+    )
+
+    if args is not None:
+        attributes_to_save = args
+
+    catalogue = read_catalogue()
+    current_attributes = read_attributes(attributes_storage_file)
+    results = defaultdict(dict)
+    for book_id, book_types in catalogue.items():
+        for book_type, book in book_types.items():
+            record = current_attributes.get(book_id, dict()).get(book_type, dict())
+            # record = dict()
+            for attribute in attributes_to_save:
+                if value := book.get(attribute):
+                    record[attribute] = value
+            if record:
+                results[book_id][book_type] = record
+
+    with open(attributes_storage_file, "w") as f:
+        json.dump(results, f, indent=2, separators=(",", ": "), sort_keys=True)
+
+
+def read_attributes(attributes_storage_file="./raw/attributes.json"):
+    """
+    Load attribute information from the storage file.
+
+    This is used to enrich the data with the information that was previously saved.
+    """
+    catalogue = read_catalogue()
+    try:
+        with open(attributes_storage_file, "r") as f:
+            attributes = json.load(f)
+    except FileNotFoundError:
+        attributes = dict()
+    for book_id, book_types in catalogue.items():
+        for book_type, book in book_types.items():
+            if book_id in attributes and book_type in attributes[book_id]:
+                for key, value in attributes[book_id][book_type].items():
+                    book[key] = value
+    return attributes

@@ -14,12 +14,12 @@ app = typer.Typer()
 
 
 @app.command()
-def amazon():
+def amazon(quiet: bool = False):
     """Enrich books using data from Amazon purchases."""
     print("Enrich books using data from Amazon purchases.")
     catalogue = defaultdict(dict, read_catalogue())
     print(f"Books in catalogue: {len(catalogue)} books.")
-    catalogue, modified_books = enrich_amazon_books(catalogue)
+    catalogue, modified_books = enrich_amazon_books(catalogue, quiet=quiet)
     print(f"Enriched {modified_books} books.")
     save_catalogue(catalogue)
 

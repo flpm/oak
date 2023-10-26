@@ -28,7 +28,7 @@ def print_book(loop_position, bookd_id, book_type, book):
         )
     )
     print("---")
-    description_summary = book.get("description", "<no description>").split("/n")[0]
+    description_summary = book.get("description", "").split("/n")[0]
     print(f"[bright_black]{description_summary}[/bright_black]")
     print("---")
     if book.get("signed"):

@@ -67,6 +67,7 @@ def book_action(
         "stat": "Edit the read status",
         "mult": "Edit the multiple reads status",
         "rec": "Edit the recommendation status",
+        "blank": "Find the next book with a blank attribute",
     }
     actions = {**basic_actions, **book_actions, **more_actions}
     valid_options = actions.keys()
@@ -445,3 +446,24 @@ def edit_loop(catalogue):
                         book["recommend"] = False
                     else:
                         book.pop("recommend", None)
+
+            elif answer == "blank":
+                while True:
+                    try:
+                        attribute_name = Prompt.ask(
+                            "Enter attribute name to find the next book with a blank value"
+                        )
+                    except ValueError:
+                        print("Invalid attribute name")
+                    else:
+                        break
+                for i, (*_, book) in enumerate(flat_catalogue):
+                    if i <= current_index:
+                        continue
+                    if not book.get(attribute_name):
+                        print(f"Found book: {i} {book.get('title')}")
+                        current_index = i
+                        break
+                else:
+                    print("[red]Book not found[/red]")
+                    break

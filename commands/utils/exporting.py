@@ -256,7 +256,7 @@ def create_recent_list(catalogue, number_of_books=10):
     for date, book in ordered_data[:number_of_books]:
         if number_of_books is not None:
             recent_description.append(
-                f"- {date} ({book['format']} in {book['theme']}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+                f"- {date} ({book['format']} in {book.get('theme', 'others').title()}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
             )
         recent_book_list.append(book["book_id"])
         if number_of_books is None:
@@ -274,7 +274,7 @@ def create_recent_list(catalogue, number_of_books=10):
                 ]
                 for book in books:
                     month_description.append(
-                        f"- ({book['format']} in {book.get('theme', 'others')}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+                        f"- ({book['format']} in {book.get('theme', 'others').title()}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
                     )
                 list_data["items"].append(
                     {

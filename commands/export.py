@@ -15,7 +15,7 @@ from .utils.exporting import (
 )
 
 
-def export_markdown(output_folder):
+def export_markdown(output_folder="./output"):
     """
     Export books as Markdown files
 

@@ -1,5 +1,5 @@
 import typer
-
+import shutil
 from collections import defaultdict
 
 import commands.add
@@ -7,6 +7,9 @@ import commands.enrich
 import commands.edit
 import commands.export
 import commands.sync
+import commands.reset
+import commands.save
+import commands.make
 
 from commands.stats import generate_stats
 
@@ -21,6 +24,30 @@ app.add_typer(
 
 
 @app.command()
+def reset():
+    """Reset the library."""
+    commands.reset.reset_library()
+
+
+@app.command()
+def save():
+    """Save current attribute states so it can be used to enrich the data later on."""
+    commands.save.save_attributes()
+
+
+@app.command()
+def load():
+    """Load current attribute states from save file."""
+    commands.save.load_attributes()
+
+
+@app.command()
+def make(export_date: str, ask: bool = False):
+    """Save current attribute states so it can be used to enrich the data later on."""
+    commands.make.make_catalogue(export_date, quiet=not ask)
+
+
+@app.command()
 def sync():
     """Sync books folders."""
     commands.sync.sync_folders(
@@ -28,6 +55,11 @@ def sync():
     )
     commands.sync.sync_folders(
         "./output/lists", "../flpm.github.io/bookshelf/lists", "lists"
+    )
+    shutil.copytree(
+        "./output/covers",
+        "../flpm.github.io/bookshelf/covers",
+        dirs_exist_ok=True,
     )
 
 

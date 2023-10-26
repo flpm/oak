@@ -48,6 +48,7 @@ def import_from_bookshelf(export_date):
                     "isbn",
                     "format",
                     "publisher",
+                    "date_added",
                 ):
                     continue
                 if key == "categories":
@@ -75,6 +76,10 @@ def import_from_bookshelf(export_date):
                 elif key == "page_count":
                     key = "length"
                     value = f"{value} pages"
+                elif key == "date_added":
+                    key = "purchase_date"
+                    if value < "2023-09-27":
+                        continue
                 book_info[key] = value
             if "full_title" not in book_info:
                 original_title = book_info["title"]

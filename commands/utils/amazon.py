@@ -82,7 +82,9 @@ def prepare_amazon_purchase_data():
     return order_by_product
 
 
-def print_candidates(candidates, current=None, preserve_previous_matches=True):
+def print_candidates(
+    candidates, current=None, preserve_previous_matches=True, quiet=False
+):
     """
     Print the candidate orders for a book and ask the user to choose one.
 
@@ -115,17 +117,20 @@ def print_candidates(candidates, current=None, preserve_previous_matches=True):
     if preserve_previous_matches and current_order:
         return current_order
 
-    res = confirm_loop(
-        [str(i) for i in range(len(candidates))] + ["n"],
-        "Choose which order to use?",
-        default=0,
-    )
+    if not quiet:
+        res = confirm_loop(
+            [str(i) for i in range(len(candidates))] + ["n"],
+            "Choose which order to use?",
+            default=0,
+        )
+    else:
+        res = "n"  # in quiet mode, always skip
     if res == "n":
         return None
     return candidates[int(res)]
 
 
-def enrich_amazon_books(catalogue):
+def enrich_amazon_books(catalogue, quiet=False):
     """
     Enrich Amazon books using data from the Amazon purchase history.
 
@@ -155,6 +160,7 @@ def enrich_amazon_books(catalogue):
             else:
                 if "shipping_address" in current_order:
                     del current_order["shipping_address"]
+                continue
 
             print_book((book_count, total), book["book_id"], book_type, book)
 
@@ -167,13 +173,13 @@ def enrich_amazon_books(catalogue):
                 else:
                     strong = sorted(strong, key=lambda x: x["order_date"])
                     book["order"] = print_candidates(
-                        strong, current_order.get("order_id")
+                        strong, current_order.get("order_id"), quiet=quiet
                     )
             else:
                 if weak := candidates.get("weak"):
                     weak = sorted(weak, key=lambda x: x["order_date"])
                     book["order"] = print_candidates(
-                        weak, current_order.get("order_id")
+                        weak, current_order.get("order_id"), quiet=quiet
                     )
                 else:
                     print("[red]no match found[/red]")
