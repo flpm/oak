@@ -31,7 +31,8 @@ rating:
   count: 1704
 duration: PT5H29M
 cover_filename: B00O1GCA5M.jpg
-read_status: listened to
+read_status: null
 theme: writing
+recommendation_status: null
 ---
 From classic poetry to pop lyrics, from Charles Dickens to Dolly Parton, even from Jesus to James Bond, Mark Forsyth explains the secrets that make a phrase - such as "O Captain! My Captain!" or "To be or not to be" - memorable. In his inimitably entertaining and wonderfully witty style, he takes apart famous phrases and shows how you too can write like Shakespeare or quip like Oscar Wilde. Whether you’re aiming to achieve literary immortality or just hoping to deliver the perfect one-liner, The Elements of Eloquence proves that you don’t need to have anything important to say - you simply need to say it well. In an age unhealthily obsessed with the power of substance, this is a book that highlights the importance of style.

@@ -34,8 +34,8 @@ rating:
   count: 349
 duration: PT18H41M
 cover_filename: B00DG7NVXC.jpg
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: archaeology
 ---
 Over the years, Classical archaeology has evolved from a pastime of collectors and antiquarians to a mature science. Today, the field is a multidisciplinary effort that involves not only traditional diggers, but also geologists, geographers, anthropologists, and linguists.These 36 lectures introduce you to this fascinating field of study. Professor Hale guides you through dozens of ancient sites with the skill of a born storyteller.

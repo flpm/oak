@@ -36,8 +36,8 @@ rating:
 duration: PT1H53M
 cover_filename: B075FG7HLK.jpg
 multiple_reads: true
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: presentation
 ---
 In Joel's Schwartzberg's 10-plus years as a strategic communications trainer, the biggest obstacle he's come across - one that connects directly to nervousness, stammering, rambling, and epic fail - is that most speakers and writers don't have a point. They typically have just a title, a theme, a topic, an idea, an assertion, a catchphrase, or even something much less.

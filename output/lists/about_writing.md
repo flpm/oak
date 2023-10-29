@@ -6,11 +6,15 @@ items:
 - title: null
   books:
   - '9780520273689'
+  - '9780673525338'
+  - '9780205118458'
   - '9780961392185'
+  - '9780822332138'
   - '9780452298606'
   - B00SJIVE3W
   - '9780691602998'
   - B0BX7CJVCS
+  - '9781319056278'
   - '9780143134343'
   - 059315018X
   - '9783982438801'
@@ -30,15 +34,19 @@ items:
   - '1549108603'
   - '9780691191775'
 ---
-I have 24 books about Writing in my personal library.
+I have 28 books about Writing in my personal library.
 
 ### Titles:
 - (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham
+- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert
+- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain
 - (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte
+- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman, Olivia Frey
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 - (paper) [Clear and Simple As the Truth](/books/info/9780691602998) by Francis-Noël Thomas, Mark Turner
 - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
+- (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
 - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran
 - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran
 - (paper) [How to Take Smart Notes](/books/info/9783982438801) by Sönke Ahrens

@@ -6,10 +6,14 @@ items:
 - title: null
   books:
   - '9780684835334'
+  - '9780197656884'
+  - '9781848310308'
   - '9780691224398'
 ---
-I have 2 books about Reading in my personal library.
+I have 4 books about Reading in my personal library.
 
 ### Titles:
 - (paper) [Great Books](/books/info/9780684835334) by Denby
+- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+- (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
 - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas

@@ -29,6 +29,8 @@ rating:
   count: 4990
 duration: PT54M
 cover_filename: B0877CXKYX.jpg
+read_status: null
+recommendation_status: null
 ---
 Unlike canned nature sounds created in a studio, renowned acoustic ecologist Gordon Hempton travels the world recording remarkable locations that capture the essence of the place itself. His lifelong mission is to preserve nature through sound, and his soundscapes are produced with such care and quality that you feel as if he has truly brought a slice of the world into your home.
 Few things are as soothing as the lull of the ocean, and in this piece, Gordon celebrates the sounds of the Atlantic as only he can. Relax, close your eyes, and experience the waves crashing onto the wet sand like the earth's own breathing.

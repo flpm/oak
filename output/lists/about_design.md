@@ -8,6 +8,7 @@ items:
   - '9780262540292'
   - '9780881791549'
   - '9780879239503'
+  - '9788437507521'
   - '9781592534333'
   - '9781568985527'
   - '9781592533879'
@@ -42,12 +43,13 @@ items:
   - '9781592530076'
   - '9780062872968'
 ---
-I have 36 books about Design in my personal library.
+I have 37 books about Design in my personal library.
 
 ### Titles:
 - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [An Essay on Typography](/books/info/9780879239503) by Eric Gill
+- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521) by Javier Sáez Castán
 - (paper) [Color Design Workbook](/books/info/9781592534333) by Terry Lee Stone, Sean Adams, Noreen Morioka
 - (paper) [D.I.Y.: Design It Yourself](/books/info/9781568985527) by Ellen Lupton
 - (paper) [Design Evolution](/books/info/9781592533879) by Timothy Samara

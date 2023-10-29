@@ -24,12 +24,14 @@ items:
   - '9780190627812'
   - '9782706110443'
   - '9781572246270'
+  - '9781781252635'
+  - B06VSQVPCY
   - '9781400077427'
   - '9781572248915'
   - '9780142001103'
   - '9781912891160'
 ---
-I have 23 books about Psychology in my personal library.
+I have 25 books about Psychology in my personal library.
 
 ### Titles:
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein
@@ -51,6 +53,8 @@ I have 23 books about Psychology in my personal library.
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 - (paper) [Petit traité de manipulation à l'usage des honnêtes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-Léon Beauvois
 - (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270) by Colleen Carney, Rachel Manber
+- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
+- (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran
 - (paper) [Stumbling on Happiness](/books/info/9781400077427) by Daniel Gilbert
 - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund J. Bourne
 - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone Zander, Benjamin Zander

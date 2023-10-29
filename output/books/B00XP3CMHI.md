@@ -34,8 +34,9 @@ rating:
   count: 1850
 duration: PT12H39M
 cover_filename: B00XP3CMHI.jpg
-read_status: partially listened to
+read_status: null
 theme: ancient history
+recommendation_status: null
 ---
 Macedonia, 336 B.C.E. - King Philip II is murdered under mysterious circumstances amid a cloud of intrigue.
 Constantinople, 532 C.E. - The Byzantine Emperor Justinian nearly abandons the city to an angry mob until his wife, Theodora, persuades him to stay.

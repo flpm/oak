@@ -32,8 +32,8 @@ rating:
   count: 2812
 duration: PT14H39M
 cover_filename: B06XWYMP73.jpg
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: humor
 ---
 Critically acclaimed, award-winning British comedian and actor Eddie Izzard details his childhood, his first performances on the streets of London, his ascent to worldwide success on stage and screen, and his comedy shows, which have won over audiences around the world.

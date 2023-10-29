@@ -31,8 +31,8 @@ rating:
   count: 7666
 duration: PT1H32M
 cover_filename: B08ZYXLTYG.gif
-read_status: listened to
-recommendation_status: true
+read_status: null
+recommendation_status: null
 theme: music
 ---
 “I realize, perhaps for the first time that I had to learn the cello to become a musician, and that it was only through decades of musical exploration that I came to understand my responsibility as a human being.”

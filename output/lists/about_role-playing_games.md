@@ -7,6 +7,7 @@ items:
   books:
   - '9781984858788'
   - '9781568821818'
+  - '9780786967223'
   - '9781950911066'
   - '9781984858801'
   - '9780880387293'
@@ -14,6 +15,8 @@ items:
   - '9780786965618'
   - '9780786965601'
   - '9780786966950'
+  - '9780786966653'
+  - '9780786966264'
   - '9781940094984'
   - '9781568822112'
   - '9780786967872'
@@ -25,11 +28,12 @@ items:
   - '9780786966011'
   - '9780786966110'
 ---
-I have 19 books about Role-Playing Games in my personal library.
+I have 22 books about Role-Playing Games in my personal library.
 
 ### Titles:
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen, Lynn Willis
+- (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
 - (paper) [Dragons & Treasures](/books/info/9781984858801) by Jim Zub
 - (paper) [Dungeon Master's Guide (Advanced Dungeons & Dragons, Stock #2100)](/books/info/9780880387293) by David Cook
@@ -37,6 +41,8 @@ I have 19 books about Role-Playing Games in my personal library.
 - (paper) [Dungeons & Dragons Monster Manual (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965618) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Player's Handbook (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965601) by Wizards RPG Team
 - (paper) [Dungeons & Dragons Spellbook Cards](/books/info/9780786966950) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team
+- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards RPG Team
 - (paper) [Little Wizards Second Printing](/books/info/9781940094984) by Crafty Games, Antoine Bauza
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
 - (paper) [Mordenkainen Presents](/books/info/9780786967872) by Wizards RPG Team

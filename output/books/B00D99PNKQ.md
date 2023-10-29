@@ -32,8 +32,9 @@ rating:
   count: 2575
 duration: PT12H25M
 cover_filename: B00D99PNKQ.jpg
-read_status: listened to
+read_status: null
 theme: mythology
+recommendation_status: null
 ---
 These 24 lectures are a vibrant introduction to the primary characters and most important stories of classical Greek and Roman mythology. Among those you'll investigate are the accounts of the creation of the world in Hesiod's Theogony and Ovid's Metamorphoses; the gods Zeus, Apollo, Demeter, Persephone, Hermes, Dionysos, and Aphrodite; the Greek heroes, Theseus and Heracles (Hercules in the Roman version); and the most famous of all classical myths, the Trojan War.
 Professor Vandiver anchors her presentation in some basics. What is a myth? Which societies use myths? What are some of the problems inherent in studying classical mythology? She also discusses the most influential 19th- and 20th-century thinking about myth's nature and function, including the psychological theories of Freud and Jung and the metaphysical approach of Joseph Campbell. You'll also consider the relationship between mythology and culture (such as the implications of the myth of Demeter, Persephone, and Hades for the Greek view of life, death, and marriage), the origins of classical mythology (including the similarities between the Theogony and Mesopotamian creation myths), and the dangers of probing for distant origins (for example, there's little evidence that a prehistoric "mother goddess" lies at the heart of mythology).

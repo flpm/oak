@@ -8,6 +8,7 @@ items:
   books:
   - '9780201563177'
   - '9781466586963'
+  - '9781492052203'
   - '9780596517984'
   - '9781775093343'
   - '9781430219491'
@@ -22,11 +23,12 @@ items:
   - '9780978739232'
   - '9780201616224'
 ---
-I have 15 books about Engineering in my personal library.
+I have 16 books about Engineering in my personal library.
 
 ### Titles:
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
+- (paper) [Architecture Patterns with Python](/books/info/9781492052203) by Harry Percival, Bob Gregory
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
 - (paper) [CPython Internals](/books/info/9781775093343) by Anthony Shaw
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel

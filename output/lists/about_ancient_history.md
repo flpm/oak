@@ -15,6 +15,7 @@ items:
   - B00DG7NVXC
   - '9780520061156'
   - '9780806140278'
+  - '9788420637457'
   - '9788420635484'
   - B00D8G1DPO
   - '9781107675698'
@@ -25,6 +26,7 @@ items:
   - '9780714119106'
   - B002V8KXYC
   - '9782080812988'
+  - '9788420635347'
   - '9781606064665'
   - '9782877726351'
   - '9782877726894'
@@ -32,6 +34,7 @@ items:
   - '9788420635507'
   - '9788420637440'
   - B01865AOJW
+  - '9781846683800'
   - '9780691163475'
   - '9780500288993'
   - '1977330053'
@@ -46,7 +49,7 @@ items:
   - '9782228930376'
   - B00F52DXH0
 ---
-I have 40 books about Ancient History in my personal library.
+I have 43 books about Ancient History in my personal library.
 
 ### Titles:
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
@@ -59,6 +62,7 @@ I have 40 books about Ancient History in my personal library.
 - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale
 - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker
 - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
+- (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457) by Isaac Asimov
 - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
 - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
 - (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
@@ -69,6 +73,7 @@ I have 40 books about Ancient History in my personal library.
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 - (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
 - (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
+- (paper) [La República Romana](/books/info/9788420635347) by Isaac Asimov
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
@@ -76,6 +81,7 @@ I have 40 books about Ancient History in my personal library.
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
+- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy

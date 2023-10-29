@@ -7,93 +7,99 @@ items:
   - October 2023
   description: 'Book titles:
 
-    - (Paperback in Others) [How We Read Now](/books/info/9780197656884) by Naomi
+    - (Paperback in Reading) [How We Read Now](/books/info/9780197656884) by Naomi
     Baron
 
-    - (Paperback in Others) [Proust And The Squid](/books/info/9781848310308) by Maryanne
-    Wolf
+    - (Paperback in Reading) [Proust And The Squid](/books/info/9781848310308) by
+    Maryanne Wolf
 
-    - (Paperback in Others) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
+    - (Paperback in Writing) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
     by Diane P. Freedman, Olivia Frey
 
-    - (Non-Traditional in Others) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
-    by Wizards RPG Team
-
-    - (Paperback in Others) [A Short Guide to Writing about Literature](/books/info/9780205118458)
+    - (Paperback in Writing) [A Short Guide to Writing about Literature](/books/info/9780205118458)
     by Sylvan Barnet, William E. Cain
 
-    - (Hardcover in Others) [Spqr](/books/info/9781846683800) by Professor Mary Beard
+    - (Hardcover in Ancient History) [Spqr](/books/info/9781846683800) by Professor
+    Mary Beard
 
-    - (Hardcover in Others) [Making It So](/books/info/9781982167738) by Patrick Stewart
+    - (Hardcover in Biography) [Making It So](/books/info/9781982167738) by Patrick
+    Stewart
 
-    - (Paperback in Others) [Everything''s an Argument](/books/info/9781319056278)
+    - (Paperback in Writing) [Everything''s an Argument](/books/info/9781319056278)
     by Andrea A. Lunsford, John J. Ruszkiewicz
 
-    - (Hardcover in Others) [Dungeons & Dragons Waterdeep](/books/info/9780786966264)
-    by Wizards RPG Team
+    - (Hardcover in Role-Playing Games) [Candlekeep Mysteries (D&D Adventure Book
+    - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team
 
-    - (Hardcover in Others) [Candlekeep Mysteries (D&D Adventure Book - Dungeons &
-    Dragons)](/books/info/9780786967223) by Wizards RPG Team
+    - (Hardcover in Psychology) [Shrinking Violets](/books/info/9781781252635) by
+    Joe Moran
 
-    - (Hardcover in Others) [Shrinking Violets](/books/info/9781781252635) by Joe
-    Moran
-
-    - (Hardcover in Others) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)
-    by Joe Hill
-
-    - (Paperback in Others) [Good Omens](/books/info/9780060853976) by Neil Gaiman,
+    - (Paperback in Fantasy) [Good Omens](/books/info/9780060853976) by Neil Gaiman,
     Terry Pratchett
 
-    - (Paperback in Others) [American Gods](/books/info/9780063081918) by Neil Gaiman
+    - (Paperback in Fantasy) [American Gods](/books/info/9780063081918) by Neil Gaiman
 
-    - (Paperback in Others) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457)
-    by Isaac Asimov'
+    - (Non-Traditional in Role-Playing Games) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
+    by Wizards RPG Team'
   books:
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
-  - '9780786966653'
   - '9780205118458'
   - '9781846683800'
   - '9781982167738'
   - '9781319056278'
-  - '9780786966264'
   - '9780786967223'
   - '9781781252635'
-  - '9781631402241'
   - '9780060853976'
   - '9780063081918'
-  - '9788420637457'
+  - '9780786966653'
 - title:
   - September 2023
-  description: "Book titles:\n- (Hardcover in Design) [The Moderns](/books/info/9781419724015)\
-    \ by Steven Heller, Greg D'Onofrio\n- (Paperback in Others) [Fairy Tale](/books/info/9781668002193)\
-    \ by Stephen King\n- (Paperback in Others) [Animalario Universal Del Profesor\
-    \ Revillod](/books/info/9788437507521) by Javier S\xE1ez Cast\xE1n\n- (Hardcover\
-    \ in Essays) [The Moth Presents All These Wonders](/books/info/9781101904404)\
-    \ by Catherine Burns\n- (Paperback in Others) [A Short Guide to Writing About\
-    \ Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert\n- (Hardcover\
-    \ in Essays) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith\
-    \ Schalansky"
+  description: 'Book titles:
+
+    - (Hardcover in Design) [The Moderns](/books/info/9781419724015) by Steven Heller,
+    Greg D''Onofrio
+
+    - (Paperback in Fantasy) [Fairy Tale](/books/info/9781668002193) by Stephen King
+
+    - (Hardcover in Essays) [The Moth Presents All These Wonders](/books/info/9781101904404)
+    by Catherine Burns
+
+    - (Paperback in Writing) [A Short Guide to Writing About Literature](/books/info/9780673525338)
+    by Sylvan Barnet, Reid Gilbert
+
+    - (Hardcover in Essays) [Pocket Atlas of Remote Islands](/books/info/9780143126676)
+    by Judith Schalansky'
   books:
   - '9781419724015'
   - '9781668002193'
-  - '9788437507521'
   - '9781101904404'
   - '9780673525338'
   - '9780143126676'
 - title:
   - August 2023
-  description: 'Book titles:
-
-    - (Paperback in Reading) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt
-    Montas
-
-    - (Paperback in Archaeology) [The First Fossil Hunters](/books/info/9780691245607)
-    by Adrienne Mayor'
+  description: "Book titles:\n- (Hardcover in Role-Playing Games) [Dungeons & Dragons\
+    \ Waterdeep](/books/info/9780786966264) by Wizards RPG Team\n- (Paperback in Reading)\
+    \ [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas\n- (Paperback\
+    \ in Archaeology) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne\
+    \ Mayor\n- (Paperback in Science) [Un \xE9t\xE9 avec Pascal](/books/info/9782849907481)\
+    \ by Antoine Compagnon\n- (Paperback in Ancient History) [Une journ\xE9e dans\
+    \ la Rome antique](/books/info/9782228930376) by Alberto Angela"
   books:
+  - '9780786966264'
   - '9780691224398'
   - '9780691245607'
+  - '9782849907481'
+  - '9782228930376'
+- title:
+  - July 2023
+  description: 'Book title:
+
+    - (Paperback in Historical Novel) [El manuscrito de nieve (Fernando de Rojas,
+    #2)](/books/info/9788408267461) by Luis Garcia Jambrina'
+  books:
+  - '9788408267461'
 - title:
   - June 2023
   description: 'Book titles:
@@ -138,7 +144,10 @@ items:
     Mark Forsyth
 
     - (Paperback in Writing) [First You Write a Sentence](/books/info/9780143134343)
-    by Joe Moran'
+    by Joe Moran
+
+    - (Paperback in Linguistics) [Language in Thought and Action](/books/info/9780156482400)
+    by S.I. Hayakawa, Alan R. Hayakawa'
   books:
   - '9780520273689'
   - '9780393341812'
@@ -146,6 +155,7 @@ items:
   - '9780961392185'
   - B00O1GCA5M
   - '9780143134343'
+  - '9780156482400'
 - title:
   - April 2023
   description: 'Book titles:
@@ -155,7 +165,7 @@ items:
 
     - (Paperback in Others) [Architecture](/books/info/9780192801791) by Andrew Ballantyne
 
-    - (Paperback in Others) [Architecture Patterns with Python](/books/info/9781492052203)
+    - (Paperback in Software) [Architecture Patterns with Python](/books/info/9781492052203)
     by Harry Percival, Bob Gregory
 
     - (Audiobook in Writing) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)
@@ -194,11 +204,15 @@ items:
     & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King,
     Andrew Wheeler, Official Dungeons & Dragons Licensed
 
+    - (Hardcover in Archaeology) [Three Stones Make a Wall](/books/info/9780691166407)
+    by Eric H. Cline
+
     - (Hardcover in Role-Playing Games) [Dungeons & Dragons Monster Manual (Core Rulebook,
     D&D Roleplaying Game)](/books/info/9780786965618) by Wizards RPG Team'
   books:
   - B01BW37O5C
   - '9781984859549'
+  - '9780691166407'
   - '9780786965618'
 - title:
   - January 2023
@@ -214,6 +228,12 @@ items:
   - December 2022
   description: 'Book titles:
 
+    - (Paperback in Ancient History) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)
+    by Clare Rowan
+
+    - (Hardcover in Graphic Novel) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)
+    by Joe Hill
+
     - (Paperback in Learning Latin) [The Poems of Catullus](/books/info/9780520253865)
     by Catullus
 
@@ -223,6 +243,8 @@ items:
     - (Paperback in Epigraphy) [Cuneiform](/books/info/9780520061156) by C. B. F.
     Walker'
   books:
+  - '9781107675698'
+  - '9781631402241'
   - '9780520253865'
   - '9780199246359'
   - '9780520061156'
@@ -232,11 +254,15 @@ items:
     \ by Nicola Gardini, Todd Portnowitz\n- (Paperback in Ancient History) [Chronology\
     \ of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by\
     \ H. E. L. Mellersh\n- (Hardcover in Design) [LOGO Modernism](/books/info/9783836545303)\
-    \ by Jens M\xFCller"
+    \ by Jens M\xFCller\n- (Paperback in Linguistics) [Story Of Writing Second Edition](/books/info/9780500286609)\
+    \ by Andrew Robinson\n- (Hardcover in Epigraphy) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
+    \ by Mark Collier, Bill Manley"
   books:
   - 125075044X
   - '9780133264227'
   - '9783836545303'
+  - '9780500286609'
+  - '9780714119106'
 - title:
   - October 2022
   description: 'Book titles:
@@ -274,19 +300,20 @@ items:
   - '9780691163475'
 - title:
   - July 2022
-  description: 'Book titles:
-
-    - (Paperback in Graphic Novels) [Hilda and the Midnight Giant](/books/info/9781909263796)
-    by Luke Pearson
-
-    - (Paperback in Graphic Novels) [Hilda and the Bird Parade](/books/info/9781911171027)
-    by Luke Pearson
-
-    - (Paperback in Novel) [Altered Carbon](/books/info/9780345457684) by Richard
-    K. Morgan
-
-    - (Audiobook in Ancient History) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy'
+  description: "Book titles:\n- (Paperback in Design) [Animalario Universal Del Profesor\
+    \ Revillod](/books/info/9788437507521) by Javier S\xE1ez Cast\xE1n\n- (Hardcover\
+    \ in Ancient History) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
+    \ by G\xE9rard Coulon\n- (Paperback in Ancient History) [Le G\xE9nie civil de\
+    \ l'arm\xE9e romaine](/books/info/9782877726351) by G\xE9rard Coulon\n- (Paperback\
+    \ in Graphic Novels) [Hilda and the Midnight Giant](/books/info/9781909263796)\
+    \ by Luke Pearson\n- (Paperback in Graphic Novels) [Hilda and the Bird Parade](/books/info/9781911171027)\
+    \ by Luke Pearson\n- (Paperback in Novel) [Altered Carbon](/books/info/9780345457684)\
+    \ by Richard K. Morgan\n- (Audiobook in Ancient History) [Caesar](/books/info/B00MFQLERK)\
+    \ by Adrian Goldsworthy"
   books:
+  - '9788437507521'
+  - '9782877726894'
+  - '9782877726351'
   - '9781909263796'
   - '9781911171027'
   - '9780345457684'
@@ -350,28 +377,22 @@ items:
   - '9798648057418'
 - title:
   - March 2022
-  description: 'Book titles:
-
-    - (Audiobook in Ancient History) [The Fires of Vesuvius](/books/info/197734996X)
-    by Mary Beard
-
-    - (Paperback in Learning Latin) [Latin Alive](/books/info/9780521734189) by Joseph
-    B. Solodow
-
-    - (Paperback in Linguistics) [The Grammar of Romance](/books/info/9781475246636)
-    by Joshua Rudder
-
-    - (Paperback in Learning Latin) [Vita Nostra](/books/info/9781093905632) by Stephen
-    a Berard
-
-    - (Audiobook in Learning Latin) [Oxford Latin Course](/books/info/9780199124183)
-    by James Morwood'
+  description: "Book titles:\n- (Audiobook in Ancient History) [The Fires of Vesuvius](/books/info/197734996X)\
+    \ by Mary Beard\n- (Paperback in Learning Latin) [Latin Alive](/books/info/9780521734189)\
+    \ by Joseph B. Solodow\n- (Paperback in Linguistics) [The Grammar of Romance](/books/info/9781475246636)\
+    \ by Joshua Rudder\n- (Paperback in Learning Latin) [Vita Nostra](/books/info/9781093905632)\
+    \ by Stephen a Berard\n- (Audiobook in Learning Latin) [Oxford Latin Course](/books/info/9780199124183)\
+    \ by James Morwood\n- (Paperback in Ancient History) [The Complete Roman Army](/books/info/9780500288993)\
+    \ by Adrian Goldsworthy\n- (Paperback in Learning Latin) [Lingua Latina: Caesaris](/books/info/9781585102327)\
+    \ by Hans Henning \xD8rberg, Gaius Julius Caesar"
   books:
   - 197734996X
   - '9780521734189'
   - '9781475246636'
   - '9781093905632'
   - '9780199124183'
+  - '9780500288993'
+  - '9781585102327'
 - title:
   - February 2022
   description: 'Book title:
@@ -477,6 +498,9 @@ items:
     - (Paperback in Learning Latin) [Colloquia Personarum](/books/info/9781585109388)
     by Hans H. Orberg
 
+    - (Paperback in Learning Latin) [Pugio Bruti - A Crime Story in Easy Latin](/books/info/9789198509403)
+    by Daniel Pettersson, Amelie Rosengren
+
     - (Hardcover in Visualization) [Semiology of Graphics](/books/info/9781589482616)
     by Jacques Bertin
 
@@ -493,6 +517,7 @@ items:
   - B06XWYMP73
   - '9780307279415'
   - '9781585109388'
+  - '9789198509403'
   - '9781589482616'
   - '9780190627812'
 - title:
@@ -513,7 +538,10 @@ items:
     by Cynthia Kim
 
     - (Paperback in Computational Design) [The Nature of Code](/books/info/9780985930806)
-    by Daniel Shiffman'
+    by Daniel Shiffman
+
+    - (Hardcover in Poetry) [Tiger, Tiger, Burning Bright!](/books/info/9781536217186)
+    by Nosy Crow'
   books:
   - B08ZYXLTYG
   - B002V1A0WE
@@ -521,6 +549,7 @@ items:
   - '9781616895129'
   - '9781849057578'
   - '9780985930806'
+  - '9781536217186'
 - title:
   - September 2021
   description: "Book titles:\n- (Audiobook in Psychology) [Grit](/books/info/B01D3AC5BA)\
@@ -623,12 +652,15 @@ items:
   - '9781421560908'
 - title:
   - September 2019
-  description: 'Book title:
-
-    - (Paperback in Data) [Hands-On Data Analysis with Pandas](/books/info/9781789615326)
-    by Stefanie Molin'
+  description: "Book titles:\n- (Paperback in Data) [Hands-On Data Analysis with Pandas](/books/info/9781789615326)\
+    \ by Stefanie Molin\n- (Hardcover in Pop-Up) [Enciclopedia Prehistorica/ Prehistoric\
+    \ Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart\n\
+    - (Hardcover in Pop-Up) [Enciclopedia Prehist\xF3rica](/books/info/9788484413257)\
+    \ by Robert Sabuda, Matthew Reinhart"
   books:
   - '9781789615326'
+  - '9788484414025'
+  - '9788484413257'
 - title:
   - July 2019
   description: 'Book title:
@@ -1312,6 +1344,14 @@ items:
   books:
   - '9780713997279'
 - title:
+  - June 2007
+  description: 'Book title:
+
+    - (Paperback in Ancient History) [El Cercano Oriente (Historia Universal Asimov,
+    #1)](/books/info/9788420637457) by Isaac Asimov'
+  books:
+  - '9788420637457'
+- title:
   - March 2007
   description: 'Book titles:
 
@@ -1461,6 +1501,24 @@ items:
     Hemenway, Tara Calishain'
   books:
   - '9780596005771'
+- title:
+  - October 2003
+  description: 'Book titles:
+
+    - (Paperback in Mythology) [Les Dieux de l''Egypte](/books/info/9782711837564)
+    by Marc {OCLCbr#C9}tienne
+
+    - (Paperback in Epigraphy) [The Rosetta Stone](/books/info/9780714150215) by Richard
+    Parkinson'
+  books:
+  - '9782711837564'
+  - '9780714150215'
+- title:
+  - March 2003
+  description: "Book title:\n- (Paperback in Epigraphy) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103)\
+    \ by Evelyne Faivre-Martin"
+  books:
+  - '9782711841103'
 - title:
   - November 2002
   description: 'Book title:

@@ -30,8 +30,9 @@ rating:
   count: 529
 duration: PT18H28M
 cover_filename: B00DDXQ61S.jpg
-read_status: listened to
+read_status: null
 theme: mythology
+recommendation_status: null
 ---
 Myths provide the keys to truly grasping the ways that principles, rituals, codes, and taboos are woven into the fabric of a particular society or civilization.
 It's through myths that we can answer these and other fundamental questions: How was the universe created, and why? What is the purpose of evil? Why is society organized the way it is? How did natural features like rivers, mountains, and oceans emerge?
