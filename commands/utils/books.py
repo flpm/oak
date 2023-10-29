@@ -61,15 +61,18 @@ def print_book(loop_position, bookd_id, book_type, book):
     if book.get("theme"):
         print(f"theme: [bold white]{book['theme']}[/bold white]")
     if book.get("read_status"):
-        rec_status = book.get("recommendation_status")
-        recommendation = "."
-        if rec_status:
-            recommendation = " and I [bold white]recommend[/bold white] it."
-        elif rec_status is False:
-            recommendation = " and I [bold white]do not recommend[/bold white] it."
-
-        print(
-            f"status: I [bold white]{book['read_status']}[/bold white] this {book_type}{' multiple times' if book.get('multiple_reads') else ''}"
-            f"{recommendation}"
-        )
+        print("status: ", end="")
+        status_to_color = {
+            "start": "white",
+            "finish": "blue",
+            "multiple": "yellow",
+            "like": "green",
+            "recommend": "red",
+            "plan": "cyan",
+            "dislike": "black",
+        }
+        for i in book["read_status"]:
+            color = status_to_color.get(i, "white")
+            print(f"[bold {color}]{i}[/bold {color}]", end=" ")
+        print("")
     print("---")

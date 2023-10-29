@@ -144,12 +144,7 @@ def edit_loop(catalogue):
 
     for book_id, book_type, book in flat_catalogue:
         # Insert her any code to modify the book attributes
-        book["read_status"] = book.get("status")
-        if book.get("status"):
-            del book["status"]
-        book["recommendation_status"] = book.get("recommend")
-        if book.get("recommend"):
-            del book["recommend"]
+        pass
 
     total = len(flat_catalogue)
     current_index = 0
@@ -222,11 +217,6 @@ def edit_loop(catalogue):
                     break
 
             elif answer == "save":
-                for *_, b_book in flat_catalogue:
-                    b_book.pop("ranking", None)
-                for position, (*_, b_book) in enumerate(ranking):
-                    print(f"Ranking: {position + 1} {b_book.get('title')}")
-                    b_book["ranking"] = position + 1
                 save_catalogue(catalogue)
                 print("[green]Catalogue saved[/green]")
 
@@ -379,31 +369,48 @@ def edit_loop(catalogue):
                 answer = "not note"
 
             elif answer == "stat":
-                read_options = {
-                    "n": "have not started",
-                    "r": f"{'read' if book_type == 'book' else 'listened to'}",
-                    "p": f"partially {'read' if book_type == 'book' else 'listened to'}",
-                    "c": "consulted",
-                    "t": f"plan to {'read' if book_type == 'book' else 'listen to'}",
-                    "d": "did not finish",
-                }
-                read_opptions_str = ", ".join(
-                    f"{option} for {value}" for option, value in read_options.items()
-                )
+                # book.pop("recommendation_status", None)
+                # book.pop("finished_status", None)
+                # book.pop("like_status", None)
+                # book.pop("multiple_reads", None)
+                if not book.get("read_status"):
+                    book["read_status"] = {}
 
-                status_str = None
-                while not status_str:
-                    status = Prompt.ask(
-                        f"Enter the read status ({read_opptions_str})",
-                        choices=list(read_options.keys()),
-                        default="S",
-                        show_choices=True,
-                        show_default=True,
-                    ).lower()
-                    status_str = read_options.get(status)
-                if status_str:
-                    book["status"] = status_str
-                    print(f"[green]Read status set to {read_options[status]}[/green]")
+                if confirm("Have you started reading this book?", False):
+                    book["read_status"]["start"] = True
+                elif book["read_status"].get("start"):
+                    book["read_status"].pop("start")
+
+                if confirm("Have you finished this book?", False):
+                    book["read_status"]["finish"] = True
+                elif book["read_status"].get("finish"):
+                    book["read_status"].pop("finish")
+
+                if confirm("Multiple times?", False):
+                    book["read_status"]["multiple"] = True
+                elif book["read_status"].get("multiple"):
+                    book["read_status"].pop("multiple")
+
+                if confirm("Like?", False):
+                    book["read_status"]["like"] = True
+                elif book["read_status"].get("like"):
+                    book["read_status"].pop("like")
+
+                if confirm("Dislike?", False):
+                    book["read_status"]["dislike"] = True
+                elif book["read_status"].get("dislike"):
+                    book["read_status"].pop("dislike")
+
+                if confirm("Do you plan to read this book?", False):
+                    book["read_status"]["plan"] = True
+                elif book["read_status"].get("plan"):
+                    book["read_status"].pop("plan")
+
+                if confirm("Do you recommend this book?", False):
+                    book["read_status"]["recommend"] = True
+                elif book["read_status"].get("recommend"):
+                    book["read_status"].pop("recommend")
+
                 # automatically advance to next book
                 current_index += 1
                 if current_index >= total:

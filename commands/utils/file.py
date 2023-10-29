@@ -68,7 +68,7 @@ def save_catalogue(catalogue, filename=work_catalogue_filename):
         The filename to save the catalogue to, by default work_catalogue_filename
     """
     with open(filename, "w") as file:
-        json.dump(catalogue, file)
+        json.dump(catalogue, file, indent=2, separators=(",", ": "))
 
 
 def save_cover_image(image_data, filename):
@@ -300,8 +300,6 @@ def save_attributes(args=None, attributes_storage_file="./raw/attributes.json"):
         "location",
         "listening_date",
         "read_status",
-        "multiple_reads",
-        "recommendation_status",
         "locked",
         "do_not_update",
     )
