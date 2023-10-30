@@ -35,7 +35,8 @@ rating:
   count: 1
 duration: PT11H26M
 cover_filename: B0BX7CJVCS.jpg
-read_status: null
+read_status:
+  start: true
 theme: writing
 recommendation_status: null
 ---

@@ -30,8 +30,8 @@ items:
   - B00XP3CMHI
   - '9788420635507'
   - '9788420637440'
-  - B01865AOJW
   - '9781846683800'
+  - B01865AOJW
   - '9780691163475'
   - '9780500288993'
   - '1977330053'
@@ -72,8 +72,8 @@ I have 38 books about History in my personal library.
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
+- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
-- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy

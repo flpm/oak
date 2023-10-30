@@ -31,7 +31,9 @@ rating:
   count: 719
 duration: PT13H44M
 cover_filename: B003TFSY7E.jpg
-read_status: null
+read_status:
+  start: true
+  like: true
 theme: economics
 recommendation_status: null
 ---

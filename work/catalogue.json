@@ -28,14 +28,23 @@
       "type": "book",
       "cover_filename": "9781846683800.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "ancient history",
       "location": "New York",
       "signed": true,
       "signature_details": "the author, with the inscription \"Let the dice be thrown!\"",
       "first_edition": true,
-      "first_edition_details": "british"
+      "first_edition_details": "british",
+      "multiple_formats": {
+        "audiobook": "B01865AOJW",
+        "book": "9781846683800"
+      }
     }
   },
   "9781400835522": {
@@ -77,7 +86,12 @@
       },
       "purchase_date": "2013-11-29",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -122,7 +136,9 @@
       },
       "purchase_date": "2013-07-23",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "psychology",
       "recommendation_status": null
     }
@@ -167,7 +183,10 @@
       },
       "purchase_date": "2017-12-17",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "graphs",
       "recommendation_status": null
     }
@@ -214,7 +233,10 @@
       },
       "purchase_date": "2021-08-22",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "graphs",
       "recommendation_status": null
     }
@@ -257,7 +279,10 @@
       },
       "purchase_date": "2015-11-20",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -303,7 +328,7 @@
       },
       "purchase_date": "2016-05-12",
       "location": "New York",
-      "read_status": null,
+      "read_status": {},
       "theme": "data",
       "recommendation_status": null
     }
@@ -336,7 +361,9 @@
       "type": "book",
       "cover_filename": "9781449316952.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -379,7 +406,9 @@
       },
       "purchase_date": "2019-04-30",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -416,7 +445,13 @@
       "cover_filename": "9780387848570.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "math"
     }
@@ -461,7 +496,11 @@
       },
       "purchase_date": "2018-01-03",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -506,7 +545,10 @@
       },
       "purchase_date": "2015-01-14",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "software",
       "recommendation_status": null
     }
@@ -551,7 +593,7 @@
       },
       "purchase_date": "2015-07-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {},
       "theme": "math",
       "recommendation_status": null
     }
@@ -598,7 +640,10 @@
       },
       "purchase_date": "2013-02-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -643,7 +688,10 @@
       },
       "purchase_date": "2013-10-10",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -686,7 +734,10 @@
       },
       "purchase_date": "2017-03-21",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -730,7 +781,14 @@
       "location": "New York",
       "multiple_reads": true,
       "purchase_date": "2021-05-02",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "data"
     }
@@ -761,7 +819,10 @@
       "type": "book",
       "cover_filename": "9780140136357.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -805,7 +866,10 @@
       },
       "purchase_date": "2011-08-02",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -840,7 +904,12 @@
       "type": "book",
       "cover_filename": "9781461471370.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "math"
     }
@@ -883,7 +952,11 @@
       },
       "location": "New York",
       "purchase_date": "2016-05-03",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "data",
       "recommendation_status": null
     }
@@ -928,7 +1001,9 @@
       },
       "purchase_date": "2013-05-03",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -973,7 +1048,9 @@
       },
       "purchase_date": "2017-09-18",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -1018,7 +1095,10 @@
       },
       "location": "New York",
       "purchase_date": "2015-07-29",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -1110,7 +1190,9 @@
       },
       "purchase_date": "2013-05-03",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "science",
       "recommendation_status": null
     }
@@ -1155,7 +1237,9 @@
       },
       "purchase_date": "2014-12-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -1200,7 +1284,9 @@
       },
       "purchase_date": "2014-12-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -1231,7 +1317,10 @@
       "type": "book",
       "cover_filename": "9783319397559.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -1275,7 +1364,14 @@
       "location": "New York",
       "multiple_reads": true,
       "purchase_date": "2019-09-18",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "data",
       "recommendation_status": null
     }
@@ -1319,7 +1415,13 @@
       },
       "purchase_date": "2014-09-27",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "math"
     }
@@ -1355,7 +1457,9 @@
       "cover_filename": "9781419724015.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -1401,7 +1505,9 @@
       },
       "purchase_date": "2017-02-01",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -1636,7 +1742,7 @@
       "purchase_date": "2002-11-14",
       "theme": "design",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "multiple": true,
         "like": true,
@@ -1671,7 +1777,7 @@
       "type": "book",
       "cover_filename": "9780192801814.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "art history",
       "recommendation_status": null
     }
@@ -1716,7 +1822,9 @@
       },
       "purchase_date": "2018-10-01",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "recommendation_status": null
     }
   },
@@ -1746,7 +1854,11 @@
       "type": "book",
       "cover_filename": "9780954413217.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -1825,7 +1937,11 @@
       "type": "book",
       "cover_filename": "9781930824157.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -1856,7 +1972,11 @@
       "type": "book",
       "cover_filename": "9781930824164.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -1950,7 +2070,11 @@
       },
       "purchase_date": "2021-05-30",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -1993,7 +2117,10 @@
       },
       "purchase_date": "2022-11-09",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -2026,7 +2153,10 @@
       "type": "book",
       "cover_filename": "9780879236366.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "typography",
       "recommendation_status": null
     }
@@ -2057,7 +2187,11 @@
       "type": "book",
       "cover_filename": "9780262540292.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -2146,7 +2280,11 @@
       },
       "purchase_date": "2021-06-24",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -2277,7 +2415,9 @@
       "type": "book",
       "cover_filename": "9780735711655.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -2358,7 +2498,10 @@
       "type": "book",
       "cover_filename": "9780062872968.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -2405,7 +2548,14 @@
       "purchase_date": "2012-02-28",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "design"
     }
@@ -2483,7 +2633,9 @@
       "type": "book",
       "cover_filename": "9780262015486.webp",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "typography",
       "recommendation_status": null
     }
@@ -2529,7 +2681,12 @@
       },
       "purchase_date": "2021-09-17",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "visualization"
     }
@@ -2574,7 +2731,9 @@
       },
       "purchase_date": "2021-11-06",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -2620,7 +2779,9 @@
       },
       "location": "New York",
       "purchase_date": "2021-09-10",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "computational design",
       "recommendation_status": null
     }
@@ -2665,7 +2826,10 @@
       },
       "purchase_date": "2021-09-17",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -2696,7 +2860,10 @@
       "type": "book",
       "cover_filename": "9781616895280.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "visualization",
       "recommendation_status": null
     }
@@ -2775,7 +2942,14 @@
       "type": "book",
       "cover_filename": "9780465051366.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "design"
     }
@@ -2808,7 +2982,11 @@
       "type": "book",
       "cover_filename": "9780714843377.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "business",
       "recommendation_status": null
     }
@@ -2855,7 +3033,11 @@
       },
       "purchase_date": "2021-10-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "labyrinths",
       "recommendation_status": null
     }
@@ -2901,7 +3083,9 @@
       },
       "purchase_date": "2021-09-08",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "computational design",
       "recommendation_status": null
     }
@@ -3117,7 +3301,9 @@
       "type": "book",
       "cover_filename": "9781568987651.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "typography",
       "recommendation_status": null
     }
@@ -3245,7 +3431,13 @@
       "cover_filename": "9780881792065.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "typography"
     }
@@ -3277,7 +3469,7 @@
       "type": "book",
       "cover_filename": "9781840915457.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "design",
       "recommendation_status": null,
       "location": "London",
@@ -3322,7 +3514,11 @@
       },
       "purchase_date": "2012-02-28",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -3353,7 +3549,10 @@
       "type": "book",
       "cover_filename": "9781568982496.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -3430,7 +3629,9 @@
       "type": "book",
       "cover_filename": "9781568987729.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -3463,7 +3664,9 @@
       "type": "book",
       "cover_filename": "9781568987606.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -3508,7 +3711,13 @@
       },
       "purchase_date": "2023-01-21",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "visualization"
     }
@@ -3552,7 +3761,11 @@
       },
       "purchase_date": "2021-06-27",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "design",
       "recommendation_status": null
     }
@@ -3584,7 +3797,9 @@
       "type": "book",
       "cover_filename": "9781668002193.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "fantasy",
       "location": "New York"
@@ -3617,7 +3832,11 @@
       "type": "book",
       "cover_filename": "9788408093107.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -3649,7 +3868,11 @@
       "type": "book",
       "cover_filename": "9780575059009.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -3682,7 +3905,11 @@
       "cover_filename": "9780575055032.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -3714,7 +3941,12 @@
       "cover_filename": "9780575046061.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "fantasy"
     }
@@ -3747,7 +3979,11 @@
       "cover_filename": "9780385603423.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "fantasy",
       "location": "New York"
@@ -3780,7 +4016,7 @@
       "type": "book",
       "cover_filename": "9788432217104.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "novel",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -3814,7 +4050,9 @@
       "type": "book",
       "cover_filename": "9780316779234.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "essays",
       "recommendation_status": null
     }
@@ -3846,7 +4084,9 @@
       "type": "book",
       "cover_filename": "9782070361038.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "Paris"
@@ -3876,7 +4116,9 @@
       "type": "book",
       "cover_filename": "9789725684573.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -3909,7 +4151,9 @@
       "type": "book",
       "cover_filename": "9788423972685.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "drama",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -3941,7 +4185,11 @@
       "type": "book",
       "cover_filename": "9788466306782.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "humor",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -3974,7 +4222,9 @@
       "type": "book",
       "cover_filename": "9782070424832.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "Paris"
@@ -4006,7 +4256,7 @@
       "type": "book",
       "cover_filename": "9782070408368.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "crime fiction",
       "recommendation_status": null,
       "location": "Paris"
@@ -4040,7 +4290,9 @@
       "type": "book",
       "cover_filename": "9788433966698.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -4073,7 +4325,10 @@
       "type": "book",
       "cover_filename": "9788484502623.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -4106,7 +4361,9 @@
       "type": "book",
       "cover_filename": "9788420482279.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4139,7 +4396,10 @@
       "type": "book",
       "cover_filename": "9788423974030.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "poetry",
       "recommendation_status": null
     }
@@ -4170,7 +4430,10 @@
       "type": "book",
       "cover_filename": "9789722019569.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4201,7 +4464,10 @@
       "type": "book",
       "cover_filename": "9788535906172.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4234,7 +4500,10 @@
       "type": "book",
       "cover_filename": "9788535920772.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4265,7 +4534,9 @@
       "type": "book",
       "cover_filename": "9788501058331.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4299,7 +4570,7 @@
       "cover_filename": "9788501009418.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {},
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4330,7 +4601,7 @@
       "type": "book",
       "cover_filename": "9788501053145.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4362,7 +4633,9 @@
       "type": "book",
       "cover_filename": "9788433968517.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "paris",
       "recommendation_status": null
     }
@@ -4393,7 +4666,9 @@
       "type": "book",
       "cover_filename": "9788501005588.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4426,7 +4701,9 @@
       "type": "book",
       "cover_filename": "9788433924889.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4458,7 +4735,10 @@
       "type": "book",
       "cover_filename": "9788432217074.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "new york",
       "recommendation_status": null
     }
@@ -4490,7 +4770,11 @@
       "type": "book",
       "cover_filename": "9788445071779.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -4522,7 +4806,11 @@
       "type": "book",
       "cover_filename": "9788445071403.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -4555,7 +4843,11 @@
       "type": "book",
       "cover_filename": "9788445071762.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -4586,7 +4878,9 @@
       "type": "book",
       "cover_filename": "9782253144243.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4618,7 +4912,9 @@
       "type": "book",
       "cover_filename": "9782253041931.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4747,7 +5043,9 @@
       "type": "book",
       "cover_filename": "9782070417681.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4778,7 +5076,9 @@
       "type": "book",
       "cover_filename": "9782070422524.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4809,7 +5109,11 @@
       "type": "book",
       "cover_filename": "9782070313020.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "biography",
       "recommendation_status": null
     }
@@ -4842,7 +5146,9 @@
       "type": "book",
       "cover_filename": "9788437604572.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "paris",
       "recommendation_status": null
     }
@@ -4874,7 +5180,12 @@
       "type": "book",
       "cover_filename": "9782253051206.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4906,7 +5217,9 @@
       "type": "book",
       "cover_filename": "9782253096344.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4937,7 +5250,9 @@
       "type": "book",
       "cover_filename": "9782253933151.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -4969,7 +5284,9 @@
       "type": "book",
       "cover_filename": "9782253096337.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -5003,7 +5320,11 @@
       "type": "book",
       "cover_filename": "9788437610979.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "drama",
       "recommendation_status": null
     }
@@ -5048,7 +5369,9 @@
       },
       "purchase_date": "2018-05-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -5093,7 +5416,10 @@
       },
       "purchase_date": "2022-01-06",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -5125,7 +5451,12 @@
       "type": "book",
       "cover_filename": "9781476733951.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -5159,7 +5490,11 @@
       "cover_filename": "9780552142373.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -5193,7 +5528,11 @@
       "cover_filename": "9780552145428.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -5226,7 +5565,12 @@
       "cover_filename": "9780061092176.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "fantasy"
     }
@@ -5260,7 +5604,11 @@
       "cover_filename": "9780552140287.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -5341,7 +5689,10 @@
       },
       "purchase_date": "2022-11-23",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -5385,7 +5736,9 @@
       },
       "purchase_date": "2021-11-24",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -5417,7 +5770,9 @@
       "type": "book",
       "cover_filename": "9788531405921.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "history",
       "recommendation_status": null
     }
@@ -5450,7 +5805,9 @@
       "type": "book",
       "cover_filename": "9788420635347.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "recommendation_status": null,
       "theme": "ancient history",
       "location": "Paris"
@@ -5482,7 +5839,9 @@
       "type": "book",
       "cover_filename": "9788420635484.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Paris"
@@ -5516,7 +5875,9 @@
       "type": "book",
       "cover_filename": "9788420637440.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Paris"
@@ -5552,7 +5913,13 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-12-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "labyrinths"
     }
@@ -5583,7 +5950,10 @@
       "type": "book",
       "cover_filename": "9782080812988.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Paris"
@@ -5617,7 +5987,9 @@
       "type": "book",
       "cover_filename": "9780140252552.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "history",
       "recommendation_status": null,
       "location": "New York"
@@ -5649,7 +6021,9 @@
       "type": "book",
       "cover_filename": "9788571644113.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "history",
       "recommendation_status": null,
       "location": "Rio de Janeiro"
@@ -5682,7 +6056,9 @@
       "type": "book",
       "cover_filename": "9788576655299.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "history",
       "recommendation_status": null,
       "location": "Rio de Janeiro"
@@ -5720,7 +6096,11 @@
       "cover_filename": "9781785511837.jpg",
       "order": null,
       "purchase_date": "2022-08-22",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "art history",
       "recommendation_status": null
     }
@@ -5757,7 +6137,7 @@
       "location": "Paris",
       "purchase_date": "2003-10-01",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "like": true
       },
@@ -5794,7 +6174,7 @@
       "location": "Paris",
       "purchase_date": "2003-10-01",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "like": true
       },
@@ -5839,7 +6219,11 @@
       },
       "purchase_date": "2022-09-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -5871,7 +6255,9 @@
       "type": "book",
       "cover_filename": "9782877726894.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Nimes",
@@ -5904,7 +6290,12 @@
       "type": "book",
       "cover_filename": "9782877726351.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Nimes",
@@ -5937,7 +6328,9 @@
       "type": "book",
       "cover_filename": "9780500288993.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "New York",
@@ -5984,7 +6377,11 @@
       },
       "purchase_date": "2022-08-22",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "plan": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -6017,7 +6414,7 @@
       "type": "book",
       "cover_filename": "9781107675698.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "New York",
@@ -6052,7 +6449,9 @@
       "type": "book",
       "cover_filename": "9780691166407.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "archaeology",
       "recommendation_status": null,
       "location": "New York",
@@ -6088,7 +6487,9 @@
       "type": "book",
       "cover_filename": "9780673525338.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "writing",
       "location": "New York"
@@ -6132,7 +6533,9 @@
       },
       "purchase_date": "2022-04-03",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6267,7 +6670,9 @@
       "type": "book",
       "cover_filename": "9780226899152.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -6312,7 +6717,9 @@
       },
       "purchase_date": "2023-05-29",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -6355,7 +6762,9 @@
       },
       "purchase_date": "2019-03-19",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6401,7 +6810,10 @@
       },
       "purchase_date": "2022-12-17",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6435,7 +6847,9 @@
       "type": "book",
       "cover_filename": "9781585102327.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null,
       "purchase_date": "2022-03-01",
@@ -6481,7 +6895,13 @@
       },
       "purchase_date": "2021-10-20",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6525,7 +6945,11 @@
       },
       "purchase_date": "2021-11-19",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6568,7 +6992,11 @@
       },
       "purchase_date": "2022-03-28",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6611,7 +7039,9 @@
       },
       "purchase_date": "2022-03-28",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "linguistics",
       "recommendation_status": null
     }
@@ -6645,7 +7075,9 @@
       "type": "book",
       "cover_filename": "9780865162891.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null,
       "location": "New York"
@@ -6691,7 +7123,9 @@
       },
       "purchase_date": "2021-12-10",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6723,7 +7157,9 @@
       "type": "book",
       "cover_filename": "9789198509403.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null,
       "location": "New York",
@@ -6768,7 +7204,10 @@
       },
       "location": "New York",
       "purchase_date": "2022-01-09",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6811,7 +7250,9 @@
       },
       "purchase_date": "2022-03-14",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6856,7 +7297,11 @@
       },
       "purchase_date": "2021-12-15",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -6902,7 +7347,10 @@
       },
       "purchase_date": "2022-12-07",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "epigraphy",
       "recommendation_status": null
     }
@@ -6945,7 +7393,11 @@
       },
       "purchase_date": "2021-11-27",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "epigraphy",
       "recommendation_status": null
     }
@@ -6980,7 +7432,7 @@
       "purchase_date": "2003-03-15",
       "location": "Paris",
       "read_status": {
-        "read": true,
+        "start": true,
         "multiple": true,
         "like": true,
         "plan": true
@@ -7015,7 +7467,12 @@
       "type": "book",
       "cover_filename": "9780714119106.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "multiple": true,
+        "plan": true
+      },
       "theme": "epigraphy",
       "recommendation_status": null,
       "purchase_date": "2022-11-05",
@@ -7060,7 +7517,12 @@
       },
       "purchase_date": "2021-11-26",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "epigraphy",
       "recommendation_status": null
     }
@@ -7092,7 +7554,9 @@
       "type": "book",
       "cover_filename": "9780500286609.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "linguistics",
       "recommendation_status": null,
       "purchase_date": "2022-11-06",
@@ -7140,7 +7604,11 @@
       },
       "purchase_date": "2021-12-11",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -7184,7 +7652,9 @@
       },
       "purchase_date": "2022-12-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "linguistics",
       "recommendation_status": null
     }
@@ -7227,7 +7697,13 @@
       },
       "location": "New York",
       "purchase_date": "2019-03-19",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "learning latin"
     }
@@ -7259,7 +7735,9 @@
       "type": "book",
       "cover_filename": "9780008348090.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "linguistics",
       "recommendation_status": null
     }
@@ -7303,7 +7781,12 @@
       "purchase_date": "2013-07-17",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "game of go"
     }
@@ -7336,7 +7819,11 @@
       "type": "book",
       "cover_filename": "9780307833648.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "novel"
     }
@@ -7367,7 +7854,9 @@
       "type": "book",
       "cover_filename": "9780679201021.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7399,7 +7888,11 @@
       "type": "book",
       "cover_filename": "9780690431650.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7430,7 +7923,10 @@
       "type": "book",
       "cover_filename": "9780486273471.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "puzzles",
       "recommendation_status": null
     }
@@ -7461,7 +7957,11 @@
       "type": "book",
       "cover_filename": "9781492274124.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7494,7 +7994,12 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-04-13",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7528,7 +8033,9 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-04-13",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7561,7 +8068,9 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-04-13",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -7594,7 +8103,10 @@
       "type": "book",
       "cover_filename": "9784906574018.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7626,7 +8138,11 @@
       "type": "book",
       "cover_filename": "9784906574735.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7657,7 +8173,10 @@
       "type": "book",
       "cover_filename": "9784906574315.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7688,7 +8207,11 @@
       "type": "book",
       "cover_filename": "9784906574568.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7719,7 +8242,9 @@
       "type": "book",
       "cover_filename": "9784906574285.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7763,7 +8288,10 @@
       },
       "purchase_date": "2013-07-27",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7794,7 +8322,9 @@
       "type": "book",
       "cover_filename": "9784906574261.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7826,7 +8356,11 @@
       "type": "book",
       "cover_filename": "9784906574148.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7870,7 +8404,10 @@
       },
       "location": "New York",
       "purchase_date": "2015-05-27",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7902,7 +8439,10 @@
       "cover_filename": "9784906574629.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7933,7 +8473,10 @@
       "type": "book",
       "cover_filename": "9784906574612.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -7964,7 +8507,11 @@
       "type": "book",
       "cover_filename": "9784906574124.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8008,7 +8555,13 @@
       "purchase_date": "2012-11-14",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "game of go"
     }
@@ -8052,7 +8605,13 @@
       "purchase_date": "2012-11-14",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "game of go"
     }
@@ -8096,7 +8655,13 @@
       "purchase_date": "2012-11-14",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "game of go"
     }
@@ -8140,7 +8705,13 @@
       "purchase_date": "2012-11-14",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "game of go"
     }
@@ -8171,7 +8742,9 @@
       "type": "book",
       "cover_filename": "9781889554877.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8202,7 +8775,11 @@
       "type": "book",
       "cover_filename": "9784906574360.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8236,7 +8813,11 @@
       "type": "book",
       "cover_filename": "9784906574728.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8267,7 +8848,11 @@
       "type": "book",
       "cover_filename": "9784906574131.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8298,7 +8883,10 @@
       "type": "book",
       "cover_filename": "9780692189825.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "puzzles",
       "recommendation_status": null
     }
@@ -8331,7 +8919,7 @@
       "type": "book",
       "cover_filename": "9780786966950.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8364,7 +8952,11 @@
       "type": "book",
       "cover_filename": "9780399160035.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "magic"
     }
@@ -8396,7 +8988,11 @@
       "type": "book",
       "cover_filename": "9780786718061.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -8441,7 +9037,11 @@
       },
       "purchase_date": "2014-11-18",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -8472,7 +9072,9 @@
       "type": "book",
       "cover_filename": "9781889554259.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8515,7 +9117,11 @@
       },
       "purchase_date": "2016-04-08",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8594,7 +9200,10 @@
       "type": "book",
       "cover_filename": "9780981912189.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8625,7 +9234,10 @@
       "type": "book",
       "cover_filename": "9781932001631.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true
+      },
       "theme": "game of go",
       "recommendation_status": null
     }
@@ -8668,7 +9280,9 @@
       },
       "location": "New York",
       "purchase_date": "2014-11-18",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "magic",
       "recommendation_status": null
     }
@@ -8717,7 +9331,11 @@
       },
       "purchase_date": "2014-06-07",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8761,7 +9379,12 @@
       },
       "purchase_date": "2014-06-07",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8794,7 +9417,11 @@
       "type": "book",
       "cover_filename": "9780880387163.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8830,7 +9457,11 @@
       "type": "book",
       "cover_filename": "9781560761075.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8861,7 +9492,11 @@
       "type": "book",
       "cover_filename": "9780880387293.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8900,7 +9535,12 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-03-07",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8935,7 +9575,12 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2023-02-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -8983,7 +9628,11 @@
       },
       "purchase_date": "2023-02-17",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9028,7 +9677,11 @@
       },
       "purchase_date": "2023-03-22",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9076,7 +9729,11 @@
       },
       "purchase_date": "2023-03-22",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9111,7 +9768,10 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2023-04-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9146,7 +9806,10 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2023-03-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9181,7 +9844,13 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2021-12-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -9213,7 +9882,9 @@
       "type": "book",
       "cover_filename": "9780197656884.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "reading",
       "location": "New York"
@@ -9246,7 +9917,9 @@
       "type": "book",
       "cover_filename": "9781848310308.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "reading",
       "location": "New York"
@@ -9280,7 +9953,9 @@
       "type": "book",
       "cover_filename": "9780822332138.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "writing",
       "location": "New York"
@@ -9314,7 +9989,11 @@
       "type": "book",
       "cover_filename": "9780786966653.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "role-playing games",
       "location": "New York"
@@ -9348,7 +10027,9 @@
       "type": "book",
       "cover_filename": "9780205118458.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "writing",
       "location": "New York"
@@ -9383,7 +10064,9 @@
       "type": "book",
       "cover_filename": "9781982167738.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "biography",
       "location": "New York",
@@ -9419,7 +10102,9 @@
       "type": "book",
       "cover_filename": "9781319056278.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "writing",
       "location": "New York"
@@ -9453,7 +10138,11 @@
       "type": "book",
       "cover_filename": "9780786966264.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "role-playing games",
       "location": "New York"
@@ -9488,7 +10177,11 @@
       "type": "book",
       "cover_filename": "9780786967223.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "role-playing games",
       "location": "New York"
@@ -9522,12 +10215,20 @@
       "type": "book",
       "cover_filename": "9781781252635.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "psychology",
       "location": "New York",
       "signed": true,
-      "signature_details": "the author"
+      "signature_details": "the author",
+      "multiple_formats": {
+        "audiobook": "B06VSQVPCY",
+        "book": "9781781252635"
+      }
     }
   },
   "9781631402241": {
@@ -9559,7 +10260,10 @@
       "type": "book",
       "cover_filename": "9781631402241.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "graphic novel",
       "location": "New York"
@@ -9595,7 +10299,11 @@
       "type": "book",
       "cover_filename": "9780060853976.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "fantasy",
       "location": "New York",
@@ -9634,7 +10342,9 @@
       "type": "book",
       "cover_filename": "9780063081918.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "fantasy",
       "location": "New York",
@@ -9669,7 +10379,11 @@
       "type": "book",
       "cover_filename": "9788437507521.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "design",
       "location": "Barcelona"
@@ -9705,7 +10419,9 @@
       "cover_filename": "9781101904404.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "essays",
       "recommendation_status": null
     }
@@ -9740,7 +10456,11 @@
       "cover_filename": "9780143126676.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "essays"
     }
@@ -9772,7 +10492,11 @@
       "type": "book",
       "cover_filename": "9788484413257.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "purchase_date": "2019-09-01",
       "theme": "pop-up",
@@ -9806,7 +10530,11 @@
       "type": "book",
       "cover_filename": "9788484414025.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "purchase_date": "2019-09-02",
       "theme": "pop-up",
@@ -9839,7 +10567,11 @@
       "type": "book",
       "cover_filename": "9780689847431.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "pop-up"
     }
@@ -9870,7 +10602,12 @@
       "type": "book",
       "cover_filename": "9781536217186.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "poetry",
       "location": "New York",
@@ -9915,7 +10652,11 @@
       },
       "purchase_date": "2022-10-25",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "mythology",
       "recommendation_status": null
     }
@@ -9950,7 +10691,11 @@
       "type": "book",
       "cover_filename": "9781913123918.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -9983,7 +10728,11 @@
       "type": "book",
       "cover_filename": "9781911171713.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -10016,7 +10765,11 @@
       "type": "book",
       "cover_filename": "9781912497553.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -10061,7 +10814,11 @@
       },
       "purchase_date": "2022-07-03",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -10106,7 +10863,11 @@
       },
       "purchase_date": "2022-07-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -10151,7 +10912,12 @@
       },
       "purchase_date": "2022-06-27",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -10195,7 +10961,11 @@
       },
       "purchase_date": "2022-06-06",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "mythology",
       "recommendation_status": null
     }
@@ -10240,7 +11010,11 @@
       },
       "purchase_date": "2015-09-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "kids",
       "recommendation_status": null
     }
@@ -10283,7 +11057,11 @@
       },
       "purchase_date": "2015-09-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "kids",
       "recommendation_status": null
     }
@@ -10328,7 +11106,11 @@
       },
       "purchase_date": "2015-09-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "kids",
       "recommendation_status": null
     }
@@ -10362,7 +11144,10 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2012-06-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "science",
       "recommendation_status": null
     }
@@ -10406,7 +11191,10 @@
       },
       "purchase_date": "2011-06-20",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "economics",
       "recommendation_status": null
     }
@@ -10450,7 +11238,10 @@
       },
       "purchase_date": "2011-06-20",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "economics",
       "recommendation_status": null
     }
@@ -11058,7 +11849,7 @@
       "location": "Paris",
       "theme": "business",
       "read_status": {
-        "read": true
+        "start": true
       },
       "recommendation_status": null
     }
@@ -11106,7 +11897,7 @@
       "location": "Paris",
       "theme": "business",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "like": true
       },
@@ -11154,7 +11945,7 @@
       "purchase_date": "2004-03-08",
       "theme": "graphic novels",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "multiple": true,
         "like": true
@@ -11190,7 +11981,11 @@
       "type": "book",
       "cover_filename": "9780375702075.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "biography",
       "recommendation_status": null
     }
@@ -11222,7 +12017,9 @@
       "type": "book",
       "cover_filename": "9780684835334.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "reading",
       "recommendation_status": null
     }
@@ -11255,7 +12052,7 @@
       "type": "book",
       "cover_filename": "9788484370451.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "biography",
       "recommendation_status": null
     }
@@ -11286,7 +12083,10 @@
       "type": "book",
       "cover_filename": "9780374104436.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "essays",
       "recommendation_status": null
     }
@@ -11319,7 +12119,13 @@
       "type": "book",
       "cover_filename": "9780143127796.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "writing"
     }
@@ -11362,7 +12168,10 @@
       },
       "purchase_date": "2023-06-06",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -11395,7 +12204,10 @@
       "cover_filename": "9780691602998.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -11427,7 +12239,11 @@
       "cover_filename": "9780691224398.jpg",
       "order": null,
       "purchase_date": "2023-08-02",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "reading",
       "recommendation_status": null
     }
@@ -11460,7 +12276,10 @@
       "type": "book",
       "cover_filename": "9780786966110.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -11493,7 +12312,11 @@
       "type": "book",
       "cover_filename": "9780786965625.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -11528,7 +12351,10 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2023-06-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -11563,7 +12389,7 @@
       "cover_filename": "9781541644533.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {},
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -11597,7 +12423,9 @@
       "cover_filename": "9780140442106.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -11641,7 +12469,9 @@
       },
       "purchase_date": "2022-01-07",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -11686,7 +12516,9 @@
       },
       "location": "New York",
       "purchase_date": "2022-01-07",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -11767,7 +12599,11 @@
       },
       "purchase_date": "2011-12-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "logic",
       "recommendation_status": null
     }
@@ -11812,7 +12648,11 @@
       },
       "location": "New York",
       "purchase_date": "2021-12-06",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "poetry",
       "recommendation_status": null
     }
@@ -11846,7 +12686,7 @@
       "cover_filename": "9781118143308.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {},
       "theme": "security",
       "recommendation_status": null
     }
@@ -11880,7 +12720,9 @@
       "cover_filename": "9781118790816.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -11915,7 +12757,9 @@
       "cover_filename": "9780312130664.jpg",
       "order": null,
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "science",
       "recommendation_status": null
     }
@@ -11951,7 +12795,12 @@
       "order": null,
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "engineering",
       "signed": true,
@@ -12105,7 +12954,10 @@
       "cover_filename": "9781566568968.jpg",
       "order": null,
       "purchase_date": "2022-06-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -12148,7 +13000,10 @@
       },
       "purchase_date": "2017-07-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "new york",
       "recommendation_status": null
     }
@@ -12181,7 +13036,11 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2012-05-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "new york",
       "recommendation_status": null
     }
@@ -12263,7 +13122,11 @@
       },
       "purchase_date": "2022-03-14",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -12307,7 +13170,10 @@
       },
       "purchase_date": "2021-12-15",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -12350,7 +13216,11 @@
       },
       "location": "New York",
       "purchase_date": "2022-01-20",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -12393,7 +13263,12 @@
       },
       "purchase_date": "2012-02-15",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "novel"
     }
@@ -12438,7 +13313,12 @@
       },
       "location": "New York",
       "purchase_date": "2021-03-29",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "poetry",
       "recommendation_status": null
     }
@@ -12471,7 +13351,7 @@
       "type": "book",
       "cover_filename": "9788420442280.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "recommendation_status": null
     }
   },
@@ -12591,7 +13471,11 @@
       "cover_filename": "9780684801377.jpg",
       "order": null,
       "purchase_date": "2012-09-01",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "history",
       "recommendation_status": null
     }
@@ -12670,7 +13554,7 @@
       "location": "Paris",
       "theme": "humor",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "like": true
       },
@@ -12703,7 +13587,9 @@
       "type": "book",
       "cover_filename": "9780547928241.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "fantasy",
       "recommendation_status": null
     }
@@ -12746,7 +13632,12 @@
       },
       "purchase_date": "2019-07-10",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "biography"
     }
@@ -12777,7 +13668,11 @@
       "type": "book",
       "cover_filename": "9782203396098.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -12809,7 +13704,11 @@
       "type": "book",
       "cover_filename": "9780751504835.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -12840,7 +13739,11 @@
       "type": "book",
       "cover_filename": "9782203372344.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -12871,7 +13774,11 @@
       "type": "book",
       "cover_filename": "9782203372382.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -12964,7 +13871,10 @@
       },
       "purchase_date": "2022-02-11",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null
     }
@@ -12996,7 +13906,11 @@
       "type": "book",
       "cover_filename": "9781940094984.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "role-playing games",
       "recommendation_status": null
     }
@@ -13028,7 +13942,12 @@
       "type": "book",
       "cover_filename": "9780836218527.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "New York"
@@ -13062,7 +13981,10 @@
       "type": "book",
       "cover_filename": "9780836220629.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "New York"
@@ -13094,7 +14016,11 @@
       "type": "book",
       "cover_filename": "9782205050080.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13126,7 +14052,11 @@
       "type": "book",
       "cover_filename": "9782205052589.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13158,7 +14088,11 @@
       "type": "book",
       "cover_filename": "9782205054064.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13192,7 +14126,9 @@
       "type": "book",
       "cover_filename": "9782203399327.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13226,7 +14162,9 @@
       "type": "book",
       "cover_filename": "9782203030466.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13259,7 +14197,11 @@
       "type": "book",
       "cover_filename": "9782205051926.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13291,7 +14233,11 @@
       "type": "book",
       "cover_filename": "9782205050059.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13323,7 +14269,11 @@
       "type": "book",
       "cover_filename": "9782205049886.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13356,7 +14306,11 @@
       "type": "book",
       "cover_filename": "9782205055641.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13389,7 +14343,7 @@
       "type": "book",
       "cover_filename": "9782205053326.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13421,7 +14375,11 @@
       "type": "book",
       "cover_filename": "9782205053852.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13456,7 +14414,9 @@
       "type": "book",
       "cover_filename": "9780898621280.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "psychology",
       "recommendation_status": null,
       "location": "New York"
@@ -13489,7 +14449,11 @@
       "type": "book",
       "cover_filename": "9782864973423.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "graphic novels",
       "recommendation_status": null,
       "location": "Paris"
@@ -13534,7 +14498,9 @@
       },
       "purchase_date": "2018-05-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -13579,7 +14545,11 @@
       },
       "purchase_date": "2022-07-01",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "novel",
       "recommendation_status": null
     }
@@ -13616,7 +14586,10 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2019-12-24",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "biography",
       "recommendation_status": null
     }
@@ -13653,7 +14626,9 @@
       "order": null,
       "location": "New York",
       "purchase_date": "2019-12-24",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "biography",
       "recommendation_status": null
     }
@@ -13684,7 +14659,9 @@
       "type": "book",
       "cover_filename": "9788420635507.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Paris"
@@ -13728,7 +14705,10 @@
       },
       "purchase_date": "2015-02-08",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "anthropology",
       "recommendation_status": null
     }
@@ -13855,7 +14835,7 @@
       "type": "book",
       "cover_filename": "9788535904802.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -13888,7 +14868,9 @@
       "type": "book",
       "cover_filename": "9780316143479.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "essays",
       "recommendation_status": null,
       "location": "New York"
@@ -13922,7 +14904,9 @@
       "type": "book",
       "cover_filename": "9780385348249.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "biography",
       "recommendation_status": null,
       "location": "New York"
@@ -13974,7 +14958,11 @@
       },
       "purchase_date": "2021-11-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "autism",
       "recommendation_status": null
     }
@@ -14019,7 +15007,9 @@
       },
       "purchase_date": "2014-04-30",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "anxiety",
       "recommendation_status": null
     }
@@ -14064,7 +15054,9 @@
       },
       "purchase_date": "2014-04-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "anxiety",
       "recommendation_status": null
     }
@@ -14108,7 +15100,9 @@
       },
       "purchase_date": "2014-04-16",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "anxiety",
       "recommendation_status": null
     }
@@ -14154,7 +15148,11 @@
       },
       "purchase_date": "2014-04-12",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "anxiety",
       "recommendation_status": null
     }
@@ -14248,7 +15246,10 @@
       },
       "purchase_date": "2016-02-19",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "anxiety",
       "recommendation_status": null
     }
@@ -14281,7 +15282,12 @@
       "type": "book",
       "cover_filename": "9781400078394.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "psychology",
       "recommendation_status": null,
       "location": "New York"
@@ -14327,7 +15333,12 @@
       },
       "purchase_date": "2014-02-07",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "economics"
     }
@@ -14371,7 +15382,9 @@
       },
       "purchase_date": "2022-06-28",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -14416,7 +15429,9 @@
       },
       "purchase_date": "2022-06-29",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -14459,7 +15474,10 @@
       },
       "purchase_date": "2022-06-20",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -14541,7 +15559,11 @@
       "type": "book",
       "cover_filename": "9781912891160.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "multiple": true,
+        "like": true
+      },
       "theme": "psychology",
       "recommendation_status": null,
       "location": "New York"
@@ -14577,7 +15599,14 @@
       "cover_filename": "9780142001103.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "psychology",
       "location": "New York"
@@ -14623,7 +15652,11 @@
       },
       "location": "New York",
       "purchase_date": "2021-10-08",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "autism",
       "recommendation_status": null
     }
@@ -14656,7 +15689,11 @@
       "type": "book",
       "cover_filename": "9780399535727.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "autism",
       "recommendation_status": null,
       "location": "New York"
@@ -14781,7 +15818,12 @@
       "purchase_date": "2015-01-12",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "psychology"
     }
@@ -14814,7 +15856,11 @@
       "type": "book",
       "cover_filename": "9788466318884.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "psychology",
       "recommendation_status": null,
       "location": "New York"
@@ -14895,7 +15941,9 @@
       },
       "purchase_date": "2023-04-26",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "software"
     }
@@ -14938,7 +15986,9 @@
       },
       "purchase_date": "2021-06-24",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "software",
       "recommendation_status": null
     }
@@ -14984,7 +16034,9 @@
       },
       "purchase_date": "2011-04-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -15267,7 +16319,7 @@
       "location": "Paris",
       "theme": "software",
       "read_status": {
-        "read": true
+        "start": true
       },
       "recommendation_status": null
     }
@@ -15311,7 +16363,9 @@
       },
       "purchase_date": "2017-09-18",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -15354,7 +16408,9 @@
       },
       "purchase_date": "2021-10-02",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "computational design",
       "recommendation_status": null
     }
@@ -15399,7 +16455,11 @@
       },
       "location": "New York",
       "purchase_date": "2019-02-11",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "software",
       "recommendation_status": null
     }
@@ -15431,7 +16491,7 @@
       "type": "book",
       "cover_filename": "9781593278960.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "software",
       "recommendation_status": null,
       "location": "New York"
@@ -15477,7 +16537,12 @@
       },
       "purchase_date": "2014-11-21",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "security",
       "recommendation_status": null
     }
@@ -15511,7 +16576,9 @@
       "type": "book",
       "cover_filename": "9780596517984.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "software",
       "recommendation_status": null,
       "location": "New York"
@@ -15549,7 +16616,7 @@
       "purchase_date": "2001-12-01",
       "theme": "software",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "multiple": true,
         "like": true
@@ -15634,7 +16701,7 @@
       "type": "book",
       "cover_filename": "9780894121937.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "ciphers",
       "recommendation_status": null,
       "location": "New York"
@@ -15672,7 +16739,7 @@
       "purchase_date": "1995-07-04",
       "theme": "ciphers",
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "like": true
       },
@@ -15710,7 +16777,7 @@
       "purchase_date": "2000-01-15",
       "theme": "ciphers",
       "read_status": {
-        "read": true
+        "start": true
       },
       "recommendation_status": null
     }
@@ -15755,7 +16822,11 @@
       },
       "purchase_date": "2018-05-13",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "security"
     }
@@ -15798,7 +16869,11 @@
       },
       "location": "New York",
       "purchase_date": "2013-07-04",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "security"
     }
@@ -15831,7 +16906,7 @@
       "type": "book",
       "cover_filename": "9781841121253.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "personal growth",
       "recommendation_status": null,
       "location": "New York"
@@ -15914,7 +16989,11 @@
       "type": "book",
       "cover_filename": "9783931141967.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "photography",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -15947,7 +17026,12 @@
       "cover_filename": "9786555873399.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "math",
       "location": "Sao Paulo"
@@ -15979,7 +17063,11 @@
       "type": "book",
       "cover_filename": "9788571641143.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "Rio de Janeiro"
@@ -16011,7 +17099,9 @@
       "type": "book",
       "cover_filename": "9780571200580.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "new york",
       "recommendation_status": null,
       "location": "Paris"
@@ -16043,7 +17133,11 @@
       "type": "book",
       "cover_filename": "9780140278736.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "New York"
@@ -16076,7 +17170,9 @@
       "type": "book",
       "cover_filename": "9788520906842.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "biography",
       "recommendation_status": null,
       "location": "Rio de Janeiro"
@@ -16109,7 +17205,12 @@
       "type": "book",
       "cover_filename": "9788497594257.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "Barcelona"
@@ -16141,7 +17242,11 @@
       "type": "book",
       "cover_filename": "9780140126716.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "novel",
       "recommendation_status": null,
       "location": "New York"
@@ -16173,7 +17278,7 @@
       "type": "book",
       "cover_filename": "9788501041616.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {},
       "theme": "novel",
       "recommendation_status": null
     }
@@ -16204,7 +17309,11 @@
       "type": "book",
       "cover_filename": "9788571642829.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "biography",
       "recommendation_status": null,
       "location": "Sao Paulo"
@@ -16239,7 +17348,9 @@
       "cover_filename": "9780691245607.jpg",
       "order": null,
       "purchase_date": "2023-08-02",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "archaeology",
       "recommendation_status": null
     }
@@ -16270,7 +17381,9 @@
       "type": "book",
       "cover_filename": "9788408267461.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "historical novel",
       "recommendation_status": null,
       "location": "Barcelona",
@@ -16303,7 +17416,9 @@
       "type": "book",
       "cover_filename": "9782849907481.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "science",
       "recommendation_status": null,
       "location": "Aix-en-Provence",
@@ -16336,7 +17451,9 @@
       "type": "book",
       "cover_filename": "9782228930376.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "ancient history",
       "recommendation_status": null,
       "location": "Saint-R\u00e9my-de-Provence",
@@ -16372,7 +17489,9 @@
       "type": "book",
       "cover_filename": "9780156482400.jpg",
       "order": null,
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "linguistics",
       "recommendation_status": null,
       "location": "New York",
@@ -16417,7 +17536,9 @@
       },
       "purchase_date": "2023-05-25",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16462,7 +17583,10 @@
       },
       "purchase_date": "2011-12-19",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "logic",
       "recommendation_status": null
     }
@@ -16507,7 +17631,10 @@
       },
       "purchase_date": "2023-03-01",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16553,7 +17680,10 @@
       },
       "purchase_date": "2023-01-14",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16598,9 +17728,17 @@
       },
       "purchase_date": "2021-11-21",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "book": "9780307279415",
+        "audiobook": "B0774ZRRJL"
+      }
     }
   },
   "9781523516971": {
@@ -16645,7 +17783,10 @@
       },
       "purchase_date": "2022-09-24",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16679,7 +17820,12 @@
       "cover_filename": "9780316014991.jpg",
       "order": null,
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "multiple": true
+      },
       "theme": "writing",
       "recommendation_status": null,
       "location": "New York"
@@ -16726,9 +17872,19 @@
       "purchase_date": "2023-05-02",
       "location": "New York",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "audiobook": "059315018X",
+        "book": "9780143134343"
+      }
     }
   },
   "9780691191775": {
@@ -16758,7 +17914,10 @@
       "cover_filename": "9780691191775.jpg",
       "order": null,
       "purchase_date": "2023-05-16",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16801,7 +17960,11 @@
       },
       "purchase_date": "2023-05-05",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16846,7 +18009,12 @@
       },
       "purchase_date": "2023-06-08",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -16891,9 +18059,20 @@
       },
       "purchase_date": "2023-06-06",
       "location": "New York",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "theme": "presentation",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "audiobook": "B075FG7HLK",
+        "book": "9781523094110"
+      }
     }
   },
   "B008RBDG46": {
@@ -16942,7 +18121,11 @@
       },
       "duration": "PT5H54M",
       "cover_filename": "B008RBDG46.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null
     }
@@ -16990,7 +18173,11 @@
       },
       "duration": "PT7H59M",
       "cover_filename": "B008ELXJD2.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null
     }
@@ -17038,7 +18225,11 @@
       },
       "duration": "PT6H54M",
       "cover_filename": "B008EUR8O4.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null
     }
@@ -17110,7 +18301,9 @@
       },
       "duration": "PT1H31M",
       "cover_filename": "B00TP2UMTS.jpg",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "math",
       "recommendation_status": null
     }
@@ -17164,7 +18357,9 @@
       },
       "duration": "PT8H18M",
       "cover_filename": "B00NJ58OWE.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "psychology",
       "recommendation_status": null
     }
@@ -17193,7 +18388,7 @@
       "theme": "historical novel",
       "recommedation_status": false,
       "read_status": {
-        "read": true,
+        "start": true,
         "finish": true,
         "multiple": true,
         "like": true
@@ -17276,7 +18471,7 @@
       },
       "duration": "PT2H46M",
       "cover_filename": "B002V1BPOQ.jpg",
-      "read_status": null,
+      "read_status": {},
       "theme": "kids",
       "recommendation_status": null
     }
@@ -17916,7 +19111,11 @@
       },
       "duration": "PT7H23M",
       "cover_filename": "B00466Z4JQ.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "psychology",
       "recommendation_status": null
     }
@@ -18119,7 +19318,11 @@
       },
       "duration": "PT4H58M",
       "cover_filename": "B07DHSQL6Q.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "business",
       "recommendation_status": null
     }
@@ -18305,7 +19508,11 @@
       "duration": "PT9H7M",
       "cover_filename": "B002V1A0WE.jpg",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "recommendation_status": null,
       "theme": "writing"
     }
@@ -18393,7 +19600,11 @@
       },
       "duration": "PT9H22M",
       "cover_filename": "B01D3AC5BA.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "psychology",
       "recommendation_status": null
     }
@@ -18484,7 +19695,11 @@
       "duration": "PT9H22M",
       "cover_filename": "1549108603.jpg",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -18656,7 +19871,13 @@
       },
       "duration": "PT1H32M",
       "cover_filename": "B08ZYXLTYG.gif",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "music"
     }
@@ -18702,7 +19923,10 @@
       },
       "duration": "PT3H29M",
       "cover_filename": "B08M93Q9SP.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true
+      },
       "theme": "music",
       "recommendation_status": null
     }
@@ -18788,7 +20012,11 @@
       },
       "duration": "PT12H41M",
       "cover_filename": "B07MDHVBLY.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -18874,7 +20102,11 @@
       },
       "duration": "PT12H26M",
       "cover_filename": "B00D8G1DPO.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "dislike": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -19092,7 +20324,11 @@
       },
       "duration": "PT11H10M",
       "cover_filename": "1644650649.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -19184,7 +20420,11 @@
       },
       "duration": "PT18H25M",
       "cover_filename": "B00MXDGT2A.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -19412,7 +20652,12 @@
       },
       "duration": "PT24H46M",
       "cover_filename": "B00MFQLERK.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "ancient history"
     }
@@ -19504,7 +20749,9 @@
       },
       "duration": "PT14H5M",
       "cover_filename": "B002V8KXYC.jpg",
-      "read_status": null,
+      "read_status": {
+        "plan": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -19598,7 +20845,12 @@
       },
       "duration": "PT18H41M",
       "cover_filename": "B00DG7NVXC.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "archaeology"
     }
@@ -19729,7 +20981,11 @@
       },
       "duration": "PT12H17M",
       "cover_filename": "B00DC8CFZK.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -19908,7 +21164,11 @@
       },
       "duration": "PT8H30M",
       "cover_filename": "B07FB135GG.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "philosophy",
       "recommendation_status": null
     }
@@ -20135,7 +21395,12 @@
       },
       "duration": "PT14H39M",
       "cover_filename": "B06XWYMP73.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "humor"
     }
@@ -20182,7 +21447,11 @@
       },
       "duration": "PT62H52M",
       "cover_filename": "B06WLMWF2S.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null
     }
@@ -20785,7 +22054,10 @@
       },
       "duration": "PT18H51M",
       "cover_filename": "B00DEK3UAU.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -20917,7 +22189,11 @@
       },
       "duration": "PT12H16M",
       "cover_filename": "B078HDSHQJ.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -21096,7 +22372,11 @@
       },
       "duration": "PT12H25M",
       "cover_filename": "B00D99PNKQ.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "mythology",
       "recommendation_status": null
     }
@@ -21228,7 +22508,12 @@
       },
       "duration": "PT12H36M",
       "cover_filename": "197734996X.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "ancient history"
     }
@@ -21326,7 +22611,13 @@
       },
       "duration": "PT35H5M",
       "cover_filename": "0063066734.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "crime fiction",
       "recommendation_status": null
     }
@@ -21505,7 +22796,12 @@
       },
       "duration": "PT18H28M",
       "cover_filename": "B00DDXQ61S.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "mythology",
       "recommendation_status": null
     }
@@ -21553,7 +22849,10 @@
       },
       "duration": "PT12H39M",
       "cover_filename": "B00XP3CMHI.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -22004,7 +23303,14 @@
       "duration": "PT12H10M",
       "cover_filename": "B00F52DXH0.jpg",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
       "theme": "epigraphy"
     }
@@ -22240,7 +23546,12 @@
       },
       "duration": "PT11H48M",
       "cover_filename": "B00LG7MR20.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -22328,7 +23639,11 @@
       },
       "duration": "PT12H13M",
       "cover_filename": "B00DB92ATG.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -22375,7 +23690,12 @@
       },
       "duration": "PT16H26M",
       "cover_filename": "1977330053.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -22642,7 +23962,11 @@
       },
       "duration": "PT12H13M",
       "cover_filename": "B00D7JMGEY.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -22948,7 +24272,12 @@
       },
       "duration": "PT12H19M",
       "cover_filename": "B00DC5SB06.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "ancient history",
       "recommendation_status": null
     }
@@ -23082,7 +24411,11 @@
       },
       "duration": "PT8H18M",
       "cover_filename": "125075044X.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "learning latin",
       "recommendation_status": null
     }
@@ -23344,7 +24677,7 @@
       },
       "duration": "PT16H51M",
       "cover_filename": "B01BW37O5C.jpg",
-      "read_status": null,
+      "read_status": {},
       "theme": "psychology",
       "recommendation_status": null
     }
@@ -23392,7 +24725,10 @@
       },
       "duration": "PT18H48M",
       "cover_filename": "B00SJIVE3W.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "dislike": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -23440,9 +24776,18 @@
       },
       "duration": "PT18H30M",
       "cover_filename": "B01865AOJW.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true,
+        "recommend": true
+      },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "audiobook": "B01865AOJW",
+        "book": "9781846683800"
+      }
     }
   },
   "170526526X": {
@@ -23487,7 +24832,9 @@
       },
       "duration": "PT14H3M",
       "cover_filename": "170526526X.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -23623,7 +24970,9 @@
       },
       "duration": "PT11H26M",
       "cover_filename": "B0BX7CJVCS.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -24000,7 +25349,11 @@
       "multiple_reads": true,
       "read_status": null,
       "recommendation_status": null,
-      "theme": "writing"
+      "theme": "writing",
+      "multiple_formats": {
+        "audiobook": "059315018X",
+        "book": "9780143134343"
+      }
     }
   },
   "B0B8LKZB9M": {
@@ -24128,7 +25481,11 @@
       },
       "duration": "PT5H29M",
       "cover_filename": "B00O1GCA5M.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "writing",
       "recommendation_status": null
     }
@@ -24261,9 +25618,17 @@
       },
       "duration": "PT4H26M",
       "cover_filename": "B0774ZRRJL.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "like": true
+      },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "book": "9780307279415",
+        "audiobook": "B0774ZRRJL"
+      }
     }
   },
   "B075FG7HLK": {
@@ -24356,9 +25721,20 @@
       "duration": "PT1H53M",
       "cover_filename": "B075FG7HLK.jpg",
       "multiple_reads": true,
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "finish": true,
+        "multiple": true,
+        "like": true,
+        "plan": true,
+        "recommend": true
+      },
       "recommendation_status": null,
-      "theme": "presentation"
+      "theme": "presentation",
+      "multiple_formats": {
+        "audiobook": "B075FG7HLK",
+        "book": "9781523094110"
+      }
     }
   },
   "B00M8U0CJ4": {
@@ -24554,10 +25930,18 @@
       },
       "duration": "PT8H18M",
       "cover_filename": "B06VSQVPCY.jpg",
-      "read_status": null,
+      "read_status": {
+        "start": true,
+        "like": true,
+        "plan": true
+      },
       "recommendation_status": null,
       "theme": "psychology",
-      "location": "New York"
+      "location": "New York",
+      "multiple_formats": {
+        "audiobook": "B06VSQVPCY",
+        "book": "9781781252635"
+      }
     }
   },
   "B07LFKH5FV": {

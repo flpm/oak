@@ -1,4 +1,5 @@
 import datetime as dt
+from collections import defaultdict
 from typer import confirm
 from rich import print
 from rich.prompt import Prompt
@@ -145,6 +146,26 @@ def edit_loop(catalogue):
     for book_id, book_type, book in flat_catalogue:
         # Insert her any code to modify the book attributes
         pass
+
+    title_dict = defaultdict(list)
+    for book_id, book_type, book in flat_catalogue:
+        if book_title := book.get("title"):
+            title_dict[book_title].append((book, book_id, book_type))
+
+    c = 0
+    for entry in title_dict.values():
+        if len(entry) == 2:
+            book_1, id_1, type_1 = entry[0]
+            book_2, id_2, type_2 = entry[1]
+            if type_1 != type_2:
+                record = {
+                    type_1: id_1,
+                    type_2: id_2,
+                }
+                book_1["multiple_formats"] = record
+                book_2["multiple_formats"] = record
+            c += 1
+    print(f"Found {c//2} books with multiple formats.")
 
     total = len(flat_catalogue)
     current_index = 0

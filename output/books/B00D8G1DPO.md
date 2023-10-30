@@ -30,7 +30,10 @@ rating:
   count: 548
 duration: PT12H26M
 cover_filename: B00D8G1DPO.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  dislike: true
 theme: ancient history
 recommendation_status: null
 ---

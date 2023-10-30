@@ -29,7 +29,10 @@ rating:
   count: 547
 duration: PT12H13M
 cover_filename: B00DB92ATG.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

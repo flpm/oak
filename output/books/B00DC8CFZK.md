@@ -31,7 +31,10 @@ rating:
   count: 587
 duration: PT12H17M
 cover_filename: B00DC8CFZK.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

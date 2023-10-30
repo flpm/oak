@@ -34,7 +34,10 @@ rating:
   count: 1525
 duration: PT18H25M
 cover_filename: B00MXDGT2A.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

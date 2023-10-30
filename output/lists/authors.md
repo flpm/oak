@@ -5687,7 +5687,7 @@ index:
 
       ### Titles:
 
-      - (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard'
+      - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard'
     items:
     - title: null
       books:
@@ -8298,7 +8298,7 @@ index:
 - (paper) [More Magic](/books/info/9781492274124) by Professor Hoffmann
 - (paper) [Professor Hoffmann's Modern Magic](/books/info/9780825630842) by Professor Hoffmann
 ### Professor Mary Beard (1)
-- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
+- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
 ### R. Paul Wilson (1)
 - (paper) [The Art of the Con](/books/info/9781493000609) by R. Paul Wilson
 ### Rachel Manber (1)

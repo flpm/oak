@@ -30,7 +30,10 @@ rating:
   count: 325
 duration: PT4H26M
 cover_filename: B0774ZRRJL.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: writing
 recommendation_status: null
 ---

@@ -60,6 +60,11 @@ def print_book(loop_position, bookd_id, book_type, book):
         print(f"topics: {topics}")
     if book.get("theme"):
         print(f"theme: [bold white]{book['theme']}[/bold white]")
+    if multiple := book.get("multiple_formats"):
+        print(
+            "multiple formats: "
+            + ", ".join([f"[bold white]{i}[/bold white]" for i in multiple.keys()])
+        )
     if book.get("read_status"):
         print("status: ", end="")
         status_to_color = {

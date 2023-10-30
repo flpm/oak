@@ -32,7 +32,11 @@ rating:
   count: 2812
 duration: PT14H39M
 cover_filename: B06XWYMP73.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 recommendation_status: null
 theme: humor
 ---

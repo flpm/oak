@@ -308,8 +308,9 @@ index:
       \ Zanker, Se\xE1n Hemingway, Christopher S. Lightfoot, Joan R. Mertens\n- (paper)\
       \ [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820) by Tom\
       \ Stoppard\n- (paper) [Royal Road to Card Magic](/books/info/9780571063895)\
-      \ by Jean Hugard, Frederick Braue\n- (audio) [SPQR](/books/info/B01865AOJW)\
-      \ by Mary Beard\n- (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf\n\
+      \ by Jean Hugard, Frederick Braue\n- (paper) [SPQR](/books/info/9781846683800)\
+      \ by Professor Mary Beard\n- (audio) [SPQR](/books/info/B01865AOJW) by Mary\
+      \ Beard\n- (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf\n\
       - (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien\n\
       - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson\n\
       - (paper) [Semiology of Graphics](/books/info/9781589482616) by Jacques Bertin\n\
@@ -324,8 +325,7 @@ index:
       \ by Jacques Lob, Benjamin Legrand, Olivier Bocquet\n- (paper) [So, Anyway...](/books/info/9780385348249)\
       \ by John Cleese\n- (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835)\
       \ by Bill Watterson\n- (paper) [Spidering Hacks](/books/info/9780596005771)\
-      \ by Kevin Hemenway, Tara Calishain\n- (paper) [Spqr](/books/info/9781846683800)\
-      \ by Professor Mary Beard\n- (paper) [Starting Point](/books/info/9781421505947)\
+      \ by Kevin Hemenway, Tara Calishain\n- (paper) [Starting Point](/books/info/9781421505947)\
       \ by Hayao Miyazaki\n- (paper) [Statistics Done Wrong](/books/info/9781593276201)\
       \ by Alex Reinhart\n- (paper) [Story Of Writing Second Edition](/books/info/9780500286609)\
       \ by Andrew Robinson\n- (paper) [Strategies and Games](/books/info/9780262041690)\
@@ -705,6 +705,7 @@ index:
       - '9781785511837'
       - '9780571081820'
       - '9780571063895'
+      - '9781846683800'
       - B01865AOJW
       - '9781566562935'
       - '9780008348090'
@@ -721,7 +722,6 @@ index:
       - '9780385348249'
       - '9780751504835'
       - '9780596005771'
-      - '9781846683800'
       - '9781421505947'
       - '9781593276201'
       - '9780500286609'
@@ -1334,6 +1334,7 @@ index:
 - (paper) [Roman Art](/books/info/9781785511837) by Paul Zanker, Seán Hemingway, Christopher S. Lightfoot, Joan R. Mertens
 - (paper) [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard
 - (paper) [Royal Road to Card Magic](/books/info/9780571063895) by Jean Hugard, Frederick Braue
+- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
 - (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf
 - (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
@@ -1350,7 +1351,6 @@ index:
 - (paper) [So, Anyway...](/books/info/9780385348249) by John Cleese
 - (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson
 - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
-- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki
 - (paper) [Statistics Done Wrong](/books/info/9781593276201) by Alex Reinhart
 - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew Robinson

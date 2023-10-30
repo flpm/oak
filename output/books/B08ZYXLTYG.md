@@ -31,7 +31,12 @@ rating:
   count: 7666
 duration: PT1H32M
 cover_filename: B08ZYXLTYG.gif
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  plan: true
+  recommend: true
 recommendation_status: null
 theme: music
 ---

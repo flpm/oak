@@ -34,7 +34,9 @@ rating:
   count: 1850
 duration: PT12H39M
 cover_filename: B00XP3CMHI.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
 theme: ancient history
 recommendation_status: null
 ---

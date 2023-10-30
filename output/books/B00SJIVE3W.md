@@ -32,7 +32,9 @@ rating:
   count: 2284
 duration: PT18H48M
 cover_filename: B00SJIVE3W.jpg
-read_status: null
+read_status:
+  start: true
+  dislike: true
 theme: writing
 recommendation_status: null
 ---

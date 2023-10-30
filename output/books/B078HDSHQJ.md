@@ -31,7 +31,10 @@ rating:
   count: 1003
 duration: PT12H16M
 cover_filename: B078HDSHQJ.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

@@ -41,7 +41,8 @@ rating:
   count: 3909
 duration: PT8H18M
 cover_filename: B00NJ58OWE.jpg
-read_status: null
+read_status:
+  start: true
 theme: psychology
 recommendation_status: null
 ---

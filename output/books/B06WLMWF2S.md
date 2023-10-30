@@ -31,7 +31,10 @@ rating:
   count: 19724
 duration: PT62H52M
 cover_filename: B06WLMWF2S.jpg
-read_status: null
+read_status:
+  start: true
+  like: true
+  plan: true
 theme: crime fiction
 recommendation_status: null
 ---

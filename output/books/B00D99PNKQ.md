@@ -32,7 +32,10 @@ rating:
   count: 2575
 duration: PT12H25M
 cover_filename: B00D99PNKQ.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: mythology
 recommendation_status: null
 ---

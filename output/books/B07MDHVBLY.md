@@ -31,7 +31,10 @@ rating:
   count: 665
 duration: PT12H41M
 cover_filename: B07MDHVBLY.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

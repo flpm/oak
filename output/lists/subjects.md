@@ -39,18 +39,19 @@ index:
       \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by\
       \ Robert Garland\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac\
       \ Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n\
-      - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [Spqr](/books/info/9781846683800)\
-      \ by Professor Mary Beard\n- (paper) [The Atlas of Ancient Rome](/books/info/9780691163475)\
-      \ by Andrea Carandini\n- (paper) [The Complete Roman Army](/books/info/9780500288993)\
-      \ by Adrian Goldsworthy\n- (audio) [The Fall of Carthage](/books/info/1977330053)\
-      \ by Adrian Goldsworthy\n- (audio) [The Fires of Vesuvius](/books/info/197734996X)\
-      \ by Mary Beard\n- (paper) [The First Fossil Hunters](/books/info/9780691245607)\
-      \ by Adrienne Mayor\n- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06)\
-      \ by John R. Hale\n- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory\
-      \ S. Aldrete\n- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory\
-      \ S. Aldrete\n- (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
-      \ by Edwin Mullins\n- (paper) [The Rosetta Stone](/books/info/9780714150215)\
-      \ by Richard Parkinson\n- (paper) [Three Stones Make a Wall](/books/info/9780691166407)\
+      - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard\n- (audio)\
+      \ [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [The Atlas of Ancient\
+      \ Rome](/books/info/9780691163475) by Andrea Carandini\n- (paper) [The Complete\
+      \ Roman Army](/books/info/9780500288993) by Adrian Goldsworthy\n- (audio) [The\
+      \ Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy\n- (audio)\
+      \ [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard\n- (paper) [The\
+      \ First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor\n- (audio)\
+      \ [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale\n- (audio)\
+      \ [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete\n- (audio)\
+      \ [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete\n- (paper)\
+      \ [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by\
+      \ Edwin Mullins\n- (paper) [The Rosetta Stone](/books/info/9780714150215) by\
+      \ Richard Parkinson\n- (paper) [Three Stones Make a Wall](/books/info/9780691166407)\
       \ by Eric H. Cline\n- (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376)\
       \ by Alberto Angela\n- (audio) [Writing and Civilization](/books/info/B00F52DXH0)\
       \ by Marc Zender"
@@ -85,8 +86,8 @@ index:
       - B00XP3CMHI
       - '9788420635507'
       - '9788420637440'
-      - B01865AOJW
       - '9781846683800'
+      - B01865AOJW
       - '9780691163475'
       - '9780500288993'
       - '1977330053'
@@ -952,16 +953,17 @@ index:
       \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by\
       \ Robert Garland\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac\
       \ Asimov\n- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n\
-      - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [Spqr](/books/info/9781846683800)\
-      \ by Professor Mary Beard\n- (paper) [The Atlas of Ancient Rome](/books/info/9780691163475)\
-      \ by Andrea Carandini\n- (paper) [The Complete Roman Army](/books/info/9780500288993)\
-      \ by Adrian Goldsworthy\n- (audio) [The Fall of Carthage](/books/info/1977330053)\
-      \ by Adrian Goldsworthy\n- (audio) [The Fires of Vesuvius](/books/info/197734996X)\
-      \ by Mary Beard\n- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06)\
-      \ by John R. Hale\n- (paper) [The Penguin History of the USA](/books/info/9780140252552)\
-      \ by Hugh Brogan\n- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory\
-      \ S. Aldrete\n- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory\
-      \ S. Aldrete\n- (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
+      - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard\n- (audio)\
+      \ [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (paper) [The Atlas of Ancient\
+      \ Rome](/books/info/9780691163475) by Andrea Carandini\n- (paper) [The Complete\
+      \ Roman Army](/books/info/9780500288993) by Adrian Goldsworthy\n- (audio) [The\
+      \ Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy\n- (audio)\
+      \ [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard\n- (audio) [The\
+      \ Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale\n- (paper)\
+      \ [The Penguin History of the USA](/books/info/9780140252552) by Hugh Brogan\n\
+      - (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete\n\
+      - (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete\n\
+      - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
       \ by Edwin Mullins\n- (paper) [Uma Breve Hist\xF3ria do Brasil](/books/info/9788576655299)\
       \ by Mary del Priore, Renato Venancio\n- (paper) [Une journ\xE9e dans la Rome\
       \ antique](/books/info/9782228930376) by Alberto Angela"
@@ -993,8 +995,8 @@ index:
       - B00XP3CMHI
       - '9788420635507'
       - '9788420637440'
-      - B01865AOJW
       - '9781846683800'
+      - B01865AOJW
       - '9780691163475'
       - '9780500288993'
       - '1977330053'
@@ -2119,8 +2121,8 @@ index:
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
+- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
-- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy
@@ -2392,8 +2394,8 @@ index:
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
 - (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
 - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
+- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
 - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
-- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard
 - (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy

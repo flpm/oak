@@ -33,7 +33,10 @@ rating:
   count: 5201
 duration: PT7H59M
 cover_filename: B008ELXJD2.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: crime fiction
 recommendation_status: null
 ---

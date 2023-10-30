@@ -31,7 +31,10 @@ rating:
   count: 380
 duration: PT12H13M
 cover_filename: B00D7JMGEY.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: ancient history
 recommendation_status: null
 ---

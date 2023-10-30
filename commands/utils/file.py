@@ -119,7 +119,8 @@ def read_markdown(filename):
             content = fp.read()
     except FileNotFoundError:
         return dict()
-    frontmatter, description = content.split("---\n")[1:]
+    frontmatter, *description = content.split("---\n")[1:]
+    description = "---\n".join(description)
     book = yaml.load(frontmatter, Loader=yaml.FullLoader)
     book["description"] = description
     return book

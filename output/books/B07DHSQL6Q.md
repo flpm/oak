@@ -35,7 +35,10 @@ rating:
   count: 1259
 duration: PT4H58M
 cover_filename: B07DHSQL6Q.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: business
 recommendation_status: null
 ---

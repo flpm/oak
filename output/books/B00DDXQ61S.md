@@ -30,7 +30,11 @@ rating:
   count: 529
 duration: PT18H28M
 cover_filename: B00DDXQ61S.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 theme: mythology
 recommendation_status: null
 ---

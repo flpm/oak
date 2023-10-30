@@ -32,7 +32,10 @@ rating:
   count: 25886
 duration: PT9H22M
 cover_filename: B01D3AC5BA.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: psychology
 recommendation_status: null
 ---

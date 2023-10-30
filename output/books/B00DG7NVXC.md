@@ -34,7 +34,11 @@ rating:
   count: 349
 duration: PT18H41M
 cover_filename: B00DG7NVXC.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 recommendation_status: null
 theme: archaeology
 ---

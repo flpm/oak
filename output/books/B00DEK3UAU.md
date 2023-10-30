@@ -32,7 +32,9 @@ rating:
   count: 959
 duration: PT18H51M
 cover_filename: B00DEK3UAU.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
 theme: ancient history
 recommendation_status: null
 ---

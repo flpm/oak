@@ -35,7 +35,11 @@ rating:
   count: 3727
 duration: PT24H46M
 cover_filename: B00MFQLERK.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
+  recommend: true
 recommendation_status: null
 theme: ancient history
 ---

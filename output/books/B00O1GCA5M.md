@@ -31,7 +31,10 @@ rating:
   count: 1704
 duration: PT5H29M
 cover_filename: B00O1GCA5M.jpg
-read_status: null
+read_status:
+  start: true
+  finish: true
+  like: true
 theme: writing
 recommendation_status: null
 ---

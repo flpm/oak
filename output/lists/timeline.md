@@ -19,7 +19,7 @@ items:
     - (Paperback in Writing) [A Short Guide to Writing about Literature](/books/info/9780205118458)
     by Sylvan Barnet, William E. Cain
 
-    - (Hardcover in Ancient History) [Spqr](/books/info/9781846683800) by Professor
+    - (Hardcover in Ancient History) [SPQR](/books/info/9781846683800) by Professor
     Mary Beard
 
     - (Hardcover in Biography) [Making It So](/books/info/9781982167738) by Patrick
@@ -163,8 +163,6 @@ items:
     - (Audiobook in Writing) [First You Write a Sentence](/books/info/059315018X)
     by Joe Moran
 
-    - (Paperback in Others) [Architecture](/books/info/9780192801791) by Andrew Ballantyne
-
     - (Paperback in Software) [Architecture Patterns with Python](/books/info/9781492052203)
     by Harry Percival, Bob Gregory
 
@@ -175,7 +173,6 @@ items:
     by Wizards RPG Team'
   books:
   - 059315018X
-  - '9780192801791'
   - '9781492052203'
   - B0BX7CJVCS
   - '9780786966011'
@@ -698,6 +695,13 @@ items:
   books:
   - '9781680508604'
 - title:
+  - October 2018
+  description: 'Book title:
+
+    - (Paperback in Others) [Architecture](/books/info/9780192801791) by Andrew Ballantyne'
+  books:
+  - '9780192801791'
+- title:
   - May 2018
   description: 'Book titles:
 
@@ -1030,11 +1034,15 @@ items:
   - '9780544272996'
 - title:
   - May 2012
-  description: 'Book title:
+  description: 'Book titles:
+
+    - (Hardcover in Design) [How To Design a House](/books/info/9781840915457) by
+    Design Museum Enterprise Limit
 
     - (Hardcover in New York) [The City Out My Window](/books/info/9781416569909)
     by Matteo Pericoli'
   books:
+  - '9781840915457'
   - '9781416569909'
 - title:
   - February 2012

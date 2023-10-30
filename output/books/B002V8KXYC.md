@@ -31,7 +31,8 @@ rating:
   count: 221
 duration: PT14H5M
 cover_filename: B002V8KXYC.jpg
-read_status: null
+read_status:
+  plan: true
 theme: ancient history
 recommendation_status: null
 ---

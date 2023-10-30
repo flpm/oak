@@ -32,7 +32,8 @@ rating:
   count: 291
 duration: PT1H31M
 cover_filename: B00TP2UMTS.jpg
-read_status: null
+read_status:
+  plan: true
 theme: math
 recommendation_status: null
 ---

@@ -33,7 +33,10 @@ rating:
   count: 9
 duration: PT8H18M
 cover_filename: B06VSQVPCY.jpg
-read_status: null
+read_status:
+  start: true
+  like: true
+  plan: true
 recommendation_status: null
 theme: psychology
 location: New York
