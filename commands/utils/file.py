@@ -262,7 +262,8 @@ def write_markdown_list(
 
 def include_book(book):
     return (
-        book.get("authors")
+        not book.get("deleted")
+        and book.get("authors")
         and book.get("title")
         and book.get("cover_filename")
         and book.get("theme") != "kids"
@@ -303,6 +304,7 @@ def save_attributes(args=None, attributes_storage_file="./raw/attributes.json"):
         "read_status",
         "locked",
         "do_not_update",
+        "deleted",
     )
 
     if args is not None:

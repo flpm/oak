@@ -16,11 +16,9 @@ items:
   - '9780262182621'
   - '9781593278960'
   - '9781680508604'
-  - '9780596005771'
-  - '9780978739232'
   - '9780201616224'
 ---
-I have 14 books about Software in my personal library.
+I have 12 books about Software in my personal library.
 
 ### Titles:
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
@@ -34,6 +32,4 @@ I have 14 books about Software in my personal library.
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
-- (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
-- (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas

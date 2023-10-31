@@ -50,6 +50,7 @@ def book_action(
         "prev": "Previous book",
         "go": "Go to book (by number)",
         "find": "Find book (by title)",
+        "delete": "Mark book as deleted",
         "save": "Save",
         "quit": "Quit",
     }
@@ -495,3 +496,12 @@ def edit_loop(catalogue):
                 else:
                     print("[red]Book not found[/red]")
                     break
+
+            elif answer == "delete":
+                deleted_now = book.get("deleted", False)
+                if not deleted_now and confirm("Delete this book?", False):
+                    book["deleted"] = True
+                    print("[red]Book deleted[/red]")
+                elif deleted_now and confirm("Restore this book?", False):
+                    book.pop("deleted")
+                    print("[green]Book restored[/green]")

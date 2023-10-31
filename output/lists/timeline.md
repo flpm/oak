@@ -1245,15 +1245,11 @@ items:
   - '9780544173767'
 - title:
   - September 2008
-  description: 'Book titles:
-
-    - (Paperback in Software) [TextMate](/books/info/9780978739232) by James Edward
-    Gray
+  description: 'Book title:
 
     - (Paperback in Science) [The Varieties of Scientific Experience](/books/info/9780143112624)
     by Carl Sagan'
   books:
-  - '9780978739232'
   - '9780143112624'
 - title:
   - August 2008
@@ -1319,31 +1315,12 @@ items:
   - '9780961392116'
 - title:
   - October 2007
-  description: 'Book titles:
+  description: 'Book title:
 
     - (Hardcover in Software) [Processing](/books/info/9780262182621) by Casey Reas,
-    Ben Fry
-
-    - (Paperback in Engineering) [Making Things Talk](/books/info/9780596510510) by
-    Tom Igoe'
+    Ben Fry'
   books:
   - '9780262182621'
-  - '9780596510510'
-- title:
-  - September 2007
-  description: 'Book title:
-
-    - (Hardcover in Business) [Law 101](/books/info/9780195179576) by Jay M. Feinman'
-  books:
-  - '9780195179576'
-- title:
-  - August 2007
-  description: 'Book title:
-
-    - (Hardcover in Business) [The Leader''s Guide to Storytelling](/books/info/9780787976750)
-    by Stephen Denning'
-  books:
-  - '9780787976750'
 - title:
   - July 2007
   description: 'Book title:
@@ -1361,24 +1338,12 @@ items:
   - '9788420637457'
 - title:
   - March 2007
-  description: 'Book titles:
-
-    - (Hardcover in Design) [Universal Principles of Design](/books/info/9781592530076)
-    by William Lidwell, Jill Butler, Kritina Holden
-
-    - (Hardcover in Entrepreneurship) [The Art of the Start](/books/info/9781591840565)
-    by Guy Kawasaki'
-  books:
-  - '9781592530076'
-  - '9781591840565'
-- title:
-  - February 2007
   description: 'Book title:
 
-    - (Paperback in Entrepreneurship) [Founders at Work](/books/info/9781430210771)
-    by Jessica Livingston'
+    - (Hardcover in Design) [Universal Principles of Design](/books/info/9781592530076)
+    by William Lidwell, Jill Butler, Kritina Holden'
   books:
-  - '9781430210771'
+  - '9781592530076'
 - title:
   - December 2006
   description: 'Book titles:
@@ -1450,24 +1415,12 @@ items:
   - '9780060006648'
   - '9780670020478'
 - title:
-  - February 2005
-  description: 'Book title:
-
-    - (Paperback in Security) [Hacking Exposed Computer Forensics](/books/info/9780072256758)
-    by Chris Davis, David Cowen, Aaron Philipp'
-  books:
-  - '9780072256758'
-- title:
   - September 2004
-  description: 'Book titles:
-
-    - (Paperback in Business) [Getting It Done](/books/info/9780887309588) by Roger
-    Fisher, Alan Sharp
+  description: 'Book title:
 
     - (Paperback in Business) [UC Difficult Conversations](/books/info/9780140277821)
     by Douglas Stone, Sheila Heen, Bruce Patton'
   books:
-  - '9780887309588'
   - '9780140277821'
 - title:
   - June 2004
@@ -1501,14 +1454,6 @@ items:
     Marx'
   books:
   - '9780140294255'
-- title:
-  - December 2003
-  description: 'Book title:
-
-    - (Paperback in Software) [Spidering Hacks](/books/info/9780596005771) by Kevin
-    Hemenway, Tara Calishain'
-  books:
-  - '9780596005771'
 - title:
   - October 2003
   description: 'Book titles:

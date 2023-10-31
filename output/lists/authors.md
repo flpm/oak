@@ -20,17 +20,13 @@ index:
     name: by Aaron Philipp
     title: 'Authors: Aaron Philipp'
     subtitle: Books by Aaron Philipp
-    description: 'I have 1 book by Aaron Philipp in my personal library.
+    description: 'I have 0 books by Aaron Philipp in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by
-      Chris Davis, David Cowen, Aaron Philipp'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780072256758'
+      books: []
   Abbott Joseph Liebling:
     name: by Abbott Joseph Liebling
     title: 'Authors: Abbott Joseph Liebling'
@@ -165,17 +161,13 @@ index:
     name: by Alan Sharp
     title: 'Authors: Alan Sharp'
     subtitle: Books by Alan Sharp
-    description: 'I have 1 book by Alan Sharp in my personal library.
+    description: 'I have 0 books by Alan Sharp in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan
-      Sharp'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780887309588'
+      books: []
   Alberto Angela:
     name: by Alberto Angela
     title: 'Authors: Alberto Angela'
@@ -1235,17 +1227,13 @@ index:
     name: by Chris Davis
     title: 'Authors: Chris Davis'
     subtitle: Books by Chris Davis
-    description: 'I have 1 book by Chris Davis in my personal library.
+    description: 'I have 0 books by Chris Davis in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by
-      Chris Davis, David Cowen, Aaron Philipp'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780072256758'
+      books: []
   Christine A. Padesky:
     name: by Christine A. Padesky
     title: 'Authors: Christine A. Padesky'
@@ -1660,17 +1648,13 @@ index:
     name: by David Cowen
     title: 'Authors: David Cowen'
     subtitle: Books by David Cowen
-    description: 'I have 1 book by David Cowen in my personal library.
+    description: 'I have 0 books by David Cowen in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by
-      Chris Davis, David Cowen, Aaron Philipp'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780072256758'
+      books: []
   David D. Burns:
     name: by David D. Burns
     title: 'Authors: David D. Burns'
@@ -2700,19 +2684,13 @@ index:
     name: by Gordon Hempton
     title: 'Authors: Gordon Hempton'
     subtitle: Books by Gordon Hempton
-    description: 'I have 2 books by Gordon Hempton in my personal library.
+    description: 'I have 0 books by Gordon Hempton in my personal library.
 
 
-      ### Titles:
-
-      - (audio) [Cape Cod National Seashore](/books/info/B0877CXKYX) by Gordon Hempton
-
-      - (audio) [The Atlantic](/books/info/B089ZS3Y17) by Gordon Hempton'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - B0877CXKYX
-      - B089ZS3Y17
+      books: []
   Gordon J. G. Asmundson:
     name: by Gordon J. G. Asmundson
     title: 'Authors: Gordon J. G. Asmundson'
@@ -2824,16 +2802,13 @@ index:
     name: by Guy Kawasaki
     title: 'Authors: Guy Kawasaki'
     subtitle: Books by Guy Kawasaki
-    description: 'I have 1 book by Guy Kawasaki in my personal library.
+    description: 'I have 0 books by Guy Kawasaki in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781591840565'
+      books: []
   "G\xE9rard Coulon":
     name: "by G\xE9rard Coulon"
     title: "Authors: G\xE9rard Coulon"
@@ -3368,16 +3343,13 @@ index:
     name: by James Edward Gray
     title: 'Authors: James Edward Gray'
     subtitle: Books by James Edward Gray
-    description: 'I have 1 book by James Edward Gray in my personal library.
+    description: 'I have 0 books by James Edward Gray in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780978739232'
+      books: []
   James Hutt:
     name: by James Hutt
     title: 'Authors: James Hutt'
@@ -3482,16 +3454,13 @@ index:
     name: by Jay M. Feinman
     title: 'Authors: Jay M. Feinman'
     subtitle: Books by Jay M. Feinman
-    description: 'I have 1 book by Jay M. Feinman in my personal library.
+    description: 'I have 0 books by Jay M. Feinman in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780195179576'
+      books: []
   Jay Parker:
     name: by Jay Parker
     title: 'Authors: Jay Parker'
@@ -3743,16 +3712,13 @@ index:
     name: by Jessica Livingston
     title: 'Authors: Jessica Livingston'
     subtitle: Books by Jessica Livingston
-    description: 'I have 1 book by Jessica Livingston in my personal library.
+    description: 'I have 0 books by Jessica Livingston in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781430210771'
+      books: []
   Jill Butler:
     name: by Jill Butler
     title: 'Authors: Jill Butler'
@@ -4464,17 +4430,13 @@ index:
     name: by Kevin Hemenway
     title: 'Authors: Kevin Hemenway'
     subtitle: Books by Kevin Hemenway
-    description: 'I have 1 book by Kevin Hemenway in my personal library.
+    description: 'I have 0 books by Kevin Hemenway in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara
-      Calishain'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780596005771'
+      books: []
   Khoi Vinh:
     name: by Khoi Vinh
     title: 'Authors: Khoi Vinh'
@@ -6046,20 +6008,16 @@ index:
     name: by Roger Fisher
     title: 'Authors: Roger Fisher'
     subtitle: Books by Roger Fisher
-    description: 'I have 2 books by Roger Fisher in my personal library.
+    description: 'I have 1 book by Roger Fisher in my personal library.
 
 
       ### Titles:
-
-      - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan
-      Sharp
 
       - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William
       L. Ury'
     items:
     - title: null
       books:
-      - '9780887309588'
       - '9781440673108'
   Ronald Pearson:
     name: by Ronald Pearson
@@ -6472,17 +6430,13 @@ index:
     name: by Stephen Denning
     title: 'Authors: Stephen Denning'
     subtitle: Books by Stephen Denning
-    description: 'I have 1 book by Stephen Denning in my personal library.
+    description: 'I have 0 books by Stephen Denning in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [The Leader''s Guide to Storytelling](/books/info/9780787976750) by
-      Stephen Denning'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780787976750'
+      books: []
   Stephen E. Ambrose:
     name: by Stephen E. Ambrose
     title: 'Authors: Stephen E. Ambrose'
@@ -6707,17 +6661,13 @@ index:
     name: by Tara Calishain
     title: 'Authors: Tara Calishain'
     subtitle: Books by Tara Calishain
-    description: 'I have 1 book by Tara Calishain in my personal library.
+    description: 'I have 0 books by Tara Calishain in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara
-      Calishain'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780596005771'
+      books: []
   Tardi/Manchette:
     name: by Tardi/Manchette
     title: 'Authors: Tardi/Manchette'
@@ -6866,16 +6816,13 @@ index:
     name: by Tom Igoe
     title: 'Authors: Tom Igoe'
     subtitle: Books by Tom Igoe
-    description: 'I have 1 book by Tom Igoe in my personal library.
+    description: 'I have 0 books by Tom Igoe in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9780596510510'
+      books: []
   Tom Stoppard:
     name: by Tom Stoppard
     title: 'Authors: Tom Stoppard'
@@ -7456,8 +7403,7 @@ index:
 ---
 
 ### A. A. Milne (0)
-### Aaron Philipp (1)
-- (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
+### Aaron Philipp (0)
 ### Abbott Joseph Liebling (1)
 - (paper) [Just Enough Liebling](/books/info/9780374104436) by Abbott Joseph Liebling
 ### Adrian Goldsworthy (5)
@@ -7480,8 +7426,7 @@ index:
 - (paper) [The Pleasures and Sorrows of Work](/books/info/9780375424441) by Alain De Botton
 ### Alan R. Hayakawa (1)
 - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R. Hayakawa
-### Alan Sharp (1)
-- (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
+### Alan Sharp (0)
 ### Alberto Angela (1)
 - (paper) [Une journée dans la Rome antique](/books/info/9782228930376) by Alberto Angela
 ### Aldous Huxley (1)
@@ -7634,8 +7579,7 @@ index:
 - (paper) [All about Life and Death](/books/info/9784871870436) by Cho Chikun, Cho Chikun Nine-Dan
 ### Chris Albon (1)
 - (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388) by Chris Albon
-### Chris Davis (1)
-- (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
+### Chris Davis (0)
 ### Christine A. Padesky (1)
 - (paper) [Mind Over Mood](/books/info/9780898621280) by Dennis Greenberger, Christine A. Padesky
 ### Christopher Johnson (1)
@@ -7692,8 +7636,7 @@ index:
 - (paper) [A Tour of the Calculus](/books/info/9780679747888) by David Berlinski
 ### David Cook (1)
 - (paper) [Dungeon Master's Guide (Advanced Dungeons & Dragons, Stock #2100)](/books/info/9780880387293) by David Cook
-### David Cowen (1)
-- (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
+### David Cowen (0)
 ### David D. Burns (1)
 - (paper) [Feeling Good](/books/info/9780062136497) by David D. Burns
 ### David Escardó (1)
@@ -7846,9 +7789,7 @@ index:
 - (paper) [Relentless](/books/info/9780981912189) by Go Game Guru
 ### Golan Levin (1)
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
-### Gordon Hempton (2)
-- (audio) [Cape Cod National Seashore](/books/info/B0877CXKYX) by Gordon Hempton
-- (audio) [The Atlantic](/books/info/B089ZS3Y17) by Gordon Hempton
+### Gordon Hempton (0)
 ### Gordon J. G. Asmundson (1)
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 ### Graciliano Ramos (1)
@@ -7865,8 +7806,7 @@ index:
 - (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete
 ### Groucho Marx (1)
 - (paper) [The Essential Groucho](/books/info/9780140294255) by Groucho Marx
-### Guy Kawasaki (1)
-- (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki
+### Guy Kawasaki (0)
 ### Gérard Coulon (2)
 - (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
 - (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
@@ -7953,8 +7893,7 @@ index:
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
 - (paper) [Attack and Defense (Elementary Go Series, #5)](/books/info/9784906574148) by Akira Ishida, James Davies
 - (paper) [Tesuji](/books/info/9784906574124) by James Davies
-### James Edward Gray (1)
-- (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
+### James Edward Gray (0)
 ### James Hutt (1)
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
 ### James M. Higgins (1)
@@ -7969,8 +7908,7 @@ index:
 - (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521) by Javier Sáez Castán
 ### Jay Jacobs (1)
 - (paper) [Data-Driven Security](/books/info/9781118793725) by Jay Jacobs, Bob Rudis
-### Jay M. Feinman (1)
-- (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
+### Jay M. Feinman (0)
 ### Jay Parker (1)
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
 ### Jaye Kovach (1)
@@ -8007,8 +7945,7 @@ index:
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein
 ### Jessica Hwang (1)
 - (paper) [Introduction to Probability](/books/info/9781466575578) by Joseph K. Blitzstein, Jessica Hwang
-### Jessica Livingston (1)
-- (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
+### Jessica Livingston (0)
 ### Jill Butler (1)
 - (paper) [Universal Principles of Design](/books/info/9781592530076) by William Lidwell, Jill Butler, Kritina Holden
 ### Jim Steinmeyer (3)
@@ -8118,8 +8055,7 @@ index:
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
 ### Kevin Flanigan (1)
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
-### Kevin Hemenway (1)
-- (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
+### Kevin Hemenway (0)
 ### Khoi Vinh (1)
 - (paper) [Ordering Disorder](/books/info/9780321703538) by Khoi Vinh
 ### Kimberly Elam (1)
@@ -8352,8 +8288,7 @@ index:
 - (audio) [The Copywriter's Handbook](/books/info/170526526X) by Robert W. Bly
 ### Robert-Vincent Joule (1)
 - (paper) [Petit traité de manipulation à l'usage des honnêtes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-Léon Beauvois
-### Roger Fisher (2)
-- (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
+### Roger Fisher (1)
 - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William L. Ury
 ### Ronald Pearson (1)
 - (paper) [Exploring Data in Engineering, the Sciences, and Medicine](/books/info/9780195089653) by Ronald Pearson
@@ -8414,8 +8349,7 @@ index:
 - (paper) [Hands-On Data Analysis with Pandas - Second Edition](/books/info/9781800563452) by Stefanie Molin
 ### Stefanie Posavec (1)
 - (paper) [Dear Data](/books/info/9781616895327) by Giorgia Lupi, Stefanie Posavec
-### Stephen Denning (1)
-- (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
+### Stephen Denning (0)
 ### Stephen E. Ambrose (1)
 - (paper) [D-Day: June 6, 1944](/books/info/9780684801377) by Stephen E. Ambrose
 ### Stephen Fry - introductions (1)
@@ -8449,8 +8383,7 @@ index:
 - (paper) [The Direction of Play (Intermediate to Advanced Go Books)](/books/info/9784906574261) by Takeo Kajiwara
 ### Taniguchi Jiro (1)
 - (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344) by Taniguchi Jiro
-### Tara Calishain (1)
-- (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
+### Tara Calishain (0)
 ### Tardi/Manchette (1)
 - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
 ### Tega Brain (1)
@@ -8475,8 +8408,7 @@ index:
 - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD, Daniel j. Siegel MD
 ### Todd Portnowitz (1)
 - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
-### Tom Igoe (1)
-- (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
+### Tom Igoe (0)
 ### Tom Stoppard (1)
 - (paper) [Rosencrantz and Guildenstern Are Dead](/books/info/9780571081820) by Tom Stoppard
 ### Toshiro Kageyama (1)

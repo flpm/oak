@@ -17,11 +17,16 @@ def print_book(loop_position, bookd_id, book_type, book):
         The book information.
 
     """
+    if book.get("deleted"):
+        deleted = f"[bold red]**DELETED**[/bold red] - "
+    else:
+        deleted = ""
     print("\n")
     print("---")
     print(
         (
             f"[bold white]{loop_position[0] + 1}[/bold white] of [bold white]{loop_position[1]}[/bold white] - "
+            f"{deleted}"
             f"[bold yellow]{book_type}[/bold yellow] - "
             f"[bold white]{book.get('title', '<missing title>')}[/bold white] "
             f"({book.get('source', '<missing source>')}) - {book.get('authors', '<missing authors>')}"

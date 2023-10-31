@@ -243,7 +243,7 @@ index:
     name: about Business
     title: 'Theme: Business'
     subtitle: Books about business and related topics
-    description: 'I have 11 books about Business in my personal library.
+    description: 'I have 8 books about Business in my personal library.
 
 
       ### Titles:
@@ -254,9 +254,6 @@ index:
       - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander
       Osterwalder, Yves Pigneur
 
-      - (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan
-      Sharp
-
       - (paper) [Getting Things Done](/books/info/9780142000281) by David Allen
 
       - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William
@@ -265,14 +262,9 @@ index:
       - (paper) [It''s Not How Good You Are, It''s How Good You Want To Be](/books/info/9780714843377)
       by Paul Arden
 
-      - (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
-
       - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 
       - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
-
-      - (paper) [The Leader''s Guide to Storytelling](/books/info/9780787976750) by
-      Stephen Denning
 
       - (paper) [UC Difficult Conversations](/books/info/9780140277821) by Douglas
       Stone, Sheila Heen, Bruce Patton'
@@ -281,14 +273,11 @@ index:
       books:
       - '9781883629007'
       - '9780470876411'
-      - '9780887309588'
       - '9780142000281'
       - '9781440673108'
       - '9780714843377'
-      - '9780195179576'
       - B07DHSQL6Q
       - '9781885705020'
-      - '9780787976750'
       - '9780140277821'
   ciphers:
     name: about Ciphers
@@ -508,7 +497,7 @@ index:
     title: 'Theme: Engineering'
     subtitle: Books about engineering, including software engineering and programming
       languages
-    description: 'I have 16 books about Engineering in my personal library.
+    description: 'I have 13 books about Engineering in my personal library.
 
 
       ### Titles:
@@ -533,8 +522,6 @@ index:
       - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas
       Crockford
 
-      - (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
-
       - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey
       E.F. Friedl
 
@@ -543,11 +530,6 @@ index:
       - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 
       - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
-
-      - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara
-      Calishain
-
-      - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 
       - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt,
       Dave Thomas'
@@ -562,31 +544,22 @@ index:
       - '9781430219491'
       - '9780743200790'
       - '9780596554873'
-      - '9780596510510'
       - '9781565922570'
       - '9780262182621'
       - '9781593278960'
       - '9781680508604'
-      - '9780596005771'
-      - '9780978739232'
       - '9780201616224'
   entrepreneurship:
     name: about Entrepreneurship
     title: 'Theme: Entrepreneurship'
     subtitle: Books about entrepreneurship and related topics
-    description: 'I have 2 books about Entrepreneurship in my personal library.
+    description: 'I have 0 books about Entrepreneurship in my personal library.
 
 
-      ### Titles:
-
-      - (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
-
-      - (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki'
+      ### Titles:'
     items:
     - title: null
-      books:
-      - '9781430210771'
-      - '9781591840565'
+      books: []
   epigraphy:
     name: about Epigraphy
     title: 'Theme: Epigraphy'
@@ -1807,7 +1780,7 @@ index:
     name: about Security
     title: 'Theme: Security'
     subtitle: Books about security, intelligence and risk
-    description: 'I have 15 books about Security in my personal library.
+    description: 'I have 14 books about Security in my personal library.
 
 
       ### Titles:
@@ -1821,9 +1794,6 @@ index:
       Rudis
 
       - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
-
-      - (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by
-      Chris Davis, David Cowen, Aaron Philipp
 
       - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by
       Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
@@ -1855,7 +1825,6 @@ index:
       - '9781544374260'
       - '9781118793725'
       - '9781449388393'
-      - '9780072256758'
       - '9781848822542'
       - '9781119085294'
       - '9781118143308'
@@ -1870,7 +1839,7 @@ index:
     name: about Software
     title: 'Theme: Software'
     subtitle: Books about software development and programming languages
-    description: 'I have 14 books about Software in my personal library.
+    description: 'I have 12 books about Software in my personal library.
 
 
       ### Titles:
@@ -1902,11 +1871,6 @@ index:
 
       - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
 
-      - (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara
-      Calishain
-
-      - (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
-
       - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt,
       Dave Thomas'
     items:
@@ -1923,8 +1887,6 @@ index:
       - '9780262182621'
       - '9781593278960'
       - '9781680508604'
-      - '9780596005771'
-      - '9780978739232'
       - '9780201616224'
   typography:
     name: about Typography
@@ -2173,17 +2135,14 @@ index:
 - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki
 - (paper) [The Good Neighbor](/books/info/9781419727726) by Maxwell King
 - (paper) [Turning Point](/books/info/9781421560908) by Hayao Miyazaki
-### [business](/books/about_business) (11)
+### [business](/books/about_business) (8)
 - (paper) [101 Creative Problem Solving Techniques](/books/info/9781883629007) by James M. Higgins
 - (paper) [Business Model Generation](/books/info/9780470876411) by Alexander Osterwalder, Yves Pigneur
-- (paper) [Getting It Done](/books/info/9780887309588) by Roger Fisher, Alan Sharp
 - (paper) [Getting Things Done](/books/info/9780142000281) by David Allen
 - (paper) [Getting to Yes](/books/info/9781440673108) by Roger Fisher, William L. Ury
 - (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377) by Paul Arden
-- (paper) [Law 101](/books/info/9780195179576) by Jay M. Feinman
 - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
-- (paper) [The Leader's Guide to Storytelling](/books/info/9780787976750) by Stephen Denning
 - (paper) [UC Difficult Conversations](/books/info/9780140277821) by Douglas Stone, Sheila Heen, Bruce Patton
 ### [ciphers](/books/about_ciphers) (3)
 - (paper) [Cryptanalysis](/books/info/9780486200972) by Helen Fouche Gaines
@@ -2254,7 +2213,7 @@ index:
 - (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
 - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
 - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman
-### [engineering](/books/about_engineering) (16)
+### [engineering](/books/about_engineering) (13)
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
 - (paper) [Architecture Patterns with Python](/books/info/9781492052203) by Harry Percival, Bob Gregory
@@ -2263,17 +2222,12 @@ index:
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
 - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
 - (paper) [Javascript: The Good Parts](/books/info/9780596554873) by Douglas Crockford
-- (paper) [Making Things Talk](/books/info/9780596510510) by Tom Igoe
 - (paper) [Mastering Regular Expressions](/books/info/9781565922570) by Jeffrey E.F. Friedl
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
-- (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
-- (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
-### [entrepreneurship](/books/about_entrepreneurship) (2)
-- (paper) [Founders at Work](/books/info/9781430210771) by Jessica Livingston
-- (paper) [The Art of the Start](/books/info/9781591840565) by Guy Kawasaki
+### [entrepreneurship](/books/about_entrepreneurship) (0)
 ### [epigraphy](/books/about_epigraphy) (7)
 - (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
 - (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker
@@ -2648,12 +2602,11 @@ index:
 - (paper) [What If? Serious Scientific Answers to Absurd Hypothetical Questions](/books/info/9780544272996) by Randall Munroe
 - (paper) [Why](/books/info/9781491949641) by Samantha Kleinberg
 - (paper) [Why Cats Land on Their Feet](/books/info/9780691148540) by Mark Levi
-### [security](/books/about_security) (15)
+### [security](/books/about_security) (14)
 - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier
 - (paper) [Critical Thinking for Strategic Intelligence](/books/info/9781544374260) by Katherine Hibbs Pherson, Randolph H. Pherson
 - (paper) [Data-Driven Security](/books/info/9781118793725) by Jay Jacobs, Bob Rudis
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
-- (paper) [Hacking Exposed Computer Forensics](/books/info/9780072256758) by Chris Davis, David Cowen, Aaron Philipp
 - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
 - (paper) [How to Measure Anything in Cybersecurity Risk](/books/info/9781119085294) by Douglas W. Hubbard, Richard Seiersen
 - (paper) [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier
@@ -2664,7 +2617,7 @@ index:
 - (paper) [The Hacker Crackdown](/books/info/9780553563702) by Bruce Sterling
 - (paper) [The Psychology of Risk](/books/info/9781107602700) by Glynis M. Breakwell
 - (paper) [Threat Modeling](/books/info/9780735619913) by Frank Swiderski, Window Snyder
-### [software](/books/about_software) (14)
+### [software](/books/about_software) (12)
 - (paper) [Advanced Programming in the UNIX Environment](/books/info/9780201563177) by W. Richard Stevens
 - (paper) [Advanced R](/books/info/9781466586963) by Hadley Wickham
 - (paper) [Architecture Patterns with Python](/books/info/9781492052203) by Harry Percival, Bob Gregory
@@ -2676,8 +2629,6 @@ index:
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 - (paper) [Python Flash Cards](/books/info/9781593278960) by Eric Matthes
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
-- (paper) [Spidering Hacks](/books/info/9780596005771) by Kevin Hemenway, Tara Calishain
-- (paper) [TextMate](/books/info/9780978739232) by James Edward Gray
 - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt, Dave Thomas
 ### [typography](/books/about_typography) (10)
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst

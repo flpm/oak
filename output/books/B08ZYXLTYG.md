@@ -30,7 +30,7 @@ rating:
   rating: 4.747325854422123
   count: 7666
 duration: PT1H32M
-cover_filename: B08ZYXLTYG.gif
+cover_filename: B08ZYXLTYG.jpg
 read_status:
   start: true
   finish: true
@@ -39,6 +39,8 @@ read_status:
   recommend: true
 recommendation_status: null
 theme: music
+do_not_update:
+- cover_filename
 ---
 “I realize, perhaps for the first time that I had to learn the cello to become a musician, and that it was only through decades of musical exploration that I came to understand my responsibility as a human being.”
 Journey with musical virtuoso Yo-Yo Ma as the iconic performer and global phenomenon delves into the world of self-discovery and our deeply interwoven humanity. This is Beginner's Mind, Ma’s extraordinary addition to Audible’s Words + Music series, blending vivid personal memoir and breathtaking exclusive performances with indelible lessons gained over a lifetime pursuing meaning, connection, and shared purpose.

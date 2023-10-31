@@ -1,5 +1,6 @@
 """Export book catalogue to Markdown files"""
 
+import os
 from rich import print
 from .utils.file import (
     read_catalogue,
@@ -29,6 +30,15 @@ def export_markdown(output_folder="./output"):
     list_output_folder = f"{output_folder}/lists"
 
     print(f"Exporting books:")
+    print(f"  - cleaning up {book_output_folder}")
+    for filename in os.listdir(book_output_folder):
+        if filename.endswith(".md"):
+            os.remove(f"{book_output_folder}/{filename}")
+    print(f"  - cleaning up {list_output_folder}")
+    for filename in os.listdir(list_output_folder):
+        if filename.endswith(".md"):
+            os.remove(f"{list_output_folder}/{filename}")
+
     exported_count = 0
     skipped_count = 0
     catalogue = read_catalogue()

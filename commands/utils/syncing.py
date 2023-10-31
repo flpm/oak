@@ -3,6 +3,8 @@
 import os
 from collections import defaultdict
 
+from rich import print
+
 from .file import read_markdown, write_markdown_book, write_markdown_list
 
 
@@ -93,6 +95,9 @@ def compare_folders(source_folder, dest_folder, item_type="books"):
     for item_key, item in dest_folder.items():
         if item_key not in source_folder:
             result["delete"].append((item_key, item))
+            print(
+                f"  - [bold yellow]{item.get('title', item_key)}[/bold yellow] is in dest but not source."
+            )
     return result
 
 

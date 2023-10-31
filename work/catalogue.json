@@ -11480,7 +11480,8 @@
         "start": true,
         "like": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9780195179576": {
@@ -11527,7 +11528,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9780787976750": {
@@ -11573,7 +11575,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9780713997279": {
@@ -11664,7 +11667,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9781591840565": {
@@ -11712,7 +11716,8 @@
         "start": true,
         "finish": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9781883629007": {
@@ -11806,7 +11811,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9781885705020": {
@@ -16178,7 +16184,8 @@
       "location": "New York",
       "read_status": null,
       "theme": "software",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9780201563177": {
@@ -16273,7 +16280,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9780596005771": {
@@ -16321,7 +16329,8 @@
       "read_status": {
         "start": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "9781118793725": {
@@ -18255,7 +18264,8 @@
       "listening_date": "2015-09-11",
       "read_status": null,
       "theme": "crime fiction",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00TP2UMTS": {
@@ -18497,7 +18507,8 @@
       "listening_date": "2019-11-23",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00FEFEBGK": {
@@ -18521,7 +18532,8 @@
       "listening_date": "2019-12-09",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B003TFSY7E": {
@@ -18594,7 +18606,8 @@
       "listening_date": "2019-12-21",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00FEFEK8O": {
@@ -18618,7 +18631,8 @@
       "listening_date": "2019-12-23",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00FEFEM82": {
@@ -18642,7 +18656,8 @@
       "listening_date": "2019-12-28",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00FEFEMQO": {
@@ -18666,7 +18681,8 @@
       "listening_date": "2019-12-30",
       "theme": "crime fiction",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B002V8H0OS": {
@@ -19829,7 +19845,10 @@
         "count": 7666
       },
       "duration": "PT1H32M",
-      "cover_filename": "B08ZYXLTYG.gif"
+      "cover_filename": "B08ZYXLTYG.jpg",
+      "do_not_update" : [
+        "cover_filename"
+      ]
     },
     "audiobook": {
       "full_title": "Beginner's Mind: Words + Music | Vol. 13",
@@ -19870,7 +19889,7 @@
         "count": 7666
       },
       "duration": "PT1H32M",
-      "cover_filename": "B08ZYXLTYG.gif",
+      "cover_filename": "B08ZYXLTYG.jpg",
       "read_status": {
         "start": true,
         "finish": true,
@@ -19879,7 +19898,10 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "music"
+      "theme": "music",
+      "do_not_update" : [
+        "cover_filename"
+      ]
     }
   },
   "B08M93Q9SP": {
@@ -24321,7 +24343,8 @@
       "duration": "PT2H",
       "cover_filename": "B089ZS3Y17.jpg",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B0877CXKYX": {
@@ -24364,7 +24387,8 @@
       "duration": "PT54M",
       "cover_filename": "B0877CXKYX.jpg",
       "read_status": null,
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "125075044X": {
