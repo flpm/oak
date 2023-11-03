@@ -12,14 +12,13 @@ items:
   - B008EUR8O4
   - B06WLMWF2S
   - B008RBDG46
+  description: "Book titles:\n\n- (audio) [Death on the Nile](/books/info/B008ELXJD2)\
+    \ by Agatha Christie\n- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
+    \ by Agatha Christie\n- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
+    \ by Georges Simenon\n- (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623)\
+    \ by Arturo P\xE9rez-Reverte\n- (audio) [Poirot Investigates](/books/info/B008EUR8O4)\
+    \ by Agatha Christie\n- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur\
+    \ Conan Doyle, Stephen Fry - introductions\n- (audio) [The Under Dog and Other\
+    \ Stories](/books/info/B008RBDG46) by Agatha Christie"
 ---
 I have 7 books about Crime Fiction in my personal library.
-
-### Titles:
-- (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
-- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734) by Agatha Christie
-- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
-- (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623) by Arturo Pérez-Reverte
-- (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha Christie
-- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
-- (audio) [The Under Dog and Other Stories](/books/info/B008RBDG46) by Agatha Christie

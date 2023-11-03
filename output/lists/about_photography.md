@@ -6,8 +6,10 @@ items:
 - title: null
   books:
   - '9783931141967'
+  description: 'Book title:
+
+
+    - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman,
+    Philippe Sollers, Elizabeth Janus'
 ---
 I have 1 book about Photography in my personal library.
-
-### Titles:
-- (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus

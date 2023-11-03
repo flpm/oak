@@ -107,14 +107,14 @@ def export_markdown(output_folder="./output"):
         include_items=False,
     )
 
-    recent_list = create_recent_list(catalogue)
+    recent_list = create_recent_list(catalogue, number_of_books=None)
     write_markdown_list(
         recent_list,
         list_output_folder=list_output_folder,
         include_items=True,
     )
 
-    recent_list = create_recent_list(catalogue, number_of_books=None)
+    recent_list = create_recent_list(catalogue, number_of_books=8)
     write_markdown_list(
         recent_list,
         list_output_folder=list_output_folder,

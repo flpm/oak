@@ -48,50 +48,48 @@ items:
   - '9780691166407'
   - '9782228930376'
   - B00F52DXH0
+  description: "Book titles:\n\n- (audio) [Alexander the Great and the Hellenistic\
+    \ Age](/books/info/B00D7JMGEY) by Jeremy McInerney\n- (audio) [Augustus](/books/info/B00MXDGT2A)\
+    \ by Adrian Goldsworthy\n- (paper) [By Roman Hands](/books/info/9781585104024)\
+    \ by Matthew Hartnett\n- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy\n\
+    - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy\n- (paper)\
+    \ [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227)\
+    \ by H. E. L. Mellersh\n- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20)\
+    \ by Steven L. Tuck\n- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)\
+    \ by John R. Hale\n- (paper) [Cuneiform](/books/info/9780520061156) by C. B. F.\
+    \ Walker\n- (paper) [Daily Life in the Roman City](/books/info/9780806140278)\
+    \ by Gregory S. Aldrete\n- (paper) [El Cercano Oriente (Historia Universal Asimov,\
+    \ #1)](/books/info/9788420637457) by Isaac Asimov\n- (paper) [El Imperio Romano](/books/info/9788420635484)\
+    \ by Isaac Asimov\n- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus\
+    \ Fears\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
+    \ by Clare Rowan\n- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG)\
+    \ by Garrett G. Fagan\n- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by\
+    \ Robert Garland\n- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver\n\
+    - (paper) [Hi\xE9roglyphes mode d'emploi](/books/info/9782711841103) by Evelyne\
+    \ Faivre-Martin\n- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106)\
+    \ by Mark Collier, Bill Manley\n- (audio) [Julius Caesar](/books/info/B002V8KXYC)\
+    \ by J. F. C. Fuller\n- (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988)\
+    \ by Samuel Noah Kramer\n- (paper) [La Rep\xFAblica Romana](/books/info/9788420635347)\
+    \ by Isaac Asimov\n- (paper) [Latin Inscriptions](/books/info/9781606064665) by\
+    \ Dirk Booms\n- (paper) [Le G\xE9nie civil de l'arm\xE9e romaine](/books/info/9782877726351)\
+    \ by G\xE9rard Coulon\n- (paper) [Le G\xE9nie maritime romain](/books/info/9782877726894)\
+    \ by G\xE9rard Coulon\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
+    \ Garland\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov\n\
+    - (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper)\
+    \ [SPQR](/books/info/9781846683800) by Professor Mary Beard\n- (audio) [SPQR](/books/info/B01865AOJW)\
+    \ by Mary Beard\n- (paper) [The Atlas of Ancient Rome](/books/info/9780691163475)\
+    \ by Andrea Carandini\n- (paper) [The Complete Roman Army](/books/info/9780500288993)\
+    \ by Adrian Goldsworthy\n- (audio) [The Fall of Carthage](/books/info/1977330053)\
+    \ by Adrian Goldsworthy\n- (audio) [The Fires of Vesuvius](/books/info/197734996X)\
+    \ by Mary Beard\n- (paper) [The First Fossil Hunters](/books/info/9780691245607)\
+    \ by Adrienne Mayor\n- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06)\
+    \ by John R. Hale\n- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory\
+    \ S. Aldrete\n- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory\
+    \ S. Aldrete\n- (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
+    \ by Edwin Mullins\n- (paper) [The Rosetta Stone](/books/info/9780714150215) by\
+    \ Richard Parkinson\n- (paper) [Three Stones Make a Wall](/books/info/9780691166407)\
+    \ by Eric H. Cline\n- (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376)\
+    \ by Alberto Angela\n- (audio) [Writing and Civilization](/books/info/B00F52DXH0)\
+    \ by Marc Zender"
 ---
 I have 43 books about Ancient History in my personal library.
-
-### Titles:
-- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
-- (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
-- (paper) [By Roman Hands](/books/info/9781585104024) by Matthew Hartnett
-- (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
-- (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
-- (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by H. E. L. Mellersh
-- (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck
-- (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale
-- (paper) [Cuneiform](/books/info/9780520061156) by C. B. F. Walker
-- (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
-- (paper) [El Cercano Oriente (Historia Universal Asimov, #1)](/books/info/9788420637457) by Isaac Asimov
-- (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov
-- (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
-- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698) by Clare Rowan
-- (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan
-- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
-- (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver
-- (paper) [Hiéroglyphes mode d'emploi](/books/info/9782711841103) by Evelyne Faivre-Martin
-- (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
-- (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller
-- (paper) [L'Histoire commence à Sumer](/books/info/9782080812988) by Samuel Noah Kramer
-- (paper) [La República Romana](/books/info/9788420635347) by Isaac Asimov
-- (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
-- (paper) [Le Génie civil de l'armée romaine](/books/info/9782877726351) by Gérard Coulon
-- (paper) [Le Génie maritime romain](/books/info/9782877726894) by Gérard Coulon
-- (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
-- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov
-- (paper) [Los griegos](/books/info/9788420637440) by Isaac Asimov
-- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
-- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
-- (paper) [The Atlas of Ancient Rome](/books/info/9780691163475) by Andrea Carandini
-- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
-- (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy
-- (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard
-- (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor
-- (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale
-- (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete
-- (audio) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory S. Aldrete
-- (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
-- (paper) [The Rosetta Stone](/books/info/9780714150215) by Richard Parkinson
-- (paper) [Three Stones Make a Wall](/books/info/9780691166407) by Eric H. Cline
-- (paper) [Une journée dans la Rome antique](/books/info/9782228930376) by Alberto Angela
-- (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender

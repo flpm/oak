@@ -6,8 +6,10 @@ items:
 - title: null
   books:
   - '9781107420984'
+  description: 'Book title:
+
+
+    - (paper) [The Anthropology of Childhood](/books/info/9781107420984) by David
+    F. Lancy'
 ---
 I have 1 book about Anthropology in my personal library.
-
-### Titles:
-- (paper) [The Anthropology of Childhood](/books/info/9781107420984) by David F. Lancy

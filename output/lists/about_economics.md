@@ -9,11 +9,16 @@ items:
   - '9780262041690'
   - '9780393069792'
   - '9780374533557'
+  description: 'Book titles:
+
+
+    - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan
+
+    - (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
+
+    - (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit,
+    Barry J. Nalebuff
+
+    - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman'
 ---
 I have 4 books about Economics in my personal library.
-
-### Titles:
-- (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan
-- (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
-- (paper) [Thinking Strategically](/books/info/9780393069792) by Avinash K. Dixit, Barry J. Nalebuff
-- (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman

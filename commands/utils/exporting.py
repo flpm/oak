@@ -132,12 +132,6 @@ def make_list(
                         f"book{'s' if len(included) != 1 else ''} {list_data.get('index_title_preposition', 'about')} {attribute_value.title()} "
                         "in my personal library."
                     ),
-                    "",
-                    "### Titles:",
-                ]
-                + [
-                    f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-                    for book in sorted(included, key=lambda x: x["title"])
                 ]
             ),
             "items": [
@@ -147,6 +141,13 @@ def make_list(
                         book["book_id"]
                         for book in sorted(included, key=lambda x: x["title"])
                     ],
+                    "description": "\n".join(
+                        ["Book titles:" if len(included) != 1 else "Book title:", ""]
+                        + [
+                            f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+                            for book in sorted(included, key=lambda x: x["title"])
+                        ]
+                    ),
                 }
             ],
         }
@@ -226,7 +227,7 @@ def create_recent_list(catalogue, number_of_books=10):
         list_data = {
             "name": "recent",
             "title": "Recent acquisitions",
-            "subtitle": f"The last {number_of_books} books added to the bookshelf",
+            "subtitle": f"The last {number_of_books} books I have added to my personal library",
             "items": list(),
             "description": "",
             "attribute": "purchase_date",
@@ -248,9 +249,7 @@ def create_recent_list(catalogue, number_of_books=10):
     if number_of_books is None:
         pass
     else:
-        recent_description.append(
-            f"### Last {number_of_books} books added to the bookshelf:"
-        )
+        recent_description.append("Book titles:")
     recent_book_list = list()
     timeline = defaultdict(lambda: defaultdict(list))
     for date, book in ordered_data[:number_of_books]:
@@ -262,7 +261,6 @@ def create_recent_list(catalogue, number_of_books=10):
         if number_of_books is None:
             year, month, day = date.split("-")
             timeline[year][month].append(book)
-    list_data["description"] = "\n".join(recent_description)
 
     if number_of_books is None:
         for year, months in timeline.items():
@@ -287,7 +285,7 @@ def create_recent_list(catalogue, number_of_books=10):
         list_data["items"].append(
             {
                 "title": None,
-                "description": None,
+                "description": "\n".join(recent_description),
                 "books": recent_book_list,
             }
         )
