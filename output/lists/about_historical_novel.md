@@ -6,10 +6,13 @@ items:
 - title: null
   books:
   - '9788408267461'
-  description: 'Book title:
+  - B002UZYX2Y
+  description: 'Book titles:
 
 
     - (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)
-    by Luis Garcia Jambrina'
+    by Luis Garcia Jambrina
+
+    - (audio) [The Pillars of the Earth](/books/info/B002UZYX2Y) by Ken Follett'
 ---
-I have 1 book about Historical Novel in my personal library.
+I have 2 books about Historical Novel in my personal library.

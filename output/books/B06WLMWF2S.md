@@ -6,12 +6,12 @@ asin: B06WLMWF2S
 length: '226362000'
 owned: 'true'
 type: audiobook
-format: Audiobook
+format: audiobook
 listening:
   duration: 11158.0
   first_time: '2022-01-24'
   last_time: '2022-01-27'
-link: https://www.audible.com/pd/B06WLMWF2S
+link: https://www.audible.com/pd/Sherlock-Holmes-Audiobook/B06WLMWF2S
 source: Audible
 listening_date: '2022-01-24'
 topics:
@@ -37,6 +37,10 @@ read_status:
   plan: true
 theme: crime fiction
 recommendation_status: null
+author: Arthur Conan Doyle
+narrator: Stephen Fry
+cover_url: My%20Library%20Audible.com-2_files/51T1NWIkR4L._SL500_.jpg
+book_type: audiobook
 ---
 "Fry's Holmes is crisp and high-handed, his Watson enthusiastic and bemused, and the rest of the narration colorful without being mannered. Have fun. Winner of AudioFile Earphones Award." (AudioFile magazine)
 "...it was reading the Sherlock Holmes stories as a boy that first turned me on to the power of writing and storytelling." (Stephen Fry)

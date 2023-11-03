@@ -113,7 +113,7 @@ items:
     - (Paperback in Presentation) [Get to the Point!](/books/info/9781523094110) by
     Joel Schwartzberg
 
-    - (Audiobook in Presentation) [Get to the Point!](/books/info/B075FG7HLK) by Joel
+    - (audiobook in Presentation) [Get to the Point!](/books/info/B075FG7HLK) by Joel
     Schwartzberg
 
     - (Hardcover in Role-Playing Games) [Tasha''s Cauldron of Everything (D&D Rules
@@ -140,7 +140,7 @@ items:
     - (Paperback in Writing) [Artful Sentences](/books/info/9780961392185) by Virginia
     Tufte
 
-    - (Audiobook in Writing) [The Elements of Eloquence](/books/info/B00O1GCA5M) by
+    - (audiobook in Writing) [The Elements of Eloquence](/books/info/B00O1GCA5M) by
     Mark Forsyth
 
     - (Paperback in Writing) [First You Write a Sentence](/books/info/9780143134343)
@@ -160,13 +160,13 @@ items:
   - April 2023
   description: 'Book titles:
 
-    - (Audiobook in Writing) [First You Write a Sentence](/books/info/059315018X)
+    - (audiobook in Writing) [First You Write a Sentence](/books/info/059315018X)
     by Joe Moran
 
     - (Paperback in Software) [Architecture Patterns with Python](/books/info/9781492052203)
     by Harry Percival, Bob Gregory
 
-    - (Audiobook in Writing) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)
+    - (audiobook in Writing) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS)
     by Ann Handley
 
     - (Hardcover in Role-Playing Games) [Volo''s Guide to Monsters](/books/info/9780786966011)
@@ -194,7 +194,7 @@ items:
   - February 2023
   description: 'Book titles:
 
-    - (Audiobook in Psychology) [Memories, Dreams, Reflections](/books/info/B01BW37O5C)
+    - (audiobook in Psychology) [Memories, Dreams, Reflections](/books/info/B01BW37O5C)
     by Carl Jung
 
     - (Boxed-Set in Role-Playing Games) [The Young Adventurer''s Collection [Dungeons
@@ -215,7 +215,7 @@ items:
   - January 2023
   description: "Book titles:\n- (Paperback in Visualization) [Dear Data](/books/info/9781616895327)\
     \ by Giorgia Lupi, Stefanie Posavec\n- (Paperback in Writing) [The Best of Brevity](/books/info/9781941628232)\
-    \ by Zo\xEB Bossiere, Dinty W. Moore\n- (Audiobook in Writing) [Writing Tools\
+    \ by Zo\xEB Bossiere, Dinty W. Moore\n- (audiobook in Writing) [Writing Tools\
     \ (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark"
   books:
   - '9781616895327'
@@ -228,7 +228,7 @@ items:
     - (Paperback in Ancient History) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)
     by Clare Rowan
 
-    - (Hardcover in Graphic Novel) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)
+    - (Hardcover in Graphic Novels) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)
     by Joe Hill
 
     - (Paperback in Learning Latin) [The Poems of Catullus](/books/info/9780520253865)
@@ -247,7 +247,7 @@ items:
   - '9780520061156'
 - title:
   - November 2022
-  description: "Book titles:\n- (Audiobook in Learning Latin) [Long Live Latin](/books/info/125075044X)\
+  description: "Book titles:\n- (audiobook in Learning Latin) [Long Live Latin](/books/info/125075044X)\
     \ by Nicola Gardini, Todd Portnowitz\n- (Paperback in Ancient History) [Chronology\
     \ of the Ancient World, 10,000 B.C. to A.D. 799](/books/info/9780133264227) by\
     \ H. E. L. Mellersh\n- (Hardcover in Design) [LOGO Modernism](/books/info/9783836545303)\
@@ -267,7 +267,7 @@ items:
     - (Paperback in Mythology) [Egyptian Myths](/books/info/9780241608197) by Jean
     Menzies
 
-    - (Lecture in Ancient History) [The Greek and Persian Wars](/books/info/B00DC5SB06)
+    - (audiobook in Ancient History) [The Greek and Persian Wars](/books/info/B00DC5SB06)
     by John R. Hale'
   books:
   - '9780241608197'
@@ -286,7 +286,7 @@ items:
   - '9781541699250'
 - title:
   - August 2022
-  description: "Book titles:\n- (Audiobook in Ancient History) [Augustus](/books/info/B00MXDGT2A)\
+  description: "Book titles:\n- (audiobook in Ancient History) [Augustus](/books/info/B00MXDGT2A)\
     \ by Adrian Goldsworthy\n- (Hardcover in Art History) [Roman Art](/books/info/9781785511837)\
     \ by Paul Zanker, Se\xE1n Hemingway, Christopher S. Lightfoot, Joan R. Mertens\n\
     - (Hardcover in Ancient History) [The Atlas of Ancient Rome](/books/info/9780691163475)\
@@ -305,7 +305,7 @@ items:
     \ in Graphic Novels) [Hilda and the Midnight Giant](/books/info/9781909263796)\
     \ by Luke Pearson\n- (Paperback in Graphic Novels) [Hilda and the Bird Parade](/books/info/9781911171027)\
     \ by Luke Pearson\n- (Paperback in Novel) [Altered Carbon](/books/info/9780345457684)\
-    \ by Richard K. Morgan\n- (Audiobook in Ancient History) [Caesar](/books/info/B00MFQLERK)\
+    \ by Richard K. Morgan\n- (audiobook in Ancient History) [Caesar](/books/info/B00MFQLERK)\
     \ by Adrian Goldsworthy"
   books:
   - '9788437507521'
@@ -346,11 +346,11 @@ items:
   - May 2022
   description: 'Book titles:
 
-    - (Lecture in Ancient History) [Greece and Rome](/books/info/B00DEK3UAU) by Robert
-    Garland
+    - (audiobook in Ancient History) [Greece and Rome](/books/info/B00DEK3UAU) by
+    Robert Garland
 
-    - (Audiobook in Crime Fiction) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)
-    by Agatha Christie'
+    - (audiobook in Crime Fiction) [Hercule Poirot](/books/info/0063066734) by Agatha
+    Christie'
   books:
   - B00DEK3UAU
   - '0063066734'
@@ -358,13 +358,13 @@ items:
   - April 2022
   description: 'Book titles:
 
-    - (Lecture in Mythology) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth
+    - (audiobook in Mythology) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth
     Vandiver
 
-    - (Audiobook in Ancient History) [The Fall of Carthage](/books/info/1977330053)
+    - (audiobook in Ancient History) [The Fall of Carthage](/books/info/1977330053)
     by Adrian Goldsworthy
 
-    - (Audiobook in Ancient History) [SPQR](/books/info/B01865AOJW) by Mary Beard
+    - (audiobook in Ancient History) [SPQR](/books/info/B01865AOJW) by Mary Beard
 
     - (Paperback in Learning Latin) [Surus](/books/info/9798648057418) by Emm Vanderpool'
   books:
@@ -374,7 +374,7 @@ items:
   - '9798648057418'
 - title:
   - March 2022
-  description: "Book titles:\n- (Audiobook in Ancient History) [The Fires of Vesuvius](/books/info/197734996X)\
+  description: "Book titles:\n- (audiobook in Ancient History) [The Fires of Vesuvius](/books/info/197734996X)\
     \ by Mary Beard\n- (Paperback in Learning Latin) [Latin Alive](/books/info/9780521734189)\
     \ by Joseph B. Solodow\n- (Paperback in Linguistics) [The Grammar of Romance](/books/info/9781475246636)\
     \ by Joshua Rudder\n- (Paperback in Learning Latin) [Vita Nostra](/books/info/9781093905632)\
@@ -402,7 +402,7 @@ items:
   - January 2022
   description: 'Book titles:
 
-    - (Lecture in Archaeology) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)
+    - (audiobook in Archaeology) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)
     by John R. Hale
 
     - (Hardcover in Philosophy) [Meditations](/books/info/9781541673854) by Marcus
@@ -411,7 +411,7 @@ items:
     - (Paperback in Learning Latin) [Lingua Latina Per Se Illustrata](/books/info/9781585100743)
     by Hans Henning Orberg
 
-    - (Audiobook in Philosophy) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)
+    - (audiobook in Philosophy) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)
     by Donald J. Robertson
 
     - (Paperback in Philosophy) [Discourses, Fragments, Handbook](/books/info/9780199595181)
@@ -439,7 +439,7 @@ items:
     - (Audiobook in Learning Latin) [North American Cambridge Latin Course Unit 1
     Audio CD](/books/info/9780521005029) by North American Cambridge Classics Project
 
-    - (Lecture in Philosophy) [Think like a Stoic](/books/info/1644650649) by Massimo
+    - (audiobook in Philosophy) [Think like a Stoic](/books/info/1644650649) by Massimo
     Pigliucci
 
     - (Paperback in Learning Latin) [Wheelock''s Latin, 7th Edition](/books/info/9780061997228)
@@ -475,19 +475,19 @@ items:
     - (Paperback in Epigraphy) [By Roman Hands](/books/info/9781585104024) by Matthew
     Hartnett
 
-    - (Lecture in Ancient History) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus
-    Fears
+    - (audiobook in Ancient History) [Famous Romans](/books/info/B00D8G1DPO) by J.
+    Rufus Fears
 
-    - (Lecture in Ancient History) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory
-    S. Aldrete
+    - (audiobook in Ancient History) [The Rise of Rome](/books/info/B078HDSHQJ) by
+    Gregory S. Aldrete
 
     - (Paperback in Ancient History) [Daily Life in the Roman City](/books/info/9780806140278)
     by Gregory S. Aldrete
 
-    - (Lecture in Ancient History) [The Roman Empire](/books/info/B07MDHVBLY) by Gregory
-    S. Aldrete
+    - (audiobook in Ancient History) [The Roman Empire](/books/info/B07MDHVBLY) by
+    Gregory S. Aldrete
 
-    - (Audiobook in Humor) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard
+    - (audiobook in Humor) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard
 
     - (Paperback in Writing) [Several Short Sentences About Writing](/books/info/9780307279415)
     by Verlyn Klinkenborg
@@ -521,9 +521,9 @@ items:
   - October 2021
   description: 'Book titles:
 
-    - (Performance in Music) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
+    - (audiobook in Music) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
 
-    - (Audiobook in Writing) [On Writing](/books/info/B002V1A0WE) by Stephen King
+    - (audiobook in Writing) [On Writing](/books/info/B002V1A0WE) by Stephen King
 
     - (Paperback in Learning Latin) [A Companion to Familia Romana](/books/info/9781585108091)
     by Jeanne Neumann
@@ -549,7 +549,7 @@ items:
   - '9781536217186'
 - title:
   - September 2021
-  description: "Book titles:\n- (Audiobook in Psychology) [Grit](/books/info/B01D3AC5BA)\
+  description: "Book titles:\n- (audiobook in Psychology) [Grit](/books/info/B01D3AC5BA)\
     \ by Angela Duckworth\n- (Paperback in Visualization) [Cartographies of Time](/books/info/9781616890582)\
     \ by Daniel Rosenberg, Anthony Grafton\n- (Paperback in Visualization) [Visual\
     \ Complexity](/books/info/9781616892197) by Manuel Lima\n- (Hardcover in Computational\
@@ -569,7 +569,7 @@ items:
     - (Hardcover in Graphs) [Knowledge Graphs](/books/info/9780262045094) by Mayank
     Kejriwal, Pedro Szekely, Craig A. Knoblock
 
-    - (Audiobook in Business) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John
+    - (audiobook in Business) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John
     Zeratsky'
   books:
   - '9780262045094'
@@ -578,7 +578,7 @@ items:
   - June 2021
   description: 'Book titles:
 
-    - (Audiobook in Psychology) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen
+    - (audiobook in Psychology) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen
     Reardon, Christopher T. Noblet
 
     - (Paperback in Design) [Layout Essentials Revised and Updated](/books/info/9781631596315)
@@ -792,10 +792,10 @@ items:
   - February 2016
   description: 'Book titles:
 
-    - (Audiobook in Math) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri
+    - (audiobook in Math) [Thinking Statistically](/books/info/B00TP2UMTS) by Uri
     Bram
 
-    - (Audiobook in Psychology) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina
+    - (audiobook in Psychology) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina
     Payne Bryson PhD, Daniel j. Siegel MD
 
     - (Paperback in Anxiety) [Emotional First Aid](/books/info/9780142181072) by Ph.D.
@@ -816,7 +816,7 @@ items:
   - August 2015
   description: 'Book title:
 
-    - (Audiobook in Crime Fiction) [Death on the Nile](/books/info/B008ELXJD2) by
+    - (audiobook in Crime Fiction) [Death on the Nile](/books/info/B008ELXJD2) by
     Agatha Christie'
   books:
   - B008ELXJD2
@@ -827,7 +827,7 @@ items:
     - (Paperback in Math) [Statistics Done Wrong](/books/info/9781593276201) by Alex
     Reinhart
 
-    - (Audiobook in Crime Fiction) [The Under Dog and Other Stories](/books/info/B008RBDG46)
+    - (audiobook in Crime Fiction) [The Under Dog and Other Stories](/books/info/B008RBDG46)
     by Agatha Christie
 
     - (Paperback in Math) [Machine Learning with R Cookbook](/books/info/9781783982042)
@@ -1122,7 +1122,7 @@ items:
   - November 2010
   description: 'Book titles:
 
-    - (Audiobook in Economics) [Naked Economics](/books/info/B003TFSY7E) by Charles
+    - (audiobook in Economics) [Naked Economics](/books/info/B003TFSY7E) by Charles
     Wheelan
 
     - (Hardcover in Financial Markets) [The Complete Guide to Capital Markets for

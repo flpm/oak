@@ -7,12 +7,12 @@ asin: B00DC8CFZK
 length: '44220000'
 owned: 'true'
 type: audiobook
-format: Lecture
+format: audiobook
 listening:
   duration: 940.0
   first_time: '2023-05-15'
   last_time: '2023-05-15'
-link: https://www.audible.com/pd/B00DC8CFZK
+link: https://www.audible.com/pd/Herodotus-The-Father-of-History-Audiobook/B00DC8CFZK
 source: Audible
 listening_date: '2023-05-15'
 topics:
@@ -37,6 +37,10 @@ read_status:
   like: true
 theme: ancient history
 recommendation_status: null
+author: Elizabeth Vandiver
+narrator: Elizabeth Vandiver
+cover_url: My%20Library%20Audible.com-2_files/51C3saa10GL._SL500_.jpg
+book_type: audiobook
 ---
 Witness the "works and wonders" of the ancient world through the eyes of its first great historian in this sparkling series of 24 lectures from a much-honored teacher and classical scholar.
 Herodotus (c. 484-420 B.C.E.) was a Greek who was born in what is now the modern Turkish resort town of Bodrum and who died, so tradition says, in the south of Italy. In between, his tirelessly inquiring mind took him from one corner of the known world to another. And he reported on or visited all of its continents (Europe, Asia, and Africa) to write about the vast array of subjects that captured his interest. These included the "great works" of the ancient land of Egypt; the remarkable kings who built the vast Persian Empire; and the strange customs and unlikely origins of the Scythians, a warlike, mounted people who lived beyond the Danube and whose repulse of Darius and the Persians in 513 B.C.E. made them the first Europeans to throw back an eastern invasion.

@@ -7,12 +7,12 @@ asin: B01D3AC5BA
 length: '33765000'
 owned: 'true'
 type: audiobook
-format: Audiobook
+format: audiobook
 listening:
   duration: 30839.0
   first_time: '2021-09-29'
   last_time: '2021-10-18'
-link: https://www.audible.com/pd/B01D3AC5BA
+link: https://www.audible.com/pd/Grit-Audiobook/B01D3AC5BA
 source: Audible
 purchase_date: '2021-09-29'
 listening_date: '2021-09-29'
@@ -38,6 +38,10 @@ read_status:
   like: true
 theme: psychology
 recommendation_status: null
+author: Angela Duckworth
+narrator: Angela Duckworth
+cover_url: My%20Library%20Audible.com-2_files/51ZMlBEI7BL._SL500_.jpg
+book_type: audiobook
 ---
 In this must-listen book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and businesspeople - both seasoned and new - that the secret to outstanding achievement is not talent but a focused persistence called "grit".
 Why do some people succeed and others fail? Sharing new insights from her landmark research on grit, MacArthur "genius" Angela Duckworth explains why talent is hardly a guarantor of success. Rather, other factors can be even more crucial, such as identifying our passions and following through on our commitments.

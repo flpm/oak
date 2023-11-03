@@ -7,12 +7,12 @@ asin: B00DEK3UAU
 length: '67868000'
 owned: 'true'
 type: audiobook
-format: Lecture
+format: audiobook
 listening:
   duration: 69275.0
   first_time: '2022-05-23'
   last_time: '2022-07-02'
-link: https://www.audible.com/pd/B00DEK3UAU
+link: https://www.audible.com/pd/Greece-and-Rome-An-Integrated-History-of-the-Ancient-Mediterranean-Audiobook/B00DEK3UAU
 source: Audible
 purchase_date: '2022-05-23'
 listening_date: '2022-05-23'
@@ -37,6 +37,10 @@ read_status:
   finish: true
 theme: ancient history
 recommendation_status: null
+author: Robert Garland
+narrator: Robert Garland
+cover_url: My%20Library%20Audible.com-2_files/413JuzKNwFL._SL500_.jpg
+book_type: audiobook
 ---
 Integrated approaches to teaching Greek and Roman history are a rarity in academia. Most scholars are historians of either Greek or Roman history and perform research solely in that specific field, an approach that author and award-winning Professor Robert Garland considers questionable.
 In these 36 passionate lectures, he provides an impressive and rare opportunity to understand the two dominant cultures of the ancient Mediterranean world in relation to one another - a relationship that has virtually no parallel in world history. He shows you how these two very different cultures intersected, coincided, and at times, collided.

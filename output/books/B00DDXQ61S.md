@@ -6,12 +6,12 @@ asin: B00DDXQ61S
 length: '66519000'
 owned: 'true'
 type: audiobook
-format: Lecture
+format: audiobook
 listening:
   duration: 70001.0
   first_time: '2022-04-15'
   last_time: '2022-05-09'
-link: https://www.audible.com/pd/B00DDXQ61S
+link: https://www.audible.com/pd/Myth-in-Human-History-Audiobook/B00DDXQ61S
 source: Audible
 listening_date: '2022-04-15'
 topics:
@@ -37,6 +37,10 @@ read_status:
   recommend: true
 theme: mythology
 recommendation_status: null
+author: Grant L. Voth
+narrator: Grant L. Voth
+cover_url: My%20Library%20Audible.com-2_files/41u8yZZOiXL._SL500_.jpg
+book_type: audiobook
 ---
 Myths provide the keys to truly grasping the ways that principles, rituals, codes, and taboos are woven into the fabric of a particular society or civilization.
 It's through myths that we can answer these and other fundamental questions: How was the universe created, and why? What is the purpose of evil? Why is society organized the way it is? How did natural features like rivers, mountains, and oceans emerge?

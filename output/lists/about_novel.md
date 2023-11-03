@@ -8,6 +8,7 @@ items:
   - '9788501041616'
   - '9788571641143'
   - '9788501058331'
+  - B0040J17CW
   - '9780345457684'
   - '9788535906172'
   - '9788501009418'
@@ -30,6 +31,7 @@ items:
   - '9788433966698'
   - '9788501053145'
   - '9780307833648'
+  - B002UZYX2Y
   - '9780307947307'
   - '9789722019569'
   - '9788497594257'
@@ -42,7 +44,8 @@ items:
   description: "Book titles:\n\n- (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616)\
     \ by Jorge Amado\n- (paper) [A Grande Arte](/books/info/9788571641143) by Rubem\
     \ Fonseca\n- (paper) [A Muralha](/books/info/9788501058331) by Dinah Silveira\
-    \ de Queiroz\n- (paper) [Altered Carbon](/books/info/9780345457684) by Richard\
+    \ de Queiroz\n- (audio) [Adventures of Huckleberry Finn](/books/info/B0040J17CW)\
+    \ by Mark Twain\n- (paper) [Altered Carbon](/books/info/9780345457684) by Richard\
     \ K. Morgan\n- (paper) [Assassinatos Na Academia Brasileira De Letras](/books/info/9788535906172)\
     \ by J\xF4. Soares\n- (paper) [Cacau - 05 Ed](/books/info/9788501009418) by Jorge\
     \ Amado\n- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
@@ -63,7 +66,8 @@ items:
     \ by Amin Maalouf\n- (paper) [Samarkand](/books/info/9781566562935) by Amin Maalouf\n\
     - (paper) [Suicidios ejemplares](/books/info/9788433966698) by Enrique Vila-Matas\n\
     - (paper) [Suor](/books/info/9788501053145) by Jorge Amado\n- (paper) [The Master\
-    \ of Go](/books/info/9780307833648) by Yasunari Kawabata\n- (paper) [The Stand](/books/info/9780307947307)\
+    \ of Go](/books/info/9780307833648) by Yasunari Kawabata\n- (audio) [The Pillars\
+    \ of the Earth](/books/info/B002UZYX2Y) by Ken Follett\n- (paper) [The Stand](/books/info/9780307947307)\
     \ by Stephen King\n- (paper) [Tocaia Grande - A Face Obscura](/books/info/9789722019569)\
     \ by Jorge Amado\n- (paper) [Un mundo feliz / Brave New World](/books/info/9788497594257)\
     \ by Aldous Huxley\n- (paper) [Vidas Secas](/books/info/9788501005588) by Graciliano\
@@ -74,4 +78,4 @@ items:
     \ Queir\xF3s\n- (paper) [\xBFQu\xE9 me quieres, amor?](/books/info/9788420482279)\
     \ by Manuel Rivas"
 ---
-I have 34 books about Novel in my personal library.
+I have 36 books about Novel in my personal library.

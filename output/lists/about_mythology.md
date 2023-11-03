@@ -8,7 +8,9 @@ items:
   - B00D99PNKQ
   - '9780241608197'
   - '9780241397459'
+  - B00IB17PMG
   - '9782711837564'
+  - B00DD2WFNC
   - B00DDXQ61S
   description: 'Book titles:
 
@@ -19,8 +21,13 @@ items:
 
     - (paper) [Greek Myths](/books/info/9780241397459) by Jean Menzies
 
+    - (audio) [Heroes and Legends](/books/info/B00IB17PMG) by Thomas A. Shippey
+
     - (paper) [Les Dieux de l''Egypte](/books/info/9782711837564) by Marc {OCLCbr#C9}tienne
+
+    - (audio) [Life Lessons from the Great Myths](/books/info/B00DD2WFNC) by J. Rufus
+    Fears
 
     - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth'
 ---
-I have 5 books about Mythology in my personal library.
+I have 7 books about Mythology in my personal library.

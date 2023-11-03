@@ -7,12 +7,12 @@ asin: B08ZYXLTYG
 length: '5575000'
 owned: 'true'
 type: audiobook
-format: Performance
+format: audiobook
 listening:
   duration: 5428.0
   first_time: '2021-10-27'
   last_time: '2021-11-12'
-link: https://www.audible.com/pd/B08ZYXLTYG
+link: https://www.audible.com/pd/Beginners-Mind-Audiobook/B08ZYXLTYG
 source: Audible
 purchase_date: '2021-10-27'
 listening_date: '2021-10-27'
@@ -41,6 +41,10 @@ recommendation_status: null
 theme: music
 do_not_update:
 - cover_filename
+author: Yo-Yo Ma
+narrator: Yo-Yo Ma
+cover_url: My%20Library%20Audible.com-2_files/51c63mUD1OL._SL500_.jpg
+book_type: audiobook
 ---
 “I realize, perhaps for the first time that I had to learn the cello to become a musician, and that it was only through decades of musical exploration that I came to understand my responsibility as a human being.”
 Journey with musical virtuoso Yo-Yo Ma as the iconic performer and global phenomenon delves into the world of self-discovery and our deeply interwoven humanity. This is Beginner's Mind, Ma’s extraordinary addition to Audible’s Words + Music series, blending vivid personal memoir and breathtaking exclusive performances with indelible lessons gained over a lifetime pursuing meaning, connection, and shared purpose.

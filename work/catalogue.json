@@ -10265,7 +10265,7 @@
         "plan": true
       },
       "recommendation_status": null,
-      "theme": "graphic novel",
+      "theme": "graphic novels",
       "location": "New York"
     }
   },
@@ -11949,14 +11949,14 @@
       },
       "location": "Paris",
       "purchase_date": "2004-03-08",
-      "theme": "graphic novels",
       "read_status": {
         "start": true,
         "finish": true,
         "multiple": true,
         "like": true
       },
-      "recommendation_status": null
+      "recommendation_status": null,
+      "theme": "graphic novels"
     }
   },
   "9780375702075": {
@@ -12133,7 +12133,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "writing"
+      "theme": "writing",
+      "multiple_formats": {
+        "book": "9780143127796",
+        "audiobook": "B00M8U0CJ4"
+      }
     }
   },
   "9780786967872": {
@@ -18025,7 +18029,11 @@
         "recommend": true
       },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "multiple_formats": {
+        "book": "9780452298606",
+        "audiobook": "B00DB6PQWW"
+      }
     }
   },
   "9781523094110": {
@@ -18094,13 +18102,13 @@
       "type": "audiobook",
       "title": "The Under Dog and Other Stories",
       "subtitle": "A Hercule Poirot Collection",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 89757.0,
         "first_time": "2015-07-07",
         "last_time": "2020-01-01"
       },
-      "link": "https://www.audible.com/pd/B008RBDG46",
+      "link": "https://www.audible.com/pd/The-Under-Dog-and-Other-Stories-Audiobook/B008RBDG46",
       "source": "Audible",
       "purchase_date": "2015-07-06",
       "listening_date": "2015-07-07",
@@ -18136,7 +18144,11 @@
         "like": true
       },
       "theme": "crime fiction",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Agatha Christie",
+      "narrator": "David Suchet",
+      "cover_url": "My%20Library%20Audible.com-2_files/61oQ1wK3TbL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B008ELXJD2": {
@@ -18149,13 +18161,13 @@
       "type": "audiobook",
       "title": "Death on the Nile",
       "subtitle": "A Hercule Poirot Mystery",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 109782.0,
         "first_time": "2015-08-10",
         "last_time": "2017-01-18"
       },
-      "link": "https://www.audible.com/pd/B008ELXJD2",
+      "link": "https://www.audible.com/pd/Death-on-the-Nile-Audiobook/B008ELXJD2",
       "source": "Audible",
       "purchase_date": "2015-08-13",
       "listening_date": "2015-08-10",
@@ -18188,7 +18200,11 @@
         "like": true
       },
       "theme": "crime fiction",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Agatha Christie",
+      "narrator": "David Suchet",
+      "cover_url": "My%20Library%20Audible.com-2_files/61OJ4TasfEL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B008EUR8O4": {
@@ -18278,13 +18294,13 @@
       "type": "audiobook",
       "title": "Thinking Statistically",
       "subtitle": null,
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 4104.0,
         "first_time": "2016-02-25",
         "last_time": "2016-03-07"
       },
-      "link": "https://www.audible.com/pd/B00TP2UMTS",
+      "link": "https://www.audible.com/pd/Thinking-Statistically-Audiobook/B00TP2UMTS",
       "source": "Audible",
       "purchase_date": "2016-02-25",
       "listening_date": "2016-02-25",
@@ -18315,7 +18331,11 @@
         "plan": true
       },
       "theme": "math",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Uri Bram",
+      "narrator": "Uri Bram",
+      "cover_url": "My%20Library%20Audible.com-2_files/51-cSOGOLDL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00NJ58OWE": {
@@ -18328,13 +18348,13 @@
       "type": "audiobook",
       "title": "No-Drama Discipline",
       "subtitle": "The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 8468.0,
         "first_time": "2016-03-06",
         "last_time": "2016-05-20"
       },
-      "link": "https://www.audible.com/pd/B00NJ58OWE",
+      "link": "https://www.audible.com/pd/No-Drama-Discipline-Audiobook/B00NJ58OWE",
       "source": "Audible",
       "purchase_date": "2016-02-23",
       "listening_date": "2016-03-06",
@@ -18371,7 +18391,11 @@
         "start": true
       },
       "theme": "psychology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Tina Payne Bryson PhD",
+      "narrator": "Daniel J. Siegel MD",
+      "cover_url": "My%20Library%20Audible.com-2_files/51oJmmttxTL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B002UZMV14": {
@@ -18483,7 +18507,8 @@
       "cover_filename": "B002V1BPOQ.jpg",
       "read_status": {},
       "theme": "kids",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "deleted": true
     }
   },
   "B00FEFE9FI": {
@@ -18546,13 +18571,13 @@
       "type": "audiobook",
       "title": "Naked Economics",
       "subtitle": "Undressing the Dismal Science",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 2003.0,
         "first_time": "2019-12-11",
         "last_time": "2019-12-11"
       },
-      "link": "https://www.audible.com/pd/B003TFSY7E",
+      "link": "https://www.audible.com/pd/Naked-Economics-Audiobook/B003TFSY7E",
       "source": "Audible",
       "purchase_date": "2010-11-23",
       "listening_date": "2019-12-11",
@@ -18582,7 +18607,11 @@
         "like": true
       },
       "theme": "economics",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Charles Wheelan",
+      "narrator": "Kerin McCue",
+      "cover_url": "My%20Library%20Audible.com-3_files/51+fZlnCsML._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00FEFEHWI": {
@@ -19094,13 +19123,13 @@
       "type": "audiobook",
       "title": "Comebacks at Work",
       "subtitle": "Using Conversation to Master Confrontation",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 21291.0,
         "first_time": "2021-06-28",
         "last_time": "2021-08-03"
       },
-      "link": "https://www.audible.com/pd/B00466Z4JQ",
+      "link": "https://www.audible.com/pd/Comebacks-at-Work-Audiobook/B00466Z4JQ",
       "source": "Audible",
       "purchase_date": "2021-06-28",
       "listening_date": "2021-06-28",
@@ -19133,7 +19162,11 @@
         "like": true
       },
       "theme": "psychology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Kathleen Reardon",
+      "narrator": "Susan Ericksen",
+      "cover_url": "My%20Library%20Audible.com-2_files/51niMXajbLL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1524779261": {
@@ -19299,13 +19332,13 @@
       "type": "audiobook",
       "title": "Make Time",
       "subtitle": "How to Focus on What Matters Every Day",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 17713.0,
         "first_time": "2021-08-09",
         "last_time": "2021-09-27"
       },
-      "link": "https://www.audible.com/pd/B07DHSQL6Q",
+      "link": "https://www.audible.com/pd/Make-Time-Audiobook/B07DHSQL6Q",
       "source": "Audible",
       "purchase_date": "2021-08-09",
       "listening_date": "2021-08-09",
@@ -19340,7 +19373,11 @@
         "like": true
       },
       "theme": "business",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Jake Knapp",
+      "narrator": "Jake Knapp",
+      "cover_url": "My%20Library%20Audible.com-2_files/410ZBczEAqL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1977386865": {
@@ -19487,13 +19524,13 @@
       "type": "audiobook",
       "title": "On Writing",
       "subtitle": "A Memoir of the Craft",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 24402.0,
         "first_time": "2021-10-21",
         "last_time": "2021-11-23"
       },
-      "link": "https://www.audible.com/pd/B002V1A0WE",
+      "link": "https://www.audible.com/pd/On-Writing-Audiobook/B002V1A0WE",
       "source": "Audible",
       "purchase_date": "2021-10-21",
       "listening_date": "2021-10-21",
@@ -19530,7 +19567,11 @@
         "like": true
       },
       "recommendation_status": null,
-      "theme": "writing"
+      "theme": "writing",
+      "author": "Stephen King",
+      "narrator": "Stephen King",
+      "cover_url": "My%20Library%20Audible.com-2_files/51xN75trEQL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B01D3AC5BA": {
@@ -19584,13 +19625,13 @@
       "type": "audiobook",
       "title": "Grit",
       "subtitle": "The Power of Passion and Perseverance",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 30839.0,
         "first_time": "2021-09-29",
         "last_time": "2021-10-18"
       },
-      "link": "https://www.audible.com/pd/B01D3AC5BA",
+      "link": "https://www.audible.com/pd/Grit-Audiobook/B01D3AC5BA",
       "source": "Audible",
       "purchase_date": "2021-09-29",
       "listening_date": "2021-09-29",
@@ -19622,7 +19663,11 @@
         "like": true
       },
       "theme": "psychology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Angela Duckworth",
+      "narrator": "Angela Duckworth",
+      "cover_url": "My%20Library%20Audible.com-2_files/51ZMlBEI7BL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1549108603": {
@@ -19677,13 +19722,13 @@
       "type": "audiobook",
       "title": "Writing Tools (10th Anniversary Edition)",
       "subtitle": "55 Essential Strategies for Every Writer",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 40159.0,
         "first_time": "2023-02-01",
         "last_time": "2023-02-21"
       },
-      "link": "https://www.audible.com/pd/1549108603",
+      "link": "https://www.audible.com/pd/Writing-Tools-10th-Anniversary-Edition-Audiobook/1549108603",
       "source": "Audible",
       "purchase_date": "2023-01-08",
       "listening_date": "2023-02-01",
@@ -19717,7 +19762,11 @@
         "like": true
       },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Roy Peter Clark",
+      "narrator": "Neil Kaplan",
+      "cover_url": "My%20Library%20Audible.com-1_files/41oBJUIqZiL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00GG0C3FI": {
@@ -19845,8 +19894,8 @@
         "count": 7666
       },
       "duration": "PT1H32M",
-      "cover_filename": "B08ZYXLTYG.jpg",
-      "do_not_update" : [
+      "cover_filename": "B08ZYXLTYG.gif",
+      "do_not_update": [
         "cover_filename"
       ]
     },
@@ -19859,13 +19908,13 @@
       "type": "audiobook",
       "title": "Beginner's Mind",
       "subtitle": "Words + Music | Vol. 13",
-      "format": "Performance",
+      "format": "audiobook",
       "listening": {
         "duration": 5428.0,
         "first_time": "2021-10-27",
         "last_time": "2021-11-12"
       },
-      "link": "https://www.audible.com/pd/B08ZYXLTYG",
+      "link": "https://www.audible.com/pd/Beginners-Mind-Audiobook/B08ZYXLTYG",
       "source": "Audible",
       "purchase_date": "2021-10-27",
       "listening_date": "2021-10-27",
@@ -19899,9 +19948,13 @@
       },
       "recommendation_status": null,
       "theme": "music",
-      "do_not_update" : [
+      "do_not_update": [
         "cover_filename"
-      ]
+      ],
+      "author": "Yo-Yo Ma",
+      "narrator": "Yo-Yo Ma",
+      "cover_url": "My%20Library%20Audible.com-2_files/51c63mUD1OL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B08M93Q9SP": {
@@ -19912,15 +19965,15 @@
       "owned": "true",
       "book_id": "B08M93Q9SP",
       "type": "audiobook",
-      "title": "Road Trip Elegies: Montreal to New York",
-      "subtitle": "Words + Music | Vol. 9",
-      "format": "Performance",
+      "title": "Road Trip Elegies",
+      "subtitle": "Montreal to New York: Words + Music | Vol. 9",
+      "format": "audiobook",
       "listening": {
         "duration": 230.0,
         "first_time": "2021-11-12",
         "last_time": "2021-11-12"
       },
-      "link": "https://www.audible.com/pd/B08M93Q9SP",
+      "link": "https://www.audible.com/pd/Road-Trip-Elegies-Audiobook/B08M93Q9SP",
       "source": "Audible",
       "listening_date": "2021-11-12",
       "topics": [
@@ -19950,7 +20003,11 @@
         "like": true
       },
       "theme": "music",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Rufus Wainwright",
+      "narrator": "Rufus Wainwright",
+      "cover_url": "My%20Library%20Audible.com-2_files/51f+S5NpP-L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B07MDHVBLY": {
@@ -20003,13 +20060,13 @@
       "type": "audiobook",
       "title": "The Roman Empire",
       "subtitle": "From Augustus to the Fall of Rome",
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 45818.0,
         "first_time": "2021-11-23",
         "last_time": "2021-11-30"
       },
-      "link": "https://www.audible.com/pd/B07MDHVBLY",
+      "link": "https://www.audible.com/pd/The-Roman-Empire-From-Augustus-to-the-Fall-of-Rome-Audiobook/B07MDHVBLY",
       "source": "Audible",
       "purchase_date": "2021-11-22",
       "listening_date": "2021-11-23",
@@ -20040,7 +20097,11 @@
         "like": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Gregory S. Aldrete",
+      "narrator": "Gregory S. Aldrete",
+      "cover_url": "My%20Library%20Audible.com-2_files/51V82qeeAsL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00D8G1DPO": {
@@ -20093,13 +20154,13 @@
       "type": "audiobook",
       "title": "Famous Romans",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 44777.0,
         "first_time": "2021-12-01",
         "last_time": "2021-12-13"
       },
-      "link": "https://www.audible.com/pd/B00D8G1DPO",
+      "link": "https://www.audible.com/pd/Famous-Romans-Audiobook/B00D8G1DPO",
       "source": "Audible",
       "purchase_date": "2021-11-25",
       "listening_date": "2021-12-01",
@@ -20130,7 +20191,11 @@
         "dislike": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "J. Rufus Fears",
+      "narrator": "J. Rufus Fears",
+      "cover_url": "My%20Library%20Audible.com-2_files/4190IX1ItXL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B06W2HB18L": {
@@ -20259,6 +20324,42 @@
       },
       "duration": "PT17H38M",
       "cover_filename": "B00D8HXDPQ.jpg"
+    },
+    "audiobook": {
+      "book_id": "B00D8HXDPQ",
+      "link": "https://www.audible.com/pd/Emperors-of-Rome-Audiobook/B00D8HXDPQ",
+      "title": "Emperors of Rome",
+      "full_title": "Emperors of Rome",
+      "author": "Garrett G. Fagan",
+      "narrator": "Garrett G. Fagan",
+      "cover_url": "My%20Library%20Audible.com-1_files/411qZ3sAaSL._SL500_.jpg",
+      "cover_filename": "B00D8HXDPQ.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00D8HXDPQ",
+      "format": "audiobook",
+      "topics": [
+        "Ancient"
+      ],
+      "description": "What sort of men were the Roman emperors (and were they all men)? What background and training, if any, prepared them for their awesome responsibilities? What depravities did they display? And what achievements can they claim: laws passed, monuments built, lands and peoples conquered?\nDive into these questions and more with this introduction to the complex personalities of emperors such as Augustus, Caligula, Claudius, and Nero. These thirty-six gripping lectures bring to life the many emperors of Rome from the turn of the 1st century to the transition to the Middle Ages. For more than five centuries, these emperors-a checkered mix of the wise, the brutal, and the unhinged-presided over a multi-ethnic empire that was nearly always at war.\nProfessor Fagan takes you deep into ancient Rome, asking: How did this system of rule come about? What did it replace? And who were the colorful, cruel, and crafty men who filled the almost omnipotent post of emperor? One of the most intriguing questions about the emperorship is why it endured for so long.\nAs you witness the reigns of the successive rulers unfold, you will see how the office evolved with the political forces that sustained it, becoming more and more tightly bound to the military. Each step toward despotism was taken with a view toward expedience. But when that step became the new normal, it paved the way for the next step, and so on. As you explore these questions, you'll also study the amalgam of eyewitness reports, later compilations, archaeological remains, and inscriptions on monuments and coins. Contemporary accounts, when available, are not necessarily to be trusted, which means you play the role of detective, sifting for the truth of this spellbinding era.",
+      "authors": [
+        "Garrett G. Fagan"
+      ],
+      "narrators": [
+        "Garrett G. Fagan"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.722727272727273,
+        "count": 660
+      },
+      "duration": "PT17H38M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "1644650649": {
@@ -20313,13 +20414,13 @@
       "type": "audiobook",
       "title": "Think like a Stoic",
       "subtitle": "Ancient Wisdom for Today\u2019s World",
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 41578.0,
         "first_time": "2021-12-15",
         "last_time": "2022-01-08"
       },
-      "link": "https://www.audible.com/pd/1644650649",
+      "link": "https://www.audible.com/pd/Think-like-a-Stoic-Audiobook/1644650649",
       "source": "Audible",
       "purchase_date": "2021-12-15",
       "listening_date": "2021-12-15",
@@ -20352,7 +20453,11 @@
         "like": true
       },
       "theme": "philosophy",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Massimo Pigliucci",
+      "narrator": "Professor Massimo Pigliucci",
+      "cover_url": "My%20Library%20Audible.com-2_files/41LAmp-4dFL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00MXDGT2A": {
@@ -20408,13 +20513,13 @@
       "type": "audiobook",
       "title": "Augustus",
       "subtitle": "First Emperor of Rome",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 70660.0,
         "first_time": "2022-12-29",
         "last_time": "2023-01-31"
       },
-      "link": "https://www.audible.com/pd/B00MXDGT2A",
+      "link": "https://www.audible.com/pd/Augustus-Audiobook/B00MXDGT2A",
       "source": "Audible",
       "purchase_date": "2022-08-24",
       "listening_date": "2022-12-29",
@@ -20448,7 +20553,11 @@
         "like": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Adrian Goldsworthy",
+      "narrator": "Derek Perkins",
+      "cover_url": "My%20Library%20Audible.com-1_files/51jDzI9fjyL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00PRAGZWU": {
@@ -20583,6 +20692,46 @@
       },
       "duration": "PT15H33M",
       "cover_filename": "B01KMXAL9Y.jpg"
+    },
+    "audiobook": {
+      "book_id": "B01KMXAL9Y",
+      "link": "https://www.audible.com/pd/Pax-Romana-Audiobook/B01KMXAL9Y",
+      "title": "Pax Romana",
+      "subtitle": "War, Peace, and Conquest in the Roman World",
+      "full_title": "Pax Romana: War, Peace, and Conquest in the Roman World",
+      "author": "Adrian Goldsworthy",
+      "narrator": "Derek Perkins",
+      "cover_url": "My%20Library%20Audible.com-1_files/51F6kX0cNtL._SL500_.jpg",
+      "cover_filename": "B01KMXAL9Y.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B01KMXAL9Y",
+      "format": "audiobook",
+      "topics": [
+        "Rome",
+        "Europe",
+        "Wars & Conflicts",
+        "Ideologies & Doctrines"
+      ],
+      "description": "Best-selling author Adrian Goldsworthy turns his attention to the Pax Romana, the famous peace and prosperity brought by the Roman Empire at its height in the first and second centuries AD. Yet the Romans were conquerors, imperialists who took by force a vast empire stretching from the Euphrates to the Atlantic coast. Ruthless, Romans won peace not through coexistence but through dominance; millions died and were enslaved during the creation of their empire.\nPax Romana examines how the Romans came to control so much of the world and asks whether traditionally favorable images of the Roman peace are true. Goldsworthy vividly recounts the rebellions of the conquered and examines why they broke out, why most failed, and how they became exceedingly rare. He reveals that hostility was just one reaction to the arrival of Rome and that from the outset, conquered peoples collaborated, formed alliances, and joined invaders, causing resistance movements to fade away.",
+      "authors": [
+        "Adrian Goldsworthy"
+      ],
+      "narrators": [
+        "Derek Perkins"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2016-08-23",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.511210762331839,
+        "count": 446
+      },
+      "duration": "PT15H33M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "B00MFQLERK": {
@@ -20639,13 +20788,13 @@
       "type": "audiobook",
       "title": "Caesar",
       "subtitle": "Life of a Colossus",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 104775.0,
         "first_time": "2022-07-24",
         "last_time": "2022-08-31"
       },
-      "link": "https://www.audible.com/pd/B00MFQLERK",
+      "link": "https://www.audible.com/pd/Caesar-Audiobook/B00MFQLERK",
       "source": "Audible",
       "purchase_date": "2022-07-01",
       "listening_date": "2022-07-24",
@@ -20681,7 +20830,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "author": "Adrian Goldsworthy",
+      "narrator": "Derek Perkins",
+      "cover_url": "My%20Library%20Audible.com-2_files/515hcvIiFRL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1977349382": {
@@ -20740,13 +20893,13 @@
       "type": "audiobook",
       "title": "Julius Caesar",
       "subtitle": "Man, Soldier, and Tyrant",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 2572.0,
         "first_time": "2021-12-13",
         "last_time": "2021-12-14"
       },
-      "link": "https://www.audible.com/pd/B002V8KXYC",
+      "link": "https://www.audible.com/pd/Julius-Caesar-Audiobook/B002V8KXYC",
       "source": "Audible",
       "listening_date": "2021-12-13",
       "topics": [
@@ -20775,7 +20928,11 @@
         "plan": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "J. F. C. Fuller",
+      "narrator": "Frederick Davidson",
+      "cover_url": "My%20Library%20Audible.com-2_files/518AjcnxsnL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00DG7NVXC": {
@@ -20832,13 +20989,13 @@
       "type": "audiobook",
       "title": "Classical Archaeology of Ancient Greece and Rome",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 73567.0,
         "first_time": "2022-01-29",
         "last_time": "2022-03-08"
       },
-      "link": "https://www.audible.com/pd/B00DG7NVXC",
+      "link": "https://www.audible.com/pd/Classical-Archaeology-of-Ancient-Greece-and-Rome-Audiobook/B00DG7NVXC",
       "source": "Audible",
       "purchase_date": "2022-01-29",
       "listening_date": "2022-01-29",
@@ -20874,7 +21031,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "archaeology"
+      "theme": "archaeology",
+      "author": "John R. Hale",
+      "narrator": "John R. Hale",
+      "cover_url": "My%20Library%20Audible.com-2_files/51bSg0dIY2L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00D8LT7A2": {
@@ -20972,13 +21133,13 @@
       "type": "audiobook",
       "title": "Herodotus",
       "subtitle": "The Father of History",
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 940.0,
         "first_time": "2023-05-15",
         "last_time": "2023-05-15"
       },
-      "link": "https://www.audible.com/pd/B00DC8CFZK",
+      "link": "https://www.audible.com/pd/Herodotus-The-Father-of-History-Audiobook/B00DC8CFZK",
       "source": "Audible",
       "listening_date": "2023-05-15",
       "topics": [
@@ -21009,7 +21170,11 @@
         "like": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Elizabeth Vandiver",
+      "narrator": "Elizabeth Vandiver",
+      "cover_url": "My%20Library%20Audible.com-2_files/51C3saa10GL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00DD1FT0Y": {
@@ -21152,13 +21317,13 @@
       "type": "audiobook",
       "title": "How to Think Like a Roman Emperor",
       "subtitle": "The Stoic Philosophy of Marcus Aurelius",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 30299.0,
         "first_time": "2022-01-09",
         "last_time": "2022-01-20"
       },
-      "link": "https://www.audible.com/pd/B07FB135GG",
+      "link": "https://www.audible.com/pd/How-to-Think-Like-a-Roman-Emperor-Audiobook/B07FB135GG",
       "source": "Audible",
       "purchase_date": "2022-01-09",
       "listening_date": "2022-01-09",
@@ -21192,7 +21357,11 @@
         "like": true
       },
       "theme": "philosophy",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Donald J. Robertson",
+      "narrator": "Donald J. Robertson",
+      "cover_url": "My%20Library%20Audible.com-2_files/41Gtn2IKSDL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "0141997834": {
@@ -21385,13 +21554,13 @@
       "type": "audiobook",
       "title": "Believe Me",
       "subtitle": "A Memoir of Love, Death and Jazz Chickens",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 53154.0,
         "first_time": "2022-01-20",
         "last_time": "2022-01-29"
       },
-      "link": "https://www.audible.com/pd/B06XWYMP73",
+      "link": "https://www.audible.com/pd/Believe-Me-Audiobook/B06XWYMP73",
       "source": "Audible",
       "purchase_date": "2021-11-22",
       "listening_date": "2022-01-20",
@@ -21424,7 +21593,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "humor"
+      "theme": "humor",
+      "author": "Eddie Izzard",
+      "narrator": "Eddie Izzard",
+      "cover_url": "My%20Library%20Audible.com-2_files/512u7G3WHkL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B06WLMWF2S": {
@@ -21437,13 +21610,13 @@
       "type": "audiobook",
       "title": "Sherlock Holmes",
       "subtitle": null,
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 11158.0,
         "first_time": "2022-01-24",
         "last_time": "2022-01-27"
       },
-      "link": "https://www.audible.com/pd/B06WLMWF2S",
+      "link": "https://www.audible.com/pd/Sherlock-Holmes-Audiobook/B06WLMWF2S",
       "source": "Audible",
       "listening_date": "2022-01-24",
       "topics": [
@@ -21475,7 +21648,11 @@
         "plan": true
       },
       "theme": "crime fiction",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Arthur Conan Doyle",
+      "narrator": "Stephen Fry",
+      "cover_url": "My%20Library%20Audible.com-2_files/51T1NWIkR4L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00DENRC1U": {
@@ -21736,6 +21913,43 @@
       },
       "duration": "PT12H11M",
       "cover_filename": "B00D6OQFZG.jpg"
+    },
+    "audiobook": {
+      "book_id": "B00D6OQFZG",
+      "link": "https://www.audible.com/pd/Ancient-Greek-Civilization-Audiobook/B00D6OQFZG",
+      "title": "Ancient Greek Civilization",
+      "full_title": "Ancient Greek Civilization",
+      "author": "Jeremy McInerney",
+      "narrator": "Jeremy McInerney PhD University of California at Berkeley",
+      "cover_url": "My%20Library%20Audible.com-2_files/41hlDralTnL._SL500_.jpg",
+      "cover_filename": "B00D6OQFZG.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00D6OQFZG",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Greek Civilization"
+      ],
+      "description": "Clearly, the Greeks are a source of much that we esteem in our own culture: democracy, philosophy, tragedy, epic and lyric poetry, history-writing, our aesthetic sensibilities, ideals of athletic competition, and more. But what is it about Hellenic culture that has made generations of influential scholars and writers view it as the essential starting point for understanding the art and reflection that define the West? This series of 24 lectures by an accomplished Greek scholar and teacher traces the complex web of links between the present and its Mediterranean origins, taking you from the Late Bronze Age up to the time of Philip II of Macedon and his son Alexander the Great. It's an intellectual journey that lets you see ancient Greek civilization in the light shed by the newest and best research and criticism, expanding your understanding of history, literature, art, philosophy, religion, and more.\nWith a special focus on the two crucial centuries from 600-400 B.C.-the era of the Persian and Peloponnesian wars and of classical Athens as described in the histories of Herodotus and Thucydides and the philosophic dialogues of Plato-you'll come to understand how the uniquely \"Greek\" identity was forged, and how it gave root to so much of what we consider vital about our own present day. Just as important, you'll learn how the differences between our own modern values and beliefs and those of the Hellenic world-including slavery and the exclusion of women from public life-do not imply a lack of relevance to our own times but can instead teach us as just much as our affinities.",
+      "authors": [
+        "Jeremy McInerney"
+      ],
+      "narrators": [
+        "Jeremy McInerney PhD University of California at Berkeley"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.650501672240803,
+        "count": 598
+      },
+      "duration": "PT12H11M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "B01N384PPA": {
@@ -22044,13 +22258,13 @@
       "type": "audiobook",
       "title": "Greece and Rome",
       "subtitle": "An Integrated History of the Ancient Mediterranean",
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 69275.0,
         "first_time": "2022-05-23",
         "last_time": "2022-07-02"
       },
-      "link": "https://www.audible.com/pd/B00DEK3UAU",
+      "link": "https://www.audible.com/pd/Greece-and-Rome-An-Integrated-History-of-the-Ancient-Mediterranean-Audiobook/B00DEK3UAU",
       "source": "Audible",
       "purchase_date": "2022-05-23",
       "listening_date": "2022-05-23",
@@ -22081,7 +22295,11 @@
         "finish": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Robert Garland",
+      "narrator": "Robert Garland",
+      "cover_url": "My%20Library%20Audible.com-2_files/413JuzKNwFL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00DAGYZNO": {
@@ -22179,13 +22397,13 @@
       "type": "audiobook",
       "title": "The Rise of Rome",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 44632.0,
         "first_time": "2022-03-08",
         "last_time": "2022-03-30"
       },
-      "link": "https://www.audible.com/pd/B078HDSHQJ",
+      "link": "https://www.audible.com/pd/The-Rise-of-Rome-Audiobook/B078HDSHQJ",
       "source": "Audible",
       "purchase_date": "2021-11-25",
       "listening_date": "2022-03-08",
@@ -22217,7 +22435,11 @@
         "like": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "The Great Courses",
+      "narrator": "Gregory S. Aldrete",
+      "cover_url": "My%20Library%20Audible.com-2_files/51Rc3SCnZVL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1629979090": {
@@ -22361,13 +22583,13 @@
       "type": "audiobook",
       "title": "Classical Mythology",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 48111.0,
         "first_time": "2022-05-10",
         "last_time": "2022-12-03"
       },
-      "link": "https://www.audible.com/pd/B00D99PNKQ",
+      "link": "https://www.audible.com/pd/Classical-Mythology-Audiobook/B00D99PNKQ",
       "source": "Audible",
       "purchase_date": "2022-04-30",
       "listening_date": "2022-05-10",
@@ -22400,7 +22622,11 @@
         "like": true
       },
       "theme": "mythology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Elizabeth Vandiver",
+      "narrator": "Elizabeth Vandiver",
+      "cover_url": "My%20Library%20Audible.com-2_files/51mchqzqh2L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00DD62VHI": {
@@ -22498,13 +22724,13 @@
       "type": "audiobook",
       "title": "The Fires of Vesuvius",
       "subtitle": "Pompeii Lost and Found",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 51451.0,
         "first_time": "2022-03-31",
         "last_time": "2022-04-15"
       },
-      "link": "https://www.audible.com/pd/197734996X",
+      "link": "https://www.audible.com/pd/The-Fires-of-Vesuvius-Audiobook/197734996X",
       "source": "Audible",
       "purchase_date": "2022-03-30",
       "listening_date": "2022-03-31",
@@ -22537,7 +22763,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "author": "Mary Beard",
+      "narrator": "Phyllida Nash",
+      "cover_url": "My%20Library%20Audible.com-2_files/61L4c9K509L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "0063066734": {
@@ -22588,21 +22818,21 @@
       "cover_filename": "0063066734.jpg"
     },
     "audiobook": {
-      "full_title": "Hercule Poirot: The Complete Short Stories: A Hercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot Mysteries)",
+      "full_title": "Hercule Poirot: The Complete Short Stories: A \nHercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot \nMysteries)",
       "asin": "0063066734",
       "length": "126316000",
       "owned": "true",
       "book_id": "0063066734",
       "type": "audiobook",
-      "title": "Hercule Poirot: The Complete Short Stories",
-      "subtitle": "A Hercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot Mysteries)",
-      "format": "Audiobook",
+      "title": "Hercule Poirot",
+      "subtitle": "The Complete Short Stories: A \nHercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot \nMysteries)",
+      "format": "audiobook",
       "listening": {
         "duration": 63961.0,
         "first_time": "2022-05-16",
         "last_time": "2022-08-03"
       },
-      "link": "https://www.audible.com/pd/0063066734",
+      "link": "https://www.audible.com/pd/Hercule-Poirot-The-Complete-Short-Stories-Audiobook/0063066734",
       "source": "Audible",
       "purchase_date": "2022-05-15",
       "listening_date": "2022-05-16",
@@ -22641,7 +22871,11 @@
         "recommend": true
       },
       "theme": "crime fiction",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Agatha Christie",
+      "narrator": "David Suchet",
+      "cover_url": "My%20Library%20Audible.com-2_files/61Hol+QtJ3L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1508284288": {
@@ -22787,13 +23021,13 @@
       "type": "audiobook",
       "title": "Myth in Human History",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 70001.0,
         "first_time": "2022-04-15",
         "last_time": "2022-05-09"
       },
-      "link": "https://www.audible.com/pd/B00DDXQ61S",
+      "link": "https://www.audible.com/pd/Myth-in-Human-History-Audiobook/B00DDXQ61S",
       "source": "Audible",
       "listening_date": "2022-04-15",
       "topics": [
@@ -22825,7 +23059,11 @@
         "recommend": true
       },
       "theme": "mythology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Grant L. Voth",
+      "narrator": "Grant L. Voth",
+      "cover_url": "My%20Library%20Audible.com-2_files/41u8yZZOiXL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00XP3CMHI": {
@@ -22971,6 +23209,50 @@
       },
       "duration": "PT31H36M",
       "cover_filename": "B013KRSIVC.jpg"
+    },
+    "audiobook": {
+      "book_id": "B013KRSIVC",
+      "link": "https://www.audible.com/pd/Great-Mythologies-of-the-World-Audiobook/B013KRSIVC",
+      "title": "Great Mythologies of the World",
+      "full_title": "Great Mythologies of the World",
+      "author": "The Great Courses",
+      "narrator": "Grant L. Voth",
+      "cover_url": "My%20Library%20Audible.com-2_files/619WeRKZrgL._SL500_.jpg",
+      "cover_filename": "B013KRSIVC.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B013KRSIVC",
+      "format": "audiobook",
+      "topics": [
+        "World",
+        "Celtic Mythology",
+        "World Mythology"
+      ],
+      "description": "The deep-seated origins and wide-reaching lessons of ancient myths built the foundation for our modern legacies. Explore the mythologies of Europe, the Americas, Asia, Africa, and the Middle East. Learn what makes these stories so important, distinctive, and able to withstand the test of time. Discover how, despite geographical implausibilities, many myths from across the oceans share themes, morals, and archetypes.",
+      "authors": [
+        "Grant L. Voth",
+        "Julius H. Bailey",
+        "Kathryn McClymond",
+        "Robert Andr&eacute; LaFleur"
+      ],
+      "narrators": [
+        "Grant L. Voth",
+        "Julius H. Bailey",
+        "Kathryn McClymond",
+        "Robert Andr&eacute; LaFleur"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2015-08-21",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.313559322033898,
+        "count": 3186
+      },
+      "duration": "PT31H36M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "B002V59WRE": {
@@ -23292,13 +23574,13 @@
       "type": "audiobook",
       "title": "Writing and Civilization",
       "subtitle": "From Ancient Worlds to Modernity",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 49658.0,
         "first_time": "2022-10-30",
         "last_time": "2023-01-07"
       },
-      "link": "https://www.audible.com/pd/B00F52DXH0",
+      "link": "https://www.audible.com/pd/Writing-and-Civilization-From-Ancient-Worlds-to-Modernity-Audiobook/B00F52DXH0",
       "source": "Audible",
       "listening_date": "2022-10-30",
       "topics": [
@@ -23334,7 +23616,11 @@
         "recommend": true
       },
       "recommendation_status": null,
-      "theme": "epigraphy"
+      "theme": "epigraphy",
+      "author": "Marc Zender",
+      "narrator": "Marc Zender",
+      "cover_url": "My%20Library%20Audible.com-1_files/51A6Vqy9ejL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B07FW5Y7J1": {
@@ -23538,13 +23824,13 @@
       "type": "audiobook",
       "title": "Cities of the Ancient World",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 43923.0,
         "first_time": "2022-07-03",
         "last_time": "2022-07-24"
       },
-      "link": "https://www.audible.com/pd/B00LG7MR20",
+      "link": "https://www.audible.com/pd/Cities-of-the-Ancient-World-Audiobook/B00LG7MR20",
       "source": "Audible",
       "listening_date": "2022-07-03",
       "topics": [
@@ -23575,7 +23861,11 @@
         "recommend": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Steven L. Tuck",
+      "narrator": "Steven L. Tuck",
+      "cover_url": "My%20Library%20Audible.com-2_files/51TzYBdP+YL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B07HKPHKY7": {
@@ -23631,13 +23921,13 @@
       "type": "audiobook",
       "title": "Great Battles of the Ancient World",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 39263.0,
         "first_time": "2022-08-31",
         "last_time": "2022-09-11"
       },
-      "link": "https://www.audible.com/pd/B00DB92ATG",
+      "link": "https://www.audible.com/pd/Great-Battles-of-the-Ancient-World-Audiobook/B00DB92ATG",
       "source": "Audible",
       "listening_date": "2022-08-31",
       "topics": [
@@ -23667,7 +23957,11 @@
         "like": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Garrett G. Fagan",
+      "narrator": "Garrett G. Fagan",
+      "cover_url": "My%20Library%20Audible.com-1_files/41fWMgShrOL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1977330053": {
@@ -23680,13 +23974,13 @@
       "type": "audiobook",
       "title": "The Fall of Carthage",
       "subtitle": "The Punic Wars 265-146BC",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 72344.0,
         "first_time": "2022-09-12",
         "last_time": "2022-10-04"
       },
-      "link": "https://www.audible.com/pd/1977330053",
+      "link": "https://www.audible.com/pd/The-Fall-of-Carthage-Audiobook/1977330053",
       "source": "Audible",
       "purchase_date": "2022-04-11",
       "listening_date": "2022-09-12",
@@ -23719,7 +24013,11 @@
         "recommend": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Adrian Goldsworthy",
+      "narrator": "Derek Perkins",
+      "cover_url": "My%20Library%20Audible.com-2_files/61gMMTtE2cL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "1541447891": {
@@ -24121,6 +24419,45 @@
       },
       "duration": "PT20H36M",
       "cover_filename": "1549104780.jpg"
+    },
+    "audiobook": {
+      "book_id": "1549104780",
+      "link": "https://www.audible.com/pd/Philip-and-Alexander-Audiobook/1549104780",
+      "title": "Philip and Alexander",
+      "subtitle": "Kings and Conquerors",
+      "full_title": "Philip and Alexander: Kings and Conquerors",
+      "author": "Adrian Goldsworthy",
+      "narrator": "Neil Dickson",
+      "cover_url": "My%20Library%20Audible.com-1_files/51Z7wKOjdSL._SL500_.jpg",
+      "cover_filename": "1549104780.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1549104780",
+      "format": "audiobook",
+      "topics": [
+        "Historical",
+        "Military & War",
+        "Greece"
+      ],
+      "description": "This definitive biography of one of history's most influential father-son duos tells the story of two rulers who gripped the world - and their rise and fall from power.\nAlexander the Great's conquests staggered the world. He led his army across thousands of miles, overthrowing the greatest empires of his time and building a new one in their place. He claimed to be the son of a god, but he was actually the son of Philip II of Macedon.\nPhilip inherited a minor kingdom that was on the verge of dismemberment, but despite his youth and inexperience, he made Macedonia dominant throughout Greece. It was Philip who created the armies that Alexander led into war against Persia. In Philip and Alexander, classical historian Adrian Goldsworthy shows that without the work and influence of his father, Alexander could not have achieved so much. This is the groundbreaking biography of two men who together conquered the world.",
+      "authors": [
+        "Adrian Goldsworthy"
+      ],
+      "narrators": [
+        "Neil Dickson"
+      ],
+      "publisher": "Basic Books",
+      "date_published": "2020-10-13",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.770666666666667,
+        "count": 375
+      },
+      "duration": "PT20H36M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "B00DHKJ6V4": {
@@ -24164,6 +24501,43 @@
       },
       "duration": "PT18H24M",
       "cover_filename": "B00DHKJ6V4.jpg"
+    },
+    "audiobook": {
+      "book_id": "B00DHKJ6V4",
+      "link": "https://www.audible.com/pd/Rome-and-the-Barbarians-Audiobook/B00DHKJ6V4",
+      "title": "Rome and the Barbarians",
+      "full_title": "Rome and the Barbarians",
+      "author": "Kenneth W. Harl",
+      "narrator": "Kenneth W. Harl",
+      "cover_url": "My%20Library%20Audible.com-1_files/41Ur8nngmyL._SL500_.jpg",
+      "cover_filename": "B00DHKJ6V4.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DHKJ6V4",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Military"
+      ],
+      "description": "The history of the Romans as they advanced the frontiers of Classical civilization is often told as a story of warfare and conquest - the mighty legions encountering the \"barbarians.\" But this only tells one side of the story.\nWho were the Celts, Goths, Huns, and Persians met by the Romans as they marched north and east? What were the political, military, and social institutions that made Rome so stable, allowing its power to be wielded against these different cultures for nearly three centuries? What role did those institutions themselves play in assimilating barbarian peoples?\nThese 36 engaging lectures tell the story of the complex relationship between each of these native peoples and their Roman conquerors as they intermarried, exchanged ideas and mores, and, in the ensuing provincial Roman cultures, formed the basis of Western European civilization.\nYou'll study the institutions that made Rome so extraordinary, as well as the extraordinary figures - both Roman and barbarian - whose names have been familiar to us for so long. You'll learn about Augustus, Constantine I, Diocletian, Gaius Julius Caesar, Nero, Attila the Hun, as well as a myriad of figures whose names are less familiar to us.\nBut these lectures deliver far more than personal snapshots, as compelling as those may be. Professor Harl brings to life the institutions that shaped both Rome and her relationship with, and assimilation of, the barbarians at her constantly expanding frontiers. You'll come away with a new appreciation of how our Western world came to be and detailed knowledge about the individuals from royalty to \"barbarian\" who played key roles in that process.",
+      "authors": [
+        "Kenneth W. Harl"
+      ],
+      "narrators": [
+        "Kenneth W. Harl"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.680634201585504,
+        "count": 883
+      },
+      "duration": "PT18H24M",
+      "type": "audiobook",
+      "theme": "ancient history"
     }
   },
   "B00DIHBIOE": {
@@ -24261,13 +24635,13 @@
       "type": "audiobook",
       "title": "The Greek and Persian Wars",
       "subtitle": null,
-      "format": "Lecture",
+      "format": "audiobook",
       "listening": {
         "duration": 53397.0,
         "first_time": "2022-10-26",
         "last_time": "2022-11-20"
       },
-      "link": "https://www.audible.com/pd/B00DC5SB06",
+      "link": "https://www.audible.com/pd/The-Greek-and-Persian-Wars-Audiobook/B00DC5SB06",
       "source": "Audible",
       "purchase_date": "2022-10-18",
       "listening_date": "2022-10-26",
@@ -24301,7 +24675,11 @@
         "recommend": true
       },
       "theme": "ancient history",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "John R. Hale",
+      "narrator": "John R. Hale",
+      "cover_url": "My%20Library%20Audible.com-1_files/41eyIrlYAKL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B089ZS3Y17": {
@@ -24401,13 +24779,13 @@
       "type": "audiobook",
       "title": "Long Live Latin",
       "subtitle": "The Pleasures of a Useless Language",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 33092.0,
         "first_time": "2022-12-14",
         "last_time": "2022-12-28"
       },
-      "link": "https://www.audible.com/pd/125075044X",
+      "link": "https://www.audible.com/pd/Long-Live-Latin-Audiobook/125075044X",
       "source": "Audible",
       "purchase_date": "2022-11-24",
       "listening_date": "2022-12-14",
@@ -24441,7 +24819,11 @@
         "like": true
       },
       "theme": "learning latin",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Nicola Gardini",
+      "narrator": "Todd Portnowitz",
+      "cover_url": "My%20Library%20Audible.com-1_files/41SLZtJhvhL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B0B3BV9MC9": {
@@ -24572,6 +24954,45 @@
       },
       "duration": "PT8H10M",
       "cover_filename": "B019S38272.jpg"
+    },
+    "audiobook": {
+      "book_id": "B019S38272",
+      "link": "https://www.audible.com/pd/The-Art-of-X-Ray-Reading-Audiobook/B019S38272",
+      "title": "The Art of X-Ray Reading",
+      "subtitle": "How the Secrets of 25 Great Works of Literature Will Improve Your Writing",
+      "full_title": "The Art of X-Ray Reading: How the Secrets of 25 Great Works of Literature Will Improve Your Writing",
+      "author": "Roy Peter Clark",
+      "narrator": "Jefferson Mays",
+      "cover_url": "My%20Library%20Audible.com-1_files/51hzmdwOv4L._SL500_.jpg",
+      "cover_filename": "B019S38272.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B019S38272",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Writing & Publishing",
+        "Literary History & Criticism"
+      ],
+      "description": "Roy Peter Clark, one of America's most influential writing teachers, offers writing lessons we can draw from 25 great texts.\nWhere do writers learn their best moves? They use a technique that Roy Peter Clark calls X-ray reading, a form of reading that lets you penetrate beyond the surface of a text to see how meaning is actually being made.\nIn The Art of X-Ray Reading, Clark invites you to don your X-ray reading glasses and join him on a guided tour through some of the most exquisite and masterful literary works of all time, from The Great Gatsby to Lolita to The Bluest Eye and many more. Along the way, he shows you how to mine these masterpieces for invaluable writing strategies that you can add to your arsenal and apply in your own writing. Once you've experienced X-ray reading, your writing will never be the same again.",
+      "authors": [
+        "Roy Peter Clark"
+      ],
+      "narrators": [
+        "Jefferson Mays"
+      ],
+      "publisher": "Hachette Audio",
+      "date_published": "2016-01-26",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.4847161572052405,
+        "count": 229
+      },
+      "duration": "PT8H10M",
+      "type": "audiobook",
+      "theme": "reading"
     }
   },
   "B09HSSQMTW": {
@@ -24669,13 +25090,13 @@
       "type": "audiobook",
       "title": "Memories, Dreams, Reflections",
       "subtitle": null,
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 3412.0,
         "first_time": "2023-02-22",
         "last_time": "2023-02-22"
       },
-      "link": "https://www.audible.com/pd/B01BW37O5C",
+      "link": "https://www.audible.com/pd/Memories-Dreams-Reflections-Audiobook/B01BW37O5C",
       "source": "Audible",
       "purchase_date": "2023-02-21",
       "listening_date": "2023-02-22",
@@ -24703,7 +25124,11 @@
       "cover_filename": "B01BW37O5C.jpg",
       "read_status": {},
       "theme": "psychology",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Carl Jung",
+      "narrator": "James Cameron Stewart",
+      "cover_url": "My%20Library%20Audible.com-1_files/51MsmYCuiTL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00SJIVE3W": {
@@ -24767,13 +25192,13 @@
       "type": "audiobook",
       "title": "SPQR",
       "subtitle": "A History of Ancient Rome",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 66775.0,
         "first_time": "2023-03-08",
         "last_time": "2023-04-16"
       },
-      "link": "https://www.audible.com/pd/B01865AOJW",
+      "link": "https://www.audible.com/pd/SPQR-Audiobook/B01865AOJW",
       "source": "Audible",
       "purchase_date": "2022-04-11",
       "listening_date": "2023-03-08",
@@ -24811,7 +25236,11 @@
       "multiple_formats": {
         "audiobook": "B01865AOJW",
         "book": "9781846683800"
-      }
+      },
+      "author": "Mary Beard",
+      "narrator": "Phyllida Nash",
+      "cover_url": "My%20Library%20Audible.com-2_files/51Bxo1DfWZL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "170526526X": {
@@ -24824,13 +25253,13 @@
       "type": "audiobook",
       "title": "The Copywriter's Handbook",
       "subtitle": "A Step-By-Step Guide to Writing Copy That Sells, 4th Edition",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 5177.0,
         "first_time": "2023-04-16",
         "last_time": "2023-04-17"
       },
-      "link": "https://www.audible.com/pd/170526526X",
+      "link": "https://www.audible.com/pd/The-Copywriters-Handbook-Audiobook/170526526X",
       "source": "Audible",
       "listening_date": "2023-04-16",
       "topics": [
@@ -24860,7 +25289,11 @@
         "start": true
       },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Robert W. Bly",
+      "narrator": "Barry Abrams",
+      "cover_url": "My%20Library%20Audible.com-1_files/51DvevTRumL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B0057A3VPE": {
@@ -24905,6 +25338,45 @@
       },
       "duration": "PT3H34M",
       "cover_filename": "B0057A3VPE.jpg"
+    },
+    "audiobook": {
+      "book_id": "B0057A3VPE",
+      "link": "https://www.audible.com/pd/The-Memoir-Project-Audiobook/B0057A3VPE",
+      "title": "The Memoir Project",
+      "subtitle": "A Thoroughly Non-Standardized Text For Writing & Life",
+      "full_title": "The Memoir Project: A Thoroughly Non-Standardized Text For Writing & Life",
+      "author": "Marion Roach Smith",
+      "narrator": "Marion Roach Smith",
+      "cover_url": "My%20Library%20Audible.com-1_files/51Qx8fBoSBL._SL500_.jpg",
+      "cover_filename": "B0057A3VPE.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B0057A3VPE",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Writing & Publishing",
+        "Memoir Project"
+      ],
+      "description": "Whether or not one has lived an exceptional or dramatic life, we inherently understand that writing memoir\u2014whether it\u2019s a book, blog, or just a letter to a child - is the single greatest portal to self-examination. Stop treading water in writing exercises or hiding behind \u201cwriter\u2019s block\u201d and learn how to write with intent. Marion Roach Smith\u2019s disarmingly frank but wildly fun tactics offer you simple and effective guidelines that work. Your legacy beings now.",
+      "authors": [
+        "Marion Roach Smith"
+      ],
+      "narrators": [
+        "Marion Roach Smith"
+      ],
+      "publisher": "Gildan Media, LLC",
+      "date_published": "2011-06-22",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.5828877005347595,
+        "count": 187
+      },
+      "duration": "PT3H34M",
+      "type": "audiobook",
+      "theme": "writing"
     }
   },
   "B0BX7CJVCS": {
@@ -24960,13 +25432,13 @@
       "type": "audiobook",
       "title": "Everybody Writes (2nd Edition)",
       "subtitle": "Your New and Improved Go-to Guide to Creating Ridiculously Good Content",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 32405.0,
         "first_time": "2023-04-17",
         "last_time": "2023-04-29"
       },
-      "link": "https://www.audible.com/pd/B0BX7CJVCS",
+      "link": "https://www.audible.com/pd/Everybody-Writes-2nd-Edition-Audiobook/B0BX7CJVCS",
       "source": "Audible",
       "purchase_date": "2023-04-17",
       "listening_date": "2023-04-17",
@@ -24998,7 +25470,11 @@
         "start": true
       },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Ann Handley",
+      "narrator": "Carolyn Jania",
+      "cover_url": "My%20Library%20Audible.com-1_files/51TsMXrn+-L._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B07DKSPL43": {
@@ -25337,13 +25813,13 @@
       "type": "audiobook",
       "title": "First You Write a Sentence",
       "subtitle": "The Elements of Reading, Writing...and Life",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 71420.0,
         "first_time": "2023-04-29",
         "last_time": "2023-05-26"
       },
-      "link": "https://www.audible.com/pd/059315018X",
+      "link": "https://www.audible.com/pd/First-You-Write-a-Sentence-Audiobook/059315018X",
       "source": "Audible",
       "purchase_date": "2023-04-27",
       "listening_date": "2023-04-29",
@@ -25377,7 +25853,11 @@
       "multiple_formats": {
         "audiobook": "059315018X",
         "book": "9780143134343"
-      }
+      },
+      "author": "Joe Moran",
+      "narrator": "John Lee",
+      "cover_url": "My%20Library%20Audible.com-1_files/41bCEH9DxgL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B0B8LKZB9M": {
@@ -25474,13 +25954,13 @@
       "type": "audiobook",
       "title": "The Elements of Eloquence",
       "subtitle": "Secrets of the Perfect Turn of Phrase",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 26395.0,
         "first_time": "2023-05-27",
         "last_time": "2023-06-03"
       },
-      "link": "https://www.audible.com/pd/B00O1GCA5M",
+      "link": "https://www.audible.com/pd/The-Elements-of-Eloquence-Audiobook/B00O1GCA5M",
       "source": "Audible",
       "purchase_date": "2023-05-03",
       "listening_date": "2023-05-27",
@@ -25511,7 +25991,11 @@
         "like": true
       },
       "theme": "writing",
-      "recommendation_status": null
+      "recommendation_status": null,
+      "author": "Mark Forsyth",
+      "narrator": "Don Hagen",
+      "cover_url": "My%20Library%20Audible.com-1_files/51SvqKq8JlL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B09GHYQ8WN": {
@@ -25709,13 +26193,13 @@
       "type": "audiobook",
       "title": "Get to the Point!",
       "subtitle": "Sharpen Your Message and Make Your Words Matter",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 8045.0,
         "first_time": "2023-06-04",
         "last_time": "2023-06-07"
       },
-      "link": "https://www.audible.com/pd/B075FG7HLK",
+      "link": "https://www.audible.com/pd/Get-to-the-Point-Audiobook/B075FG7HLK",
       "source": "Audible",
       "purchase_date": "2023-06-04",
       "listening_date": "2023-06-04",
@@ -25758,7 +26242,11 @@
       "multiple_formats": {
         "audiobook": "B075FG7HLK",
         "book": "9781523094110"
-      }
+      },
+      "author": "Joel Schwartzberg",
+      "narrator": "Jeff Hoyt",
+      "cover_url": "My%20Library%20Audible.com-1_files/519UTsuIuDL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B00M8U0CJ4": {
@@ -25803,6 +26291,49 @@
       },
       "duration": "PT12H26M",
       "cover_filename": "B00M8U0CJ4.jpg"
+    },
+    "audiobook": {
+      "book_id": "B00M8U0CJ4",
+      "link": "https://www.audible.com/pd/The-Sense-of-Style-Audiobook/B00M8U0CJ4",
+      "title": "The Sense of Style",
+      "subtitle": "The Thinking Person's Guide to Writing in the 21st Century",
+      "full_title": "The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century",
+      "author": "Steven Pinker",
+      "narrator": "Arthur Morey",
+      "cover_url": "My%20Library%20Audible.com-1_files/41u07KGQq+L._SL500_.jpg",
+      "cover_filename": "B00M8U0CJ4.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00M8U0CJ4",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Communication & Social Skills",
+        "Writing Style"
+      ],
+      "description": "A short and entertaining book on the modern art of writing well by New York Times best-selling author Steven Pinker.\nWhy is so much writing so bad, and how can we make it better? Is the English language being corrupted by texting and social media? Do the kids today even care about good writing? Why should any of us care?\nIn The Sense of Style, the best-selling linguist and cognitive scientist Steven Pinker answers these questions and more. Rethinking the usage guide for the 21st century, Pinker doesn\u2019t carp about the decline of language or recycle pet peeves from the rulebooks of a century ago. Instead, he applies insights from the sciences of language and mind to the challenge of crafting clear, coherent, and stylish prose.\nIn this short, cheerful, and eminently practical book, Pinker shows how writing depends on imagination, empathy, coherence, grammatical knowhow, and an ability to savor and reverse engineer the good prose of others. He replaces dogma about usage with reason and evidence, allowing writers and editors to apply the guidelines judiciously, rather than robotically, being mindful of what they are designed to accomplish.\nFilled with examples of great and gruesome prose, Pinker shows us how the art of writing can be a form of pleasurable mastery and a fascinating intellectual topic in its own right.\nPLEASE NOTE: When you purchase this title, the accompanying PDF will be available in your Audible Library along with the audio.",
+      "authors": [
+        "Steven Pinker"
+      ],
+      "narrators": [
+        "Arthur Morey"
+      ],
+      "publisher": "Penguin Audio",
+      "date_published": "2014-09-30",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.443254817987152,
+        "count": 467
+      },
+      "duration": "PT12H26M",
+      "type": "audiobook",
+      "multiple_formats": {
+        "book": "9780143127796",
+        "audiobook": "B00M8U0CJ4"
+      },
+      "theme": "writing"
     }
   },
   "B00NLEVIRG": {
@@ -25921,13 +26452,13 @@
       "type": "audiobook",
       "title": "Shrinking Violets",
       "subtitle": "The Secret Life of Shyness",
-      "format": "Audiobook",
+      "format": "audiobook",
       "listening": {
         "duration": 4294.0,
         "first_time": "2023-05-16",
         "last_time": "2023-06-07"
       },
-      "link": "https://www.audible.com/pd/B06VSQVPCY",
+      "link": "https://www.audible.com/pd/Shrinking-Violets-Audiobook/B06VSQVPCY",
       "source": "Audible",
       "listening_date": "2023-05-16",
       "topics": [
@@ -25965,7 +26496,11 @@
       "multiple_formats": {
         "audiobook": "B06VSQVPCY",
         "book": "9781781252635"
-      }
+      },
+      "author": "Joe Moran",
+      "narrator": "Matthew Lloyd Davies",
+      "cover_url": "My%20Library%20Audible.com-1_files/51-O9NaC8wL._SL500_.jpg",
+      "book_type": "audiobook"
     }
   },
   "B07LFKH5FV": {
@@ -26011,6 +26546,46 @@
       },
       "duration": "PT9H38M",
       "cover_filename": "B07LFKH5FV.jpg"
+    },
+    "audiobook": {
+      "book_id": "B07LFKH5FV",
+      "link": "https://www.audible.com/pd/Dreyers-English-Audiobook/B07LFKH5FV",
+      "title": "Dreyer's English",
+      "subtitle": "An Utterly Correct Guide to Clarity and Style",
+      "full_title": "Dreyer's English: An Utterly Correct Guide to Clarity and Style",
+      "author": "Benjamin Dreyer",
+      "narrator": "Benjamin Dreyer",
+      "cover_url": "My%20Library%20Audible.com-1_files/41uIMs7+WuL._SL500_.jpg",
+      "cover_filename": "B07LFKH5FV.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B07LFKH5FV",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Comedy & Humor",
+        "English Grammar"
+      ],
+      "description": "New York Times best seller \u2022 A sharp, funny grammar guide they\u2019ll actually want to read, from Random House\u2019s longtime copy chief and one of Twitter\u2019s leading language gurus\nNamed one of the Best Books of the Year by O: The Oprah Magazine \u2022 Paste \u2022 Shelf Awareness\n\"Essential (and delightful!)\" (People)\nWe all write, all the time: books, blogs, emails. Lots and lots of emails. And we all want to write better. Benjamin Dreyer is here to help.\nAs Random House\u2019s copy chief, Dreyer has upheld the standards of the legendary publisher for more than two decades. He is beloved by authors and editors alike - not to mention his followers on social media - for deconstructing the English language with playful erudition. Now, he distills everything he has learned from the myriad books he has copyedited and overseen into a useful guide not just for writers but for everyone who wants to put their best prose foot forward.\nAs authoritative as it is amusing, Dreyer\u2019s English offers lessons on punctuation, from the underloved semicolon to the enigmatic en dash; the rules and nonrules of grammar, including why it\u2019s okay to begin a sentence with \"And\" or \"But\" and to confidently split an infinitive; and why it\u2019s best to avoid the doldrums of the Wan Intensifiers and Throat Clearers, including \"very,\" \"rather,\" \"of course,\" and the dreaded \"actually.\" Dreyer will let you know whether \"alright\" is all right (sometimes) and even help you brush up on your spelling - though, as he notes, \"The problem with mnemonic devices is that I can never remember them.\"\nAnd yes: \"Only godless savages eschew the series comma.\"\nChockful of advice, insider wisdom, and fun facts, this audiobook will prove to be invaluable to everyone who wants to shore up their writing skills, mandatory for people who spend their time editing and shaping other people\u2019s prose, and - perhaps best of all - an utter treat for anyone who simply revels in language.\nPraise for Dreyer\u2019s English\n\"Playful, smart, self-conscious, and personal... One encounters wisdom and good sense on nearly every page of Dreyer\u2019s English.\" (The Wall Street Journal)\n\"Destined to become a classic.\" (The Millions)\n\"Dreyer can help you...with tips on punctuation and spelling.... Even better: He\u2019ll entertain you while he\u2019s at it.\" (Newsday)",
+      "authors": [
+        "Benjamin Dreyer"
+      ],
+      "narrators": [
+        "Benjamin Dreyer",
+        "Alison Fraser"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2019-01-29",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.6314199395770395,
+        "count": 331
+      },
+      "duration": "PT9H38M",
+      "type": "audiobook",
+      "theme": "writing"
     }
   },
   "0525626166": {
@@ -26362,6 +26937,1915 @@
       },
       "duration": "PT5H15M",
       "cover_filename": "0593148495.jpg"
+    }
+  },
+  "B075F8XF1V": {
+    "audiobook": {
+      "book_id": "B075F8XF1V",
+      "link": "https://www.audible.com/pd/Draft-No-4-Audiobook/B075F8XF1V",
+      "title": "Draft No. 4",
+      "subtitle": "On the Writing Process",
+      "full_title": "Draft No. 4: On the Writing Process",
+      "author": "John McPhee",
+      "narrator": "John McPhee",
+      "cover_url": "My%20Library%20Audible.com-1_files/31qSNW7n-pL._SL500_.jpg",
+      "cover_filename": "B075F8XF1V.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B075F8XF1V",
+      "format": "audiobook",
+      "topics": [
+        "Authors",
+        "Entertainment & Celebrities",
+        "Words, Language & Grammar",
+        "Writing & Publishing"
+      ],
+      "description": "The long-awaited guide to writing long-form nonfiction by the legendary author and teacher.\nDraft No. 4 is an elucidation of the writer's craft by a master practitioner. In a series of playful but expertly wrought essays, John McPhee shares insights he's gathered over his career and refined during his long-running course at Princeton University, where he has launched some of the most esteemed writers of several generations. McPhee offers a definitive guide to the crucial decisions regarding structure, diction, and tone that shape nonfiction pieces and presents extracts from some of his best-loved work, subjecting them to wry scrutiny. The result is a vivid depiction of the writing process, from reporting to drafting to revising - and revising, and revising.\nMore than a compendium of advice, Draft No. 4 is enriched by personal detail and charming reflections on the life of a writer. McPhee describes his enduring relationships with The New Yorker and Farrar, Straus and Giroux and recalls his early years at Time magazine. Enlivened by his keen sense of writing as a way of being in the world, Draft No. 4 is the long-awaited master class given by America's most renowned writing instructor.",
+      "authors": [
+        "John McPhee"
+      ],
+      "narrators": [
+        "John McPhee"
+      ],
+      "publisher": "Recorded Books",
+      "date_published": "2017-09-07",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.415584415584416,
+        "count": 231
+      },
+      "duration": "PT6H49M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "B0BFK1K36D": {
+    "audiobook": {
+      "book_id": "B0BFK1K36D",
+      "link": "https://www.audible.com/pd/The-Sandman-Act-III-Audiobook/B0BFK1K36D",
+      "title": "The Sandman",
+      "subtitle": "Act III",
+      "full_title": "The Sandman: Act III",
+      "author": "Neil Gaiman",
+      "narrator": "Neil Gaiman",
+      "cover_url": "My%20Library%20Audible.com-1_files/51T0wO4jk1L._SL500_.jpg",
+      "cover_filename": "B0BFK1K36D.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B0BFK1K36D",
+      "format": "audiobook",
+      "topics": [],
+      "description": "The groundbreaking audio production of what Los Angeles Times Magazine called \u201cthe greatest epic in the history of comic books\u201d continues. Leading perhaps the best cast ever assembled in audio, James McAvoy returns to voice Morpheus, the Lord of Dreams, in The Sandman: Act III, the third installment of the New York Times best-selling audio saga. Award-winning audio trailblazer Dirk Maggs adapts the blockbuster DC graphic novel series written by Neil Gaiman (Good Omens) into another fully immersive listening experience, presented for the first time in breathtaking 3D audio.\nIn Act III, we follow Morpheus on a grand journey to take care of family business. He visits with his son Orpheus (Bridgerton\u2019s Reg\u00e9-Jean Page), an act that brings with it profound consequences. Accompanied by Delirium (Kristen Schaal, Bob\u2019s Burgers), he tracks down their estranged brother, Destruction (David Harewood, Supergirl), the only member of the Endless ever to abandon their post. And at an inn at the intersection of all worlds, a group of travelers are forced together by a storm that threatens to destroy reality itself, with grave repercussions for Morpheus and the rest of the Endless.\nAll the original cast returns, including Kat Dennings as Death, Aidan Turner as Cluracan, and Neil Gaiman himself as The Narrator, joined by Harewood and other new cast members Wil Wheaton (Star Trek: The Next Generation), KJ Apa (Riverdale), Shruti Haasan (Race Gurram), and more.\nIt\u2019s time to close your eyes and listen. Once again.\nPlease note: This content is not for kids. It is for mature audiences only. Just like the original graphic novels, this audio adaptation contains explicit language and graphic violence, as well as strong sexual content and themes. Discretion is advised.\nNow available in Dolby Atmos on Audible.",
+      "authors": [
+        "Neil Gaiman",
+        "Dirk Maggs"
+      ],
+      "narrators": [
+        "Neil Gaiman",
+        "James McAvoy",
+        "K.J. Apa",
+        "Kat Dennings",
+        "Shruti Haasan",
+        "David Harewood",
+        "Reg&eacute;-Jean Page",
+        "Kristen Schaal",
+        "Wil Wheaton"
+      ],
+      "publisher": "Audible Originals",
+      "date_published": "2022-09-28",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.849672437997192,
+        "count": 8548
+      },
+      "duration": "PT11H31M",
+      "type": "audiobook",
+      "theme": "graphic novels"
+    }
+  },
+  "B07M6LD93N": {
+    "audiobook": {
+      "book_id": "B07M6LD93N",
+      "link": "https://www.audible.com/pd/Talk-to-Me-Audiobook/B07M6LD93N",
+      "title": "Talk to Me",
+      "subtitle": "How to Ask Better Questions, Get Better Answers, and Interview Anyone like a Pro",
+      "full_title": "Talk to Me: How to Ask Better Questions, Get Better Answers, and Interview Anyone like a Pro",
+      "author": "Dean Nelson",
+      "narrator": "Michael David Axtell",
+      "cover_url": "My%20Library%20Audible.com-1_files/51z6tQca0IL._SL500_.jpg",
+      "cover_filename": "B07M6LD93N.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B07M6LD93N",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Writing & Publishing",
+        "Communication & Social Skills"
+      ],
+      "description": "From respected journalist, professor, and founder of the Writer's Symposium by the Sea, an audiobook that demystifies the art and science of interviewing, in the vein of On Writing Well or How to Read Literature like a Professor.\n\u201cDean Nelson is one of the best interviewers around.\u201d (Anne Lamott)\nInterviewing is the single most important way journalists (and doctors, lawyers, social workers, teachers, human resources staff, and really, all of us) get information. Yet to many, the perfect interview feels more like luck than skill - a rare confluence of rapport, topic, and timing. But the thing is, great interviews aren\u2019t the result of serendipity and intuition, but rather the result of careful planning and good journalistic habits. And Dean Nelson is here to show you how to nail the perfect interview every time.\nDrawing on 40 years of award-winning journalism and his experience as the founder and host of the Writer\u2019s Symposium by the Sea, Nelson walks listeners through each step of the journey from deciding whom to interview and structuring questions, to the nitty-gritty of how to use a recording device and effective note-taking strategies, to the ethical dilemmas of interviewing people you love (and loathe). He also includes case studies of famous interviews to show listeners how these principles play out in real time.\nChock-full of comprehensive, time-tested, gold-standard advice, Talk to Me is an indispensable guide to the subtle art of the interview guaranteed to afford listeners with the skills and confidence they need the next time they say, \u201ctalk to me.\u201d",
+      "authors": [
+        "Dean Nelson"
+      ],
+      "narrators": [
+        "Michael David Axtell"
+      ],
+      "publisher": "HarperAudio",
+      "date_published": "2019-02-19",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.65,
+        "count": 100
+      },
+      "duration": "PT10H9M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "B002V5GV9Q": {
+    "audiobook": {
+      "book_id": "B002V5GV9Q",
+      "link": "https://www.audible.com/pd/Proust-and-the-Squid-Audiobook/B002V5GV9Q",
+      "title": "Proust and the Squid",
+      "subtitle": "The Story and Science of the Reading Brain",
+      "full_title": "Proust and the Squid: The Story and Science of the Reading Brain",
+      "author": "Maryanne Wolf",
+      "narrator": "Kirsten Potter",
+      "cover_url": "My%20Library%20Audible.com-1_files/519pidcFlUL._SL500_.jpg",
+      "cover_filename": "B002V5GV9Q.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B002V5GV9Q",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Psychology",
+        "Social Sciences",
+        "History",
+        "Brain Science"
+      ],
+      "description": "Interweaving her vast knowledge of neurology, sociology, psychology, and philosophy with fascinating down-to-earth examples and lively personal anecdotes, developmental psychologist, neuroscientist, and dyslexia expert Wolf probes the question, \"How do we learn to read and write?\" This ambitious and provocative new book offers an impassioned look at reading, its effect on our lives, and explains why it matters so greatly in a digital era.",
+      "authors": [
+        "Maryanne Wolf"
+      ],
+      "narrators": [
+        "Kirsten Potter"
+      ],
+      "publisher": "HighBridge, a division of Recorded Books",
+      "date_published": "2008-08-26",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.322115384615385,
+        "count": 416
+      },
+      "duration": "PT8H21M",
+      "type": "audiobook",
+      "theme": "reading"
+    }
+  },
+  "B098TWVZVD": {
+    "audiobook": {
+      "book_id": "B098TWVZVD",
+      "link": "https://www.audible.com/pd/The-Sandman-Act-II-Audiobook/B098TWVZVD",
+      "title": "The Sandman",
+      "subtitle": "Act II",
+      "full_title": "The Sandman: Act II",
+      "author": "Neil Gaiman",
+      "narrator": "Neil Gaiman",
+      "cover_url": "My%20Library%20Audible.com-1_files/51bJGmUXS9L._SL500_.jpg",
+      "cover_filename": "B098TWVZVD.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B098TWVZVD",
+      "format": "audiobook",
+      "topics": [],
+      "description": "Please note: This content is not for kids. It is for mature audiences only. Just like the original graphic novels, this audio adaptation contains explicit language and graphic violence, as well as strong sexual content and themes. Discretion is advised.\nEnter the Dreaming again as the blockbuster audio adaptation of \u201cthe greatest epic in the history of comic books\u201d continues in The Sandman: Act II. James McAvoy returns to voice Morpheus, the Lord of Dreams, in this sequel to the number-one New York Times audio best seller. Journey into a world of myths, imagination, and terror based on the best-selling DC comic books and graphic novels written by Neil Gaiman (returning as the Narrator), and lose yourself in another groundbreaking, immersive drama adapted and directed by the award-winning audio master Dirk Maggs.\nIn the absolutely packed Act II, the dark fantasy resumes and the Sandman expands into the French Revolution, ancient Rome, 19th-century San Francisco, eighth-century Baghdad, and beyond. New and familiar characters abound, voiced by a bright mix of performers, including Kat Dennings, Reg\u00e9-Jean Page, Emma Corrin, Michael Sheen, Kristen Schaal, Brian Cox, John Lithgow, Jeffrey Wright, and so many more, including fan-favorite narrators Simon Vance and Ray Porter.\nJust close your eyes and listen again as the greatest epic continues.\nAct II of the audio series The Sandman adapts collected volumes four (Season of Mists) and five (A Game of You) of the comics in their entirety, and most of volume six (Fables & Reflections).",
+      "authors": [
+        "Neil Gaiman",
+        "Dirk Maggs"
+      ],
+      "narrators": [
+        "Neil Gaiman",
+        "James McAvoy",
+        "Emma Corrin",
+        "Brian Cox",
+        "Kat Dennings",
+        "John Lithgow",
+        "Bill Nighy"
+      ],
+      "publisher": "Audible Originals",
+      "date_published": "2021-09-22",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.760225507679917,
+        "count": 17383
+      },
+      "duration": "PT13H47M",
+      "type": "audiobook",
+      "theme": "graphic novels"
+    }
+  },
+  "B086WP794Z": {
+    "audiobook": {
+      "book_id": "B086WP794Z",
+      "link": "https://www.audible.com/pd/The-Sandman-Audiobook/B086WP794Z",
+      "title": "The Sandman",
+      "full_title": "The Sandman",
+      "author": "Neil Gaiman",
+      "narrator": "Riz Ahmed",
+      "cover_url": "My%20Library%20Audible.com-1_files/61CEI+8TpdL._SL500_.jpg",
+      "cover_filename": "B086WP794Z.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B086WP794Z",
+      "format": "audiobook",
+      "topics": [
+        "Fantasy",
+        "Epic"
+      ],
+      "description": "Please note: This content is not for kids. It is for mature audiences only. Just like the original graphic novels, this audio adaptation contains explicit language and graphic violence, as well as strong sexual content and themes. Discretion is advised.\nHailed by the Los Angeles Times Magazine as \u201cthe greatest epic in the history of comic books\u201d, The Sandman changed the game with its dark, literary world of fantasy and horror - creating a global, cultural phenomenon in the process. At long last, Audible and DC present the first-ever audio production of the New York Times best-selling series written by acclaimed storyteller Neil Gaiman (who also serves as co-executive producer). Adapted and directed by multi-award-winner (and frequent Gaiman collaborator) Dirk Maggs, and performed by an ensemble cast with James McAvoy (It, Parts One and Two, X-Men: First Class, Split) in the title role, this first installment of a multi-part original audio series will transport you to a world that re-writes the rules of audio entertainment the way that The Sandman originally re-defined the graphic novel.\nWhen The Sandman, also known as Lord Morpheus - the immortal king of dreams, stories and the imagination - is pulled from his realm and imprisoned on Earth by a nefarious cult, he languishes for decades before finally escaping. Once free, he must retrieve the three \u201ctools\u201d that will restore his power and help him to rebuild his dominion, which has deteriorated in his absence. As the multi-threaded story unspools, The Sandman descends into Hell to confront Lucifer (Michael Sheen), chases rogue nightmares who have escaped his realm, and crosses paths with an array of characters from DC comic books, ancient myths, and real-world history, including: Inmates of Gotham City's Arkham Asylum, Doctor Destiny, the muse Calliope, the three Fates, William Shakespeare (Arthur Darvill), and many more.\nA powerhouse supporting cast helps translate this masterwork into a sonic experience worthy of its legacy, including Riz Ahmed, Kat Dennings, Taron Egerton, Samantha Morton, Bebe Neuwirth, Andy Serkis, and more. Setting the stage for their performance is an unprecedented cinematic soundscape featuring an original musical score by British Academy Award winner James Hannigan. Fans will especially revel in a new twist for the audio adaptation: Neil Gaiman himself serves as the narrator. Follow him as he leads listeners along a winding path of myths, imagination and, often, terror. Even in your wildest dreams, you\u2019ve never heard anything like this.",
+      "authors": [
+        "Neil Gaiman",
+        "Dirk Maggs"
+      ],
+      "narrators": [
+        "Riz Ahmed",
+        "Kat Dennings",
+        "Taron Egerton",
+        "Neil Gaiman",
+        "James McAvoy",
+        "Samantha Morton",
+        "Bebe Neuwirth",
+        "Andy Serkis",
+        "Michael Sheen"
+      ],
+      "publisher": "Audible Originals",
+      "date_published": "2020-07-15",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.643862174872829,
+        "count": 52095
+      },
+      "duration": "PT11H2M",
+      "type": "audiobook",
+      "theme": "graphic novels"
+    }
+  },
+  "B0040J17CW": {
+    "audiobook": {
+      "book_id": "B0040J17CW",
+      "link": "https://www.audible.com/pd/Adventures-of-Huckleberry-Finn-A-Signature-Performance-by-Elijah-Wood-Audiobook/B0040J17CW",
+      "title": "Adventures of Huckleberry Finn",
+      "subtitle": "A Signature Performance by Elijah Wood",
+      "full_title": "Adventures of Huckleberry Finn: A Signature Performance by Elijah Wood",
+      "author": "Mark Twain",
+      "narrator": "Elijah Wood",
+      "cover_url": "My%20Library%20Audible.com-1_files/517qEjjMXyL._SL500_.jpg",
+      "cover_filename": "B0040J17CW.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B0040J17CW",
+      "format": "audiobook",
+      "topics": [
+        "Classics",
+        "Coming of Age",
+        "Literary Fiction"
+      ],
+      "description": "Earphones Award Winner (AudioFile Magazine)\nAudible is pleased to announce the premiere of an exciting new series, Audible Signature Classics, featuring literature\u2019s greatest stories, performed by accomplished stars handpicked for their ability to interpret each work in a new and refreshing way. The first book in the series is Mark Twain\u2019s Adventures of Huckleberry Finn, performed by Elijah Wood.\nErnest Hemingway said, \u201cAll modern American literature comes from one book by Mark Twain called Huckleberry Finn\". One hundred years after its author\u2019s death, this classic remains remarkably modern and poignantly relevant. In this brand new edition, Elijah Wood reads Huck in a youthful voice that may be the closest interpretation to Twain\u2019s original intent. His performance captures the excitement and confusion of adolescence and adventure. Best of all, the immediacy of Wood\u2019s energetic reading sweeps listeners up and makes them feel as though they\u2019re along for the ride, as Huck and Jim push their raft toward freedom.\nStay tuned for more one-of-a-kind performances from actors Kenneth Branagh, David Hyde Pierce, Leelee Sobieski, and more, only from Audible Signature Classics.",
+      "authors": [
+        "Mark Twain"
+      ],
+      "narrators": [
+        "Elijah Wood"
+      ],
+      "publisher": "Audible Studios",
+      "date_published": "2010-11-09",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.578163953658894,
+        "count": 13638
+      },
+      "duration": "PT10H10M",
+      "type": "audiobook",
+      "theme": "novel"
+    }
+  },
+  "B0BJ48MQ5T": {
+    "audiobook": {
+      "book_id": "B0BJ48MQ5T",
+      "link": "https://www.audible.com/pd/Bird-by-Bird-Audiobook/B0BJ48MQ5T",
+      "title": "Bird by Bird",
+      "subtitle": "Some Instructions on Writing and Life",
+      "full_title": "Bird by Bird: Some Instructions on Writing and Life",
+      "author": "Anne Lamott",
+      "narrator": "Anne Lamott",
+      "cover_url": "My%20Library%20Audible.com-1_files/41Oo9hR8rBL._SL500_.jpg",
+      "cover_filename": "B0BJ48MQ5T.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B0BJ48MQ5T",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Writing & Publishing"
+      ],
+      "description": "NEW YORK TIMES BESTSELLER \u2022 An essential volume for generations of writers young and old. The twenty-fifth anniversary edition of this modern classic will continue to spark creative minds for years to come. Anne Lamott is \"a warm, generous, and hilarious guide through the writer\u2019s world and its treacherous swamps\" (Los Angeles Times).\u00a0  \u201cSuperb writing advice\u2026. Hilarious, helpful, and provocative.\u201d \u2014The New York Times Book Review  For a quarter century, more than a million readers and listeners\u2014scribes and scribblers of all ages and abilities\u2014have been inspired by Anne Lamott\u2019s hilarious, big-hearted, homespun advice. Advice that begins with the simple words of wisdom passed down from Anne\u2019s father\u2014also a writer\u2014in the iconic passage that gives the book its title:  \u201cThirty years ago my older brother, who was ten years old at the time, was trying to get a report on birds written that he\u2019d had three months to write. It was due the next day. We were out at our family cabin in Bolinas, and he was at the kitchen table close to tears, surrounded by binder paper and pencils and unopened books on birds, immobilized by the hugeness of the task ahead. Then my father sat down beside him, put his arm around my brother\u2019s shoulder, and said, \u2018Bird by bird, buddy. Just take it bird by bird.\u2019\u201d",
+      "authors": [
+        "Anne Lamott"
+      ],
+      "narrators": [
+        "Anne Lamott"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2022-12-13",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.462365591397849,
+        "count": 93
+      },
+      "duration": "PT6H36M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "0593291956": {
+    "audiobook": {
+      "book_id": "0593291956",
+      "link": "https://www.audible.com/pd/The-Bright-Book-of-Life-Audiobook/0593291956",
+      "title": "The Bright Book of Life",
+      "subtitle": "Novels to Read and Reread",
+      "full_title": "The Bright Book of Life: Novels to Read and Reread",
+      "author": "Harold Bloom",
+      "narrator": "Stephen Mendel",
+      "cover_url": "My%20Library%20Audible.com-1_files/61463RDmYlL._SL500_.jpg",
+      "cover_filename": "0593291956.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "0593291956",
+      "format": "audiobook",
+      "topics": [
+        "Literary History & Criticism"
+      ],
+      "description": "America's most original and controversial literary critic writes trenchantly about 48 masterworks spanning the Western tradition \u2014 from Don Quixote to Wuthering Heights to Invisible Man \u2014 in his first book devoted exclusively to narrative fiction.\nIn this valedictory volume, Yale professor Harold Bloom \u2014 who for more than half a century was regarded as America's most daringly original and controversial literary critic \u2014 gives us his only book devoted entirely to the art of the novel. With his hallmark percipience, remarkable scholarship, and extraordinary devotion to sublimity, Bloom offers meditations on 48 essential works spanning the Western canon, from Don Quixote to Book of Numbers; from Wuthering Heights to Absalom, Absalom!; from Les Mis\u00e9rables to Blood Meridian; from Vanity Fair to Invisible Man. Here are trenchant appreciations of fiction by, among many others, Austen, Balzac, Dickens, Tolstoy, James, Conrad, Lawrence, Le Guin, and Sebald.\nWhether you have already listened to these books, plan to, or simply care about the importance and power of fiction, Harold Bloom is your unparalleled guide to understanding literature with new intimacy.",
+      "authors": [
+        "Harold Bloom"
+      ],
+      "narrators": [
+        "Stephen Mendel"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2020-11-24",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.48,
+        "count": 25
+      },
+      "duration": "PT22H",
+      "type": "audiobook",
+      "theme": "reading"
+    }
+  },
+  "B07L8LL4MC": {
+    "audiobook": {
+      "book_id": "B07L8LL4MC",
+      "link": "https://www.audible.com/pd/On-Reading-Well-Audiobook/B07L8LL4MC",
+      "title": "On Reading Well",
+      "subtitle": "Finding the Good Life through Great Books",
+      "full_title": "On Reading Well: Finding the Good Life through Great Books",
+      "author": "Karen Swallow Prior",
+      "narrator": "Lisa Larsen",
+      "cover_url": "My%20Library%20Audible.com-1_files/51a5MwT3yNL._SL500_.jpg",
+      "cover_filename": "B07L8LL4MC.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B07L8LL4MC",
+      "format": "audiobook",
+      "topics": [
+        "Literary History & Criticism",
+        "Philosophy"
+      ],
+      "description": "Reading great literature well has the power to cultivate virtue. Great literature increases knowledge of and desire for the good life by showing readers what virtue looks like and where vice leads. It is not just what one reads but how one reads that cultivates virtue. Reading good literature well requires one to practice numerous virtues, such as patience, diligence, and prudence. And learning to judge wisely a character in a book, in turn, forms the reader's own character.\nAcclaimed author Karen Swallow Prior takes fans on a guided tour through works of great literature both ancient and modern, exploring 12 virtues that philosophers and theologians throughout history have identified as most essential for good character and the good life. In reintroducing ancient virtues that are as relevant and essential today as ever, Prior draws on the best classical and Christian thinkers, including Aristotle, Aquinas, and Augustine. Covering authors from Henry Fielding to Cormac McCarthy, Jane Austen to George Saunders, and Flannery O'Connor to F. Scott Fitzgerald, Prior explores some of the most compelling universal themes found in classic books, helping readers learn to love life, literature, and God through their encounters with great writing. In examining works by these authors and more, Prior shows why virtues such as prudence, temperance, humility, and patience are still necessary for human flourishing and civil society.",
+      "authors": [
+        "Karen Swallow Prior",
+        "Leland Ryken - foreword"
+      ],
+      "narrators": [
+        "Lisa Larsen"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2018-12-25",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.6521739130434785,
+        "count": 115
+      },
+      "duration": "PT8H46M",
+      "type": "audiobook",
+      "theme": "reading"
+    }
+  },
+  "B00DHONYCW": {
+    "audiobook": {
+      "book_id": "B00DHONYCW",
+      "link": "https://www.audible.com/pd/The-Skeptics-Guide-to-the-Great-Books-Audiobook/B00DHONYCW",
+      "title": "The Skeptic's Guide to the Great Books",
+      "full_title": "The Skeptic's Guide to the Great Books",
+      "author": "Grant L. Voth",
+      "narrator": "Grant L. Voth",
+      "cover_url": "My%20Library%20Audible.com-1_files/41voObpOqVL._SL500_.jpg",
+      "cover_filename": "B00DHONYCW.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DHONYCW",
+      "format": "audiobook",
+      "topics": [
+        "Classics"
+      ],
+      "description": "Daunted by the \"great big books\" of the Western canon? Looking for the same pleasures, satisfactions, and insights from books that are shorter, more accessible, and less dependent on classical references and difficult language than tomes such as Moby-Dick and Ulysses?\nThe truth is that there are so many works that are just as engaging, just as enjoyable, and - most important - just as insightful about great human themes and ideas as anything you'd encounter on a college-level reading list. These 12 highly rewarding lectures offer you an introduction to 12 works that redefine what great literature is and how it can reveal startling truths about life-all without being such a chore to read. Here you'll discover alternatives to the traditional \"great books\" - Dead Souls as an alternative to War and Peace, and The Master and Margarita as an alternative to Faust. You'll also encounter books from genres that traditionally fall outside the purview of the Western canon. For example, you'll learn how John le Carr\u00e9's The Spy Who Came In from the Cold transforms the spy novel into serious literature, and how Watchmen by Alan Moore and Dave Gibbons injects the comic-book format with a startling level of realism.\nProfessor Voth excels at both unpacking the significance of a literary work and instilling excitement for it, be it a novella, a collection of short stories, or a play. If you're new to these works, he will have you running to your nearest bookstore or library to discover what you've been missing. And if you've already encountered some of these books, you'll be eager to revisit them and explore what you may have missed on your first reading.",
+      "authors": [
+        "Grant L. Voth"
+      ],
+      "narrators": [
+        "Grant L. Voth"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.382352941176471,
+        "count": 204
+      },
+      "duration": "PT6H10M",
+      "type": "audiobook",
+      "theme": "reading"
+    }
+  },
+  "B00MEQRZTM": {
+    "audiobook": {
+      "book_id": "B00MEQRZTM",
+      "link": "https://www.audible.com/pd/36-Books-That-Changed-the-World-Audiobook/B00MEQRZTM",
+      "title": "36 Books That Changed the World",
+      "full_title": "36 Books That Changed the World",
+      "author": "The Great Courses",
+      "narrator": "Andrew R. Wilson",
+      "cover_url": "My%20Library%20Audible.com-1_files/413e92cHatL._SL500_.jpg",
+      "cover_filename": "B00MEQRZTM.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00MEQRZTM",
+      "format": "audiobook",
+      "topics": [
+        "Americas"
+      ],
+      "description": "Certain works of literature, history, science, philosophy, political theory and religion offer powerful examples of how books can spark revolutions, birth great religions, spur scientific advancements, shape world economies, teach us new ways of thinking, and much more. And with this fascinating collection crafted from our extensive library of courses, you can now get a single course that represents 36 of our best lectures on literary works that changed the world.\nIn the company of an unparalleled roster of award-winning professors from a range of disciplines, you'll get fresh perspectives on books you only thought you knew - and intriguing introductions to some works you may not have known played key roles in getting us to where we are today. These include The Analects, the Liber Abaci, A Dictionary of the English Language, The Jungle, The Feminine Mystique, and more.\nIf you've taken another course with these professors before, get a reminder of just why you enjoyed them. And if you've never heard some of them before, who knows? You may just discover your next favorite Great Courses professor. More than that, you'll rediscover just how powerful the printed word can be. You'll also learn how the mark of a truly great book isn't that it just changes the lives of individual readers-but the lives of entire civilizations.",
+      "authors": [
+        "Brad S. Gregory",
+        "Charles Kimball",
+        "Daniel N. Robinson",
+        "Jerry Z. Muller",
+        "John E. Finn",
+        "Andrew R. Wilson"
+      ],
+      "narrators": [
+        "Andrew R. Wilson",
+        "Brad S. Gregory",
+        "Charles Kimball",
+        "Daniel N. Robinson",
+        "Jerry Z. Muller",
+        "John E. Finn"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2014-08-22",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.177464788732395,
+        "count": 710
+      },
+      "duration": "PT18H41M",
+      "type": "audiobook",
+      "theme": "reading"
+    }
+  },
+  "B09B4DR8SS": {
+    "audiobook": {
+      "book_id": "B09B4DR8SS",
+      "link": "https://www.audible.com/pd/Confessions-Audiobook/B09B4DR8SS",
+      "title": "Confessions",
+      "subtitle": "Oxford World's Classics",
+      "full_title": "Confessions: Oxford World's Classics",
+      "author": "St. Augustine",
+      "narrator": "S. D. Cousins",
+      "cover_url": "My%20Library%20Audible.com-1_files/51MgZbJ8AdL._SL500_.jpg",
+      "cover_filename": "B09B4DR8SS.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B09B4DR8SS",
+      "format": "audiobook",
+      "topics": [
+        "Theology",
+        "Christian Literature & Art"
+      ],
+      "description": "In his own day the dominant personality of the Western Church, Augustine of Hippo today stands as perhaps the greatest thinker of Christian antiquity, and his Confessions is one of the great works of Western literature. In this intensely personal narrative, Augustine relates his rare ascent from a humble Algerian farm to the edge of the corridors of power at the imperial court in Milan, his struggle against the domination of his sexual nature, his renunciation of secular ambition and marriage, and the recovery of the faith his mother Monica had taught him during his childhood.\nNow, Henry Chadwick, an eminent scholar of early Christianity, has given us the first new English translation in 30 years of this classic spiritual journey. Chadwick renders the details of Augustine's conversion in clear, modern English. We witness the future saint's fascination with astrology and with the Manichees, and then follow him through scepticism and disillusion with pagan myths until he finally reaches Christian faith. There are brilliant philosophical musings about Platonism and the nature of God, and touching portraits of Augustine's beloved mother, of St. Ambrose of Milan, and of other early Christians like Victorinus, who gave up a distinguished career as a rhetorician to adopt the orthodox faith. Augustine's concerns are often strikingly contemporary, yet his work contains many references and allusions that are easily understood only with background information about the ancient social and intellectual setting. To make the Confessions accessible to contemporary listeners, Chadwick provides the most complete and informative notes of any recent translation and includes an introduction to establish the context.\nThe religious and philosophical value of the Confessions is unquestionable - now modern listeners will have easier access to St. Augustine's deeply personal meditations. Chadwick's lucid translation and helpful introduction clear the way for a new experience of this classic.",
+      "authors": [
+        "St. Augustine",
+        "Henry Chadwick"
+      ],
+      "narrators": [
+        "S. D. Cousins"
+      ],
+      "publisher": "Upfront Books",
+      "date_published": "2021-07-27",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.803921568627451,
+        "count": 102
+      },
+      "duration": "PT14H19M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "1984891626": {
+    "audiobook": {
+      "book_id": "1984891626",
+      "link": "https://www.audible.com/pd/The-Map-of-Knowledge-Audiobook/1984891626",
+      "title": "The Map of Knowledge",
+      "subtitle": "A Thousand-Year History of How Classical Ideas Were Lost and Found",
+      "full_title": "The Map of Knowledge: A Thousand-Year History of How Classical Ideas Were Lost and Found",
+      "author": "Violet Moller",
+      "narrator": "Susan Duerden",
+      "cover_url": "My%20Library%20Audible.com-1_files/61-InT5dhNL._SL500_.jpg",
+      "cover_filename": "1984891626.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1984891626",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Medieval",
+        "World",
+        "History"
+      ],
+      "description": "\u201cThe Map of Knowledge\u00a0is an endlessly fascinating book, rich in detail, capacious and humane in vision.\u201d (Stephen Greenblatt, author of\u00a0The Swerve: How the World Became Modern, winner of the Pulitzer Prize)\nAfter the Fall of Rome, when many of the great ideas of the ancient world were lost to the ravages of the Dark Ages, three crucial manuscripts passed hand to hand through seven Mediterranean cities and survived to fuel the revival of the Renaissance - an exciting debut history.\nThe foundations of modern knowledge - philosophy, math, astronomy, geography - were laid by the Greeks, whose ideas were written on scrolls and stored in libraries across the Mediterranean and beyond. But as the vast Roman Empire disintegrated, so did appreciation of these precious texts. Christianity cast a shadow over so-called pagan thought, books were burned, and the library of Alexandria, the greatest repository of classical knowledge, was destroyed.\nYet some texts did survive and The Map of Knowledge explores the role played by seven cities around the Mediterranean - rare centers of knowledge in a dark world, where scholars supported by enlightened heads of state collected, translated, and shared manuscripts. In 8th century Baghdad, Arab discoveries augmented Greek learning. Exchange within the thriving Muslim world brought that knowledge to Cordoba, Spain. Toledo became a famous center of translation from Arabic into Latin, a portal through which Greek and Arab ideas reached Western Europe. Salerno, on the Italian coast, was the great center of medical studies, and Sicily, ancient colony of the Greeks, was one of the few places in the West to retain contact with Greek culture and language. Scholars in these cities helped classical ideas make their way to Venice in the 15th century, where printers thrived and the Renaissance took root.\nThe Map of Knowledge follows three key texts - Euclid's Elements, Ptolemy's The Almagest, and Galen's writings on medicine - on a perilous journey driven by insatiable curiosity about the world.\n\u201cA lovely debut from a gifted young author. Violet Moller brings to life the ways in which knowledge reached us from antiquity to the present day in a book that is as delightful as it is readable.\u201d (Peter Frankopan, author of The Silk Roads)\n\u201cA sumptuous, glittering, endlessly fascinating book, written with passion, verve, and humor.\u201d (Catherine Nixey, author of The Darkening Age)",
+      "authors": [
+        "Violet Moller"
+      ],
+      "narrators": [
+        "Susan Duerden"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2019-05-14",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.461538461538462,
+        "count": 91
+      },
+      "duration": "PT8H46M",
+      "type": "audiobook",
+      "theme": "history"
+    }
+  },
+  "0593216342": {
+    "audiobook": {
+      "book_id": "0593216342",
+      "link": "https://www.audible.com/pd/Still-Writing-Audiobook/0593216342",
+      "title": "Still Writing",
+      "subtitle": "The Perils and Pleasures of a Creative Life",
+      "full_title": "Still Writing: The Perils and Pleasures of a Creative Life",
+      "author": "Dani Shapiro",
+      "narrator": "Dani Shapiro",
+      "cover_url": "My%20Library%20Audible.com-1_files/5152np7om1L._SL500_.jpg",
+      "cover_filename": "0593216342.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "0593216342",
+      "format": "audiobook",
+      "topics": [
+        "Biographies & Memoirs",
+        "Words, Language & Grammar",
+        "Creative Writing"
+      ],
+      "description": "\"Still Writing\u00a0offers up a cornucopia of wisdom, insights, and practical lessons gleaned from Dani Shapiro's long experience as a celebrated writer and teacher of writing. The beneficiaries are beginning writers, veteran writers, and everyone in between.\" (Jennifer Egan)\nFrom Dani Shapiro, best-selling author of\u00a0Devotion\u00a0and\u00a0Slow Motion, comes a witty, heartfelt, and practical look at the exhilarating and challenging process of storytelling. At once a memoir, a meditation on the artistic process, and advice on craft,\u00a0Still Writing\u00a0is an intimate companion to living a creative life. Writers - and anyone with an artistic temperament - will find inspiration and comfort here. Offering lessons learned over 20 years of teaching and writing, Shapiro shares her own revealing insights to weave an indispensable almanac for modern writers.",
+      "authors": [
+        "Dani Shapiro"
+      ],
+      "narrators": [
+        "Dani Shapiro"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2020-09-15",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.77027027027027,
+        "count": 74
+      },
+      "duration": "PT6H37M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "1684573920": {
+    "audiobook": {
+      "book_id": "1684573920",
+      "link": "https://www.audible.com/pd/How-to-Do-Nothing-Audiobook/1684573920",
+      "title": "How to Do Nothing",
+      "subtitle": "Resisting the Attention Economy",
+      "full_title": "How to Do Nothing: Resisting the Attention Economy",
+      "author": "Jenny Odell",
+      "narrator": "Rebecca Gibel",
+      "cover_url": "My%20Library%20Audible.com-1_files/61DV5ARPuxL._SL500_.jpg",
+      "cover_filename": "1684573920.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1684573920",
+      "format": "audiobook",
+      "topics": [
+        "Art",
+        "Technology & Society",
+        "Philosophy",
+        "Politics & Government",
+        "Social Sciences",
+        "Conservation",
+        "Nature & Ecology",
+        "Attention Management"
+      ],
+      "description": "A galvanizing critique of the forces vying for our attention - and our personal information - that redefines what we think of as productivity, reconnects us with the environment, and reveals all that we've been too distracted to see about ourselves and our world\nNothing is harder to do these days than nothing. But in a world where our value is determined by our 24/7 data productivity . . . doing nothing may be our most important form of resistance.\nSo argues artist and critic Jenny Odell in this field guide to doing nothing (at least as capitalism defines it). Odell sees our attention as the most precious - and overdrawn - resource we have. Once we can start paying a new kind of attention, she writes, we can undertake bolder forms of political action, reimagine humankind's role in the environment, and arrive at more meaningful understandings of happiness and progress.\nFar from the simple anti-technology screed, or the back-to-nature meditation we hear so often, How to Do Nothing is an action plan for thinking outside of capitalist narratives of efficiency and techno-determinism. Provocative, timely, and utterly persuasive, this book is a four-course meal in the age of Soylent.",
+      "authors": [
+        "Jenny Odell"
+      ],
+      "narrators": [
+        "Rebecca Gibel"
+      ],
+      "publisher": "HighBridge, a division of Recorded Books",
+      "date_published": "2019-05-07",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 3.6882530120481927,
+        "count": 664
+      },
+      "duration": "PT8H10M",
+      "type": "audiobook",
+      "theme": "sociology"
+    }
+  },
+  "1705248047": {
+    "audiobook": {
+      "book_id": "1705248047",
+      "link": "https://www.audible.com/pd/Writing-Life-Stories-Audiobook/1705248047",
+      "title": "Writing Life Stories",
+      "subtitle": "How to Make Memories into Memoirs, Ideas into Essays and Life into Literature",
+      "full_title": "Writing Life Stories: How to Make Memories into Memoirs, Ideas into Essays and Life into Literature",
+      "author": "Bill Roorbach",
+      "narrator": "John McLain",
+      "cover_url": "My%20Library%20Audible.com-1_files/51b5bWLrtEL._SL500_.jpg",
+      "cover_filename": "1705248047.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1705248047",
+      "format": "audiobook",
+      "topics": [
+        "Words, Language & Grammar",
+        "Writing & Publishing",
+        "Creative Writing"
+      ],
+      "description": "From drawing a map of a remembered neighborhood to signing a form releasing yourself to take risks in your work, Roorbach offers innovative techniques that will trigger ideas for all writers.\nWriting Life Stories is a classic text that appears on countless creative nonfiction and composition syllabi the world over. This updated 10th anniversary edition gives you the same friendly instruction and stimulating exercises along with updated information on current memoir writing trends, ethics, internet research, and even marketing ideas. You'll discover how to turn your untold life stories into vivid personal essays and riveting memoirs by learning to open up memory, access emotions, shape scenes from experience, develop characters, and research supporting details.\nThis guide will teach you to see your life more clearly and show you why real stories are often the best ones.",
+      "authors": [
+        "Bill Roorbach"
+      ],
+      "narrators": [
+        "John McLain"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2020-09-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.333333333333333,
+        "count": 6
+      },
+      "duration": "PT11H13M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "B00F3IZ0CM": {
+    "audiobook": {
+      "book_id": "B00F3IZ0CM",
+      "link": "https://www.audible.com/pd/The-Riddle-of-the-Labyrinth-Audiobook/B00F3IZ0CM",
+      "title": "The Riddle of the Labyrinth",
+      "subtitle": "The Quest to Crack an Ancient Code",
+      "full_title": "The Riddle of the Labyrinth: The Quest to Crack an Ancient Code",
+      "author": "Margalit Fox",
+      "narrator": "Pam Ward",
+      "cover_url": "My%20Library%20Audible.com-1_files/61lojzwzZPL._SL500_.jpg",
+      "cover_filename": "B00F3IZ0CM.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00F3IZ0CM",
+      "format": "audiobook",
+      "topics": [
+        "Greece",
+        "Expeditions & Discoveries",
+        "Social Sciences"
+      ],
+      "description": "In the tradition of Simon Winchester and Dava Sobel, The Riddle of the Labyrinth: The Quest to Crack an Ancient Code tells one of the most intriguing stories in the history of language, masterfully blending history, linguistics, and cryptology with an elegantly wrought narrative. When famed archaeologist Arthur Evans unearthed the ruins of a sophisticated Bronze Age civilization that flowered on Crete 1,000 years before Greece's Classical Age, he discovered a cache of ancient tablets, Europe's earliest written records. For half a century, the meaning of the inscriptions, and even the language in which they were written, would remain a mystery.\nAward-winning New York Times journalist Margalit Fox's riveting real-life intellectual detective story travels from the Bronze Age Aegean-the era of Odysseus, Agamemnon, and Helen-to the turn of the 20th century and the work of charismatic English archeologist Arthur Evans, to the colorful personal stories of the decipherers. These include Michael Ventris, the brilliant amateur who deciphered the script but met with a sudden, mysterious death that may have been a direct consequence of the decipherment; and Alice Kober, the unsung heroine of the story whose painstaking work allowed Ventris to crack the code.",
+      "authors": [
+        "Margalit Fox"
+      ],
+      "narrators": [
+        "Pam Ward"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2013-09-23",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.147887323943662,
+        "count": 142
+      },
+      "duration": "PT7H44M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "1541432126": {
+    "audiobook": {
+      "book_id": "1541432126",
+      "link": "https://www.audible.com/pd/Ghost-on-the-Throne-Audiobook/1541432126",
+      "title": "Ghost on the Throne",
+      "subtitle": "The Death of Alexander the Great and the Bloody Fight for His Empire",
+      "full_title": "Ghost on the Throne: The Death of Alexander the Great and the Bloody Fight for His Empire",
+      "author": "James S. Romm",
+      "narrator": "Michael Page",
+      "cover_url": "My%20Library%20Audible.com-1_files/518ZO3L9kmL._SL500_.jpg",
+      "cover_filename": "1541432126.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1541432126",
+      "format": "audiobook",
+      "topics": [
+        "Greece",
+        "Middle East",
+        "Wars & Conflicts"
+      ],
+      "description": "When Alexander the Great died at the age of 32, his empire stretched from the Adriatic Sea in the west all the way to modern-day India in the east. In an unusual compromise, his two heirs - a mentally damaged half brother, Philip III, and an infant son, Alexander IV, born after his death - were jointly granted the kingship. But six of Alexander's Macedonian generals, spurred by their own thirst for power and the legend that Alexander bequeathed his rule \"to the strongest,\" fought to gain supremacy. Perhaps their most fascinating and conniving adversary was Alexander's former Greek secretary, Eumenes, now a general himself, who would be the determining factor in the precarious fortunes of the royal family.\nJames Romm, professor of classics at Bard College, brings to life the cutthroat competition and the struggle for control of the Greek world's greatest empire.",
+      "authors": [
+        "James S. Romm"
+      ],
+      "narrators": [
+        "Michael Page"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2020-01-21",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.674698795180723,
+        "count": 166
+      },
+      "duration": "PT10H56M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "B09CHDTFGH": {
+    "audiobook": {
+      "book_id": "B09CHDTFGH",
+      "link": "https://www.audible.com/pd/Effective-Editing-Audiobook/B09CHDTFGH",
+      "title": "Effective Editing",
+      "subtitle": "How to Take Your Writing to the Next Level",
+      "full_title": "Effective Editing: How to Take Your Writing to the Next Level",
+      "author": "Molly McCowan",
+      "narrator": "Professor Molly McCowan",
+      "cover_url": "My%20Library%20Audible.com-1_files/41ptrGE36tL._SL500_.jpg",
+      "cover_filename": "B09CHDTFGH.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B09CHDTFGH",
+      "format": "audiobook",
+      "topics": [
+        "Career Success",
+        "Words, Language & Grammar",
+        "Writing & Publishing"
+      ],
+      "description": "Editing your own work is difficult, but it\u2019s a crucial skill to master if you want to be a successful writer. After all, writing goes far beyond simply creating a rough draft - it\u2019s how the work evolves from a rough draft to a finished piece that separates the good from the great. And as anyone who\u2019s tried their hand at revising a novel or memoir can tell you, it\u2019s all too easy to become mired in the details rather than see the bigger picture, merely focusing on the trees and forgetting the forest, until it grows unwieldy and overwhelming.\nThe tendency during the revision process to focus on the \u201clittle picture\u201d versus the \u201cbig picture\u201d can be overcome with the right tools and perspective. This is where Effective Editing: How to Take Your Writing to the Next Level comes in. Book coach and editor Molly McCowan takes you through the self-editing process in 13 detailed lessons, using a step-by-step method designed to reduce overwhelm and to structure the revision process in the most productive way possible. Working from the big to the little picture of your work, Molly shows you how to strengthen character development, find and fix plot holes, build stronger scenes, focus on smooth pacing and point-of-view issues, elevate your language, and much more.\nThe focus of this course is for you to improve your narrative writing skills, including fiction and nonfiction, such as memoir, autobiography, biography, and personal essays. Molly\u2019s tips and tools throughout the course can help any writer edit their own work with skill and confidence.\nPLEASE NOTE: When you purchase this title, the accompanying PDF will be available in your Audible Library along with the audio.",
+      "authors": [
+        "Molly McCowan"
+      ],
+      "narrators": [
+        "Professor Molly McCowan"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2021-08-13",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.63819095477387,
+        "count": 199
+      },
+      "duration": "PT5H18M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "B01MXTR1HB": {
+    "audiobook": {
+      "book_id": "B01MXTR1HB",
+      "link": "https://www.audible.com/pd/Word-by-Word-Audiobook/B01MXTR1HB",
+      "title": "Word by Word",
+      "subtitle": "The Secret Life of Dictionaries",
+      "full_title": "Word by Word: The Secret Life of Dictionaries",
+      "author": "Kory Stamper",
+      "narrator": "Kory Stamper",
+      "cover_url": "My%20Library%20Audible.com-1_files/51PJuj9VgCL._SL500_.jpg",
+      "cover_filename": "B01MXTR1HB.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B01MXTR1HB",
+      "format": "audiobook",
+      "topics": [
+        "Biographies & Memoirs",
+        "Words, Language & Grammar",
+        "Social Sciences"
+      ],
+      "description": "Brimming with intelligence and personality, a vastly entertaining account of how dictionaries are made - a must-listen for word mavens.\nWhile most of us might take dictionaries for granted, the process of writing them is in fact as lively and dynamic as language itself. With sharp wit and irreverence, Kory Stamper cracks open the complex, obsessive world of lexicography - from the agonizing decisions about what and how to define to the knotty questions of usage in an ever-changing language. She explains why small words are the most difficult to define (have you ever tried to define is?), how it can take nine months to define a single word, and how our biases about language and pronunciation can have tremendous social influence. Throughout, Stamper brings to life the hallowed halls (and highly idiosyncratic cubicles) of Merriam-Webster, a world inhabited by quirky, erudite individuals who quietly shape the way we communicate. A sure delight for all lovers of words, Word by Word might also quietly improve listeners' grasp and use of the English language.",
+      "authors": [
+        "Kory Stamper"
+      ],
+      "narrators": [
+        "Kory Stamper"
+      ],
+      "publisher": "Random House Audio",
+      "date_published": "2017-03-14",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.605726872246696,
+        "count": 454
+      },
+      "duration": "PT9H48M",
+      "type": "audiobook",
+      "theme": "writing"
+    }
+  },
+  "0525642218": {
+    "audiobook": {
+      "book_id": "0525642218",
+      "link": "https://www.audible.com/pd/The-Making-of-a-Manager-Audiobook/0525642218",
+      "title": "The Making of a Manager",
+      "subtitle": "What to Do When Everyone Looks to You",
+      "full_title": "The Making of a Manager: What to Do When Everyone Looks to You",
+      "author": "Julie Zhuo",
+      "narrator": "Karissa Vacker",
+      "cover_url": "My%20Library%20Audible.com-1_files/41rtxs28K6L._SL500_.jpg",
+      "cover_filename": "0525642218.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "0525642218",
+      "format": "audiobook",
+      "topics": [
+        "Management",
+        "Motivation & Self-Improvement",
+        "Engineering Management"
+      ],
+      "description": "Congratulations, you're a manager! After you pop the champagne, accept the shiny new title, and step into this thrilling next chapter of your career, the truth descends like a fog: You don't really know what you're doing.\nThat's exactly how Julie Zhuo felt when she became a rookie manager at the age of 25. She stared at a long list of logistics - from hiring to firing, from meeting to messaging, from planning to pitching - and faced a thousand questions and uncertainties. How was she supposed to spin teamwork into value? How could she be a good steward of her reports' careers? What was the secret to leading with confidence in new and unexpected situations?\nNow, having managed dozens of teams spanning tens to hundreds of people, Julie knows the most important lesson of all: Great managers are made, not born. If you care enough to be reading this, then you care enough to be a great manager.\nThe Making of a Manager is a modern field guide packed with everyday examples and transformative insights, including:\nHow to tell a great manager from an average manager When you should look past an awkward interview and hire someone anyway How to build trust with your reports through not being a boss Where to look when you lose faith and lack the answers Whether you're new to the job, a veteran leader, or looking to be promoted, this is the handbook you need to be the kind of manager you wish you had.",
+      "authors": [
+        "Julie Zhuo"
+      ],
+      "narrators": [
+        "Karissa Vacker",
+        "Julie Zhuo"
+      ],
+      "publisher": "Penguin Audio",
+      "date_published": "2019-03-19",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.587058823529412,
+        "count": 1700
+      },
+      "duration": "PT7H32M",
+      "type": "audiobook",
+      "theme": "engineering"
+    }
+  },
+  "B00DIAW2P0": {
+    "audiobook": {
+      "book_id": "B00DIAW2P0",
+      "link": "https://www.audible.com/pd/The-Early-Middle-Ages-Audiobook/B00DIAW2P0",
+      "title": "The Early Middle Ages",
+      "full_title": "The Early Middle Ages",
+      "author": "Philip Daileader",
+      "narrator": "Philip Daileader",
+      "cover_url": "My%20Library%20Audible.com-1_files/41i5Q7sswmL._SL500_.jpg",
+      "cover_filename": "B00DIAW2P0.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DIAW2P0",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Medieval",
+        "Medieval History",
+        "Early Medieval"
+      ],
+      "description": "The Early Middle Ages - the years from A.D. 650 to 1000 - were crucial to Europe's future social and political development. These 24 lectures trace a journey from Scandinavia across northern and central Europe to the farthest reaches of the Byzantine and Islamic empires, providing an exciting new look an era often simply called the \"Dark Ages.\"\nGiven the period's dismal reputation and its temporal remoteness from the 21st century, you'll be surprised to learn about some of the most challenging questions historians have ever had to tackle: Why did the Roman Empire fall? Why did the ancient world give way to the medieval world? Why did Christian monotheism become the dominant religion in Europe? You'll meet some of the era's exciting figures, such as St. Augustine and Justinian, and you'll consider the extent to which the historical realities of King Arthur and Charlemagne match up to the legends that have become attached to their names. You'll also look at the era's effect on the Vikings, the rise of the Carolingians, and the golden age of Islamic rule in Spain.\nProfessor Daileader also explores the contrasting historical theories offered by two extremely influential historians: Edward Gibbon, the English author of the monumental The History of the Decline and Fall of the Roman Empire, whose explanations closely followed those of the Roman moralists of the 4th and 5th centuries; and Henri Pirenne, the Belgian thinker who injected a newfound emphasis on social and especially economic factors into the analysis of history.\nYou'll see why the era belies its reputation as dark and dismal, but you'll come away with a new appreciation for this once-lost era.",
+      "authors": [
+        "Philip Daileader"
+      ],
+      "narrators": [
+        "Philip Daileader"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.7035466461064,
+        "count": 2594
+      },
+      "duration": "PT12H32M",
+      "type": "audiobook",
+      "theme": "medieval history"
+    }
+  },
+  "B00D8HYQDE": {
+    "audiobook": {
+      "book_id": "B00D8HYQDE",
+      "link": "https://www.audible.com/pd/The-Era-of-the-Crusades-Audiobook/B00D8HYQDE",
+      "title": "The Era of the Crusades",
+      "full_title": "The Era of the Crusades",
+      "author": "Kenneth W. Harl",
+      "narrator": "Kenneth W. Harl",
+      "cover_url": "My%20Library%20Audible.com-1_files/41ZWpQoiWkL._SL500_.jpg",
+      "cover_filename": "B00D8HYQDE.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00D8HYQDE",
+      "format": "audiobook",
+      "topics": [
+        "United States",
+        "Military"
+      ],
+      "description": "What were the forces that led to one of history's most protracted and legendary periods of conflict? How did they affect the three great civilizations that participated in them? And, ultimately, why did they end and what did they accomplish?\nIn these 36 lectures, you'll look at the \"big picture\" of the Crusades as an ongoing period of conflict involving Western Christendom (we would now call it Western Europe), the Byzantine Empire, and the Muslim world. From this perspective, you'll study the complex but absorbing causes of the Crusades, which include the many political, cultural, and economic changes in Western Europe after the fall of the Roman Empire. You'll examine the Crusades in terms of the specific military campaigns-the eight \"canonical\" Crusades that took place from 1095-1291-proclaimed to retake Jerusalem and the Holy Land from Muslim hands and return them to Christendom. You'll consider the immediate circumstances-the leaders, purposes, key battles, and degrees of success or failure-surrounding these often-monumental expeditions.\nYou'll also explore a wide variety of misperceptions and long-debated questions about the Crusades:\nDid the popes preach the Crusades as a way to increase their personal power and authority? Why did the members of the Fourth Crusade decide to sack Constantinople, turning the Crusades from Christian against \"infidel\" to Christian against Christian? Taken together, these historically rich lectures are an opportunity to appreciate fully how Western Civilization changed in many profound ways during the Crusading era.",
+      "authors": [
+        "Kenneth W. Harl"
+      ],
+      "narrators": [
+        "Kenneth W. Harl"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.612293144208038,
+        "count": 846
+      },
+      "duration": "PT18H17M",
+      "type": "audiobook",
+      "theme": "medieval history"
+    }
+  },
+  "B00DEQQO9I": {
+    "audiobook": {
+      "book_id": "B00DEQQO9I",
+      "link": "https://www.audible.com/pd/Philosophy-and-Religion-in-the-West-Audiobook/B00DEQQO9I",
+      "title": "Philosophy and Religion in the West",
+      "full_title": "Philosophy and Religion in the West",
+      "author": "Phillip Cary",
+      "narrator": "Phillip Cary",
+      "cover_url": "My%20Library%20Audible.com-1_files/4181yTFGfUL._SL500_.jpg",
+      "cover_filename": "B00DEQQO9I.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DEQQO9I",
+      "format": "audiobook",
+      "topics": [
+        "Philosophy",
+        "Spirituality"
+      ],
+      "description": "Professor Cary explores thousands of years of deep reflection and brilliant debate over the nature of God, the human self, and the world in these 32 lectures. It's a debate that serves as a vivid introduction to the rich and complex history shared by the West's central religious and philosophical traditions.\nWhether you're a believer, a seeker, or both, you'll find much to spark your deepest ponderings in these talks on the long and rich interplay between faith and reason. You'll join Professor Cary on the fascinating search for answers about the similar questions philosophy and faith ask: What is the ultimate reality? What can we know, or what should we believe about it? To learn how these crucial issues have been discussed over the past three millennia is to enter the core of our intellectual heritage - to find the origin of some of our deepest perplexities and most cherished aspirations. It is a comprehensive journey - intellectually, philosophically, and spiritually - but one which requires no special background. By the end of these lectures, you'll gain a new or sharpened fluency in issues that include the historical interaction between philosophical traditions (such as Platonism) and religious traditions (such as Judaism and Christianity); the synthesis of philosophy and religion that characterized the \"classical theism\" of the medieval period; the most prominent philosophical criticisms of religion; and the reasons why many religious thinkers of the 20th century are suspicious of the alliances between philosophy and religion.",
+      "authors": [
+        "Phillip Cary"
+      ],
+      "narrators": [
+        "Phillip Cary"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.7186147186147185,
+        "count": 231
+      },
+      "duration": "PT16H36M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B00DDXPWH2": {
+    "audiobook": {
+      "book_id": "B00DDXPWH2",
+      "link": "https://www.audible.com/pd/Mystical-Tradition-Judaism-Christianity-and-Islam-Audiobook/B00DDXPWH2",
+      "title": "Mystical Tradition",
+      "subtitle": "Judaism, Christianity, and Islam",
+      "full_title": "Mystical Tradition: Judaism, Christianity, and Islam",
+      "author": "Luke Timothy Johnson",
+      "narrator": "Luke Timothy Johnson",
+      "cover_url": "My%20Library%20Audible.com-1_files/51ZCPsKO66L._SL500_.jpg",
+      "cover_filename": "B00DDXPWH2.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DDXPWH2",
+      "format": "audiobook",
+      "topics": [
+        "World",
+        "Ministry & Evangelism",
+        "Islam",
+        "Judaism",
+        "Mystical Tradition"
+      ],
+      "description": "Each of the great three Abrahamic religious traditions holds the seeds for deep mystical contemplation. But what do most of us know about these mystics and the tradition they sustained? Explore this spiritual, literary, and intellectual heritage in these great faiths of the West as it unfolds over three millennia with these 36 enlightening, thought-provoking lectures that offer nearly unprecedented access to these seldom-studied traditions. By laying the mystical traditions of Judaism, Christianity, and Islam side by side, Professor Johnson offers a unique opportunity to compare and contrast the many forms of religious experience in the West. Starting with the most ancient texts of the Hebrew Bible, Professor Johnson traces the emergence, growth, and persistence of mystical thought in many countries and in many ages. Bringing together the disciplines of philosophy, history, literature, and religious studies, these lectures offer a nuanced and insightful examination of Western spirituality-one that contributes not only to a fuller understanding of our religious traditions, but to our shared culture and history as well.\nAs you examine the mystical experience, you'll see how, again and again, Western mystics have sought the answers to a few fundamental questions: What is the nature of reality? What is the relationship between humankind and the divine? Can human beings ever attain full knowledge of creation? What emerges from exploring these potent spiritual and intellectual questions is a picture of Western mysticism as diverse, multifaceted, and ever-developing.",
+      "authors": [
+        "Luke Timothy Johnson"
+      ],
+      "narrators": [
+        "Luke Timothy Johnson"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.373239436619718,
+        "count": 284
+      },
+      "duration": "PT18H12M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B0758HKBPF": {
+    "audiobook": {
+      "book_id": "B0758HKBPF",
+      "link": "https://www.audible.com/pd/How-to-Listen-to-Jazz-Audiobook/B0758HKBPF",
+      "title": "How to Listen to Jazz",
+      "full_title": "How to Listen to Jazz",
+      "author": "Ted Gioia",
+      "narrator": "Peter Ganim",
+      "cover_url": "My%20Library%20Audible.com-1_files/41v7TT6CAWL._SL500_.jpg",
+      "cover_filename": "B0758HKBPF.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B0758HKBPF",
+      "format": "audiobook",
+      "topics": [
+        "Instruction & Technique",
+        "United States"
+      ],
+      "description": "A \"radiantly accomplished\" music scholar presents an accessible introduction to the art of listening to jazz (Wall Street Journal).\nIn How to Listen to Jazz, award-winning music scholar Ted Gioia presents a lively introduction to one of America's premier art forms. He tells us what to listen for in a performance and includes a guide to today's leading jazz musicians. From Louis Armstrong's innovative sounds to the jazz-rock fusion of Miles Davis, Gioia covers the music's history and reveals the building blocks of improvisation. A true love letter to jazz by a foremost expert, How to Listen to Jazz is a must-listen for anyone who's ever wanted to understand and better appreciate America's greatest contribution to music.",
+      "authors": [
+        "Ted Gioia"
+      ],
+      "narrators": [
+        "Peter Ganim"
+      ],
+      "publisher": "Hachette Audio",
+      "date_published": "2017-09-19",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.427745664739884,
+        "count": 173
+      },
+      "duration": "PT6H58M",
+      "type": "audiobook",
+      "theme": "music"
+    }
+  },
+  "B00D8EMBQG": {
+    "audiobook": {
+      "book_id": "B00D8EMBQG",
+      "link": "https://www.audible.com/pd/Exploring-the-Roots-of-Religion-Audiobook/B00D8EMBQG",
+      "title": "Exploring the Roots of Religion",
+      "full_title": "Exploring the Roots of Religion",
+      "author": "John R. Hale",
+      "narrator": "John R. Hale",
+      "cover_url": "My%20Library%20Audible.com-1_files/41NV0ra7ZjL._SL500_.jpg",
+      "cover_filename": "B00D8EMBQG.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00D8EMBQG",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Ancient Religion"
+      ],
+      "description": "What impulse drove ancient cultures to create sites like Stonehenge, Machu Picchu, and the pyramids at Giza? Why are we so transfixed by their presence today? And what do they reveal about our ancestors-and humanity?\nThe dynamic force of religious belief is responsible for some of the world's most popular and ancient locales.With these 36 riveting lectures, you can dig through the earth and learn how sacred buildings, complexes, tomb structures, artwork, and more have provided us with unparalleled knowledge about early spiritual experiences around the world. Using the tools and knowledge of their field, archaeologists can now determine the nature of a sacrificial ritual, compare the visible attributes of ancient deities, and map out the orientation of a temple or tomb.\nProfessor Hale gives you a comprehensive look at specific religious archaeological sites around the world-inside caves and crypts, through vast deserts and ancient cities, from Polynesia to Mexico to the American Midwest.\nStudying these breathtaking sites such as Lascaux Cave, Machu Picchu, and Easter Island, you learn the points of interest that attract the attention of archaeologists and scholars, survey the principal features unearthed during the site's excavation, discover what evidence at the site reveals about the evolution of religion, and more.\nBy the final lap of your international journey, you'll have developed a new vision of religion and its crucial role in ancient history. You'll become more attuned to spirituality's universal elements and its unique characteristics. And you'll realize just how much credit religion deserves for remarkable sites that continue to captivate us.",
+      "authors": [
+        "John R. Hale"
+      ],
+      "narrators": [
+        "John R. Hale"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.490662139219015,
+        "count": 589
+      },
+      "duration": "PT18H20M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B00Y15GY32": {
+    "audiobook": {
+      "book_id": "B00Y15GY32",
+      "link": "https://www.audible.com/pd/Antony-Cleopatra-Audiobook/B00Y15GY32",
+      "title": "Antony & Cleopatra",
+      "full_title": "Antony & Cleopatra",
+      "author": "Adrian Goldsworthy",
+      "narrator": "Steven Crossley",
+      "cover_url": "My%20Library%20Audible.com-1_files/51G+MUB0YJL._SL500_.jpg",
+      "cover_filename": "B00Y15GY32.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00Y15GY32",
+      "format": "audiobook",
+      "topics": [
+        "Historical",
+        "Politicians",
+        "Presidents & Heads of State",
+        "Egypt",
+        "Greece",
+        "Rome",
+        "Military"
+      ],
+      "description": "In this remarkable dual biography of the two great lovers of the ancient world, Adrian Goldsworthy goes beyond myth and romance to create a nuanced and historically acute portrayal of his subjects, set against the political backdrop of their time. A history of lives lived intensely at a time when the world was changing profoundly, this audiobook takes listeners on a journey that crosses cultures and boundaries, from ancient Greece and ancient Egypt to the Roman Empire.\nDrawing on his prodigious knowledge of the ancient world and his keen sense of the period's military and political history, Goldsworthy creates a singular portrait of the iconic lovers. \"Antony and Cleopatra were first and foremost political animals,\" explains Goldsworthy, who places politics and ideology at the heart of their storied romance.\nUndertaking a close analysis of ancient sources and archaeological evidence, Goldsworthy bridges the gaps of current scholarship and dispels misconceptions that have entered the popular consciousness. He explains why Cleopatra was consistently portrayed by Hollywood as an Egyptian, even though she was really Greek, and argues that Antony had far less military experience than anyone would suspect from reading Shakespeare and other literature. In addition Goldsworthy makes an important case for understanding Antony as a powerful Roman senator and political force in his own right.",
+      "authors": [
+        "Adrian Goldsworthy"
+      ],
+      "narrators": [
+        "Steven Crossley"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2015-06-02",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.561264822134388,
+        "count": 253
+      },
+      "duration": "PT17H13M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "B00DJUK5J4": {
+    "audiobook": {
+      "book_id": "B00DJUK5J4",
+      "link": "https://www.audible.com/pd/Ancient-Empires-before-Alexander-Audiobook/B00DJUK5J4",
+      "title": "Ancient Empires before Alexander",
+      "full_title": "Ancient Empires before Alexander",
+      "author": "Robert L. Dise Jr.",
+      "narrator": "Robert L. Dise Jr.",
+      "cover_url": "My%20Library%20Audible.com-2_files/51-8sy-SFLL._SL500_.jpg",
+      "cover_filename": "B00DJUK5J4.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DJUK5J4",
+      "format": "audiobook",
+      "topics": [
+        "Ancient",
+        "Europe",
+        "World",
+        "Ancient China"
+      ],
+      "description": "Complete your knowledge of the ancient world with this comprehensive look at the dozen empires that flourished in the 2,000 years before the conquests of Alexander the Great. Over the course of 36 insightful lectures, you'll follow the Egyptians, the Mycenaean Greeks, the Persians, the Carthaginians, and others as they rise to glory, create administrative and military structures, clash with one another, and eventually collapse.\nProfessor Dise immerses you in the political, administrative, and military details of these thrilling civilizations, analyzing three basic questions: How did this particular empire emerge? How was it governed and defended? How and why did it ultimately fall? These questions raise a host of profound issues on the growth, development, and failures of vast imperial systems.\nGrounded in a chronological approach, you'll find no better guide through the palatial halls, administrative offices, and war-torn battlefields of these empires than Professor Dise. Each lecture is packed with a range of rich sources on which our current understanding of the ancient Near East rests, including cuneiform tablets, colorful narratives, and archaeological remains.\nAs you comb through these intriguing records, you quickly become more informed about how the past is recorded and passed down to subsequent generations. Spanning thousands of years of human history and encompassing regions both familiar and forgotten, this course is a remarkable tour through the farthest reaches of the ancient world - in all its marvelous diversity.",
+      "authors": [
+        "Robert L. Dise Jr."
+      ],
+      "narrators": [
+        "Robert L. Dise Jr."
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.510822510822511,
+        "count": 462
+      },
+      "duration": "PT18H18M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "B00IB17PMG": {
+    "audiobook": {
+      "book_id": "B00IB17PMG",
+      "link": "https://www.audible.com/pd/Heroes-and-Legends-Audiobook/B00IB17PMG",
+      "title": "Heroes and Legends",
+      "subtitle": "The Most Influential Characters of Literature",
+      "full_title": "Heroes and Legends: The Most Influential Characters of Literature",
+      "author": "Thomas A. Shippey",
+      "narrator": "Thomas A. Shippey",
+      "cover_url": "My%20Library%20Audible.com-2_files/51HrjrNomiL._SL500_.jpg",
+      "cover_filename": "B00IB17PMG.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00IB17PMG",
+      "format": "audiobook",
+      "topics": [
+        "Education",
+        "Collections",
+        "Classics",
+        "Literary Fiction",
+        "Greek Legends"
+      ],
+      "description": "Odysseus. Robinson Crusoe. Harry Potter. What do these memorable characters have in common? Why do we turn to certain stories again and again? And what impact have they made on world history? These 24 eye-opening lectures give fresh insight into some of the greatest heroes in world literature, from warriors such as Beowulf and Odysseus to unexpected heroes such as Uncle Tom and Sancho Panza.\nProfessor Shippey gives you an inside glimpse into the writer's process. Learn how authors \"write into the gap\" to flesh out-or, in some cases, reimagine altogether-old stories, making them new for new readerships with different values. By examining what makes these heroes such compelling characters, you'll see how they provide a window to better understand ourselves.\nFrom the beginnings of world literature through today's bestsellers, look at what makes characters successful-and how they reflect our changing cultural mores. For instance, after the horrors of global war in the 20th century, the world was waiting for a hero like Frodo Baggins, J.R.R. Tolkien's meek hobbit hero, someone called to duty rather than born strong and fearless.\nYou'll also examine ways that great heroes have changed the course of history, defining nations and redefining our sense of self and our relationships. From the mythical journey of Aeneas to Jane Austen's country dances, you'll survey a wealth of memorable stories and consider why such heroes were necessary-and how they continue to influence our lives today.",
+      "authors": [
+        "Thomas A. Shippey"
+      ],
+      "narrators": [
+        "Thomas A. Shippey"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2014-03-07",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.419727891156462,
+        "count": 1470
+      },
+      "duration": "PT12H15M",
+      "type": "audiobook",
+      "theme": "mythology"
+    }
+  },
+  "B00DD2WFNC": {
+    "audiobook": {
+      "book_id": "B00DD2WFNC",
+      "link": "https://www.audible.com/pd/Life-Lessons-from-the-Great-Myths-Audiobook/B00DD2WFNC",
+      "title": "Life Lessons from the Great Myths",
+      "full_title": "Life Lessons from the Great Myths",
+      "author": "J. Rufus Fears",
+      "narrator": "J. Rufus Fears",
+      "cover_url": "My%20Library%20Audible.com-2_files/41L8ZqHi6kL._SL500_.jpg",
+      "cover_filename": "B00DD2WFNC.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DD2WFNC",
+      "format": "audiobook",
+      "topics": [
+        "Collections"
+      ],
+      "description": "Change the way you think about some of the greatest stories ever told with this examination of the most important myths from more than 3,000 years of history. The ways in which the human imagination can transform historical events, people, and themes into powerful myths that endure through the ages is nothing short of awe-inspiring.\nTo examine the core of the world's greatest myths and tales is to confront some of history's most basic human truths. These 36 captivating lectures comprise a powerful work of storytelling prowess and historical insight, exploring events and individuals that so gripped civilizations, they transcended to the level of myth and played an important role in shaping culture, politics, religion, and more.\nLooking at myths from ancient Greece and Rome, from the Near East and the Middle East, from early and modern Europe, and from the United States, Professor Fears shows how myths convey higher truths too profound to be described in ordinary language. Decoding them, Professor Fears reveals how they serve as enduring sources of wisdom. For example, the rich tapestry of supernatural events in the Epic of Gilgamesh provided support for Mesopotamian politics, including the need for a divinely appointed kingship. The furious battles in Beowulf played an important role in cementing Germanic ideas of courage, heroism, glory, and honor. And the dramatic last stand at the Battle of the Alamo emphasized for Americans that liberty is worth any price.\nThe search for wisdom is one of life's great purposes, and there is much wisdom to be gleaned from the world's great myths. By the final powerful and stirring lecture of this course, you're sure to find yourself wiser than you were before you started.",
+      "authors": [
+        "J. Rufus Fears"
+      ],
+      "narrators": [
+        "J. Rufus Fears"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.373887240356083,
+        "count": 337
+      },
+      "duration": "PT18H22M",
+      "type": "audiobook",
+      "theme": "mythology"
+    }
+  },
+  "B00DLM8PF6": {
+    "audiobook": {
+      "book_id": "B00DLM8PF6",
+      "link": "https://www.audible.com/pd/Plato-Socrates-and-the-Dialogues-Audiobook/B00DLM8PF6",
+      "title": "Plato, Socrates, and the Dialogues",
+      "full_title": "Plato, Socrates, and the Dialogues",
+      "author": "Michael Sugrue",
+      "narrator": "Michael Sugrue",
+      "cover_url": "My%20Library%20Audible.com-2_files/41dDNXOH7EL._SL500_.jpg",
+      "cover_filename": "B00DLM8PF6.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DLM8PF6",
+      "format": "audiobook",
+      "topics": [
+        "Collections",
+        "Classics",
+        "Greek Philosophy"
+      ],
+      "description": "These 16 lectures bring the Socratic quest for truth alive and explore ideas that are as vital today as they were 25 centuries ago - ideas about truth, justice, love, beauty, courage, and wisdom that can change lives and reveal the world in new ways. Here, you'll delve into the inner structure, action, and meaning of 17 of Plato's greatest dialogues, making these lectures an indispensable companion for anyone interested in philosophy in general or Platonic thought in particular.\nAs you'll learn, the dialogues share some general characteristics - and they all breathe with the feeling, the tension, and even the humor of great theater. Even if you don't have time to reacquaint yourself directly with Platonic texts, you'll benefit enormously from these lectures' insights into the depths of reflection opened by Socrates and Plato - arguably the most important teacher-student pairing in history.\nYou'll become engrossed in \"the romance of the intellect,\" as Professor Sugrue opens a path for you into the inner structure and action of these selected dialogues, for millennia the objects of devoted study by the noblest minds. These lectures offer no easy answers. What they give instead is much better: an introduction to Platonic \"meta-education,\" the art not of what to think but of how to think. You'll see the stunning subtlety with which Plato weaves together the strengths of philosophy and poetry, dialectic and drama, word and action. And you'll catch a glimpse of the \"serious playfulness\" that Socrates says the search for the good, the true, and the beautiful can inspire in the human soul.",
+      "authors": [
+        "Michael Sugrue"
+      ],
+      "narrators": [
+        "Michael Sugrue"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.687576875768758,
+        "count": 813
+      },
+      "duration": "PT12H2M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B00DC8FIMM": {
+    "audiobook": {
+      "book_id": "B00DC8FIMM",
+      "link": "https://www.audible.com/pd/Greek-Tragedy-Audiobook/B00DC8FIMM",
+      "title": "Greek Tragedy",
+      "full_title": "Greek Tragedy",
+      "author": "Elizabeth Vandiver",
+      "narrator": "Elizabeth Vandiver",
+      "cover_url": "My%20Library%20Audible.com-2_files/41-u0+2Ab6L._SL500_.jpg",
+      "cover_filename": "B00DC8FIMM.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DC8FIMM",
+      "format": "audiobook",
+      "topics": [
+        "Collections"
+      ],
+      "description": "Greek tragedy was a dramatic form that flourished for less than a full century. And yet it remains vibrant, alive, and productive today. And the form's masterpieces help us - as perhaps they helped their original audiences - grasp a fuller sense of the terror and wonder of life. Professor Vandiver has designed these 24 rich and rewarding lectures to give you a full overview of Greek tragedy, both in its original setting and as a lasting contribution to the artistic exploration of the human condition. You'll learn to see Greek tragedy as a genre in its cultural context. What is tragedy's deeper historical background? Did it grow out of rituals honoring the god Dionysus, as is so often said? How did Aeschylus, Sophocles, and Euripides each make unique contributions to tragedy's expressive power?\nYou'll also uncover what scholarship can reveal about the actual performance of Greek tragedy, including its physical and ritual settings, actors and acting methods, conventions of staging and stagecraft, and even how productions were financed. And with this solid background in place, you'll explore a broad group of tragedies in close detail. In particular, you'll see how individual tragedies used traditional myths (often tales from the Trojan War), and what Aeschylus, Sophocles, or Euripides intended to accomplish by changing or adding to the basic story. You'll examine what certain tragedies imply about the world of 5th-century Athens and the importance, in turn, of the cultural background for explaining those tragedies.",
+      "authors": [
+        "Elizabeth Vandiver"
+      ],
+      "narrators": [
+        "Elizabeth Vandiver"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.806521739130435,
+        "count": 460
+      },
+      "duration": "PT12H30M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "1982641398": {
+    "audiobook": {
+      "book_id": "1982641398",
+      "link": "https://www.audible.com/pd/A-Handbook-for-New-Stoics-Audiobook/1982641398",
+      "title": "A Handbook for New Stoics",
+      "subtitle": "How to Thrive in a World out of Your Control; 52 Week-by-Week Lessons",
+      "full_title": "A Handbook for New Stoics: How to Thrive in a World out of Your Control; 52 Week-by-Week Lessons",
+      "author": "Massimo Pigliucci",
+      "narrator": "Rupert Farley",
+      "cover_url": "My%20Library%20Audible.com-2_files/61A2Vo95V5L._SL500_.jpg",
+      "cover_filename": "1982641398.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "1982641398",
+      "format": "audiobook",
+      "topics": [
+        "Motivation & Self-Improvement",
+        "Greek & Roman",
+        "Philosophy",
+        "Personal Success",
+        "Self Control"
+      ],
+      "description": "A pragmatic philosophy more popular than ever - here are 52 ancient lessons to help you overcome adversity and find tranquility in the modern world.\nAn ancient belief system made new, Stoicism teaches us how to accept the things we cannot change and how to live a good life. It helps us improve our outlook, increase our well-being, and thrive in the face of adversity. But how does one live like a Stoic?\nIn A Handbook for New Stoics, renowned philosopher Massimo Pigliucci and practitioner Gregory Lopez guide listeners through 52 weekly lessons, each based on a common obstacle. Stressing out about a meeting at work? Try listing the things you can control and those you can\u2019t. Epictetus writes: \u201cIn our power are thought, impulse, will to get, and will to avoid\u201d - in other words, our own attitudes. Discover what you can control and quickly achieve peace of mind.\nFeaturing quotes from philosophers, analysis by the authors, and journaling activities, these lessons enable listeners to reframe their perceptions and be happier.",
+      "authors": [
+        "Massimo Pigliucci",
+        "Gregory Lopez"
+      ],
+      "narrators": [
+        "Rupert Farley"
+      ],
+      "publisher": "Blackstone Audio, Inc.",
+      "date_published": "2019-05-14",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.485333333333333,
+        "count": 375
+      },
+      "duration": "PT10H44M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B004LYWJNC": {
+    "audiobook": {
+      "book_id": "B004LYWJNC",
+      "link": "https://www.audible.com/pd/Augustus-Audiobook/B004LYWJNC",
+      "title": "Augustus",
+      "full_title": "Augustus",
+      "author": "John Williams",
+      "narrator": "Robin Field",
+      "cover_url": "My%20Library%20Audible.com-2_files/51tG17Nr9zL._SL500_.jpg",
+      "cover_filename": "B004LYWJNC.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B004LYWJNC",
+      "format": "audiobook",
+      "topics": [
+        "Literary Fiction",
+        "Historical Fiction"
+      ],
+      "description": "A brilliant and beautifully written novel in the tradition of Robert Graves\u2019 I, Claudius, Augustus is a sweeping narrative that brings vividly to life a compelling cast of historical figures through their letters, dispatches, and memoirs.\nA mere 18 years of age when his uncle, Julius Caesar, is murdered, Octavius Caesar prematurely inherits rule of the Roman Republic. Surrounded by men who are jockeying for power\u2014Cicero, Brutus, Cassius, and Mark Antony\u2014young Octavius must work against the powerful Roman political machinations to claim his destiny as first Roman emperor.\nSprung from meticulous research and the pen of a true poet, Augustus tells the story of one man\u2019s dream to liberate a corrupt Rome from the fancy of the capriciously crooked and the wildly wealthy.",
+      "authors": [
+        "John Williams"
+      ],
+      "narrators": [
+        "Robin Field"
+      ],
+      "publisher": "Blackstone Audio, Inc.",
+      "date_published": "2011-02-03",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.426716141001855,
+        "count": 539
+      },
+      "duration": "PT14H16M",
+      "type": "audiobook",
+      "theme": "ancient history"
+    }
+  },
+  "B00DCY39RC": {
+    "audiobook": {
+      "book_id": "B00DCY39RC",
+      "link": "https://www.audible.com/pd/An-Introduction-to-Greek-Philosophy-Audiobook/B00DCY39RC",
+      "title": "An Introduction to Greek Philosophy",
+      "full_title": "An Introduction to Greek Philosophy",
+      "author": "David Roochnik",
+      "narrator": "David Roochnik",
+      "cover_url": "My%20Library%20Audible.com-2_files/41daDxCpAWL._SL500_.jpg",
+      "cover_filename": "B00DCY39RC.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DCY39RC",
+      "format": "audiobook",
+      "topics": [
+        "Collections",
+        "Classics",
+        "Greek Philosophy"
+      ],
+      "description": "More than 2,500 years later, the fundamental questions asked by the ancient Greeks continue to challenge, fascinate, and instruct us. Is reality stable and permanent or is it always changing? Are ethical values like justice and courage relative? What is justice? What is happiness? How shall we best live our lives?\nIn this series of 24 lectures, Professor Roochnik invites you to join this eternal discussion. You'll study the development of Greek philosophy, meet its major thinkers, and explore the issues and ideas that concerned them, from the Pre-Socratic concerns with \"Being\" to the staggering contributions of Plato and Aristotle.\nAlfred North Whitehead, the great 20th-century British philosopher, said, \"The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.\" In the Middle Ages, Aristotle was held in such high esteem that he was simply known as \"the philosopher.\"\nIn this course, you not only learn about Greek philosophy but, to some extent, how to do it. Professor Roochnik emphasizes that Greek philosophy is ultimately not about facts or answers but about the give-and-take of ideas. By joining the conversation, you will come away with a new appreciation for how Greek philosophy still heavily influences our view of life.",
+      "authors": [
+        "David Roochnik"
+      ],
+      "narrators": [
+        "David Roochnik"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.63030303030303,
+        "count": 495
+      },
+      "duration": "PT12H17M",
+      "type": "audiobook",
+      "theme": "philosophy"
+    }
+  },
+  "B00DB6PQWW": {
+    "audiobook": {
+      "book_id": "B00DB6PQWW",
+      "link": "https://www.audible.com/pd/Building-Great-Sentences-Exploring-the-Writers-Craft-Audiobook/B00DB6PQWW",
+      "title": "Building Great Sentences",
+      "subtitle": "Exploring the Writer's Craft",
+      "full_title": "Building Great Sentences: Exploring the Writer's Craft",
+      "author": "Brooks Landon",
+      "narrator": "Brooks Landon",
+      "cover_url": "My%20Library%20Audible.com-2_files/418Pxl7n+WL._SL500_.jpg",
+      "cover_filename": "B00DB6PQWW.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DB6PQWW",
+      "format": "audiobook",
+      "topics": [
+        "Communication & Social Skills"
+      ],
+      "description": "Why do some lengthy sentences flow effortlessly while others stumble along? Why are you captivated by the writing of particular authors? How can you craft sentences that reflect your unique outlook on the world?\nThis lively, 24-lecture course introduces you to the myriad ways in which we think about, talk about, and write sentences. Reviving the sentence-oriented approach to studying writing, Professor Landon provides a greater context for what makes sentences great - and how you can apply these methods to your own writing.\nYou'll look at the kernels from which sentences grow - minimal base clauses - and how adding words or phrases creates larger, cumulative sentences that lead toward great writing. You'll explore sentence constructions that make writing more complex and add exciting levels of suspense, and see tactics that create balance and rhythm.Recognizing and appreciating these and other eye-opening aspects of sentences helps you understand the work that goes into creating an effective, pleasurable sentence, which can make you more aware of why particular lines, passages, or phrases in the poems, novels, or articles you read so enchant you.\nProfessor Landon draws abundantly on examples from the work of brilliant writers, including Don DeLillo, Virginia Woolf, Samuel Johnson, and more. With its passionate approach to writing and reading and its indulgence in the sheer joy of language, this journey gives you unique insights into the nature of great writing-and also teaches you how you can achieve some of this greatness yourself.",
+      "authors": [
+        "Brooks Landon"
+      ],
+      "narrators": [
+        "Brooks Landon"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.177664974619289,
+        "count": 788
+      },
+      "duration": "PT12H25M",
+      "type": "audiobook",
+      "multiple_formats": {
+        "book": "9780452298606",
+        "audiobook": "B00DB6PQWW"
+      },
+      "theme": "writing"
+    }
+  },
+  "B00DDVQIM2": {
+    "audiobook": {
+      "book_id": "B00DDVQIM2",
+      "link": "https://www.audible.com/pd/How-to-Listen-to-and-Understand-Great-Music-3rd-Edition-Audiobook/B00DDVQIM2",
+      "title": "How to Listen to and Understand Great Music, 3rd Edition",
+      "full_title": "How to Listen to and Understand Great Music, 3rd Edition",
+      "author": "Robert Greenberg",
+      "narrator": "Robert Greenberg",
+      "cover_url": "My%20Library%20Audible.com-2_files/510lnTiLKcL._SL500_.jpg",
+      "cover_filename": "B00DDVQIM2.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00DDVQIM2",
+      "format": "audiobook",
+      "topics": [
+        "Music"
+      ],
+      "description": "Great music is a language unto its own, a means of communication of unmatched beauty and genius. And it has an undeniable power to move us in ways that enrich our lives - provided it is understood.\nIf you have ever longed to appreciate great concert music, to learn its glorious language and share in its sublime pleasures, the way is now open to you, through this series of 48 wonderful lectures designed to make music accessible to everyone who yearns to know it, regardless of prior training or knowledge. It's a lecture series that will enable you to first grasp music's forms, techniques, and terms - the grammatical elements that make you fluent in its language - and then use that newfound fluency to finally hear and understand what the greatest composers in history are actually saying to us.\nAnd as you learn the gifts given us by nearly every major composer, you'll come to know there is one we share with each of them - a common humanity that lets us finally understand that these were simply people speaking to us, sharing their passion and wanting desperately to be heard. Using digitally recorded musical passages to illustrate his points, Professor Greenberg will take you inside magnificent compositions by Bach, Handel, Haydn, Mozart, Beethoven, Chopin, Verdi, Wagner, Brahms, Tchaikovsky, Stravinsky, and more. Even if you have listened to many of these illustrative pieces throughout your life - as so many of us have - you will never hear them the same way again after experiencing these lectures.\nPLEASE NOTE: When you purchase this title, the accompanying reference material will be available in your Library section along with the audio.",
+      "authors": [
+        "Robert Greenberg"
+      ],
+      "narrators": [
+        "Robert Greenberg"
+      ],
+      "publisher": "The Great Courses",
+      "date_published": "2013-07-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.730780061954379,
+        "count": 3551
+      },
+      "duration": "PT36H34M",
+      "type": "audiobook",
+      "theme": "music"
+    }
+  },
+  "B00VAZZY32": {
+    "audiobook": {
+      "book_id": "B00VAZZY32",
+      "link": "https://www.audible.com/pd/The-Phoenix-Project-Audiobook/B00VAZZY32",
+      "title": "The Phoenix Project",
+      "subtitle": "A Novel about IT, DevOps, and Helping Your Business Win 5th Anniversary Edition",
+      "full_title": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win 5th Anniversary Edition",
+      "author": "Gene Kim",
+      "narrator": "Chris Ruen",
+      "cover_url": "My%20Library%20Audible.com-2_files/51Fi5Fq4u5L._SL500_.jpg",
+      "cover_filename": "B00VAZZY32.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00VAZZY32",
+      "format": "audiobook",
+      "topics": [
+        "Career Success"
+      ],
+      "description": "Five years after this sleeper hit took on the world of IT and flipped it on its head, the fifth anniversary edition of The Phoenix Project continues to guide IT in the DevOps revolution. In this newly updated and expanded edition of the best-selling The Phoenix Project, co-author Gene Kim includes a new afterword and a deeper delve into the Three Ways as described in The DevOps Handbook.\nBill, an IT manager at Parts Unlimited, has been tasked with taking on a project critical to the future of the business, code named Phoenix Project. But the project is massively over budget and behind schedule. The CEO demands Bill must fix the mess in 90 days, or else Bill\u2019s entire department will be outsourced.\nWith the help of a prospective board member and his mysterious philosophy of the Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow, streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited.\nIn a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Listeners will not only learn how to improve their own IT organizations, they\u2019ll never view IT the same.\nPLEASE NOTE: When you purchase this title, the accompanying PDF will be available in your Audible Library along with the audio.",
+      "authors": [
+        "Gene Kim",
+        "Kevin Behr",
+        "George Spafford"
+      ],
+      "narrators": [
+        "Chris Ruen"
+      ],
+      "publisher": "IT Revolution Press",
+      "date_published": "2015-04-07",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.687785561985988,
+        "count": 13132
+      },
+      "duration": "PT14H46M",
+      "type": "audiobook",
+      "theme": "engineering"
+    }
+  },
+  "B009DQN090": {
+    "audiobook": {
+      "book_id": "B009DQN090",
+      "link": "https://www.audible.com/pd/The-Signal-and-the-Noise-Audiobook/B009DQN090",
+      "title": "The Signal and the Noise",
+      "subtitle": "Why So Many Predictions Fail - but Some Don't",
+      "full_title": "The Signal and the Noise: Why So Many Predictions Fail - but Some Don't",
+      "author": "Nate Silver",
+      "narrator": "Mike Chamberlain",
+      "cover_url": "My%20Library%20Audible.com-2_files/512jL2asNUL._SL500_.jpg",
+      "cover_filename": "B009DQN090.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B009DQN090",
+      "format": "audiobook",
+      "topics": [
+        "Management & Leadership",
+        "Politics & Government",
+        "Future Studies",
+        "Mathematics"
+      ],
+      "description": "Updated for 2020 with a new Preface by Nate Silver.\nNate Silver built an innovative system for predicting baseball performance, predicted the 2008 election within a hair\u2019s breadth, and became a national sensation as a blogger - all by the time he was 30. He solidified his standing as the nation's foremost political forecaster with his near perfect prediction of the 2012 election.\u00a0Silver is the founder and editor in chief\u00a0of the website FiveThirtyEight.\nDrawing on his own groundbreaking work, Silver examines the world of prediction, investigating how we can distinguish a true signal from a universe of noisy data. Most predictions fail, often at great cost to society, because most of us have a poor understanding of probability and uncertainty. Both experts and laypeople mistake more confident predictions for more accurate ones. But overconfidence is often the reason for failure. If our appreciation of uncertainty improves, our predictions can get better too. This is the \u201cprediction paradox\u201d: The more humility we have about our ability to make predictions, the more successful we can be in planning for the future.\nIn keeping with his own aim to seek truth from data, Silver visits the most successful forecasters in a range of areas, from hurricanes to baseball to global pandemics, from the poker table to the stock market, from Capitol Hill to the NBA. He explains and evaluates how these forecasters think and what bonds they share. What lies behind their success? Are they good - or just lucky? What patterns have they unraveled? And are their forecasts really right? He explores unanticipated commonalities and exposes unexpected juxtapositions. And sometimes, it is not so much how good a prediction is in an absolute sense that matters but how good it is relative to the competition. In other cases, prediction is still a very rudimentary - and dangerous - science.\nSilver observes that the most accurate forecasters tend to have a superior command of probability, and they tend to be both humble and hardworking. They distinguish the predictable from the unpredictable, and they notice a thousand little details that lead them closer to the truth. Because of their appreciation of probability, they can distinguish the signal from the noise.\nWith everything from the health of the global economy to our ability to fight terrorism dependent on the quality of our predictions, Nate Silver\u2019s insights are an essential listen.",
+      "authors": [
+        "Nate Silver"
+      ],
+      "narrators": [
+        "Mike Chamberlain"
+      ],
+      "publisher": "Penguin Audio",
+      "date_published": "2012-09-27",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.299162345432788,
+        "count": 5014
+      },
+      "duration": "PT16H21M",
+      "type": "audiobook",
+      "theme": "data"
+    }
+  },
+  "B002V0TPMQ": {
+    "audiobook": {
+      "book_id": "B002V0TPMQ",
+      "link": "https://www.audible.com/pd/The-Drunkards-Walk-Audiobook/B002V0TPMQ",
+      "title": "The Drunkard's Walk",
+      "subtitle": "How Randomness Rules Our Lives",
+      "full_title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+      "author": "Leonard Mlodinow",
+      "narrator": "Sean Pratt",
+      "cover_url": "My%20Library%20Audible.com-2_files/51Ns8Dy-16L._SL500_.jpg",
+      "cover_filename": "B002V0TPMQ.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B002V0TPMQ",
+      "format": "audiobook",
+      "topics": [
+        "Decision-Making & Problem Solving",
+        "Society",
+        "Mathematics",
+        "Physics"
+      ],
+      "description": "In this irreverent and illuminating audiobook, acclaimed writer and scientist Leonard Mlodinow shows us how randomness, chance, and probability reveal a tremendous amount about our daily lives, and how we misunderstand the significance of everything from a casual conversation to a major financial setback. As a result, successes and failures in life are often attributed to clear and obvious causes, when in actuality they are more profoundly influenced by chance.The rise and fall of your favorite movie star or the most reviled CEO - in fact, all our destinies - reflects chance as much as planning and innate abilities. Even Roger Maris, who beat Babe Ruth's single season home-run record, was in all likelihood not great but just lucky.\nHow could it have happened that a wine was given five out of five stars by one journal and called the worst wine of the decade by another? Wine ratings, school grades, political polls, and many other things in daily life are less reliable than we believe. By showing us the true nature of chance and revealing the psychological illusions that cause us to misjudge the world around us, Mlodinow gives fresh insight into what is really meaningful and how we can make decisions based on a deeper truth. From the classroom to the courtroom, from financial markets to supermarkets, from the doctor's office to the Oval Office, Mlodinow's insights will intrigue, awe, and inspire.\nOffering listeners not only a tour of randomness, chance and probability but also a new way of looking at the world, this original, unexpected journey reminds us that much in our lives is about as predictable as the steps of a stumbling man afresh from a night at a bar.",
+      "authors": [
+        "Leonard Mlodinow"
+      ],
+      "narrators": [
+        "Sean Pratt"
+      ],
+      "publisher": "Gildan Media, LLC",
+      "date_published": "2008-06-26",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.035544487208512,
+        "count": 4417
+      },
+      "duration": "PT9H19M",
+      "type": "audiobook",
+      "theme": "data"
+    }
+  },
+  "B018EYD4VA": {
+    "audiobook": {
+      "book_id": "B018EYD4VA",
+      "link": "https://www.audible.com/pd/Happy-City-Audiobook/B018EYD4VA",
+      "title": "Happy City",
+      "subtitle": "Transforming Our Lives Through Urban Design",
+      "full_title": "Happy City: Transforming Our Lives Through Urban Design",
+      "author": "Charles Montgomery",
+      "narrator": "Patrick Lawlor",
+      "cover_url": "My%20Library%20Audible.com-2_files/514bL4xO6tL._SL500_.jpg",
+      "cover_filename": "B018EYD4VA.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B018EYD4VA",
+      "format": "audiobook",
+      "topics": [
+        "Business & Careers",
+        "Psychology",
+        "Political Science",
+        "Sociology",
+        "Urban Planning"
+      ],
+      "description": "After decades of unchecked sprawl, more people than ever are moving back to the city. Dense urban living has been prescribed as a panacea for the environmental and resource crises of our time. But is it better or worse for our happiness? Are subways, sidewalks, and tower dwelling improvements on the car dependence of sprawl?\nAward-winning journalist Charles Montgomery finds answers to such questions at the intersection between urban design and the emerging science of happiness and during an exhilarating journey through some of the world's most dynamic cities. He meets the visionary mayor who introduced a \"sexy\" lipstick-red bus to ease status anxiety in Bogot\u00e1; the architect who brought the lessons of medieval Tuscan hill towns to modern-day New York City; the activist who turned Paris' urban freeways into beaches; and an army of American suburbanites who have transformed their lives by hacking the designs of their streets and neighborhoods. Full of rich historical detail and new insights from psychologists and Montgomery's own urban experiments, Happy City is an essential tool for understanding and improving our own communities.",
+      "authors": [
+        "Charles Montgomery"
+      ],
+      "narrators": [
+        "Patrick Lawlor"
+      ],
+      "publisher": "Tantor Audio",
+      "date_published": "2015-12-08",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.619565217391305,
+        "count": 368
+      },
+      "duration": "PT12H38M",
+      "type": "audiobook",
+      "theme": "urbanism"
+    }
+  },
+  "B00FEFE4XK": {
+    "audiobook": {
+      "book_id": "B00FEFE4XK",
+      "link": "https://www.audible.com/pd/The-Complete-Sherlock-Holmes-Audiobook/B00FEFE4XK",
+      "title": "The Complete Sherlock Holmes",
+      "subtitle": "The Heirloom Collection",
+      "full_title": "The Complete Sherlock Holmes: The Heirloom Collection",
+      "author": "Arthur Conan Doyle",
+      "narrator": "Simon Vance",
+      "cover_url": "My%20Library%20Audible.com-2_files/51gU3fCeigL._SL500_.jpg",
+      "cover_filename": "B00FEFE4XK.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B00FEFE4XK",
+      "format": "audiobook",
+      "topics": [
+        "Anthologies",
+        "Classics",
+        "Traditional Detectives",
+        "Classics Literature Collection"
+      ],
+      "description": "Winner of the 2014 Audie Award for Classics\nSir Arthur Conan Doyle\u2019s Sherlock Holmes tales are rightly ranked among the seminal works of mystery and detective fiction. Included in this collection are all four full-length Holmes novels and more than forty short masterpieces\u2014from the inaugural adventure A Study in Scarlet to timeless favorites like \u201cThe Speckled Band\u201d and more. At the center of each stands the iconic figure of Holmes\u2014brilliant, eccentric, and capable of amazing feats of deductive reasoning. By his side is Dr. John Watson, his steadfast assistant and our trusty narrator. This set is a must-have for every discriminating bibliophile and Sherlock Holmes fan.\nVolume 1 A Study in Scarlet: A Novel A Sign of Four: A Novel Adventures of Sherlock Holmes: Short Stories\nVolume 2 Memoirs of Sherlock Holmes: Short Stories The Hound of the Baskervilles: A Novel\nVolume 3 The Return of Sherlock Holmes: Short Stories The Valley of Fear: A Novel\nVolume 4 His Last Bow: A Novel The Case Book of Sherlock Holmes: Short Stories",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "narrators": [
+        "Simon Vance"
+      ],
+      "publisher": "Brilliance Audio",
+      "date_published": "2013-09-25",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.733587609801202,
+        "count": 8652
+      },
+      "duration": "PT58H4M",
+      "type": "audiobook",
+      "theme": "crime fiction"
+    }
+  },
+  "B002V0RHKS": {
+    "audiobook": {
+      "book_id": "B002V0RHKS",
+      "link": "https://www.audible.com/pd/The-Complete-Stories-of-Sherlock-Holmes-Volume-1-Audiobook/B002V0RHKS",
+      "title": "The Complete Stories of Sherlock Holmes, Volume 1",
+      "full_title": "The Complete Stories of Sherlock Holmes, Volume 1",
+      "author": "Arthur Conan Doyle",
+      "narrator": "Charlton Griffin",
+      "cover_url": "My%20Library%20Audible.com-3_files/51Wwcu7X2IL._SL500_.jpg",
+      "cover_filename": "B002V0RHKS.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B002V0RHKS",
+      "format": "audiobook",
+      "topics": [
+        "Anthologies",
+        "Short Stories",
+        "Classics",
+        "Private Investigators",
+        "Traditional Detectives",
+        "Short Classic Fiction"
+      ],
+      "description": "First appearing in print in 1890, the character of Sherlock Holmes has now become synonymous worldwide with the concept of a super sleuth. His creator, Conan Doyle, imbued his detective hero with intellectual power, acute observational abilities, a penchant for deductive reasoning and a highly educated use of forensic skills. Indeed, Doyle created the first fictional private detective who used what we now recognize as modern scientific investigative techniques.Doyle ended up writing four novels and 56 short stories featuring Holmes and his companion, Dr. Watson. All but four are told in the first person by Watson, two by Holmes, and two are written in the third person. Together, this series of beautifully written Victorian literature has sold more copies than any other books in the English language, with the exceptions of the Bible and Shakespeare.\nVolume 1 in this series consists of two novels, A Study in Scarlet and The Sign of Four, followed by a collection of short stories entitled The Adventures of Sherlock Holmes.",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "narrators": [
+        "Charlton Griffin"
+      ],
+      "publisher": "Audio Connoisseur",
+      "date_published": "2009-10-15",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.401755241345685,
+        "count": 4102
+      },
+      "duration": "PT20H17M",
+      "type": "audiobook",
+      "theme": "crime fiction"
+    }
+  },
+  "B002UZYX2Y": {
+    "audiobook": {
+      "book_id": "B002UZYX2Y",
+      "link": "https://www.audible.com/pd/The-Pillars-of-the-Earth-Audiobook/B002UZYX2Y",
+      "title": "The Pillars of the Earth",
+      "full_title": "The Pillars of the Earth",
+      "author": "Ken Follett",
+      "narrator": "John Lee",
+      "cover_url": "My%20Library%20Audible.com-3_files/51dmIEgId2L._SL500_.jpg",
+      "cover_filename": "B002UZYX2Y.jpg",
+      "source": "Audible",
+      "book_type": "audiobook",
+      "asin": "B002UZYX2Y",
+      "format": "audiobook",
+      "topics": [
+        "Sagas",
+        "Historical Fiction",
+        "Suspense"
+      ],
+      "description": "The Pillars of the Earth tells the story of Philip, prior of Kingsbridge, a devout and resourceful monk driven to build the greatest Gothic cathedral the world has known...of Tom, the mason who becomes his architect - a man divided in his soul...of the beautiful, elusive Lady Aliena, haunted by a secret shame...and of a struggle between good and evil that will turn church against state, and brother against brother.\nA spellbinding epic tale of ambition, anarchy, and absolute power set against the sprawling medieval canvas of 12th century England, this is Ken Follett's historical masterpiece.",
+      "authors": [
+        "Ken Follett"
+      ],
+      "narrators": [
+        "John Lee"
+      ],
+      "publisher": "Penguin Audio",
+      "date_published": "2006-12-31",
+      "language": [
+        "English"
+      ],
+      "rating": {
+        "rating": 4.637886597938144,
+        "count": 34144
+      },
+      "duration": "PT40H56M",
+      "type": "audiobook",
+      "theme": "historical novel"
     }
   }
 }

@@ -45,23 +45,32 @@ index:
     name: by Adrian Goldsworthy
     title: 'Authors: Adrian Goldsworthy'
     subtitle: Books by Adrian Goldsworthy
-    description: I have 5 books by Adrian Goldsworthy in my personal library.
+    description: I have 8 books by Adrian Goldsworthy in my personal library.
     items:
     - title: null
       books:
+      - B00Y15GY32
       - B00MXDGT2A
       - B00MFQLERK
       - '9781541699250'
+      - B01KMXAL9Y
+      - '1549104780'
       - '9780500288993'
       - '1977330053'
       description: 'Book titles:
 
+
+        - (audio) [Antony & Cleopatra](/books/info/B00Y15GY32) by Adrian Goldsworthy
 
         - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 
         - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
 
         - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
+
+        - (audio) [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy
+
+        - (audio) [Philip and Alexander](/books/info/1549104780) by Adrian Goldsworthy
 
         - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 
@@ -97,8 +106,7 @@ index:
 
         - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
 
-        - (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)
-        by Agatha Christie
+        - (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie
 
         - (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha Christie
 
@@ -368,6 +376,21 @@ index:
 
 
         - (paper) [Architecture](/books/info/9780192801791) by Andrew Ballantyne'
+  Andrew R. Wilson:
+    name: by Andrew R. Wilson
+    title: 'Authors: Andrew R. Wilson'
+    subtitle: Books by Andrew R. Wilson
+    description: I have 1 book by Andrew R. Wilson in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
   Andrew Robinson:
     name: by Andrew Robinson
     title: 'Authors: Andrew Robinson'
@@ -484,6 +507,19 @@ index:
 
         - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton,
         James M. May, Frederic M. Wheelock'
+  Anne Lamott:
+    name: by Anne Lamott
+    title: 'Authors: Anne Lamott'
+    subtitle: Books by Anne Lamott
+    description: I have 1 book by Anne Lamott in my personal library.
+    items:
+    - title: null
+      books:
+      - B0BJ48MQ5T
+      description: 'Book title:
+
+
+        - (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott'
   Anthony Grafton:
     name: by Anthony Grafton
     title: 'Authors: Anthony Grafton'
@@ -583,16 +619,24 @@ index:
     name: by Arthur Conan Doyle
     title: 'Authors: Arthur Conan Doyle'
     subtitle: Books by Arthur Conan Doyle
-    description: I have 1 book by Arthur Conan Doyle in my personal library.
+    description: I have 3 books by Arthur Conan Doyle in my personal library.
     items:
     - title: null
       books:
       - B06WLMWF2S
-      description: 'Book title:
+      - B00FEFE4XK
+      - B002V0RHKS
+      description: 'Book titles:
 
 
         - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle,
-        Stephen Fry - introductions'
+        Stephen Fry - introductions
+
+        - (audio) [The Complete Sherlock Holmes](/books/info/B00FEFE4XK) by Arthur
+        Conan Doyle
+
+        - (audio) [The Complete Stories of Sherlock Holmes, Volume 1](/books/info/B002V0RHKS)
+        by Arthur Conan Doyle'
   "Arturo P\xE9rez-Reverte":
     name: "by Arturo P\xE9rez-Reverte"
     title: "Authors: Arturo P\xE9rez-Reverte"
@@ -683,6 +727,19 @@ index:
       - '9781616890773'
       description: "Book title:\n\n- (paper) [Generative Design](/books/info/9781616890773)\
         \ by Hartmut Bohnacker, Benedikt Gro\xDF"
+  Benjamin Dreyer:
+    name: by Benjamin Dreyer
+    title: 'Authors: Benjamin Dreyer'
+    subtitle: Books by Benjamin Dreyer
+    description: I have 1 book by Benjamin Dreyer in my personal library.
+    items:
+    - title: null
+      books:
+      - B07LFKH5FV
+      description: 'Book title:
+
+
+        - (audio) [Dreyer''s English](/books/info/B07LFKH5FV) by Benjamin Dreyer'
   Benjamin L. Handen:
     name: by Benjamin L. Handen
     title: 'Authors: Benjamin L. Handen'
@@ -768,6 +825,19 @@ index:
 
         - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by
         Mark Collier, Bill Manley'
+  Bill Roorbach:
+    name: by Bill Roorbach
+    title: 'Authors: Bill Roorbach'
+    subtitle: Books by Bill Roorbach
+    description: I have 1 book by Bill Roorbach in my personal library.
+    items:
+    - title: null
+      books:
+      - '1705248047'
+      description: 'Book title:
+
+
+        - (audio) [Writing Life Stories](/books/info/1705248047) by Bill Roorbach'
   Bill Severn:
     name: by Bill Severn
     title: 'Authors: Bill Severn'
@@ -842,6 +912,21 @@ index:
       - '9788531405921'
       description: "Book title:\n\n- (paper) [Hist\xF3ria concisa do Brasil](/books/info/9788531405921)\
         \ by Boris Fausto"
+  Brad S. Gregory:
+    name: by Brad S. Gregory
+    title: 'Authors: Brad S. Gregory'
+    subtitle: Books by Brad S. Gregory
+    description: I have 1 book by Brad S. Gregory in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
   Brian Okken:
     name: by Brian Okken
     title: 'Authors: Brian Okken'
@@ -860,16 +945,19 @@ index:
     name: by Brooks Landon
     title: 'Authors: Brooks Landon'
     subtitle: Books by Brooks Landon
-    description: I have 1 book by Brooks Landon in my personal library.
+    description: I have 2 books by Brooks Landon in my personal library.
     items:
     - title: null
       books:
       - '9780452298606'
-      description: 'Book title:
+      - B00DB6PQWW
+      description: 'Book titles:
 
 
         - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks
-        Landon'
+        Landon
+
+        - (audio) [Building Great Sentences](/books/info/B00DB6PQWW) by Brooks Landon'
   Bruce Hanington:
     name: by Bruce Hanington
     title: 'Authors: Bruce Hanington'
@@ -1090,6 +1178,34 @@ index:
 
 
         - (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus'
+  Charles Kimball:
+    name: by Charles Kimball
+    title: 'Authors: Charles Kimball'
+    subtitle: Books by Charles Kimball
+    description: I have 1 book by Charles Kimball in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
+  Charles Montgomery:
+    name: by Charles Montgomery
+    title: 'Authors: Charles Montgomery'
+    subtitle: Books by Charles Montgomery
+    description: I have 1 book by Charles Montgomery in my personal library.
+    items:
+    - title: null
+      books:
+      - B018EYD4VA
+      description: 'Book title:
+
+
+        - (audio) [Happy City](/books/info/B018EYD4VA) by Charles Montgomery'
   Charles Wheelan:
     name: by Charles Wheelan
     title: 'Authors: Charles Wheelan'
@@ -1361,6 +1477,19 @@ index:
 
 
         - (paper) [Art History](/books/info/9780192801814) by Dana Arnold'
+  Dani Shapiro:
+    name: by Dani Shapiro
+    title: 'Authors: Dani Shapiro'
+    subtitle: Books by Dani Shapiro
+    description: I have 1 book by Dani Shapiro in my personal library.
+    items:
+    - title: null
+      books:
+      - 0593216342
+      description: 'Book title:
+
+
+        - (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro'
   Daniel Gilbert:
     name: by Daniel Gilbert
     title: 'Authors: Daniel Gilbert'
@@ -1387,6 +1516,21 @@ index:
 
 
         - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman'
+  Daniel N. Robinson:
+    name: by Daniel N. Robinson
+    title: 'Authors: Daniel N. Robinson'
+    subtitle: Books by Daniel N. Robinson
+    description: I have 1 book by Daniel N. Robinson in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
   Daniel Pettersson:
     name: by Daniel Pettersson
     title: 'Authors: Daniel Pettersson'
@@ -1627,6 +1771,20 @@ index:
 
 
         - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless'
+  David Roochnik:
+    name: by David Roochnik
+    title: 'Authors: David Roochnik'
+    subtitle: Books by David Roochnik
+    description: I have 1 book by David Roochnik in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DCY39RC
+      description: 'Book title:
+
+
+        - (audio) [An Introduction to Greek Philosophy](/books/info/B00DCY39RC) by
+        David Roochnik'
   David Sedaris:
     name: by David Sedaris
     title: 'Authors: David Sedaris'
@@ -1691,6 +1849,19 @@ index:
 
         - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542)
         by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar'
+  Dean Nelson:
+    name: by Dean Nelson
+    title: 'Authors: Dean Nelson'
+    subtitle: Books by Dean Nelson
+    description: I have 1 book by Dean Nelson in my personal library.
+    items:
+    - title: null
+      books:
+      - B07M6LD93N
+      description: 'Book title:
+
+
+        - (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson'
   Debbie Millman:
     name: by Debbie Millman
     title: 'Authors: Debbie Millman'
@@ -1838,6 +2009,25 @@ index:
 
 
         - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms'
+  Dirk Maggs:
+    name: by Dirk Maggs
+    title: 'Authors: Dirk Maggs'
+    subtitle: Books by Dirk Maggs
+    description: I have 3 books by Dirk Maggs in my personal library.
+    items:
+    - title: null
+      books:
+      - B0BFK1K36D
+      - B098TWVZVD
+      - B086WP794Z
+      description: 'Book titles:
+
+
+        - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+
+        - (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
+
+        - (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs'
   Don Norman:
     name: by Don Norman
     title: 'Authors: Don Norman'
@@ -2036,16 +2226,19 @@ index:
     name: by Elizabeth Vandiver
     title: 'Authors: Elizabeth Vandiver'
     subtitle: Books by Elizabeth Vandiver
-    description: I have 2 books by Elizabeth Vandiver in my personal library.
+    description: I have 3 books by Elizabeth Vandiver in my personal library.
     items:
     - title: null
       books:
       - B00D99PNKQ
+      - B00DC8FIMM
       - B00DC8CFZK
       description: 'Book titles:
 
 
         - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver
+
+        - (audio) [Greek Tragedy](/books/info/B00DC8FIMM) by Elizabeth Vandiver
 
         - (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver'
   Ellen Lupton:
@@ -2370,13 +2563,16 @@ index:
     name: by Garrett G. Fagan
     title: 'Authors: Garrett G. Fagan'
     subtitle: Books by Garrett G. Fagan
-    description: I have 1 book by Garrett G. Fagan in my personal library.
+    description: I have 2 books by Garrett G. Fagan in my personal library.
     items:
     - title: null
       books:
+      - B00D8HXDPQ
       - B00DB92ATG
-      description: 'Book title:
+      description: 'Book titles:
 
+
+        - (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan
 
         - (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by
         Garrett G. Fagan'
@@ -2393,6 +2589,20 @@ index:
 
 
         - (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary Larson'
+  Gene Kim:
+    name: by Gene Kim
+    title: 'Authors: Gene Kim'
+    subtitle: Books by Gene Kim
+    description: I have 1 book by Gene Kim in my personal library.
+    items:
+    - title: null
+      books:
+      - B00VAZZY32
+      description: 'Book title:
+
+
+        - (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin
+        Behr, George Spafford'
   Gene Kranz:
     name: by Gene Kranz
     title: 'Authors: Gene Kranz'
@@ -2451,6 +2661,20 @@ index:
 
         - (paper) [Three Plays](/books/info/9780802150646) by George S. Kaufman, Moss
         Hart'
+  George Spafford:
+    name: by George Spafford
+    title: 'Authors: George Spafford'
+    subtitle: Books by George Spafford
+    description: I have 1 book by George Spafford in my personal library.
+    items:
+    - title: null
+      books:
+      - B00VAZZY32
+      description: 'Book title:
+
+
+        - (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin
+        Behr, George Spafford'
   Georges Simenon:
     name: by Georges Simenon
     title: 'Authors: Georges Simenon'
@@ -2576,15 +2800,23 @@ index:
     name: by Grant L. Voth
     title: 'Authors: Grant L. Voth'
     subtitle: Books by Grant L. Voth
-    description: I have 1 book by Grant L. Voth in my personal library.
+    description: I have 3 books by Grant L. Voth in my personal library.
     items:
     - title: null
       books:
+      - B013KRSIVC
       - B00DDXQ61S
-      description: 'Book title:
+      - B00DHONYCW
+      description: 'Book titles:
 
 
-        - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth'
+        - (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant
+        L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur
+
+        - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth
+
+        - (audio) [The Skeptic''s Guide to the Great Books](/books/info/B00DHONYCW)
+        by Grant L. Voth'
   Greg D'Onofrio:
     name: by Greg D'Onofrio
     title: 'Authors: Greg D''Onofrio'
@@ -2613,6 +2845,20 @@ index:
 
         - (paper) [Style](/books/info/9780226899152) by Joseph M. Williams, Gregory
         G. Colomb'
+  Gregory Lopez:
+    name: by Gregory Lopez
+    title: 'Authors: Gregory Lopez'
+    subtitle: Books by Gregory Lopez
+    description: I have 1 book by Gregory Lopez in my personal library.
+    items:
+    - title: null
+      books:
+      - '1982641398'
+      description: 'Book title:
+
+
+        - (audio) [A Handbook for New Stoics](/books/info/1982641398) by Massimo Pigliucci,
+        Gregory Lopez'
   Gregory S. Aldrete:
     name: by Gregory S. Aldrete
     title: 'Authors: Gregory S. Aldrete'
@@ -2752,6 +2998,19 @@ index:
       - '9781585102327'
       description: "Book title:\n\n- (paper) [Lingua Latina: Caesaris](/books/info/9781585102327)\
         \ by Hans Henning \xD8rberg, Gaius Julius Caesar"
+  Harold Bloom:
+    name: by Harold Bloom
+    title: 'Authors: Harold Bloom'
+    subtitle: Books by Harold Bloom
+    description: I have 1 book by Harold Bloom in my personal library.
+    items:
+    - title: null
+      books:
+      - 0593291956
+      description: 'Book title:
+
+
+        - (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom'
   Harry Percival:
     name: by Harry Percival
     title: 'Authors: Harry Percival'
@@ -2858,6 +3117,19 @@ index:
 
 
         - (paper) [Magic and Showmanship](/books/info/9780486410876) by Henning Nelms'
+  Henry Chadwick:
+    name: by Henry Chadwick
+    title: 'Authors: Henry Chadwick'
+    subtitle: Books by Henry Chadwick
+    description: I have 1 book by Henry Chadwick in my personal library.
+    items:
+    - title: null
+      books:
+      - B09B4DR8SS
+      description: 'Book title:
+
+
+        - (audio) [Confessions](/books/info/B09B4DR8SS) by St. Augustine, Henry Chadwick'
   Hermann Kern:
     name: by Hermann Kern
     title: 'Authors: Hermann Kern'
@@ -3049,15 +3321,19 @@ index:
     name: by J. Rufus Fears
     title: 'Authors: J. Rufus Fears'
     subtitle: Books by J. Rufus Fears
-    description: I have 1 book by J. Rufus Fears in my personal library.
+    description: I have 2 books by J. Rufus Fears in my personal library.
     items:
     - title: null
       books:
       - B00D8G1DPO
-      description: 'Book title:
+      - B00DD2WFNC
+      description: 'Book titles:
 
 
-        - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears'
+        - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
+
+        - (audio) [Life Lessons from the Great Myths](/books/info/B00DD2WFNC) by J.
+        Rufus Fears'
   J.C. Catford:
     name: by J.C. Catford
     title: 'Authors: J.C. Catford'
@@ -3237,6 +3513,19 @@ index:
 
         - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)
         by James Randi, Arthur C. Clarke'
+  James S. Romm:
+    name: by James S. Romm
+    title: 'Authors: James S. Romm'
+    subtitle: Books by James S. Romm
+    description: I have 1 book by James S. Romm in my personal library.
+    items:
+    - title: null
+      books:
+      - '1541432126'
+      description: 'Book title:
+
+
+        - (audio) [Ghost on the Throne](/books/info/1541432126) by James S. Romm'
   "Javier S\xE1ez Cast\xE1n":
     name: "by Javier S\xE1ez Cast\xE1n"
     title: "Authors: Javier S\xE1ez Cast\xE1n"
@@ -3428,6 +3717,19 @@ index:
 
         - (paper) [Graphic Design Thinking](/books/info/9781568989792) by Jennifer
         Cole Phillips'
+  Jenny Odell:
+    name: by Jenny Odell
+    title: 'Authors: Jenny Odell'
+    subtitle: Books by Jenny Odell
+    description: I have 1 book by Jenny Odell in my personal library.
+    items:
+    - title: null
+      books:
+      - '1684573920'
+      description: 'Book title:
+
+
+        - (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell'
   "Jens M\xFCller":
     name: "by Jens M\xFCller"
     title: "Authors: Jens M\xFCller"
@@ -3443,16 +3745,19 @@ index:
     name: by Jeremy Mcinerney
     title: 'Authors: Jeremy Mcinerney'
     subtitle: Books by Jeremy Mcinerney
-    description: I have 1 book by Jeremy Mcinerney in my personal library.
+    description: I have 2 books by Jeremy Mcinerney in my personal library.
     items:
     - title: null
       books:
       - B00D7JMGEY
-      description: 'Book title:
+      - B00D6OQFZG
+      description: 'Book titles:
 
 
         - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)
-        by Jeremy McInerney'
+        by Jeremy McInerney
+
+        - (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG) by Jeremy McInerney'
   Jeremy Miles:
     name: by Jeremy Miles
     title: 'Authors: Jeremy Miles'
@@ -3481,6 +3786,21 @@ index:
 
         - (paper) [The Elements of Statistical Learning](/books/info/9780387848570)
         by Trevor Hastie, Robert Tibshirani, Jerome Friedman'
+  Jerry Z. Muller:
+    name: by Jerry Z. Muller
+    title: 'Authors: Jerry Z. Muller'
+    subtitle: Books by Jerry Z. Muller
+    description: I have 1 book by Jerry Z. Muller in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
   Jesse A. Saperstein:
     name: by Jesse A. Saperstein
     title: 'Authors: Jesse A. Saperstein'
@@ -3691,6 +4011,21 @@ index:
 
 
         - (paper) [So, Anyway...](/books/info/9780385348249) by John Cleese'
+  John E. Finn:
+    name: by John E. Finn
+    title: 'Authors: John E. Finn'
+    subtitle: Books by John E. Finn
+    description: I have 1 book by John E. Finn in my personal library.
+    items:
+    - title: null
+      books:
+      - B00MEQRZTM
+      description: 'Book title:
+
+
+        - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad
+        S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E.
+        Finn, Andrew R. Wilson'
   John H. Miller:
     name: by John H. Miller
     title: 'Authors: John H. Miller'
@@ -3719,6 +4054,19 @@ index:
 
         - (paper) [Everything''s an Argument](/books/info/9781319056278) by Andrea
         A. Lunsford, John J. Ruszkiewicz'
+  John McPhee:
+    name: by John Mcphee
+    title: 'Authors: John Mcphee'
+    subtitle: Books by John Mcphee
+    description: I have 1 book by John Mcphee in my personal library.
+    items:
+    - title: null
+      books:
+      - B075F8XF1V
+      description: 'Book title:
+
+
+        - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee'
   John Power:
     name: by John Power
     title: 'Authors: John Power'
@@ -3736,17 +4084,21 @@ index:
     name: by John R. Hale
     title: 'Authors: John R. Hale'
     subtitle: Books by John R. Hale
-    description: I have 2 books by John R. Hale in my personal library.
+    description: I have 3 books by John R. Hale in my personal library.
     items:
     - title: null
       books:
       - B00DG7NVXC
+      - B00D8EMBQG
       - B00DC5SB06
       description: 'Book titles:
 
 
         - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC)
         by John R. Hale
+
+        - (audio) [Exploring the Roots of Religion](/books/info/B00D8EMBQG) by John
+        R. Hale
 
         - (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R.
         Hale'
@@ -3763,6 +4115,19 @@ index:
 
 
         - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey'
+  John Williams:
+    name: by John Williams
+    title: 'Authors: John Williams'
+    subtitle: Books by John Williams
+    description: I have 1 book by John Williams in my personal library.
+    items:
+    - title: null
+      books:
+      - B004LYWJNC
+      description: 'Book title:
+
+
+        - (audio) [Augustus](/books/info/B004LYWJNC) by John Williams'
   John Zeratsky:
     name: by John Zeratsky
     title: 'Authors: John Zeratsky'
@@ -4015,6 +4380,19 @@ index:
 
         - (paper) [Vingt mille lieues sous les mers](/books/info/9782070424832) by
         Jules Verne'
+  Julie Zhuo:
+    name: by Julie Zhuo
+    title: 'Authors: Julie Zhuo'
+    subtitle: Books by Julie Zhuo
+    description: I have 1 book by Julie Zhuo in my personal library.
+    items:
+    - title: null
+      books:
+      - 0525642218
+      description: 'Book title:
+
+
+        - (audio) [The Making of a Manager](/books/info/0525642218) by Julie Zhuo'
   "Julio Cort\xE1zar":
     name: "by Julio Cort\xE1zar"
     title: "Authors: Julio Cort\xE1zar"
@@ -4026,6 +4404,20 @@ index:
       - '9788437604572'
       description: "Book title:\n\n- (paper) [Rayuela](/books/info/9788437604572)\
         \ by Julio Cort\xE1zar"
+  Julius H. Bailey:
+    name: by Julius H. Bailey
+    title: 'Authors: Julius H. Bailey'
+    subtitle: Books by Julius H. Bailey
+    description: I have 1 book by Julius H. Bailey in my personal library.
+    items:
+    - title: null
+      books:
+      - B013KRSIVC
+      description: 'Book title:
+
+
+        - (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant
+        L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur'
   Justin Davidson:
     name: by Justin Davidson
     title: 'Authors: Justin Davidson'
@@ -4092,6 +4484,20 @@ index:
 
 
         - (paper) [Designing Type](/books/info/9780300111507) by Karen Cheng'
+  Karen Swallow Prior:
+    name: by Karen Swallow Prior
+    title: 'Authors: Karen Swallow Prior'
+    subtitle: Books by Karen Swallow Prior
+    description: I have 1 book by Karen Swallow Prior in my personal library.
+    items:
+    - title: null
+      books:
+      - B07L8LL4MC
+      description: 'Book title:
+
+
+        - (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior,
+        Leland Ryken - foreword'
   Katherine Hibbs Pherson:
     name: by Katherine Hibbs Pherson
     title: 'Authors: Katherine Hibbs Pherson'
@@ -4120,6 +4526,20 @@ index:
 
         - (audio) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon,
         Christopher T. Noblet'
+  Kathryn McClymond:
+    name: by Kathryn Mcclymond
+    title: 'Authors: Kathryn Mcclymond'
+    subtitle: Books by Kathryn Mcclymond
+    description: I have 1 book by Kathryn Mcclymond in my personal library.
+    items:
+    - title: null
+      books:
+      - B013KRSIVC
+      description: 'Book title:
+
+
+        - (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant
+        L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur'
   Kazunari Fujisawa:
     name: by Kazunari Fujisawa
     title: 'Authors: Kazunari Fujisawa'
@@ -4149,6 +4569,19 @@ index:
         - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt,
         Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love,
         Liam Routt'
+  Ken Follett:
+    name: by Ken Follett
+    title: 'Authors: Ken Follett'
+    subtitle: Books by Ken Follett
+    description: I have 1 book by Ken Follett in my personal library.
+    items:
+    - title: null
+      books:
+      - B002UZYX2Y
+      description: 'Book title:
+
+
+        - (audio) [The Pillars of the Earth](/books/info/B002UZYX2Y) by Ken Follett'
   Ken Robinson:
     name: by Ken Robinson
     title: 'Authors: Ken Robinson'
@@ -4176,6 +4609,38 @@ index:
 
         - (paper) [The Information Design Handbook](/books/info/9781600610486) by
         Jenn Visocky O''Grady, Ken Visocky O''Grady'
+  Kenneth W. Harl:
+    name: by Kenneth W. Harl
+    title: 'Authors: Kenneth W. Harl'
+    subtitle: Books by Kenneth W. Harl
+    description: I have 2 books by Kenneth W. Harl in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DHKJ6V4
+      - B00D8HYQDE
+      description: 'Book titles:
+
+
+        - (audio) [Rome and the Barbarians](/books/info/B00DHKJ6V4) by Kenneth W.
+        Harl
+
+        - (audio) [The Era of the Crusades](/books/info/B00D8HYQDE) by Kenneth W.
+        Harl'
+  Kevin Behr:
+    name: by Kevin Behr
+    title: 'Authors: Kevin Behr'
+    subtitle: Books by Kevin Behr
+    description: I have 1 book by Kevin Behr in my personal library.
+    items:
+    - title: null
+      books:
+      - B00VAZZY32
+      description: 'Book title:
+
+
+        - (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin
+        Behr, George Spafford'
   Kevin Flanigan:
     name: by Kevin Flanigan
     title: 'Authors: Kevin Flanigan'
@@ -4241,6 +4706,19 @@ index:
 
         - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117)
         by Kiyoshi Kosugi, James Davies'
+  Kory Stamper:
+    name: by Kory Stamper
+    title: 'Authors: Kory Stamper'
+    subtitle: Books by Kory Stamper
+    description: I have 1 book by Kory Stamper in my personal library.
+    items:
+    - title: null
+      books:
+      - B01MXTR1HB
+      description: 'Book title:
+
+
+        - (audio) [Word by Word](/books/info/B01MXTR1HB) by Kory Stamper'
   Kritina Holden:
     name: by Kritina Holden
     title: 'Authors: Kritina Holden'
@@ -4284,6 +4762,33 @@ index:
         - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812)
         by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc
         Lecavalier, Tristram Smith, Lawrence Scahill'
+  Leland Ryken - foreword:
+    name: by Leland Ryken - Foreword
+    title: 'Authors: Leland Ryken - Foreword'
+    subtitle: Books by Leland Ryken - Foreword
+    description: I have 1 book by Leland Ryken - Foreword in my personal library.
+    items:
+    - title: null
+      books:
+      - B07L8LL4MC
+      description: 'Book title:
+
+
+        - (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior,
+        Leland Ryken - foreword'
+  Leonard Mlodinow:
+    name: by Leonard Mlodinow
+    title: 'Authors: Leonard Mlodinow'
+    subtitle: Books by Leonard Mlodinow
+    description: I have 1 book by Leonard Mlodinow in my personal library.
+    items:
+    - title: null
+      books:
+      - B002V0TPMQ
+      description: 'Book title:
+
+
+        - (audio) [The Drunkard''s Walk](/books/info/B002V0TPMQ) by Leonard Mlodinow'
   Lewis Carroll:
     name: by Lewis Carroll
     title: 'Authors: Lewis Carroll'
@@ -4413,6 +4918,19 @@ index:
         Pearson
 
         - (paper) [Hilda and the Troll](/books/info/9781912497546) by Luke Pearson'
+  Luke Timothy Johnson:
+    name: by Luke Timothy Johnson
+    title: 'Authors: Luke Timothy Johnson'
+    subtitle: Books by Luke Timothy Johnson
+    description: I have 1 book by Luke Timothy Johnson in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DDXPWH2
+      description: 'Book title:
+
+
+        - (audio) [Mystical Tradition](/books/info/B00DDXPWH2) by Luke Timothy Johnson'
   Lynn Willis:
     name: by Lynn Willis
     title: 'Authors: Lynn Willis'
@@ -4557,6 +5075,33 @@ index:
         - (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius
 
         - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius'
+  Margalit Fox:
+    name: by Margalit Fox
+    title: 'Authors: Margalit Fox'
+    subtitle: Books by Margalit Fox
+    description: I have 1 book by Margalit Fox in my personal library.
+    items:
+    - title: null
+      books:
+      - B00F3IZ0CM
+      description: 'Book title:
+
+
+        - (audio) [The Riddle of the Labyrinth](/books/info/B00F3IZ0CM) by Margalit
+        Fox'
+  Marion Roach Smith:
+    name: by Marion Roach Smith
+    title: 'Authors: Marion Roach Smith'
+    subtitle: Books by Marion Roach Smith
+    description: I have 1 book by Marion Roach Smith in my personal library.
+    items:
+    - title: null
+      books:
+      - B0057A3VPE
+      description: 'Book title:
+
+
+        - (audio) [The Memoir Project](/books/info/B0057A3VPE) by Marion Roach Smith'
   Mark Collier:
     name: by Mark Collier
     title: 'Authors: Mark Collier'
@@ -4624,6 +5169,20 @@ index:
       - '9780691602998'
       description: "Book title:\n\n- (paper) [Clear and Simple As the Truth](/books/info/9780691602998)\
         \ by Francis-No\xEBl Thomas, Mark Turner"
+  Mark Twain:
+    name: by Mark Twain
+    title: 'Authors: Mark Twain'
+    subtitle: Books by Mark Twain
+    description: I have 1 book by Mark Twain in my personal library.
+    items:
+    - title: null
+      books:
+      - B0040J17CW
+      description: 'Book title:
+
+
+        - (audio) [Adventures of Huckleberry Finn](/books/info/B0040J17CW) by Mark
+        Twain'
   Martin E.P. Seligman:
     name: by Martin E.P. Seligman
     title: 'Authors: Martin E.P. Seligman'
@@ -4686,15 +5245,18 @@ index:
     name: by Maryanne Wolf
     title: 'Authors: Maryanne Wolf'
     subtitle: Books by Maryanne Wolf
-    description: I have 1 book by Maryanne Wolf in my personal library.
+    description: I have 2 books by Maryanne Wolf in my personal library.
     items:
     - title: null
       books:
       - '9781848310308'
-      description: 'Book title:
+      - B002V5GV9Q
+      description: 'Book titles:
 
 
-        - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf'
+        - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
+
+        - (audio) [Proust and the Squid](/books/info/B002V5GV9Q) by Maryanne Wolf'
   Masaru Aoki:
     name: by Masaru Aoki
     title: 'Authors: Masaru Aoki'
@@ -4717,14 +5279,18 @@ index:
     name: by Massimo Pigliucci
     title: 'Authors: Massimo Pigliucci'
     subtitle: Books by Massimo Pigliucci
-    description: I have 2 books by Massimo Pigliucci in my personal library.
+    description: I have 3 books by Massimo Pigliucci in my personal library.
     items:
     - title: null
       books:
+      - '1982641398'
       - '9781541644533'
       - '1644650649'
       description: 'Book titles:
 
+
+        - (audio) [A Handbook for New Stoics](/books/info/1982641398) by Massimo Pigliucci,
+        Gregory Lopez
 
         - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci
 
@@ -4810,6 +5376,20 @@ index:
 
         - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael
         Redmond'
+  Michael Sugrue:
+    name: by Michael Sugrue
+    title: 'Authors: Michael Sugrue'
+    subtitle: Books by Michael Sugrue
+    description: I have 1 book by Michael Sugrue in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DLM8PF6
+      description: 'Book title:
+
+
+        - (audio) [Plato, Socrates, and the Dialogues](/books/info/B00DLM8PF6) by
+        Michael Sugrue'
   Mike Allen:
     name: by Mike Allen
     title: 'Authors: Mike Allen'
@@ -4852,6 +5432,19 @@ index:
 
         - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by
         Milbourne Christopher'
+  Molly McCowan:
+    name: by Molly Mccowan
+    title: 'Authors: Molly Mccowan'
+    subtitle: Books by Molly Mccowan
+    description: I have 1 book by Molly Mccowan in my personal library.
+    items:
+    - title: null
+      books:
+      - B09CHDTFGH
+      description: 'Book title:
+
+
+        - (audio) [Effective Editing](/books/info/B09CHDTFGH) by Molly McCowan'
   Monica Brown:
     name: by Monica Brown
     title: 'Authors: Monica Brown'
@@ -4917,22 +5510,44 @@ index:
 
 
         - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron'
+  Nate Silver:
+    name: by Nate Silver
+    title: 'Authors: Nate Silver'
+    subtitle: Books by Nate Silver
+    description: I have 1 book by Nate Silver in my personal library.
+    items:
+    - title: null
+      books:
+      - B009DQN090
+      description: 'Book title:
+
+
+        - (audio) [The Signal and the Noise](/books/info/B009DQN090) by Nate Silver'
   Neil Gaiman:
     name: by Neil Gaiman
     title: 'Authors: Neil Gaiman'
     subtitle: Books by Neil Gaiman
-    description: I have 2 books by Neil Gaiman in my personal library.
+    description: I have 5 books by Neil Gaiman in my personal library.
     items:
     - title: null
       books:
       - '9780063081918'
       - '9780060853976'
+      - B0BFK1K36D
+      - B098TWVZVD
+      - B086WP794Z
       description: 'Book titles:
 
 
         - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
 
-        - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett'
+        - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
+
+        - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+
+        - (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
+
+        - (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs'
   Nicola Gardini:
     name: by Nicola Gardini
     title: 'Authors: Nicola Gardini'
@@ -5282,6 +5897,19 @@ index:
 
 
         - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch'
+  Philip Daileader:
+    name: by Philip Daileader
+    title: 'Authors: Philip Daileader'
+    subtitle: Books by Philip Daileader
+    description: I have 1 book by Philip Daileader in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DIAW2P0
+      description: 'Book title:
+
+
+        - (audio) [The Early Middle Ages](/books/info/B00DIAW2P0) by Philip Daileader'
   Philip Dunlop:
     name: by Philip Dunlop
     title: 'Authors: Philip Dunlop'
@@ -5309,6 +5937,20 @@ index:
 
         - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman,
         Philippe Sollers, Elizabeth Janus'
+  Phillip Cary:
+    name: by Phillip Cary
+    title: 'Authors: Phillip Cary'
+    subtitle: Books by Phillip Cary
+    description: I have 1 book by Phillip Cary in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DEQQO9I
+      description: 'Book title:
+
+
+        - (audio) [Philosophy and Religion in the West](/books/info/B00DEQQO9I) by
+        Phillip Cary'
   Prajit K. Dutta:
     name: by Prajit K. Dutta
     title: 'Authors: Prajit K. Dutta'
@@ -5579,6 +6221,20 @@ index:
 
         - (paper) [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst,
         Richard Bozulich'
+  Robert Andr&eacute; LaFleur:
+    name: by Robert Andr&Eacute; Lafleur
+    title: 'Authors: Robert Andr&Eacute; Lafleur'
+    subtitle: Books by Robert Andr&Eacute; Lafleur
+    description: I have 1 book by Robert Andr&Eacute; Lafleur in my personal library.
+    items:
+    - title: null
+      books:
+      - B013KRSIVC
+      description: 'Book title:
+
+
+        - (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant
+        L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur'
   Robert Bringhurst:
     name: by Robert Bringhurst
     title: 'Authors: Robert Bringhurst'
@@ -5613,6 +6269,20 @@ index:
         - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
 
         - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland'
+  Robert Greenberg:
+    name: by Robert Greenberg
+    title: 'Authors: Robert Greenberg'
+    subtitle: Books by Robert Greenberg
+    description: I have 1 book by Robert Greenberg in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DDVQIM2
+      description: 'Book title:
+
+
+        - (audio) [How to Listen to and Understand Great Music, 3rd Edition](/books/info/B00DDVQIM2)
+        by Robert Greenberg'
   Robert J. Gula:
     name: by Robert J. Gula
     title: 'Authors: Robert J. Gula'
@@ -5627,6 +6297,20 @@ index:
 
         - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264)
         by Robert J. Gula'
+  Robert L. Dise Jr.:
+    name: by Robert L. Dise Jr.
+    title: 'Authors: Robert L. Dise Jr.'
+    subtitle: Books by Robert L. Dise Jr.
+    description: I have 1 book by Robert L. Dise Jr. in my personal library.
+    items:
+    - title: null
+      books:
+      - B00DJUK5J4
+      description: 'Book title:
+
+
+        - (audio) [Ancient Empires before Alexander](/books/info/B00DJUK5J4) by Robert
+        L. Dise Jr.'
   Robert Sabuda:
     name: by Robert Sabuda
     title: 'Authors: Robert Sabuda'
@@ -5757,14 +6441,18 @@ index:
     name: by Roy Peter Clark
     title: 'Authors: Roy Peter Clark'
     subtitle: Books by Roy Peter Clark
-    description: I have 2 books by Roy Peter Clark in my personal library.
+    description: I have 3 books by Roy Peter Clark in my personal library.
     items:
     - title: null
       books:
+      - B019S38272
       - '9780316014991'
       - '1549108603'
       description: 'Book titles:
 
+
+        - (audio) [The Art of X-Ray Reading](/books/info/B019S38272) by Roy Peter
+        Clark
 
         - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 
@@ -5809,8 +6497,7 @@ index:
       description: 'Book title:
 
 
-        - (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP)
-        by Rufus Wainwright'
+        - (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright'
   S.I. Hayakawa:
     name: by S.I. Hayakawa
     title: 'Authors: S.I. Hayakawa'
@@ -6006,6 +6693,19 @@ index:
 
 
         - (paper) [The Element](/books/info/9780670020478) by Sir PhD Ken Robinson'
+  St. Augustine:
+    name: by St. Augustine
+    title: 'Authors: St. Augustine'
+    subtitle: Books by St. Augustine
+    description: I have 1 book by St. Augustine in my personal library.
+    items:
+    - title: null
+      books:
+      - B09B4DR8SS
+      description: 'Book title:
+
+
+        - (audio) [Confessions](/books/info/B09B4DR8SS) by St. Augustine, Henry Chadwick'
   Stacy King:
     name: by Stacy King
     title: 'Authors: Stacy King'
@@ -6212,15 +6912,18 @@ index:
     name: by Steven Pinker
     title: 'Authors: Steven Pinker'
     subtitle: Books by Steven Pinker
-    description: I have 1 book by Steven Pinker in my personal library.
+    description: I have 2 books by Steven Pinker in my personal library.
     items:
     - title: null
       books:
       - '9780143127796'
-      description: 'Book title:
+      - B00M8U0CJ4
+      description: 'Book titles:
 
 
-        - (paper) [The Sense of Style](/books/info/9780143127796) by Steven Pinker'
+        - (paper) [The Sense of Style](/books/info/9780143127796) by Steven Pinker
+
+        - (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by Steven Pinker'
   Steven Taylor:
     name: by Steven Taylor
     title: 'Authors: Steven Taylor'
@@ -6327,6 +7030,19 @@ index:
 
 
         - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette'
+  Ted Gioia:
+    name: by Ted Gioia
+    title: 'Authors: Ted Gioia'
+    subtitle: Books by Ted Gioia
+    description: I have 1 book by Ted Gioia in my personal library.
+    items:
+    - title: null
+      books:
+      - B0758HKBPF
+      description: 'Book title:
+
+
+        - (audio) [How to Listen to Jazz](/books/info/B0758HKBPF) by Ted Gioia'
   Tega Brain:
     name: by Tega Brain
     title: 'Authors: Tega Brain'
@@ -6410,6 +7126,19 @@ index:
 
         - (paper) [The School of Life](/books/info/9781912891160) by The School of
         Life'
+  Thomas A. Shippey:
+    name: by Thomas A. Shippey
+    title: 'Authors: Thomas A. Shippey'
+    subtitle: Books by Thomas A. Shippey
+    description: I have 1 book by Thomas A. Shippey in my personal library.
+    items:
+    - title: null
+      books:
+      - B00IB17PMG
+      description: 'Book title:
+
+
+        - (audio) [Heroes and Legends](/books/info/B00IB17PMG) by Thomas A. Shippey'
   Timothy Samara:
     name: by Timothy Samara
     title: 'Authors: Timothy Samara'
@@ -6607,6 +7336,19 @@ index:
         \ by Victor Hugo\n- (paper) [Les Mis\xE9rables](/books/info/9782253096337)\
         \ by Victor Hugo\n- (paper) [Notre-Dame de Paris](/books/info/9782070422524)\
         \ by Victor Hugo"
+  Violet Moller:
+    name: by Violet Moller
+    title: 'Authors: Violet Moller'
+    subtitle: Books by Violet Moller
+    description: I have 1 book by Violet Moller in my personal library.
+    items:
+    - title: null
+      books:
+      - '1984891626'
+      description: 'Book title:
+
+
+        - (audio) [The Map of Knowledge](/books/info/1984891626) by Violet Moller'
   Virginia Tufte:
     name: by Virginia Tufte
     title: 'Authors: Virginia Tufte'
@@ -7017,17 +7759,20 @@ index:
 ### Aaron Philipp (0)
 ### Abbott Joseph Liebling (1)
 - (paper) [Just Enough Liebling](/books/info/9780374104436) by Abbott Joseph Liebling
-### Adrian Goldsworthy (5)
+### Adrian Goldsworthy (8)
+- (audio) [Antony & Cleopatra](/books/info/B00Y15GY32) by Adrian Goldsworthy
 - (audio) [Augustus](/books/info/B00MXDGT2A) by Adrian Goldsworthy
 - (audio) [Caesar](/books/info/B00MFQLERK) by Adrian Goldsworthy
 - (paper) [Cannae](/books/info/9781541699250) by Adrian Goldsworthy
+- (audio) [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy
+- (audio) [Philip and Alexander](/books/info/1549104780) by Adrian Goldsworthy
 - (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy
 - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy
 ### Adrienne Mayor (1)
 - (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor
 ### Agatha Christie (4)
 - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
-- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734) by Agatha Christie
+- (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie
 - (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha Christie
 - (audio) [The Under Dog and Other Stories](/books/info/B008RBDG46) by Agatha Christie
 ### Akira Ishida (1)
@@ -7072,6 +7817,8 @@ index:
 - (paper) [Digue'm agosarat. Els monòlegs](/books/info/9788483009512) by Andreu Buenafuente, Xavier Cassadó, David Escardó, Carles Torras
 ### Andrew Ballantyne (1)
 - (paper) [Architecture](/books/info/9780192801791) by Andrew Ballantyne
+### Andrew R. Wilson (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
 ### Andrew Robinson (1)
 - (paper) [Story Of Writing Second Edition](/books/info/9780500286609) by Andrew Robinson
 ### Andrew Wheeler (2)
@@ -7089,6 +7836,8 @@ index:
 - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley
 ### Anne H. Groton (1)
 - (paper) [38 Latin Stories](/books/info/9780865162891) by Anne H. Groton, James M. May, Frederic M. Wheelock
+### Anne Lamott (1)
+- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott
 ### Anthony Grafton (1)
 - (paper) [Cartographies of Time](/books/info/9781616890582) by Daniel Rosenberg, Anthony Grafton
 ### Anthony Herring (1)
@@ -7103,8 +7852,10 @@ index:
 - (paper) [Ventanas De Manhattan](/books/info/9788432217074) by Antonio Munoz Molina
 ### Arthur C. Clarke (1)
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
-### Arthur Conan Doyle (1)
+### Arthur Conan Doyle (3)
 - (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry - introductions
+- (audio) [The Complete Sherlock Holmes](/books/info/B00FEFE4XK) by Arthur Conan Doyle
+- (audio) [The Complete Stories of Sherlock Holmes, Volume 1](/books/info/B002V0RHKS) by Arthur Conan Doyle
 ### Arturo Pérez-Reverte (1)
 - (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623) by Arturo Pérez-Reverte
 ### Avinash K. Dixit (1)
@@ -7119,6 +7870,8 @@ index:
 - (paper) [Processing](/books/info/9780262182621) by Casey Reas, Ben Fry
 ### Benedikt Groß (1)
 - (paper) [Generative Design](/books/info/9781616890773) by Hartmut Bohnacker, Benedikt Groß
+### Benjamin Dreyer (1)
+- (audio) [Dreyer's English](/books/info/B07LFKH5FV) by Benjamin Dreyer
 ### Benjamin L. Handen (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Benjamin Legrand (1)
@@ -7131,6 +7884,8 @@ index:
 - (paper) [Designing Your Life](/books/info/9781784740245) by Bill Burnett, Dave Evans
 ### Bill Manley (1)
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
+### Bill Roorbach (1)
+- (audio) [Writing Life Stories](/books/info/1705248047) by Bill Roorbach
 ### Bill Severn (1)
 - (paper) [Magic Across the Table](/books/info/9780679201021) by Bill Severn
 ### Bill Watterson (3)
@@ -7143,10 +7898,13 @@ index:
 - (paper) [Data-Driven Security](/books/info/9781118793725) by Jay Jacobs, Bob Rudis
 ### Boris Fausto (1)
 - (paper) [História concisa do Brasil](/books/info/9788531405921) by Boris Fausto
+### Brad S. Gregory (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
 ### Brian Okken (1)
 - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
-### Brooks Landon (1)
+### Brooks Landon (2)
 - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon
+- (audio) [Building Great Sentences](/books/info/B00DB6PQWW) by Brooks Landon
 ### Bruce Hanington (1)
 - (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480) by Bruce Hanington, Bella Martin
 ### Bruce Patton (1)
@@ -7180,6 +7938,10 @@ index:
 - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns
 ### Catullus (1)
 - (paper) [The Poems of Catullus](/books/info/9780520253865) by Catullus
+### Charles Kimball (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
+### Charles Montgomery (1)
+- (audio) [Happy City](/books/info/B018EYD4VA) by Charles Montgomery
 ### Charles Wheelan (1)
 - (audio) [Naked Economics](/books/info/B003TFSY7E) by Charles Wheelan
 ### Charu C. Aggarwal (1)
@@ -7219,10 +7981,14 @@ index:
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Dana Arnold (1)
 - (paper) [Art History](/books/info/9780192801814) by Dana Arnold
+### Dani Shapiro (1)
+- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro
 ### Daniel Gilbert (1)
 - (paper) [Stumbling on Happiness](/books/info/9781400077427) by Daniel Gilbert
 ### Daniel Kahneman (1)
 - (paper) [Thinking, Fast and Slow](/books/info/9780374533557) by Daniel Kahneman
+### Daniel N. Robinson (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
 ### Daniel Pettersson (1)
 - (paper) [Pugio Bruti - A Crime Story in Easy Latin](/books/info/9789198509403) by Daniel Pettersson, Amelie Rosengren
 ### Daniel Rosenberg (1)
@@ -7258,6 +8024,8 @@ index:
 - (paper) [Please Understand Me II](/books/info/9781885705020) by David Keirsey
 ### David McCandless (1)
 - (paper) [The Visual Miscellaneum](/books/info/9780061748363) by David McCandless
+### David Roochnik (1)
+- (audio) [An Introduction to Greek Philosophy](/books/info/B00DCY39RC) by David Roochnik
 ### David Sedaris (2)
 - (paper) [Holidays on Ice](/books/info/9780316779234) by David Sedaris
 - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David Sedaris
@@ -7268,6 +8036,8 @@ index:
 - (paper) [Tome of Magic (Advanced Dungeon & Dragons](/books/info/9781560761075) by David Zeb Cook, Nigel Findley, Anthony Herring, Christopher Kubasik, Carl Sargent, Rick Swan
 ### Davide Maltoni (1)
 - (paper) [Handbook of Fingerprint Recognition](/books/info/9781848822542) by Davide Maltoni, Dario Maio, Anil K. Jain, Salil Prabhakar
+### Dean Nelson (1)
+- (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
 ### Debbie Millman (2)
 - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962) by Debbie Millman
 - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman
@@ -7290,6 +8060,10 @@ index:
 - (paper) [Beautiful Architecture](/books/info/9780596517984) by Diomidis Spinellis, Georgios Gousios
 ### Dirk Booms (1)
 - (paper) [Latin Inscriptions](/books/info/9781606064665) by Dirk Booms
+### Dirk Maggs (3)
+- (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
+- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs
 ### Don Norman (2)
 - (paper) [Emotional Design](/books/info/9780465051366) by Don Norman
 - (paper) [The Design of Everyday Things](/books/info/9780465067107) by Don Norman
@@ -7320,8 +8094,9 @@ index:
 - (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968) by Edwin Mullins
 ### Elizabeth Janus (1)
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
-### Elizabeth Vandiver (2)
+### Elizabeth Vandiver (3)
 - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver
+- (audio) [Greek Tragedy](/books/info/B00DC8FIMM) by Elizabeth Vandiver
 - (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver
 ### Ellen Lupton (5)
 - (paper) [D.I.Y.: Design It Yourself](/books/info/9781568985527) by Ellen Lupton
@@ -7375,10 +8150,13 @@ index:
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
 ### Gareth James (1)
 - (paper) [An Introduction to Statistical Learning](/books/info/9781461471370) by Gareth James, Trevor Hastie, Robert Tibshirani
-### Garrett G. Fagan (1)
+### Garrett G. Fagan (2)
+- (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan
 - (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett G. Fagan
 ### Gary Larson (1)
 - (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary Larson
+### Gene Kim (1)
+- (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin Behr, George Spafford
 ### Gene Kranz (1)
 - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
 ### George J. Adler (1)
@@ -7388,6 +8166,8 @@ index:
 - (paper) [Penguin Essentials Animal Farm](/books/info/9780140278736) by George Orwell
 ### George S. Kaufman (1)
 - (paper) [Three Plays](/books/info/9780802150646) by George S. Kaufman, Moss Hart
+### George Spafford (1)
+- (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin Behr, George Spafford
 ### Georges Simenon (1)
 - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368) by Georges Simenon
 ### Georgios Gousios (1)
@@ -7405,12 +8185,16 @@ index:
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 ### Graciliano Ramos (1)
 - (paper) [Vidas Secas](/books/info/9788501005588) by Graciliano Ramos
-### Grant L. Voth (1)
+### Grant L. Voth (3)
+- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur
 - (audio) [Myth in Human History](/books/info/B00DDXQ61S) by Grant L. Voth
+- (audio) [The Skeptic's Guide to the Great Books](/books/info/B00DHONYCW) by Grant L. Voth
 ### Greg D'Onofrio (1)
 - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio
 ### Gregory G. Colomb (1)
 - (paper) [Style](/books/info/9780226899152) by Joseph M. Williams, Gregory G. Colomb
+### Gregory Lopez (1)
+- (audio) [A Handbook for New Stoics](/books/info/1982641398) by Massimo Pigliucci, Gregory Lopez
 ### Gregory S. Aldrete (3)
 - (paper) [Daily Life in the Roman City](/books/info/9780806140278) by Gregory S. Aldrete
 - (audio) [The Rise of Rome](/books/info/B078HDSHQJ) by Gregory S. Aldrete
@@ -7434,6 +8218,8 @@ index:
 - (paper) [Lingua Latina per se Illustrata: Pars I](/books/info/9781585104208) by Hans Henning Orberg
 ### Hans Henning Ørberg (1)
 - (paper) [Lingua Latina: Caesaris](/books/info/9781585102327) by Hans Henning Ørberg, Gaius Julius Caesar
+### Harold Bloom (1)
+- (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom
 ### Harry Percival (1)
 - (paper) [Architecture Patterns with Python](/books/info/9781492052203) by Harry Percival, Bob Gregory
 ### Hartmut Bohnacker (1)
@@ -7451,6 +8237,8 @@ index:
 - (paper) [Antonio Carlos Jobim](/books/info/9788520906842) by Helena Jobim
 ### Henning Nelms (1)
 - (paper) [Magic and Showmanship](/books/info/9780486410876) by Henning Nelms
+### Henry Chadwick (1)
+- (audio) [Confessions](/books/info/B09B4DR8SS) by St. Augustine, Henry Chadwick
 ### Hermann Kern (1)
 - (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern
 ### Hideo Otake (1)
@@ -7486,8 +8274,9 @@ index:
 - (paper) [Las dos torres (El Señor de los Anillos, #2)](/books/info/9788445071762) by J. R. R. Tolkien
 - (paper) [Secret Vice, A](/books/info/9780008348090) by J. R. R. Tolkien
 - (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien
-### J. Rufus Fears (1)
+### J. Rufus Fears (2)
 - (audio) [Famous Romans](/books/info/B00D8G1DPO) by J. Rufus Fears
+- (audio) [Life Lessons from the Great Myths](/books/info/B00DD2WFNC) by J. Rufus Fears
 ### J.C. Catford (1)
 - (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359) by J.C. Catford
 ### Jacques Bertin (1)
@@ -7515,6 +8304,8 @@ index:
 - (paper) [Oxford Latin Course](/books/info/9780199124183) by James Morwood
 ### James Randi (1)
 - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur C. Clarke
+### James S. Romm (1)
+- (audio) [Ghost on the Throne](/books/info/1541432126) by James S. Romm
 ### Javier Sáez Castán (1)
 - (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521) by Javier Sáez Castán
 ### Jay Jacobs (1)
@@ -7544,14 +8335,19 @@ index:
 ### Jennifer Cole Phillips (2)
 - (paper) [Graphic Design](/books/info/9781568987026) by Ellen Lupton, Jennifer Cole Phillips
 - (paper) [Graphic Design Thinking](/books/info/9781568989792) by Jennifer Cole Phillips
+### Jenny Odell (1)
+- (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell
 ### Jens Müller (1)
 - (paper) [LOGO Modernism](/books/info/9783836545303) by Jens Müller
-### Jeremy McInerney (1)
+### Jeremy McInerney (2)
 - (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY) by Jeremy McInerney
+- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG) by Jeremy McInerney
 ### Jeremy Miles (1)
 - (paper) [Discovering Statistics Using R](/books/info/9781446200469) by Andy Field, Jeremy Miles, Zoe Field
 ### Jerome Friedman (1)
 - (paper) [The Elements of Statistical Learning](/books/info/9780387848570) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
+### Jerry Z. Muller (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
 ### Jesse A. Saperstein (1)
 - (paper) [Atypical](/books/info/9780399535727) by Jesse A. Saperstein
 ### Jessica Hwang (1)
@@ -7587,17 +8383,24 @@ index:
 - (audio) [Get to the Point!](/books/info/B075FG7HLK) by Joel Schwartzberg
 ### John Cleese (1)
 - (paper) [So, Anyway...](/books/info/9780385348249) by John Cleese
+### John E. Finn (1)
+- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew R. Wilson
 ### John H. Miller (1)
 - (paper) [Complex Adaptive Systems](/books/info/9781400835522) by John H. Miller, Scott E. Page
 ### John J. Ruszkiewicz (1)
 - (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz
+### John McPhee (1)
+- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
 ### John Power (1)
 - (paper) [Invincible](/books/info/9784906574018) by John Power
-### John R. Hale (2)
+### John R. Hale (3)
 - (audio) [Classical Archaeology of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale
+- (audio) [Exploring the Roots of Religion](/books/info/B00D8EMBQG) by John R. Hale
 - (audio) [The Greek and Persian Wars](/books/info/B00DC5SB06) by John R. Hale
 ### John Tukey (1)
 - (paper) [Exploratory Data Analysis](/books/info/9780201076165) by John Tukey
+### John Williams (1)
+- (audio) [Augustus](/books/info/B004LYWJNC) by John Williams
 ### John Zeratsky (1)
 - (audio) [Make Time](/books/info/B07DHSQL6Q) by Jake Knapp, John Zeratsky
 ### Jordan Ellenberg (1)
@@ -7640,8 +8443,12 @@ index:
 - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith Schalansky
 ### Jules Verne (1)
 - (paper) [Vingt mille lieues sous les mers](/books/info/9782070424832) by Jules Verne
+### Julie Zhuo (1)
+- (audio) [The Making of a Manager](/books/info/0525642218) by Julie Zhuo
 ### Julio Cortázar (1)
 - (paper) [Rayuela](/books/info/9788437604572) by Julio Cortázar
+### Julius H. Bailey (1)
+- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur
 ### Justin Davidson (1)
 - (paper) [Magnetic City](/books/info/9780553394702) by Justin Davidson
 ### Jô. Soares (1)
@@ -7652,18 +8459,29 @@ index:
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
 ### Karen Cheng (1)
 - (paper) [Designing Type](/books/info/9780300111507) by Karen Cheng
+### Karen Swallow Prior (1)
+- (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior, Leland Ryken - foreword
 ### Katherine Hibbs Pherson (1)
 - (paper) [Critical Thinking for Strategic Intelligence](/books/info/9781544374260) by Katherine Hibbs Pherson, Randolph H. Pherson
 ### Kathleen Reardon (1)
 - (audio) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher T. Noblet
+### Kathryn McClymond (1)
+- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur
 ### Kazunari Fujisawa (1)
 - (paper) [Fuseki Small Encyclopedia (English and Japanese Edition)](/books/info/9781889554259) by Kazunari Fujisawa
 ### Keith Herber (1)
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
+### Ken Follett (1)
+- (audio) [The Pillars of the Earth](/books/info/B002UZYX2Y) by Ken Follett
 ### Ken Robinson (1)
 - (paper) [Out of Our Minds](/books/info/9781841121253) by Ken Robinson
 ### Ken Visocky O'Grady (1)
 - (paper) [The Information Design Handbook](/books/info/9781600610486) by Jenn Visocky O'Grady, Ken Visocky O'Grady
+### Kenneth W. Harl (2)
+- (audio) [Rome and the Barbarians](/books/info/B00DHKJ6V4) by Kenneth W. Harl
+- (audio) [The Era of the Crusades](/books/info/B00D8HYQDE) by Kenneth W. Harl
+### Kevin Behr (1)
+- (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin Behr, George Spafford
 ### Kevin Flanigan (1)
 - (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by Kevin Flanigan
 ### Kevin Hemenway (0)
@@ -7673,12 +8491,18 @@ index:
 - (paper) [Geometry of Design](/books/info/9781568982496) by Kimberly Elam
 ### Kiyoshi Kosugi (1)
 - (paper) [38 Basic Joseki (Elementary Go Series, #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies
+### Kory Stamper (1)
+- (audio) [Word by Word](/books/info/B01MXTR1HB) by Kory Stamper
 ### Kritina Holden (1)
 - (paper) [Universal Principles of Design](/books/info/9781592530076) by William Lidwell, Jill Butler, Kritina Holden
 ### Kruschke John (1)
 - (paper) [Doing Bayesian Data Analysis](/books/info/9780124058880) by Kruschke John
 ### Lawrence Scahill (1)
 - (paper) [Parent Training for Disruptive Behavior](/books/info/9780190627812) by Karen Bearss, Cynthia R. Johnson, Benjamin L. Handen, Eric Butter, Luc Lecavalier, Tristram Smith, Lawrence Scahill
+### Leland Ryken - foreword (1)
+- (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior, Leland Ryken - foreword
+### Leonard Mlodinow (1)
+- (audio) [The Drunkard's Walk](/books/info/B002V0TPMQ) by Leonard Mlodinow
 ### Lewis Carroll (1)
 - (paper) [Alice's Adventures in Wonderland](/books/info/9780689847431) by Lewis Carroll
 ### Lewis Trondheim (4)
@@ -7701,6 +8525,8 @@ index:
 - (paper) [Hilda and the Mountain King](/books/info/9781913123918) by Luke Pearson
 - (paper) [Hilda and the Stone Forest](/books/info/9781911171713) by Luke Pearson
 - (paper) [Hilda and the Troll](/books/info/9781912497546) by Luke Pearson
+### Luke Timothy Johnson (1)
+- (audio) [Mystical Tradition](/books/info/B00DDXPWH2) by Luke Timothy Johnson
 ### Lynn Willis (1)
 - (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen, Lynn Willis
 ### Léo Malet (1)
@@ -7725,6 +8551,10 @@ index:
 ### Marcus Aurelius (2)
 - (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius
 - (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius
+### Margalit Fox (1)
+- (audio) [The Riddle of the Labyrinth](/books/info/B00F3IZ0CM) by Margalit Fox
+### Marion Roach Smith (1)
+- (audio) [The Memoir Project](/books/info/B0057A3VPE) by Marion Roach Smith
 ### Mark Collier (1)
 - (paper) [How to read Egyptian hieroglyphs](/books/info/9780714119106) by Mark Collier, Bill Manley
 ### Mark Forsyth (1)
@@ -7735,6 +8565,8 @@ index:
 - (paper) [Mansions of Madness](/books/info/9781568822112) by Fred Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope Love, Liam Routt
 ### Mark Turner (1)
 - (paper) [Clear and Simple As the Truth](/books/info/9780691602998) by Francis-Noël Thomas, Mark Turner
+### Mark Twain (1)
+- (audio) [Adventures of Huckleberry Finn](/books/info/B0040J17CW) by Mark Twain
 ### Martin E.P. Seligman (1)
 - (paper) [Learned Optimism](/books/info/9781400078394) by Martin E.P. Seligman
 ### Martin Gardner (2)
@@ -7745,12 +8577,14 @@ index:
 - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard
 ### Mary del Priore (1)
 - (paper) [Uma Breve História do Brasil](/books/info/9788576655299) by Mary del Priore, Renato Venancio
-### Maryanne Wolf (1)
+### Maryanne Wolf (2)
 - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
+- (audio) [Proust and the Squid](/books/info/B002V5GV9Q) by Maryanne Wolf
 ### Masaru Aoki (2)
 - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574629) by Masaru Aoki
 - (paper) [Graded Go Problems for Dan Players](/books/info/9784906574612) by Masaru Aoki
-### Massimo Pigliucci (2)
+### Massimo Pigliucci (3)
+- (audio) [A Handbook for New Stoics](/books/info/1982641398) by Massimo Pigliucci, Gregory Lopez
 - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci
 - (audio) [Think like a Stoic](/books/info/1644650649) by Massimo Pigliucci
 ### Matteo Pericoli (1)
@@ -7766,12 +8600,16 @@ index:
 - (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank Kejriwal, Pedro Szekely, Craig A. Knoblock
 ### Michael Redmond (1)
 - (paper) [Patterns of the Sanrensei](/books/info/9781932001631) by Michael Redmond
+### Michael Sugrue (1)
+- (audio) [Plato, Socrates, and the Dialogues](/books/info/B00DLM8PF6) by Michael Sugrue
 ### Mike Allen (1)
 - (paper) [Smart Brevity](/books/info/9781523516971) by Jim VandeHei, Mike Allen, Roy Schwartz
 ### Mike Pondsmith (1)
 - (paper) [Cyberpunk RED](/books/info/9781950911066) by Mike Pondsmith, James Hutt, Cody Podsmith, Jay Parker, J. Gray, David Ackerman, Jaye Kovach
 ### Milbourne Christopher (1)
 - (paper) [The Illustrated History of Magic](/books/info/9780690431650) by Milbourne Christopher
+### Molly McCowan (1)
+- (audio) [Effective Editing](/books/info/B09CHDTFGH) by Molly McCowan
 ### Monica Brown (0)
 ### Moss Hart (1)
 - (paper) [Three Plays](/books/info/9780802150646) by George S. Kaufman, Moss Hart
@@ -7781,9 +8619,14 @@ index:
 - (paper) [Resonate](/books/info/9780470632017) by Nancy Duarte
 ### Naomi Baron (1)
 - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
-### Neil Gaiman (2)
+### Nate Silver (1)
+- (audio) [The Signal and the Noise](/books/info/B009DQN090) by Nate Silver
+### Neil Gaiman (5)
 - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
 - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
+- (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
+- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs
 ### Nicola Gardini (1)
 - (audio) [Long Live Latin](/books/info/125075044X) by Nicola Gardini, Todd Portnowitz
 ### Nigel Findley (1)
@@ -7835,10 +8678,14 @@ index:
 - (paper) [Coders at Work](/books/info/9781430219491) by Peter Seibel
 ### Ph.D. Guy Winch (1)
 - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch
+### Philip Daileader (1)
+- (audio) [The Early Middle Ages](/books/info/B00DIAW2P0) by Philip Daileader
 ### Philip Dunlop (1)
 - (paper) [Short Latin Stories](/books/info/9780521315920) by Philip Dunlop
 ### Philippe Sollers (1)
 - (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca Woodman, Philippe Sollers, Elizabeth Janus
+### Phillip Cary (1)
+- (audio) [Philosophy and Religion in the West](/books/info/B00DEQQO9I) by Phillip Cary
 ### Prajit K. Dutta (1)
 - (paper) [Strategies and Games](/books/info/9780262041690) by Prajit K. Dutta
 ### Professor Hoffmann (2)
@@ -7881,14 +8728,20 @@ index:
 - (paper) [Tome of Magic (Advanced Dungeon & Dragons](/books/info/9781560761075) by David Zeb Cook, Nigel Findley, Anthony Herring, Christopher Kubasik, Carl Sargent, Rick Swan
 ### Rob van Zeijst (1)
 - (paper) [Making Good Shape](/books/info/9784906574735) by Rob van Zeijst, Richard Bozulich
+### Robert Andr&eacute; LaFleur (1)
+- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC) by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur
 ### Robert Bringhurst (2)
 - (paper) [A Short History of the Printed Word](/books/info/9780881791549) by Warren Chappell, Robert Bringhurst
 - (paper) [The Elements of Typographic Style](/books/info/9780881792065) by Robert Bringhurst
 ### Robert Garland (2)
 - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
 - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland
+### Robert Greenberg (1)
+- (audio) [How to Listen to and Understand Great Music, 3rd Edition](/books/info/B00DDVQIM2) by Robert Greenberg
 ### Robert J. Gula (1)
 - (paper) [Nonsense: Red Herrings, Straw Men and Sacred Cows](/books/info/9780975366264) by Robert J. Gula
+### Robert L. Dise Jr. (1)
+- (audio) [Ancient Empires before Alexander](/books/info/B00DJUK5J4) by Robert L. Dise Jr.
 ### Robert Sabuda (2)
 - (paper) [Enciclopedia Prehistorica/ Prehistoric Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart
 - (paper) [Enciclopedia Prehistórica](/books/info/9788484413257) by Robert Sabuda, Matthew Reinhart
@@ -7909,7 +8762,8 @@ index:
 - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone Zander, Benjamin Zander
 ### Ross J. Anderson (1)
 - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson
-### Roy Peter Clark (2)
+### Roy Peter Clark (3)
+- (audio) [The Art of X-Ray Reading](/books/info/B019S38272) by Roy Peter Clark
 - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
 - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by Roy Peter Clark
 ### Roy Schwartz (1)
@@ -7917,7 +8771,7 @@ index:
 ### Rubem Fonseca (1)
 - (paper) [A Grande Arte](/books/info/9788571641143) by Rubem Fonseca
 ### Rufus Wainwright (1)
-- (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP) by Rufus Wainwright
+- (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright
 ### S.I. Hayakawa (1)
 - (paper) [Language in Thought and Action](/books/info/9780156482400) by S.I. Hayakawa, Alan R. Hayakawa
 ### Salil Prabhakar (1)
@@ -7948,6 +8802,8 @@ index:
 - (paper) [Los Códigos Secretos](/books/info/9788483062784) by Simon Singh
 ### Sir PhD Ken Robinson (1)
 - (paper) [The Element](/books/info/9780670020478) by Sir PhD Ken Robinson
+### St. Augustine (1)
+- (audio) [Confessions](/books/info/B09B4DR8SS) by St. Augustine, Henry Chadwick
 ### Stacy King (2)
 - (paper) [Beasts & Behemoths (Dungeons & Dragons)](/books/info/9781984858788) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
 - (paper) [The Young Adventurer's Collection [Dungeons & Dragons 4-Book Boxed Set]](/books/info/9781984859549) by Jim Zub, Stacy King, Andrew Wheeler, Official Dungeons & Dragons Licensed
@@ -7979,8 +8835,9 @@ index:
 - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck
 ### Steven Levy (1)
 - (paper) [Hackers](/books/info/9781449388393) by Steven Levy
-### Steven Pinker (1)
+### Steven Pinker (2)
 - (paper) [The Sense of Style](/books/info/9780143127796) by Steven Pinker
+- (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by Steven Pinker
 ### Steven Taylor (1)
 - (paper) [It's Not All in Your Head](/books/info/9781606238134) by Gordon J. G. Asmundson, Steven Taylor
 ### Sylvan Barnet (2)
@@ -7997,6 +8854,8 @@ index:
 ### Tara Calishain (0)
 ### Tardi/Manchette (1)
 - (paper) [Griffu](/books/info/9782203030466) by Tardi/Manchette
+### Ted Gioia (1)
+- (audio) [How to Listen to Jazz](/books/info/B0758HKBPF) by Ted Gioia
 ### Tega Brain (1)
 - (paper) [Code as Creative Medium](/books/info/9780262542043) by Tega Brain, Golan Levin
 ### Terry Lee Stone (1)
@@ -8013,6 +8872,8 @@ index:
 - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
 ### The School of Life (1)
 - (paper) [The School of Life](/books/info/9781912891160) by The School of Life
+### Thomas A. Shippey (1)
+- (audio) [Heroes and Legends](/books/info/B00IB17PMG) by Thomas A. Shippey
 ### Timothy Samara (1)
 - (paper) [Design Evolution](/books/info/9781592533879) by Timothy Samara
 ### Tina Payne Bryson PhD (1)
@@ -8045,6 +8906,8 @@ index:
 - (paper) [Les Misérables](/books/info/9782253096344) by Victor Hugo
 - (paper) [Les Misérables](/books/info/9782253096337) by Victor Hugo
 - (paper) [Notre-Dame de Paris](/books/info/9782070422524) by Victor Hugo
+### Violet Moller (1)
+- (audio) [The Map of Knowledge](/books/info/1984891626) by Violet Moller
 ### Virginia Tufte (1)
 - (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte
 ### W. Richard Stevens (1)

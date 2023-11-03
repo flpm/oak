@@ -18,6 +18,8 @@ items:
   - '9780262182621'
   - '9781593278960'
   - '9781680508604'
+  - 0525642218
+  - B00VAZZY32
   - '9780201616224'
   description: 'Book titles:
 
@@ -50,7 +52,12 @@ items:
 
     - (paper) [Python Testing with Pytest](/books/info/9781680508604) by Brian Okken
 
+    - (audio) [The Making of a Manager](/books/info/0525642218) by Julie Zhuo
+
+    - (audio) [The Phoenix Project](/books/info/B00VAZZY32) by Gene Kim, Kevin Behr,
+    George Spafford
+
     - (paper) [The Pragmatic Programmer](/books/info/9780201616224) by Andy Hunt,
     Dave Thomas'
 ---
-I have 13 books about Engineering in my personal library.
+I have 15 books about Engineering in my personal library.

@@ -20,6 +20,7 @@ items:
   - '9782205053326'
   - '9782205053852'
   - '9782203396098'
+  - '9781631402241'
   - '9782203399327'
   - '9782205050080'
   - '9782205052589'
@@ -29,6 +30,9 @@ items:
   - '9780751504835'
   - '9780836218527'
   - '9780836220629'
+  - B0BFK1K36D
+  - B098TWVZVD
+  - B086WP794Z
   - '9782205051926'
   - '9782205055641'
   description: "Book titles:\n\n- (paper) [Amour & Int\xE9rim (Les Formidables Aventures\
@@ -49,10 +53,11 @@ items:
     \ by Omond, Yoann Chivard ; dit Yoann\n- (paper) [La vie comme elle vient (Les\
     \ Formidables Aventures De Lapinot, #8)](/books/info/9782205053852) by Lewis Trondheim\n\
     - (paper) [Le Journal de mon P\xE8re](/books/info/9782203396098) by Jir\u014D\
-    \ Taniguchi\n- (paper) [Nestor Burma](/books/info/9782203399327) by Jacques Tardi,\
-    \ L\xE9o Malet, Emmanuel Moynot\n- (paper) [Pichenettes (Les Formidables Aventures\
-    \ De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis\n- (paper) [Pour\
-    \ de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589)\
+    \ Taniguchi\n- (paper) [Locke & Key Master Edition Volume 1](/books/info/9781631402241)\
+    \ by Joe Hill\n- (paper) [Nestor Burma](/books/info/9782203399327) by Jacques\
+    \ Tardi, L\xE9o Malet, Emmanuel Moynot\n- (paper) [Pichenettes (Les Formidables\
+    \ Aventures De Lapinot, #2)](/books/info/9782205050080) by Trondheim/Lewis\n-\
+    \ (paper) [Pour de vrai (Les Formidables Aventures De Lapinot, #6)](/books/info/9782205052589)\
     \ by Lewis Trondheim\n- (paper) [Quartier lointain (Quartier Lointain, #1)](/books/info/9782203372344)\
     \ by Taniguchi Jiro\n- (paper) [Quartier lointain (Quartier lointain, #2)](/books/info/9782203372382)\
     \ by Jiro Taniguchi\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\
@@ -60,9 +65,12 @@ items:
     \ the Bed Is Drooling](/books/info/9780751504835) by Bill Watterson\n- (paper)\
     \ [The Calvin and Hobbes Lazy Sunday Book](/books/info/9780836218527) by Bill\
     \ Watterson\n- (paper) [The Far Side Gallery](/books/info/9780836220629) by Gary\
-    \ Larson\n- (paper) [Vacances de printemps (Les Formidables Aventures De Lapinot,\
+    \ Larson\n- (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk\
+    \ Maggs\n- (paper) [Vacances de printemps (Les Formidables Aventures De Lapinot,\
     \ #5)](/books/info/9782205051926) by Lewis Trondheim, Frank Le Gall\n- (paper)\
     \ [\xC2me rouge (Blacksad, #3)](/books/info/9782205055641) by Juan D\xEDaz Canales,\
     \ Juanjo Guarnido"
 ---
-I have 26 books about Graphic Novels in my personal library.
+I have 30 books about Graphic Novels in my personal library.

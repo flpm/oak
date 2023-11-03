@@ -110,6 +110,8 @@ def get_topics(soup):
     topic_tags_section = soup.find(
         make_search_lambda("div", "class", ["product-topic-tags"])
     )
+    if not topic_tags_section:
+        return []
     topic_tags = topic_tags_section.find_all(
         make_search_lambda("span", "class", ["bc-chip-text"])
     )

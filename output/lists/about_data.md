@@ -9,6 +9,8 @@ items:
   - '9780195089653'
   - '9781789615326'
   - '9781800563452'
+  - B002V0TPMQ
+  - B009DQN090
   description: 'Book titles:
 
 
@@ -21,6 +23,10 @@ items:
     Molin
 
     - (paper) [Hands-On Data Analysis with Pandas - Second Edition](/books/info/9781800563452)
-    by Stefanie Molin'
+    by Stefanie Molin
+
+    - (audio) [The Drunkard''s Walk](/books/info/B002V0TPMQ) by Leonard Mlodinow
+
+    - (audio) [The Signal and the Noise](/books/info/B009DQN090) by Nate Silver'
 ---
-I have 4 books about Data in my personal library.
+I have 6 books about Data in my personal library.

@@ -7,12 +7,12 @@ asin: B008ELXJD2
 length: '0'
 owned: 'true'
 type: audiobook
-format: Audiobook
+format: audiobook
 listening:
   duration: 109782.0
   first_time: '2015-08-10'
   last_time: '2017-01-18'
-link: https://www.audible.com/pd/B008ELXJD2
+link: https://www.audible.com/pd/Death-on-the-Nile-Audiobook/B008ELXJD2
 source: Audible
 purchase_date: '2015-08-13'
 listening_date: '2015-08-10'
@@ -39,6 +39,10 @@ read_status:
   like: true
 theme: crime fiction
 recommendation_status: null
+author: Agatha Christie
+narrator: David Suchet
+cover_url: My%20Library%20Audible.com-2_files/61OJ4TasfEL._SL500_.jpg
+book_type: audiobook
 ---
 Soon to be a major motion picture sequel to Murder on the Orient Express with a screenplay by Michael Green, directed by and starring Kenneth Branagh alongside Gal Gadot and Armie Hammer - coming September 17, 2021!
 Beloved detective Hercule Poirot embarks on a journey to Egypt in one of Agatha Christie’s most famous mysteries.

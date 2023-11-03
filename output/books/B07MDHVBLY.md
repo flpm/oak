@@ -7,12 +7,12 @@ asin: B07MDHVBLY
 length: '45679000'
 owned: 'true'
 type: audiobook
-format: Lecture
+format: audiobook
 listening:
   duration: 45818.0
   first_time: '2021-11-23'
   last_time: '2021-11-30'
-link: https://www.audible.com/pd/B07MDHVBLY
+link: https://www.audible.com/pd/The-Roman-Empire-From-Augustus-to-the-Fall-of-Rome-Audiobook/B07MDHVBLY
 source: Audible
 purchase_date: '2021-11-22'
 listening_date: '2021-11-23'
@@ -37,6 +37,10 @@ read_status:
   like: true
 theme: ancient history
 recommendation_status: null
+author: Gregory S. Aldrete
+narrator: Gregory S. Aldrete
+cover_url: My%20Library%20Audible.com-2_files/51V82qeeAsL._SL500_.jpg
+book_type: audiobook
 ---
 When Octavian, who took the title of Augustus as the first emperor of Rome, defeated Mark Antony to become the sole ruler of the Roman world, it was a major turning point in Western civilization. Not only did his decades-long rule completely transform the old Roman Republic into the Roman Empire, but it also profoundly shaped the culture and history of our world today. The Roman Empire: From Augustus to the Fall of Rome traces this breathtaking history from the empire’s foundation by Augustus to its Golden Age in the 2nd century CE through a series of ever-worsening crises until its ultimate disintegration.
 Taught by acclaimed Professor Gregory S. Aldrete of the University of Wisconsin-Green Bay, these 24 captivating lectures offer you the chance to experience this story like never before, incorporating the latest historical insights that challenge our previous notions of Rome’s decline. You’ll examine the major events and familiar figures of the Roman Empire, including:
