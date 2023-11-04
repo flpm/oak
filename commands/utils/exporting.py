@@ -2,7 +2,7 @@ import datetime as dt
 from collections import defaultdict
 from inspect import cleandoc
 from calendar import month_name
-from .file import include_book
+from .file import include_book, flat_catalogue
 
 include_themes = {
     "archaeology": ["ancient history"],
@@ -289,4 +289,59 @@ def create_recent_list(catalogue, number_of_books=10):
                 "books": recent_book_list,
             }
         )
+    return list_data
+
+
+def create_condition_list(
+    catalogue, condition, list_data, sort_key=None, sort_reverse=False, max_books=None
+):
+    """
+    Create a list of books based on a condition function.
+
+    Parameters
+    ----------
+    catalogue : dict
+        The catalogue
+    condition : function
+        The condition to apply to each book
+    list_data : dict
+        The list data.
+    sort_key : function, optional
+        The sort key to use for the list, by default None
+    sort_reverse : bool, optional
+        Whether to reverse the sort order, by default False
+    max_books : int, optional
+        The maximum number of books to include in the list, by default None
+
+    Returns
+    -------
+    dict
+        The list data
+    """
+    selected_books = list()
+    for book_id, book_type, book in flat_catalogue(catalogue):
+        if include_book(book) and condition(book_id, book_type, book):
+            selected_books.append(book)
+    if sort_key:
+        selected_books.sort(key=sort_key, reverse=sort_reverse)
+    selected_books = selected_books[:max_books]
+
+    description = [
+        "Book titles:" if len(selected_books) != 1 else "Book title:",
+        "",
+    ]
+    description.extend(
+        [
+            f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+            for book in selected_books
+        ]
+    )
+    list_data["items"] = [
+        {
+            "title": None,
+            "books": [b["book_id"] for b in selected_books],
+            "description": "\n".join(description),
+        }
+    ]
+
     return list_data

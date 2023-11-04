@@ -266,6 +266,7 @@ def include_book(book):
         and book.get("authors")
         and book.get("title")
         and book.get("cover_filename")
+        and book.get("type") != "audiobook_sample"
         and book.get("theme") != "kids"
     )
 
