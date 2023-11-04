@@ -32,6 +32,7 @@ duration: 35220000
 type: audiobook
 theme: writing
 length: 35220000
+purchase_date: '2023-07-09'
 ---
 New York Times best seller • A sharp, funny grammar guide they’ll actually want to read, from Random House’s longtime copy chief and one of Twitter’s leading language gurus
 Named one of the Best Books of the Year by O: The Oprah Magazine • Paste • Shelf Awareness

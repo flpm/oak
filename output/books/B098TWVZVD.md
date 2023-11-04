@@ -35,6 +35,7 @@ duration: 50400000
 type: audiobook
 theme: graphic novels
 length: 50400000
+purchase_date: '2023-10-05'
 ---
 Please note: This content is not for kids. It is for mature audiences only. Just like the original graphic novels, this audio adaptation contains explicit language and graphic violence, as well as strong sexual content and themes. Discretion is advised.
 Enter the Dreaming again as the blockbuster audio adaptation of “the greatest epic in the history of comic books” continues in The Sandman: Act II. James McAvoy returns to voice Morpheus, the Lord of Dreams, in this sequel to the number-one New York Times audio best seller. Journey into a world of myths, imagination, and terror based on the best-selling DC comic books and graphic novels written by Neil Gaiman (returning as the Narrator), and lose yourself in another groundbreaking, immersive drama adapted and directed by the award-winning audio master Dirk Maggs.

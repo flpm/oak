@@ -6,6 +6,15 @@ items:
 - title: null
   description: 'Book titles:
 
+    - 2023-11-03 (Audiobook in Writing) [Draft No. 4](/books/info/B075F8XF1V) by John
+    McPhee
+
+    - 2023-11-02 (audiobook in Graphic Novels) [The Sandman](/books/info/B0BFK1K36D)
+    by Neil Gaiman, Dirk Maggs
+
+    - 2023-10-25 (Audiobook in Writing) [Talk to Me](/books/info/B07M6LD93N) by Dean
+    Nelson
+
     - 2023-10-21 (Paperback in Reading) [How We Read Now](/books/info/9780197656884)
     by Naomi Baron
 
@@ -19,25 +28,16 @@ items:
     by Sylvan Barnet, William E. Cain
 
     - 2023-10-11 (Hardcover in Ancient History) [SPQR](/books/info/9781846683800)
-    by Professor Mary Beard
-
-    - 2023-10-10 (Hardcover in Biography) [Making It So](/books/info/9781982167738)
-    by Patrick Stewart
-
-    - 2023-10-10 (Paperback in Writing) [Everything''s an Argument](/books/info/9781319056278)
-    by Andrea A. Lunsford, John J. Ruszkiewicz
-
-    - 2023-10-09 (Hardcover in Role-Playing Games) [Candlekeep Mysteries (D&D Adventure
-    Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards RPG Team'
+    by Professor Mary Beard'
   books:
+  - B075F8XF1V
+  - B0BFK1K36D
+  - B07M6LD93N
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
   - '9780205118458'
   - '9781846683800'
-  - '9781982167738'
-  - '9781319056278'
-  - '9780786967223'
 attribute: purchase_date
 ---
 

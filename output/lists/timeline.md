@@ -4,8 +4,21 @@ title: Book Timeline
 subtitle: Books ordered by date of acquisition
 items:
 - title:
+  - November 2023
+  description: 'Book titles:
+
+    - (Audiobook in Writing) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+
+    - (audiobook in Graphic Novels) [The Sandman](/books/info/B0BFK1K36D) by Neil
+    Gaiman, Dirk Maggs'
+  books:
+  - B075F8XF1V
+  - B0BFK1K36D
+- title:
   - October 2023
   description: 'Book titles:
+
+    - (Audiobook in Writing) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
 
     - (Paperback in Reading) [How We Read Now](/books/info/9780197656884) by Naomi
     Baron
@@ -39,9 +52,16 @@ items:
 
     - (Paperback in Fantasy) [American Gods](/books/info/9780063081918) by Neil Gaiman
 
+    - (audiobook in Graphic Novels) [The Sandman](/books/info/B098TWVZVD) by Neil
+    Gaiman, Dirk Maggs
+
+    - (Performance in Graphic Novels) [The Sandman](/books/info/B086WP794Z) by Neil
+    Gaiman, Dirk Maggs
+
     - (Non-Traditional in Role-Playing Games) [Dungeons & Dragons Waterdeep](/books/info/9780786966653)
     by Wizards RPG Team'
   books:
+  - B07M6LD93N
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
@@ -53,6 +73,8 @@ items:
   - '9781781252635'
   - '9780060853976'
   - '9780063081918'
+  - B098TWVZVD
+  - B086WP794Z
   - '9780786966653'
 - title:
   - September 2023
@@ -70,36 +92,55 @@ items:
     by Sylvan Barnet, Reid Gilbert
 
     - (Hardcover in Essays) [Pocket Atlas of Remote Islands](/books/info/9780143126676)
-    by Judith Schalansky'
+    by Judith Schalansky
+
+    - (Audiobook in Writing) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott
+
+    - (Audiobook in Reading) [The Bright Book of Life](/books/info/0593291956) by
+    Harold Bloom'
   books:
   - '9781419724015'
   - '9781668002193'
   - '9781101904404'
   - '9780673525338'
   - '9780143126676'
+  - B0BJ48MQ5T
+  - 0593291956
 - title:
   - August 2023
   description: "Book titles:\n- (Hardcover in Role-Playing Games) [Dungeons & Dragons\
-    \ Waterdeep](/books/info/9780786966264) by Wizards RPG Team\n- (Paperback in Reading)\
-    \ [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas\n- (Paperback\
-    \ in Archaeology) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne\
-    \ Mayor\n- (Paperback in Science) [Un \xE9t\xE9 avec Pascal](/books/info/9782849907481)\
+    \ Waterdeep](/books/info/9780786966264) by Wizards RPG Team\n- (Audiobook in History)\
+    \ [The Map of Knowledge](/books/info/1984891626) by Violet Moller\n- (Audiobook\
+    \ in Writing) [Still Writing](/books/info/0593216342) by Dani Shapiro\n- (Paperback\
+    \ in Reading) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas\n\
+    - (Paperback in Archaeology) [The First Fossil Hunters](/books/info/9780691245607)\
+    \ by Adrienne Mayor\n- (Paperback in Science) [Un \xE9t\xE9 avec Pascal](/books/info/9782849907481)\
     \ by Antoine Compagnon\n- (Paperback in Ancient History) [Une journ\xE9e dans\
     \ la Rome antique](/books/info/9782228930376) by Alberto Angela"
   books:
   - '9780786966264'
+  - '1984891626'
+  - 0593216342
   - '9780691224398'
   - '9780691245607'
   - '9782849907481'
   - '9782228930376'
 - title:
   - July 2023
-  description: 'Book title:
+  description: 'Book titles:
 
     - (Paperback in Historical Novel) [El manuscrito de nieve (Fernando de Rojas,
-    #2)](/books/info/9788408267461) by Luis Garcia Jambrina'
+    #2)](/books/info/9788408267461) by Luis Garcia Jambrina
+
+    - (Audiobook in Writing) [Dreyer''s English](/books/info/B07LFKH5FV) by Benjamin
+    Dreyer
+
+    - (Audiobook in Writing) [The Memoir Project](/books/info/B0057A3VPE) by Marion
+    Roach Smith'
   books:
   - '9788408267461'
+  - B07LFKH5FV
+  - B0057A3VPE
 - title:
   - June 2023
   description: 'Book titles:
@@ -113,8 +154,14 @@ items:
     - (Paperback in Presentation) [Get to the Point!](/books/info/9781523094110) by
     Joel Schwartzberg
 
+    - (Audiobook in Reading) [The Art of X-Ray Reading](/books/info/B019S38272) by
+    Roy Peter Clark
+
     - (Audiobook in Presentation) [Get to the Point!](/books/info/B075FG7HLK) by Joel
     Schwartzberg
+
+    - (Audiobook in Writing) [The Sense of Style](/books/info/B00M8U0CJ4) by Steven
+    Pinker
 
     - (Hardcover in Role-Playing Games) [Tasha''s Cauldron of Everything (D&D Rules
     Expansion) (Dungeons & Dragons)](/books/info/9780786967025) by Wizards RPG Team'
@@ -122,7 +169,9 @@ items:
   - '9780452298606'
   - '9780786967872'
   - '9781523094110'
+  - B019S38272
   - B075FG7HLK
+  - B00M8U0CJ4
   - '9780786967025'
 - title:
   - May 2023
