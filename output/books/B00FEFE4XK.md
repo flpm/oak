@@ -11,7 +11,7 @@ cover_filename: B00FEFE4XK.jpg
 source: Audible
 book_type: audiobook
 asin: B00FEFE4XK
-format: audiobook
+format: Audiobook
 topics:
 - Anthologies
 - Classics
@@ -28,9 +28,10 @@ language:
 rating:
   rating: 4.733587609801202
   count: 8652
-duration: PT58H4M
+duration: 212520000
 type: audiobook
 theme: crime fiction
+length: 212520000
 ---
 Winner of the 2014 Audie Award for Classics
 Sir Arthur Conan Doyle’s Sherlock Holmes tales are rightly ranked among the seminal works of mystery and detective fiction. Included in this collection are all four full-length Holmes novels and more than forty short masterpieces—from the inaugural adventure A Study in Scarlet to timeless favorites like “The Speckled Band” and more. At the center of each stands the iconic figure of Holmes—brilliant, eccentric, and capable of amazing feats of deductive reasoning. By his side is Dr. John Watson, his steadfast assistant and our trusty narrator. This set is a must-have for every discriminating bibliophile and Sherlock Holmes fan.

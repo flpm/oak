@@ -7,7 +7,7 @@ asin: B07DHSQL6Q
 length: '17936000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 17713.0
   first_time: '2021-08-09'
@@ -33,7 +33,7 @@ language:
 rating:
   rating: 4.541699761715647
   count: 1259
-duration: PT4H58M
+duration: 18120000
 cover_filename: B07DHSQL6Q.jpg
 read_status:
   start: true

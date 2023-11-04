@@ -7,7 +7,7 @@ asin: B00O1GCA5M
 length: '19754000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 26395.0
   first_time: '2023-05-27'
@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.557511737089202
   count: 1704
-duration: PT5H29M
+duration: 20040000
 cover_filename: B00O1GCA5M.jpg
 read_status:
   start: true

@@ -9,7 +9,7 @@ asin: B00NJ58OWE
 length: '29936187'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 8468.0
   first_time: '2016-03-06'
@@ -39,7 +39,7 @@ language:
 rating:
   rating: 4.662573548222052
   count: 3909
-duration: PT8H18M
+duration: 30360000
 cover_filename: B00NJ58OWE.jpg
 read_status:
   start: true

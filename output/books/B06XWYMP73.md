@@ -7,7 +7,7 @@ asin: B06XWYMP73
 length: '52771000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 53154.0
   first_time: '2022-01-20'
@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.544807965860597
   count: 2812
-duration: PT14H39M
+duration: 53580000
 cover_filename: B06XWYMP73.jpg
 read_status:
   start: true

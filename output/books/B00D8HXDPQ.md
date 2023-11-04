@@ -10,7 +10,7 @@ cover_filename: B00D8HXDPQ.jpg
 source: Audible
 book_type: audiobook
 asin: B00D8HXDPQ
-format: audiobook
+format: Lecture
 topics:
 - Ancient
 authors:
@@ -24,9 +24,10 @@ language:
 rating:
   rating: 4.722727272727273
   count: 660
-duration: PT17H38M
+duration: 64500000
 type: audiobook
 theme: ancient history
+length: 64500000
 ---
 What sort of men were the Roman emperors (and were they all men)? What background and training, if any, prepared them for their awesome responsibilities? What depravities did they display? And what achievements can they claim: laws passed, monuments built, lands and peoples conquered?
 Dive into these questions and more with this introduction to the complex personalities of emperors such as Augustus, Caligula, Claudius, and Nero. These thirty-six gripping lectures bring to life the many emperors of Rome from the turn of the 1st century to the transition to the Middle Ages. For more than five centuries, these emperors-a checkered mix of the wise, the brutal, and the unhinged-presided over a multi-ethnic empire that was nearly always at war.

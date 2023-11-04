@@ -4,10 +4,10 @@ full_title: 'Death on the Nile: A Hercule Poirot Mystery'
 title: Death on the Nile
 subtitle: A Hercule Poirot Mystery
 asin: B008ELXJD2
-length: '0'
+length: 29160000
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 109782.0
   first_time: '2015-08-10'
@@ -31,7 +31,7 @@ language:
 rating:
   rating: 4.643914631801577
   count: 5201
-duration: PT7H59M
+duration: 29160000
 cover_filename: B008ELXJD2.jpg
 read_status:
   start: true

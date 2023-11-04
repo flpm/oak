@@ -32,7 +32,7 @@ language:
 rating:
   rating: 4.486486486486487
   count: 1850
-duration: PT12H39M
+duration: 46260000
 cover_filename: B00XP3CMHI.jpg
 read_status:
   start: true

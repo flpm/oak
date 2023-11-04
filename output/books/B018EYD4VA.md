@@ -11,7 +11,7 @@ cover_filename: B018EYD4VA.jpg
 source: Audible
 book_type: audiobook
 asin: B018EYD4VA
-format: audiobook
+format: Audiobook
 topics:
 - Business & Careers
 - Psychology
@@ -29,9 +29,10 @@ language:
 rating:
   rating: 4.619565217391305
   count: 368
-duration: PT12H38M
+duration: 46200000
 type: audiobook
 theme: urbanism
+length: 46200000
 ---
 After decades of unchecked sprawl, more people than ever are moving back to the city. Dense urban living has been prescribed as a panacea for the environmental and resource crises of our time. But is it better or worse for our happiness? Are subways, sidewalks, and tower dwelling improvements on the car dependence of sprawl?
 Award-winning journalist Charles Montgomery finds answers to such questions at the intersection between urban design and the emerging science of happiness and during an exhilarating journey through some of the world's most dynamic cities. He meets the visionary mayor who introduced a "sexy" lipstick-red bus to ease status anxiety in Bogotá; the architect who brought the lessons of medieval Tuscan hill towns to modern-day New York City; the activist who turned Paris' urban freeways into beaches; and an army of American suburbanites who have transformed their lives by hacking the designs of their streets and neighborhoods. Full of rich historical detail and new insights from psychologists and Montgomery's own urban experiments, Happy City is an essential tool for understanding and improving our own communities.

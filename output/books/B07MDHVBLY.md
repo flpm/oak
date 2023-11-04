@@ -7,7 +7,7 @@ asin: B07MDHVBLY
 length: '45679000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 45818.0
   first_time: '2021-11-23'
@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.712781954887218
   count: 665
-duration: PT12H41M
+duration: 46380000
 cover_filename: B07MDHVBLY.jpg
 read_status:
   start: true

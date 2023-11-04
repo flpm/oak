@@ -6,7 +6,7 @@ asin: B00D99PNKQ
 length: '44747000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 48111.0
   first_time: '2022-05-10'
@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.492815533980583
   count: 2575
-duration: PT12H25M
+duration: 45420000
 cover_filename: B00D99PNKQ.jpg
 read_status:
   start: true

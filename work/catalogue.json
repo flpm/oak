@@ -18102,7 +18102,7 @@
       "type": "audiobook",
       "title": "The Under Dog and Other Stories",
       "subtitle": "A Hercule Poirot Collection",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 89757.0,
         "first_time": "2015-07-07",
@@ -18136,7 +18136,7 @@
         "rating": 4.591002044989775,
         "count": 489
       },
-      "duration": "PT5H54M",
+      "duration": 21540000,
       "cover_filename": "B008RBDG46.jpg",
       "read_status": {
         "start": true,
@@ -18155,13 +18155,13 @@
     "audiobook": {
       "full_title": "Death on the Nile: A Hercule Poirot Mystery",
       "asin": "B008ELXJD2",
-      "length": "0",
+      "length": 29160000,
       "owned": "true",
       "book_id": "B008ELXJD2",
       "type": "audiobook",
       "title": "Death on the Nile",
       "subtitle": "A Hercule Poirot Mystery",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 109782.0,
         "first_time": "2015-08-10",
@@ -18192,7 +18192,7 @@
         "rating": 4.643914631801577,
         "count": 5201
       },
-      "duration": "PT7H59M",
+      "duration": 29160000,
       "cover_filename": "B008ELXJD2.jpg",
       "read_status": {
         "start": true,
@@ -18211,7 +18211,7 @@
     "audiobook": {
       "full_title": "Poirot Investigates: A Hercule Poirot Collection",
       "asin": "B008EUR8O4",
-      "length": "0",
+      "length": 25200000,
       "owned": "true",
       "book_id": "B008EUR8O4",
       "type": "audiobook",
@@ -18248,7 +18248,7 @@
         "rating": 4.588345864661654,
         "count": 1064
       },
-      "duration": "PT6H54M",
+      "duration": 25200000,
       "cover_filename": "B008EUR8O4.jpg",
       "read_status": {
         "start": true,
@@ -18294,7 +18294,7 @@
       "type": "audiobook",
       "title": "Thinking Statistically",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 4104.0,
         "first_time": "2016-02-25",
@@ -18325,7 +18325,7 @@
         "rating": 4.0756013745704465,
         "count": 291
       },
-      "duration": "PT1H31M",
+      "duration": 5520000,
       "cover_filename": "B00TP2UMTS.jpg",
       "read_status": {
         "plan": true
@@ -18348,7 +18348,7 @@
       "type": "audiobook",
       "title": "No-Drama Discipline",
       "subtitle": "The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 8468.0,
         "first_time": "2016-03-06",
@@ -18385,7 +18385,7 @@
         "rating": 4.662573548222052,
         "count": 3909
       },
-      "duration": "PT8H18M",
+      "duration": 30360000,
       "cover_filename": "B00NJ58OWE.jpg",
       "read_status": {
         "start": true
@@ -18503,7 +18503,7 @@
         "rating": 4.614883329829724,
         "count": 4757
       },
-      "duration": "PT2H46M",
+      "duration": 10080000,
       "cover_filename": "B002V1BPOQ.jpg",
       "read_status": {},
       "theme": "kids",
@@ -18571,7 +18571,7 @@
       "type": "audiobook",
       "title": "Naked Economics",
       "subtitle": "Undressing the Dismal Science",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 2003.0,
         "first_time": "2019-12-11",
@@ -18600,7 +18600,7 @@
         "rating": 4.492350486787204,
         "count": 719
       },
-      "duration": "PT13H44M",
+      "duration": 50220000,
       "cover_filename": "B003TFSY7E.jpg",
       "read_status": {
         "start": true,
@@ -18821,7 +18821,7 @@
         "rating": 4.337883959044369,
         "count": 293
       },
-      "duration": "PT8H56M",
+      "duration": 32640000,
       "cover_filename": "B01B89LABY.jpg"
     }
   },
@@ -18887,7 +18887,7 @@
         "rating": 4.450290560703628,
         "count": 19101
       },
-      "duration": "PT20H2M",
+      "duration": 73320000,
       "cover_filename": "B005TKKCWC.jpg"
     }
   },
@@ -18932,7 +18932,7 @@
         "rating": 4.72508038585209,
         "count": 622
       },
-      "duration": "PT4H39M",
+      "duration": 16980000,
       "cover_filename": "B01N060ID9.jpg"
     }
   },
@@ -18976,7 +18976,7 @@
         "rating": 4.475571315996848,
         "count": 2538
       },
-      "duration": "PT11H33M",
+      "duration": 42240000,
       "cover_filename": "B01M0D1LT5.jpg"
     }
   },
@@ -19022,7 +19022,7 @@
         "rating": 4.222222222222222,
         "count": 72
       },
-      "duration": "PT6H9M",
+      "duration": 22500000,
       "cover_filename": "1250792215.jpg"
     }
   },
@@ -19067,7 +19067,7 @@
         "rating": 4.719887955182073,
         "count": 357
       },
-      "duration": "PT7H53M",
+      "duration": 28800000,
       "cover_filename": "1400223709.jpg"
     }
   },
@@ -19111,7 +19111,7 @@
         "rating": 3.858108108108108,
         "count": 148
       },
-      "duration": "PT7H23M",
+      "duration": 27000000,
       "cover_filename": "B00466Z4JQ.jpg"
     },
     "audiobook": {
@@ -19123,7 +19123,7 @@
       "type": "audiobook",
       "title": "Comebacks at Work",
       "subtitle": "Using Conversation to Master Confrontation",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 21291.0,
         "first_time": "2021-06-28",
@@ -19154,7 +19154,7 @@
         "rating": 3.858108108108108,
         "count": 148
       },
-      "duration": "PT7H23M",
+      "duration": 27000000,
       "cover_filename": "B00466Z4JQ.jpg",
       "read_status": {
         "start": true,
@@ -19209,7 +19209,7 @@
         "rating": 4.826905906862361,
         "count": 127682
       },
-      "duration": "PT5H35M",
+      "duration": 20400000,
       "cover_filename": "1524779261.jpg"
     }
   },
@@ -19253,7 +19253,7 @@
         "rating": 4.518834785931598,
         "count": 68039
       },
-      "duration": "PT11H10M",
+      "duration": 40860000,
       "cover_filename": "B007C64916.jpg"
     }
   },
@@ -19320,7 +19320,7 @@
         "rating": 4.541699761715647,
         "count": 1259
       },
-      "duration": "PT4H58M",
+      "duration": 18120000,
       "cover_filename": "B07DHSQL6Q.jpg"
     },
     "audiobook": {
@@ -19332,7 +19332,7 @@
       "type": "audiobook",
       "title": "Make Time",
       "subtitle": "How to Focus on What Matters Every Day",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 17713.0,
         "first_time": "2021-08-09",
@@ -19365,7 +19365,7 @@
         "rating": 4.541699761715647,
         "count": 1259
       },
-      "duration": "PT4H58M",
+      "duration": 18120000,
       "cover_filename": "B07DHSQL6Q.jpg",
       "read_status": {
         "start": true,
@@ -19421,7 +19421,7 @@
         "rating": 4.559817945383615,
         "count": 1538
       },
-      "duration": "PT10H45M",
+      "duration": 39300000,
       "cover_filename": "1977386865.jpg"
     }
   },
@@ -19465,7 +19465,7 @@
         "rating": 4.697892997314605,
         "count": 9682
       },
-      "duration": "PT10H46M",
+      "duration": 39360000,
       "cover_filename": "1984888439.jpg"
     }
   },
@@ -19512,7 +19512,7 @@
         "rating": 4.775176438653637,
         "count": 14736
       },
-      "duration": "PT9H7M",
+      "duration": 33360000,
       "cover_filename": "B002V1A0WE.jpg"
     },
     "audiobook": {
@@ -19524,7 +19524,7 @@
       "type": "audiobook",
       "title": "On Writing",
       "subtitle": "A Memoir of the Craft",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 24402.0,
         "first_time": "2021-10-21",
@@ -19558,7 +19558,7 @@
         "rating": 4.775176438653637,
         "count": 14736
       },
-      "duration": "PT9H7M",
+      "duration": 33360000,
       "cover_filename": "B002V1A0WE.jpg",
       "multiple_reads": true,
       "read_status": {
@@ -19613,7 +19613,7 @@
         "rating": 4.68859615236035,
         "count": 25886
       },
-      "duration": "PT9H22M",
+      "duration": 34260000,
       "cover_filename": "B01D3AC5BA.jpg"
     },
     "audiobook": {
@@ -19625,7 +19625,7 @@
       "type": "audiobook",
       "title": "Grit",
       "subtitle": "The Power of Passion and Perseverance",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 30839.0,
         "first_time": "2021-09-29",
@@ -19655,7 +19655,7 @@
         "rating": 4.68859615236035,
         "count": 25886
       },
-      "duration": "PT9H22M",
+      "duration": 34260000,
       "cover_filename": "B01D3AC5BA.jpg",
       "read_status": {
         "start": true,
@@ -19710,7 +19710,7 @@
         "rating": 4.758620689655173,
         "count": 29
       },
-      "duration": "PT9H22M",
+      "duration": 34260000,
       "cover_filename": "1549108603.jpg"
     },
     "audiobook": {
@@ -19722,7 +19722,7 @@
       "type": "audiobook",
       "title": "Writing Tools (10th Anniversary Edition)",
       "subtitle": "55 Essential Strategies for Every Writer",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 40159.0,
         "first_time": "2023-02-01",
@@ -19753,7 +19753,7 @@
         "rating": 4.758620689655173,
         "count": 29
       },
-      "duration": "PT9H22M",
+      "duration": 34260000,
       "cover_filename": "1549108603.jpg",
       "multiple_reads": true,
       "read_status": {
@@ -19809,7 +19809,7 @@
         "rating": 4.302631578947368,
         "count": 76
       },
-      "duration": "PT5H20M",
+      "duration": 19500000,
       "cover_filename": "B00GG0C3FI.jpg"
     }
   },
@@ -19851,7 +19851,7 @@
         "rating": 4.87816918284208,
         "count": 20865
       },
-      "duration": "PT10H35M",
+      "duration": 38700000,
       "cover_filename": "0063076128.jpg"
     }
   },
@@ -19893,7 +19893,7 @@
         "rating": 4.747325854422123,
         "count": 7666
       },
-      "duration": "PT1H32M",
+      "duration": 5580000,
       "cover_filename": "B08ZYXLTYG.gif",
       "do_not_update": [
         "cover_filename"
@@ -19908,7 +19908,7 @@
       "type": "audiobook",
       "title": "Beginner's Mind",
       "subtitle": "Words + Music | Vol. 13",
-      "format": "audiobook",
+      "format": "Performance",
       "listening": {
         "duration": 5428.0,
         "first_time": "2021-10-27",
@@ -19937,8 +19937,8 @@
         "rating": 4.747325854422123,
         "count": 7666
       },
-      "duration": "PT1H32M",
-      "cover_filename": "B08ZYXLTYG.jpg",
+      "duration": 5580000,
+      "cover_filename": "B08ZYXLTYG.gif",
       "read_status": {
         "start": true,
         "finish": true,
@@ -19967,7 +19967,7 @@
       "type": "audiobook",
       "title": "Road Trip Elegies",
       "subtitle": "Montreal to New York: Words + Music | Vol. 9",
-      "format": "audiobook",
+      "format": "Performance",
       "listening": {
         "duration": 230.0,
         "first_time": "2021-11-12",
@@ -19996,7 +19996,7 @@
         "rating": 4.336890243902439,
         "count": 656
       },
-      "duration": "PT3H29M",
+      "duration": 12720000,
       "cover_filename": "B08M93Q9SP.jpg",
       "read_status": {
         "start": true,
@@ -20048,7 +20048,7 @@
         "rating": 4.712781954887218,
         "count": 665
       },
-      "duration": "PT12H41M",
+      "duration": 46380000,
       "cover_filename": "B07MDHVBLY.jpg"
     },
     "audiobook": {
@@ -20060,7 +20060,7 @@
       "type": "audiobook",
       "title": "The Roman Empire",
       "subtitle": "From Augustus to the Fall of Rome",
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 45818.0,
         "first_time": "2021-11-23",
@@ -20089,7 +20089,7 @@
         "rating": 4.712781954887218,
         "count": 665
       },
-      "duration": "PT12H41M",
+      "duration": 46380000,
       "cover_filename": "B07MDHVBLY.jpg",
       "read_status": {
         "start": true,
@@ -20142,7 +20142,7 @@
         "rating": 4.728102189781022,
         "count": 548
       },
-      "duration": "PT12H26M",
+      "duration": 45480000,
       "cover_filename": "B00D8G1DPO.jpg"
     },
     "audiobook": {
@@ -20154,7 +20154,7 @@
       "type": "audiobook",
       "title": "Famous Romans",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 44777.0,
         "first_time": "2021-12-01",
@@ -20183,7 +20183,7 @@
         "rating": 4.728102189781022,
         "count": 548
       },
-      "duration": "PT12H26M",
+      "duration": 45480000,
       "cover_filename": "B00D8G1DPO.jpg",
       "read_status": {
         "start": true,
@@ -20236,7 +20236,7 @@
         "rating": 4.521739130434782,
         "count": 46
       },
-      "duration": "PT5H8M",
+      "duration": 18780000,
       "cover_filename": "B06W2HB18L.jpg"
     }
   },
@@ -20280,7 +20280,7 @@
         "rating": 4.612903225806452,
         "count": 62
       },
-      "duration": "PT6H36M",
+      "duration": 24120000,
       "cover_filename": "1705218229.jpg"
     }
   },
@@ -20322,7 +20322,7 @@
         "rating": 4.722727272727273,
         "count": 660
       },
-      "duration": "PT17H38M",
+      "duration": 64500000,
       "cover_filename": "B00D8HXDPQ.jpg"
     },
     "audiobook": {
@@ -20337,7 +20337,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00D8HXDPQ",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient"
       ],
@@ -20357,9 +20357,10 @@
         "rating": 4.722727272727273,
         "count": 660
       },
-      "duration": "PT17H38M",
+      "duration": 64500000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 64500000
     }
   },
   "1644650649": {
@@ -20402,7 +20403,7 @@
         "rating": 4.690553745928339,
         "count": 614
       },
-      "duration": "PT11H10M",
+      "duration": 40860000,
       "cover_filename": "1644650649.jpg"
     },
     "audiobook": {
@@ -20414,7 +20415,7 @@
       "type": "audiobook",
       "title": "Think like a Stoic",
       "subtitle": "Ancient Wisdom for Today\u2019s World",
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 41578.0,
         "first_time": "2021-12-15",
@@ -20445,7 +20446,7 @@
         "rating": 4.690553745928339,
         "count": 614
       },
-      "duration": "PT11H10M",
+      "duration": 40860000,
       "cover_filename": "1644650649.jpg",
       "read_status": {
         "start": true,
@@ -20501,7 +20502,7 @@
         "rating": 4.659672131147541,
         "count": 1525
       },
-      "duration": "PT18H25M",
+      "duration": 67380000,
       "cover_filename": "B00MXDGT2A.jpg"
     },
     "audiobook": {
@@ -20513,7 +20514,7 @@
       "type": "audiobook",
       "title": "Augustus",
       "subtitle": "First Emperor of Rome",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 70660.0,
         "first_time": "2022-12-29",
@@ -20545,7 +20546,7 @@
         "rating": 4.659672131147541,
         "count": 1525
       },
-      "duration": "PT18H25M",
+      "duration": 67380000,
       "cover_filename": "B00MXDGT2A.jpg",
       "read_status": {
         "start": true,
@@ -20600,7 +20601,7 @@
         "rating": 4.595325054784515,
         "count": 1369
       },
-      "duration": "PT15H52M",
+      "duration": 58020000,
       "cover_filename": "B00PRAGZWU.jpg"
     }
   },
@@ -20645,7 +20646,7 @@
         "rating": 4.341772151898734,
         "count": 237
       },
-      "duration": "PT14H23M",
+      "duration": 52620000,
       "cover_filename": "B007WU23K6.jpg"
     }
   },
@@ -20690,7 +20691,7 @@
         "rating": 4.511210762331839,
         "count": 446
       },
-      "duration": "PT15H33M",
+      "duration": 56880000,
       "cover_filename": "B01KMXAL9Y.jpg"
     },
     "audiobook": {
@@ -20706,7 +20707,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B01KMXAL9Y",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Rome",
         "Europe",
@@ -20729,9 +20730,10 @@
         "rating": 4.511210762331839,
         "count": 446
       },
-      "duration": "PT15H33M",
+      "duration": 56880000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 56880000
     }
   },
   "B00MFQLERK": {
@@ -20776,7 +20778,7 @@
         "rating": 4.667292728736249,
         "count": 3727
       },
-      "duration": "PT24H46M",
+      "duration": 90600000,
       "cover_filename": "B00MFQLERK.jpg"
     },
     "audiobook": {
@@ -20788,7 +20790,7 @@
       "type": "audiobook",
       "title": "Caesar",
       "subtitle": "Life of a Colossus",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 104775.0,
         "first_time": "2022-07-24",
@@ -20821,7 +20823,7 @@
         "rating": 4.667292728736249,
         "count": 3727
       },
-      "duration": "PT24H46M",
+      "duration": 90600000,
       "cover_filename": "B00MFQLERK.jpg",
       "read_status": {
         "start": true,
@@ -20879,7 +20881,7 @@
         "rating": 4.8578947368421055,
         "count": 190
       },
-      "duration": "PT14H44M",
+      "duration": 53880000,
       "cover_filename": "1977349382.jpg"
     }
   },
@@ -20893,7 +20895,7 @@
       "type": "audiobook",
       "title": "Julius Caesar",
       "subtitle": "Man, Soldier, and Tyrant",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 2572.0,
         "first_time": "2021-12-13",
@@ -20922,7 +20924,7 @@
         "rating": 4.257918552036199,
         "count": 221
       },
-      "duration": "PT14H5M",
+      "duration": 51540000,
       "cover_filename": "B002V8KXYC.jpg",
       "read_status": {
         "plan": true
@@ -20977,7 +20979,7 @@
         "rating": 4.825214899713467,
         "count": 349
       },
-      "duration": "PT18H41M",
+      "duration": 68340000,
       "cover_filename": "B00DG7NVXC.jpg"
     },
     "audiobook": {
@@ -20989,7 +20991,7 @@
       "type": "audiobook",
       "title": "Classical Archaeology of Ancient Greece and Rome",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 73567.0,
         "first_time": "2022-01-29",
@@ -21022,7 +21024,7 @@
         "rating": 4.825214899713467,
         "count": 349
       },
-      "duration": "PT18H41M",
+      "duration": 68340000,
       "cover_filename": "B00DG7NVXC.jpg",
       "read_status": {
         "start": true,
@@ -21078,7 +21080,7 @@
         "rating": 4.725984251968504,
         "count": 635
       },
-      "duration": "PT6H8M",
+      "duration": 22440000,
       "cover_filename": "B00D8LT7A2.jpg"
     }
   },
@@ -21121,7 +21123,7 @@
         "rating": 4.732538330494037,
         "count": 587
       },
-      "duration": "PT12H17M",
+      "duration": 44940000,
       "cover_filename": "B00DC8CFZK.jpg"
     },
     "audiobook": {
@@ -21133,7 +21135,7 @@
       "type": "audiobook",
       "title": "Herodotus",
       "subtitle": "The Father of History",
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 940.0,
         "first_time": "2023-05-15",
@@ -21162,7 +21164,7 @@
         "rating": 4.732538330494037,
         "count": 587
       },
-      "duration": "PT12H17M",
+      "duration": 44940000,
       "cover_filename": "B00DC8CFZK.jpg",
       "read_status": {
         "start": true,
@@ -21215,7 +21217,7 @@
         "rating": 4.695945945945946,
         "count": 444
       },
-      "duration": "PT18H22M",
+      "duration": 67200000,
       "cover_filename": "B00DD1FT0Y.jpg"
     }
   },
@@ -21260,7 +21262,7 @@
         "rating": 4.4759493670886075,
         "count": 395
       },
-      "duration": "PT25H1M",
+      "duration": 91560000,
       "cover_filename": "B00DJBVBMI.jpg"
     }
   },
@@ -21305,7 +21307,7 @@
         "rating": 4.811422944362383,
         "count": 4062
       },
-      "duration": "PT8H30M",
+      "duration": 31080000,
       "cover_filename": "B07FB135GG.jpg"
     },
     "audiobook": {
@@ -21317,7 +21319,7 @@
       "type": "audiobook",
       "title": "How to Think Like a Roman Emperor",
       "subtitle": "The Stoic Philosophy of Marcus Aurelius",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 30299.0,
         "first_time": "2022-01-09",
@@ -21349,7 +21351,7 @@
         "rating": 4.811422944362383,
         "count": 4062
       },
-      "duration": "PT8H30M",
+      "duration": 31080000,
       "cover_filename": "B07FB135GG.jpg",
       "read_status": {
         "start": true,
@@ -21405,7 +21407,7 @@
         "rating": 4.889952153110048,
         "count": 209
       },
-      "duration": "PT8H51M",
+      "duration": 32340000,
       "cover_filename": "0141997834.jpg"
     }
   },
@@ -21451,7 +21453,7 @@
         "rating": 4.793413173652695,
         "count": 668
       },
-      "duration": "PT6H18M",
+      "duration": 23040000,
       "cover_filename": "0241429668.jpg"
     }
   },
@@ -21497,7 +21499,7 @@
         "rating": 4.706864564007422,
         "count": 539
       },
-      "duration": "PT7H38M",
+      "duration": 27900000,
       "cover_filename": "0241429641.jpg"
     }
   },
@@ -21540,7 +21542,7 @@
         "rating": 4.7407407407407405,
         "count": 54
       },
-      "duration": "PT29H51M",
+      "duration": 109200000,
       "cover_filename": "B075KPRJ9R.jpg"
     }
   },
@@ -21554,7 +21556,7 @@
       "type": "audiobook",
       "title": "Believe Me",
       "subtitle": "A Memoir of Love, Death and Jazz Chickens",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 53154.0,
         "first_time": "2022-01-20",
@@ -21584,7 +21586,7 @@
         "rating": 4.544807965860597,
         "count": 2812
       },
-      "duration": "PT14H39M",
+      "duration": 53580000,
       "cover_filename": "B06XWYMP73.jpg",
       "read_status": {
         "start": true,
@@ -21610,7 +21612,7 @@
       "type": "audiobook",
       "title": "Sherlock Holmes",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 11158.0,
         "first_time": "2022-01-24",
@@ -21640,7 +21642,7 @@
         "rating": 4.842273372541067,
         "count": 19724
       },
-      "duration": "PT62H52M",
+      "duration": 230040000,
       "cover_filename": "B06WLMWF2S.jpg",
       "read_status": {
         "start": true,
@@ -21695,7 +21697,7 @@
         "rating": 4.6440677966101696,
         "count": 236
       },
-      "duration": "PT18H25M",
+      "duration": 67380000,
       "cover_filename": "B00DENRC1U.jpg"
     }
   },
@@ -21741,7 +21743,7 @@
         "rating": 4.6503067484662575,
         "count": 163
       },
-      "duration": "PT6H7M",
+      "duration": 22380000,
       "cover_filename": "B00DC8EJ18.jpg"
     }
   },
@@ -21784,7 +21786,7 @@
         "rating": 4.35251798561151,
         "count": 139
       },
-      "duration": "PT18H39M",
+      "duration": 68220000,
       "cover_filename": "B00DL6H4DQ.jpg"
     }
   },
@@ -21826,7 +21828,7 @@
         "rating": 4.4673539518900345,
         "count": 1164
       },
-      "duration": "PT12H2M",
+      "duration": 44040000,
       "cover_filename": "1629976822.jpg"
     }
   },
@@ -21868,7 +21870,7 @@
         "rating": 4.45466985973315,
         "count": 2923
       },
-      "duration": "PT30H11M",
+      "duration": 110460000,
       "cover_filename": "B00DDVSD34.jpg"
     }
   },
@@ -21911,7 +21913,7 @@
         "rating": 4.650501672240803,
         "count": 598
       },
-      "duration": "PT12H11M",
+      "duration": 44580000,
       "cover_filename": "B00D6OQFZG.jpg"
     },
     "audiobook": {
@@ -21926,7 +21928,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00D6OQFZG",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient",
         "Greek Civilization"
@@ -21947,9 +21949,10 @@
         "rating": 4.650501672240803,
         "count": 598
       },
-      "duration": "PT12H11M",
+      "duration": 44580000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 44580000
     }
   },
   "B01N384PPA": {
@@ -21991,7 +21994,7 @@
         "rating": 4.41925925925926,
         "count": 6750
       },
-      "duration": "PT13H52M",
+      "duration": 50700000,
       "cover_filename": "B01N384PPA.jpg"
     }
   },
@@ -22034,7 +22037,7 @@
         "rating": 4.516456322692403,
         "count": 4041
       },
-      "duration": "PT8H49M",
+      "duration": 32220000,
       "cover_filename": "B01478ZQOU.jpg"
     }
   },
@@ -22083,7 +22086,7 @@
         "rating": 4.72138323484351,
         "count": 9138
       },
-      "duration": "PT14H31M",
+      "duration": 53100000,
       "cover_filename": "B06XV1PVF5.jpg"
     }
   },
@@ -22161,7 +22164,7 @@
         "rating": 4.694264275721735,
         "count": 7863
       },
-      "duration": "PT18H15M",
+      "duration": 66780000,
       "cover_filename": "B00DGBECNG.jpg"
     }
   },
@@ -22203,7 +22206,7 @@
         "rating": 4.659712433042007,
         "count": 3547
       },
-      "duration": "PT22H40M",
+      "duration": 82920000,
       "cover_filename": "B00DIGLIHC.jpg"
     }
   },
@@ -22246,7 +22249,7 @@
         "rating": 4.584984358706986,
         "count": 959
       },
-      "duration": "PT18H51M",
+      "duration": 68940000,
       "cover_filename": "B00DEK3UAU.jpg"
     },
     "audiobook": {
@@ -22258,7 +22261,7 @@
       "type": "audiobook",
       "title": "Greece and Rome",
       "subtitle": "An Integrated History of the Ancient Mediterranean",
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 69275.0,
         "first_time": "2022-05-23",
@@ -22288,7 +22291,7 @@
         "rating": 4.584984358706986,
         "count": 959
       },
-      "duration": "PT18H51M",
+      "duration": 68940000,
       "cover_filename": "B00DEK3UAU.jpg",
       "read_status": {
         "start": true,
@@ -22340,7 +22343,7 @@
         "rating": 4.436893203883495,
         "count": 309
       },
-      "duration": "PT12H28M",
+      "duration": 45600000,
       "cover_filename": "B00DAGYZNO.jpg"
     }
   },
@@ -22383,7 +22386,7 @@
         "rating": 4.627155172413793,
         "count": 928
       },
-      "duration": "PT12H33M",
+      "duration": 45900000,
       "cover_filename": "B00DEH8UCQ.jpg"
     }
   },
@@ -22397,7 +22400,7 @@
       "type": "audiobook",
       "title": "The Rise of Rome",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 44632.0,
         "first_time": "2022-03-08",
@@ -22427,7 +22430,7 @@
         "rating": 4.762711864406779,
         "count": 1003
       },
-      "duration": "PT12H16M",
+      "duration": 44880000,
       "cover_filename": "B078HDSHQJ.jpg",
       "read_status": {
         "start": true,
@@ -22482,7 +22485,7 @@
         "rating": 4.6976744186046515,
         "count": 172
       },
-      "duration": "PT12H44M",
+      "duration": 46560000,
       "cover_filename": "1629979090.jpg"
     }
   },
@@ -22527,7 +22530,7 @@
         "rating": 4.725536992840095,
         "count": 419
       },
-      "duration": "PT12H16M",
+      "duration": 44880000,
       "cover_filename": "B00DHOOYC6.jpg"
     }
   },
@@ -22571,7 +22574,7 @@
         "rating": 4.492815533980583,
         "count": 2575
       },
-      "duration": "PT12H25M",
+      "duration": 45420000,
       "cover_filename": "B00D99PNKQ.jpg"
     },
     "audiobook": {
@@ -22583,7 +22586,7 @@
       "type": "audiobook",
       "title": "Classical Mythology",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 48111.0,
         "first_time": "2022-05-10",
@@ -22614,7 +22617,7 @@
         "rating": 4.492815533980583,
         "count": 2575
       },
-      "duration": "PT12H25M",
+      "duration": 45420000,
       "cover_filename": "B00D99PNKQ.jpg",
       "read_status": {
         "start": true,
@@ -22669,7 +22672,7 @@
         "rating": 4.616600790513834,
         "count": 253
       },
-      "duration": "PT25H",
+      "duration": 91500000,
       "cover_filename": "B00DD62VHI.jpg"
     }
   },
@@ -22712,7 +22715,7 @@
         "rating": 4.54071661237785,
         "count": 307
       },
-      "duration": "PT12H36M",
+      "duration": 46080000,
       "cover_filename": "197734996X.jpg"
     },
     "audiobook": {
@@ -22724,7 +22727,7 @@
       "type": "audiobook",
       "title": "The Fires of Vesuvius",
       "subtitle": "Pompeii Lost and Found",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 51451.0,
         "first_time": "2022-03-31",
@@ -22754,7 +22757,7 @@
         "rating": 4.54071661237785,
         "count": 307
       },
-      "duration": "PT12H36M",
+      "duration": 46080000,
       "cover_filename": "197734996X.jpg",
       "read_status": {
         "start": true,
@@ -22814,7 +22817,7 @@
         "rating": 4.823236514522821,
         "count": 1205
       },
-      "duration": "PT35H5M",
+      "duration": 128400000,
       "cover_filename": "0063066734.jpg"
     },
     "audiobook": {
@@ -22826,7 +22829,7 @@
       "type": "audiobook",
       "title": "Hercule Poirot",
       "subtitle": "The Complete Short Stories: A \nHercule Poirot Collection with Foreword by Charles Todd (Hercule Poirot \nMysteries)",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 63961.0,
         "first_time": "2022-05-16",
@@ -22861,7 +22864,7 @@
         "rating": 4.823236514522821,
         "count": 1205
       },
-      "duration": "PT35H5M",
+      "duration": 128400000,
       "cover_filename": "0063066734.jpg",
       "read_status": {
         "start": true,
@@ -22918,7 +22921,7 @@
         "rating": 4.482587064676617,
         "count": 402
       },
-      "duration": "PT12H52M",
+      "duration": 47040000,
       "cover_filename": "1508284288.jpg"
     }
   },
@@ -22962,7 +22965,7 @@
         "rating": 4.578199052132701,
         "count": 211
       },
-      "duration": "PT8H17M",
+      "duration": 30300000,
       "cover_filename": "B00TSRX9I6.jpg"
     }
   },
@@ -23007,7 +23010,7 @@
         "rating": 4.55,
         "count": 240
       },
-      "duration": "PT9H59M",
+      "duration": 36480000,
       "cover_filename": "1797125257.jpg"
     }
   },
@@ -23021,7 +23024,7 @@
       "type": "audiobook",
       "title": "Myth in Human History",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 70001.0,
         "first_time": "2022-04-15",
@@ -23050,7 +23053,7 @@
         "rating": 4.4366729678638945,
         "count": 529
       },
-      "duration": "PT18H28M",
+      "duration": 67560000,
       "cover_filename": "B00DDXQ61S.jpg",
       "read_status": {
         "start": true,
@@ -23107,7 +23110,7 @@
         "rating": 4.486486486486487,
         "count": 1850
       },
-      "duration": "PT12H39M",
+      "duration": 46260000,
       "cover_filename": "B00XP3CMHI.jpg",
       "read_status": {
         "start": true,
@@ -23157,7 +23160,7 @@
         "rating": 4.438022813688213,
         "count": 1315
       },
-      "duration": "PT12H34M",
+      "duration": 45960000,
       "cover_filename": "1629978590.jpg"
     }
   },
@@ -23207,7 +23210,7 @@
         "rating": 4.313559322033898,
         "count": 3186
       },
-      "duration": "PT31H36M",
+      "duration": 115620000,
       "cover_filename": "B013KRSIVC.jpg"
     },
     "audiobook": {
@@ -23222,7 +23225,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B013KRSIVC",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "World",
         "Celtic Mythology",
@@ -23250,9 +23253,10 @@
         "rating": 4.313559322033898,
         "count": 3186
       },
-      "duration": "PT31H36M",
+      "duration": 115620000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 115620000
     }
   },
   "B002V59WRE": {
@@ -23297,7 +23301,7 @@
         "rating": 4.695007018247443,
         "count": 4987
       },
-      "duration": "PT5H33M",
+      "duration": 20280000,
       "cover_filename": "B002V59WRE.jpg"
     }
   },
@@ -23344,7 +23348,7 @@
         "rating": 4.318660022148395,
         "count": 3612
       },
-      "duration": "PT14H37M",
+      "duration": 53460000,
       "cover_filename": "B01BFBXYA0.jpg"
     }
   },
@@ -23387,7 +23391,7 @@
         "rating": 4.045977011494253,
         "count": 87
       },
-      "duration": "PT12H9M",
+      "duration": 44460000,
       "cover_filename": "B00G2J83ZM.jpg"
     }
   },
@@ -23430,7 +23434,7 @@
         "rating": 4.678646934460888,
         "count": 473
       },
-      "duration": "PT24H37M",
+      "duration": 90060000,
       "cover_filename": "B00DCD0OXU.jpg"
     }
   },
@@ -23476,7 +23480,7 @@
         "rating": 4.880904183535763,
         "count": 2964
       },
-      "duration": "PT8H26M",
+      "duration": 30840000,
       "cover_filename": "0063007614.jpg"
     }
   },
@@ -23518,7 +23522,7 @@
         "rating": 4.442455242966752,
         "count": 391
       },
-      "duration": "PT11H55M",
+      "duration": 43560000,
       "cover_filename": "B07193MCXL.jpg"
     }
   },
@@ -23562,7 +23566,7 @@
         "rating": 4.466887417218543,
         "count": 302
       },
-      "duration": "PT12H10M",
+      "duration": 44520000,
       "cover_filename": "B00F52DXH0.jpg"
     },
     "audiobook": {
@@ -23574,7 +23578,7 @@
       "type": "audiobook",
       "title": "Writing and Civilization",
       "subtitle": "From Ancient Worlds to Modernity",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 49658.0,
         "first_time": "2022-10-30",
@@ -23604,7 +23608,7 @@
         "rating": 4.466887417218543,
         "count": 302
       },
-      "duration": "PT12H10M",
+      "duration": 44520000,
       "cover_filename": "B00F52DXH0.jpg",
       "multiple_reads": true,
       "read_status": {
@@ -23667,7 +23671,7 @@
         "rating": 4.4515463917525775,
         "count": 970
       },
-      "duration": "PT13H13M",
+      "duration": 48360000,
       "cover_filename": "B07FW5Y7J1.jpg"
     }
   },
@@ -23721,7 +23725,7 @@
         "rating": 4.543129539951574,
         "count": 6608
       },
-      "duration": "PT3H48M",
+      "duration": 13860000,
       "cover_filename": "B00ELIREBK.jpg"
     }
   },
@@ -23767,7 +23771,7 @@
         "rating": 4.655431515671962,
         "count": 4658
       },
-      "duration": "PT2H4M",
+      "duration": 7560000,
       "cover_filename": "B013HJWP1M.jpg"
     }
   },
@@ -23810,7 +23814,7 @@
         "rating": 4.488636363636363,
         "count": 88
       },
-      "duration": "PT7H19M",
+      "duration": 26760000,
       "cover_filename": "B0851RYKF8.jpg"
     }
   },
@@ -23824,7 +23828,7 @@
       "type": "audiobook",
       "title": "Cities of the Ancient World",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 43923.0,
         "first_time": "2022-07-03",
@@ -23852,7 +23856,7 @@
         "rating": 4.551229508196721,
         "count": 488
       },
-      "duration": "PT11H48M",
+      "duration": 43140000,
       "cover_filename": "B00LG7MR20.jpg",
       "read_status": {
         "start": true,
@@ -23907,7 +23911,7 @@
         "rating": 4.86359269932757,
         "count": 1041
       },
-      "duration": "PT28H42M",
+      "duration": 105000000,
       "cover_filename": "B07HKPHKY7.jpg"
     }
   },
@@ -23921,7 +23925,7 @@
       "type": "audiobook",
       "title": "Great Battles of the Ancient World",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 39263.0,
         "first_time": "2022-08-31",
@@ -23949,7 +23953,7 @@
         "rating": 4.515539305301646,
         "count": 547
       },
-      "duration": "PT12H13M",
+      "duration": 44700000,
       "cover_filename": "B00DB92ATG.jpg",
       "read_status": {
         "start": true,
@@ -23974,7 +23978,7 @@
       "type": "audiobook",
       "title": "The Fall of Carthage",
       "subtitle": "The Punic Wars 265-146BC",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 72344.0,
         "first_time": "2022-09-12",
@@ -24004,7 +24008,7 @@
         "rating": 4.609249329758713,
         "count": 1492
       },
-      "duration": "PT16H26M",
+      "duration": 60120000,
       "cover_filename": "1977330053.jpg",
       "read_status": {
         "start": true,
@@ -24061,7 +24065,7 @@
         "rating": 4.708260105448154,
         "count": 569
       },
-      "duration": "PT6H16M",
+      "duration": 22920000,
       "cover_filename": "1541447891.jpg"
     }
   },
@@ -24104,7 +24108,7 @@
         "rating": 4.566037735849057,
         "count": 53
       },
-      "duration": "PT15H28M",
+      "duration": 56580000,
       "cover_filename": "B09MG993NT.jpg"
     }
   },
@@ -24149,7 +24153,7 @@
         "rating": 4.273648648648648,
         "count": 1480
       },
-      "duration": "PT8H34M",
+      "duration": 31320000,
       "cover_filename": "B07KRG2CJW.jpg"
     }
   },
@@ -24192,7 +24196,7 @@
         "rating": 4.681159420289855,
         "count": 207
       },
-      "duration": "PT15H9M",
+      "duration": 55440000,
       "cover_filename": "1405544228.jpg"
     }
   },
@@ -24236,7 +24240,7 @@
         "rating": 4.4714285714285715,
         "count": 140
       },
-      "duration": "PT12H4M",
+      "duration": 44160000,
       "cover_filename": "180024553X.jpg"
     }
   },
@@ -24280,7 +24284,7 @@
         "rating": 4.621052631578947,
         "count": 380
       },
-      "duration": "PT12H13M",
+      "duration": 44700000,
       "cover_filename": "B00D7JMGEY.jpg",
       "read_status": {
         "start": true,
@@ -24331,7 +24335,7 @@
         "rating": 4.728765167737331,
         "count": 1401
       },
-      "duration": "PT18H29M",
+      "duration": 67620000,
       "cover_filename": "B00D7JLPDW.jpg"
     }
   },
@@ -24373,7 +24377,7 @@
         "rating": 4.65,
         "count": 60
       },
-      "duration": "PT21H29M",
+      "duration": 78600000,
       "cover_filename": "B08WHLR1TX.jpg"
     }
   },
@@ -24417,7 +24421,7 @@
         "rating": 4.770666666666667,
         "count": 375
       },
-      "duration": "PT20H36M",
+      "duration": 75360000,
       "cover_filename": "1549104780.jpg"
     },
     "audiobook": {
@@ -24433,7 +24437,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1549104780",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Historical",
         "Military & War",
@@ -24455,9 +24459,10 @@
         "rating": 4.770666666666667,
         "count": 375
       },
-      "duration": "PT20H36M",
+      "duration": 75360000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 75360000
     }
   },
   "B00DHKJ6V4": {
@@ -24499,7 +24504,7 @@
         "rating": 4.680634201585504,
         "count": 883
       },
-      "duration": "PT18H24M",
+      "duration": 67320000,
       "cover_filename": "B00DHKJ6V4.jpg"
     },
     "audiobook": {
@@ -24514,7 +24519,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DHKJ6V4",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient",
         "Military"
@@ -24535,9 +24540,10 @@
         "rating": 4.680634201585504,
         "count": 883
       },
-      "duration": "PT18H24M",
+      "duration": 67320000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 67320000
     }
   },
   "B00DIHBIOE": {
@@ -24579,7 +24585,7 @@
         "rating": 4.757250268528464,
         "count": 931
       },
-      "duration": "PT18H2M",
+      "duration": 66000000,
       "cover_filename": "B00DIHBIOE.jpg"
     }
   },
@@ -24623,7 +24629,7 @@
         "rating": 4.809608540925267,
         "count": 562
       },
-      "duration": "PT12H19M",
+      "duration": 45060000,
       "cover_filename": "B00DC5SB06.jpg"
     },
     "audiobook": {
@@ -24635,7 +24641,7 @@
       "type": "audiobook",
       "title": "The Greek and Persian Wars",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Lecture",
       "listening": {
         "duration": 53397.0,
         "first_time": "2022-10-26",
@@ -24666,7 +24672,7 @@
         "rating": 4.809608540925267,
         "count": 562
       },
-      "duration": "PT12H19M",
+      "duration": 45060000,
       "cover_filename": "B00DC5SB06.jpg",
       "read_status": {
         "start": true,
@@ -24718,7 +24724,7 @@
         "rating": 4.486945962355798,
         "count": 1647
       },
-      "duration": "PT2H",
+      "duration": 7320000,
       "cover_filename": "B089ZS3Y17.jpg",
       "read_status": null,
       "recommendation_status": null,
@@ -24762,7 +24768,7 @@
         "rating": 4.77875751503006,
         "count": 4990
       },
-      "duration": "PT54M",
+      "duration": 3240000,
       "cover_filename": "B0877CXKYX.jpg",
       "read_status": null,
       "recommendation_status": null,
@@ -24779,7 +24785,7 @@
       "type": "audiobook",
       "title": "Long Live Latin",
       "subtitle": "The Pleasures of a Useless Language",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 33092.0,
         "first_time": "2022-12-14",
@@ -24811,7 +24817,7 @@
         "rating": 4.650793650793651,
         "count": 63
       },
-      "duration": "PT8H18M",
+      "duration": 30360000,
       "cover_filename": "125075044X.jpg",
       "read_status": {
         "start": true,
@@ -24866,7 +24872,7 @@
         "rating": 5.0,
         "count": 1
       },
-      "duration": "PT14H45M",
+      "duration": 53940000,
       "cover_filename": "B0B3BV9MC9.jpg"
     }
   },
@@ -24908,7 +24914,7 @@
         "rating": 4.780373831775701,
         "count": 214
       },
-      "duration": "PT13H6M",
+      "duration": 47940000,
       "cover_filename": "0593510852.jpg"
     }
   },
@@ -24952,7 +24958,7 @@
         "rating": 4.4847161572052405,
         "count": 229
       },
-      "duration": "PT8H10M",
+      "duration": 29880000,
       "cover_filename": "B019S38272.jpg"
     },
     "audiobook": {
@@ -24968,7 +24974,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B019S38272",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Writing & Publishing",
@@ -24990,9 +24996,11 @@
         "rating": 4.4847161572052405,
         "count": 229
       },
-      "duration": "PT8H10M",
+      "duration": 29880000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 29880000,
+      "purchase_date": "2023-06-04"
     }
   },
   "B09HSSQMTW": {
@@ -25035,7 +25043,7 @@
         "rating": 4.594594594594595,
         "count": 259
       },
-      "duration": "PT5H53M",
+      "duration": 21480000,
       "cover_filename": "B09HSSQMTW.jpg"
     }
   },
@@ -25078,7 +25086,7 @@
         "rating": 4.6673161227471995,
         "count": 2053
       },
-      "duration": "PT16H51M",
+      "duration": 61620000,
       "cover_filename": "B01BW37O5C.jpg"
     },
     "audiobook": {
@@ -25090,7 +25098,7 @@
       "type": "audiobook",
       "title": "Memories, Dreams, Reflections",
       "subtitle": null,
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 3412.0,
         "first_time": "2023-02-22",
@@ -25120,7 +25128,7 @@
         "rating": 4.6673161227471995,
         "count": 2053
       },
-      "duration": "PT16H51M",
+      "duration": 61620000,
       "cover_filename": "B01BW37O5C.jpg",
       "read_status": {},
       "theme": "psychology",
@@ -25172,7 +25180,7 @@
         "rating": 4.382224168126094,
         "count": 2284
       },
-      "duration": "PT18H48M",
+      "duration": 68760000,
       "cover_filename": "B00SJIVE3W.jpg",
       "read_status": {
         "start": true,
@@ -25192,7 +25200,7 @@
       "type": "audiobook",
       "title": "SPQR",
       "subtitle": "A History of Ancient Rome",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 66775.0,
         "first_time": "2023-03-08",
@@ -25223,7 +25231,7 @@
         "rating": 4.373895759717315,
         "count": 4528
       },
-      "duration": "PT18H30M",
+      "duration": 67680000,
       "cover_filename": "B01865AOJW.jpg",
       "read_status": {
         "start": true,
@@ -25253,7 +25261,7 @@
       "type": "audiobook",
       "title": "The Copywriter's Handbook",
       "subtitle": "A Step-By-Step Guide to Writing Copy That Sells, 4th Edition",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 5177.0,
         "first_time": "2023-04-16",
@@ -25283,7 +25291,7 @@
         "rating": 4.444444444444445,
         "count": 45
       },
-      "duration": "PT14H3M",
+      "duration": 51420000,
       "cover_filename": "170526526X.jpg",
       "read_status": {
         "start": true
@@ -25336,7 +25344,7 @@
         "rating": 4.5828877005347595,
         "count": 187
       },
-      "duration": "PT3H34M",
+      "duration": 13020000,
       "cover_filename": "B0057A3VPE.jpg"
     },
     "audiobook": {
@@ -25352,7 +25360,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B0057A3VPE",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Writing & Publishing",
@@ -25374,9 +25382,11 @@
         "rating": 4.5828877005347595,
         "count": 187
       },
-      "duration": "PT3H34M",
+      "duration": 13020000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 13020000,
+      "purchase_date": "2023-07-03"
     }
   },
   "B0BX7CJVCS": {
@@ -25420,7 +25430,7 @@
         "rating": 5.0,
         "count": 1
       },
-      "duration": "PT11H26M",
+      "duration": 41820000,
       "cover_filename": "B0BX7CJVCS.jpg"
     },
     "audiobook": {
@@ -25432,7 +25442,7 @@
       "type": "audiobook",
       "title": "Everybody Writes (2nd Edition)",
       "subtitle": "Your New and Improved Go-to Guide to Creating Ridiculously Good Content",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 32405.0,
         "first_time": "2023-04-17",
@@ -25464,7 +25474,7 @@
         "rating": 5.0,
         "count": 1
       },
-      "duration": "PT11H26M",
+      "duration": 41820000,
       "cover_filename": "B0BX7CJVCS.jpg",
       "read_status": {
         "start": true
@@ -25520,7 +25530,7 @@
         "rating": 4.603607996099464,
         "count": 4102
       },
-      "duration": "PT7H2M",
+      "duration": 25740000,
       "cover_filename": "B07DKSPL43.jpg"
     }
   },
@@ -25565,7 +25575,7 @@
         "rating": 4.758358662613982,
         "count": 1316
       },
-      "duration": "PT5H38M",
+      "duration": 20580000,
       "cover_filename": "0593343980.jpg"
     }
   },
@@ -25623,7 +25633,7 @@
         "rating": 4.2604790419161676,
         "count": 334
       },
-      "duration": "PT10H7M",
+      "duration": 37020000,
       "cover_filename": "0593506286.jpg"
     }
   },
@@ -25667,7 +25677,7 @@
         "rating": 4.76670317634173,
         "count": 1826
       },
-      "duration": "PT11H5M",
+      "duration": 40560000,
       "cover_filename": "B09CF1RCGC.jpg"
     }
   },
@@ -25713,7 +25723,7 @@
         "rating": 4.619047619047619,
         "count": 105
       },
-      "duration": "PT7H25M",
+      "duration": 27120000,
       "cover_filename": "B095V9J7ML.jpg"
     }
   },
@@ -25757,7 +25767,7 @@
         "rating": 4.521739130434782,
         "count": 115
       },
-      "duration": "PT9H11M",
+      "duration": 33600000,
       "cover_filename": "1549141120.jpg"
     }
   },
@@ -25801,7 +25811,7 @@
         "rating": 4.515151515151516,
         "count": 33
       },
-      "duration": "PT7H59M",
+      "duration": 29160000,
       "cover_filename": "059315018X.jpg"
     },
     "audiobook": {
@@ -25813,7 +25823,7 @@
       "type": "audiobook",
       "title": "First You Write a Sentence",
       "subtitle": "The Elements of Reading, Writing...and Life",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 71420.0,
         "first_time": "2023-04-29",
@@ -25844,7 +25854,7 @@
         "rating": 4.515151515151516,
         "count": 33
       },
-      "duration": "PT7H59M",
+      "duration": 29160000,
       "cover_filename": "059315018X.jpg",
       "multiple_reads": true,
       "read_status": null,
@@ -25900,7 +25910,7 @@
         "rating": 5.0,
         "count": 1
       },
-      "duration": "PT5H12M",
+      "duration": 19020000,
       "cover_filename": "B0B8LKZB9M.jpg"
     }
   },
@@ -25942,7 +25952,7 @@
         "rating": 4.557511737089202,
         "count": 1704
       },
-      "duration": "PT5H29M",
+      "duration": 20040000,
       "cover_filename": "B00O1GCA5M.jpg"
     },
     "audiobook": {
@@ -25954,7 +25964,7 @@
       "type": "audiobook",
       "title": "The Elements of Eloquence",
       "subtitle": "Secrets of the Perfect Turn of Phrase",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 26395.0,
         "first_time": "2023-05-27",
@@ -25983,7 +25993,7 @@
         "rating": 4.557511737089202,
         "count": 1704
       },
-      "duration": "PT5H29M",
+      "duration": 20040000,
       "cover_filename": "B00O1GCA5M.jpg",
       "read_status": {
         "start": true,
@@ -26038,7 +26048,7 @@
         "rating": 4.642857142857143,
         "count": 70
       },
-      "duration": "PT15H26M",
+      "duration": 56460000,
       "cover_filename": "B09GHYQ8WN.jpg"
     }
   },
@@ -26081,7 +26091,7 @@
         "rating": 4.360594795539034,
         "count": 269
       },
-      "duration": "PT9H55M",
+      "duration": 36240000,
       "cover_filename": "B01GGEBRMS.jpg"
     }
   },
@@ -26124,7 +26134,7 @@
         "rating": 4.323076923076923,
         "count": 325
       },
-      "duration": "PT4H26M",
+      "duration": 16200000,
       "cover_filename": "B0774ZRRJL.jpg",
       "read_status": {
         "start": true,
@@ -26181,7 +26191,7 @@
         "rating": 4.731651376146789,
         "count": 436
       },
-      "duration": "PT1H53M",
+      "duration": 6840000,
       "cover_filename": "B075FG7HLK.jpg"
     },
     "audiobook": {
@@ -26193,7 +26203,7 @@
       "type": "audiobook",
       "title": "Get to the Point!",
       "subtitle": "Sharpen Your Message and Make Your Words Matter",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 8045.0,
         "first_time": "2023-06-04",
@@ -26226,7 +26236,7 @@
         "rating": 4.731651376146789,
         "count": 436
       },
-      "duration": "PT1H53M",
+      "duration": 6840000,
       "cover_filename": "B075FG7HLK.jpg",
       "multiple_reads": true,
       "read_status": {
@@ -26289,7 +26299,7 @@
         "rating": 4.443254817987152,
         "count": 467
       },
-      "duration": "PT12H26M",
+      "duration": 45480000,
       "cover_filename": "B00M8U0CJ4.jpg"
     },
     "audiobook": {
@@ -26305,7 +26315,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00M8U0CJ4",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Communication & Social Skills",
@@ -26327,13 +26337,15 @@
         "rating": 4.443254817987152,
         "count": 467
       },
-      "duration": "PT12H26M",
+      "duration": 45480000,
       "type": "audiobook",
       "multiple_formats": {
         "book": "9780143127796",
         "audiobook": "B00M8U0CJ4"
       },
-      "theme": "writing"
+      "theme": "writing",
+      "length": 45480000,
+      "purchase_date": "2023-06-04"
     }
   },
   "B00NLEVIRG": {
@@ -26386,7 +26398,7 @@
         "rating": 4.772378876309683,
         "count": 14221
       },
-      "duration": "PT7H1M",
+      "duration": 25680000,
       "cover_filename": "B00NLEVIRG.jpg"
     }
   },
@@ -26452,7 +26464,7 @@
       "type": "audiobook",
       "title": "Shrinking Violets",
       "subtitle": "The Secret Life of Shyness",
-      "format": "audiobook",
+      "format": "Audiobook",
       "listening": {
         "duration": 4294.0,
         "first_time": "2023-05-16",
@@ -26483,7 +26495,7 @@
         "rating": 4.555555555555555,
         "count": 9
       },
-      "duration": "PT8H18M",
+      "duration": 30360000,
       "cover_filename": "B06VSQVPCY.jpg",
       "read_status": {
         "start": true,
@@ -26544,7 +26556,7 @@
         "rating": 4.6314199395770395,
         "count": 331
       },
-      "duration": "PT9H38M",
+      "duration": 35220000,
       "cover_filename": "B07LFKH5FV.jpg"
     },
     "audiobook": {
@@ -26560,7 +26572,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B07LFKH5FV",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Comedy & Humor",
@@ -26583,9 +26595,11 @@
         "rating": 4.6314199395770395,
         "count": 331
       },
-      "duration": "PT9H38M",
+      "duration": 35220000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 35220000,
+      "purchase_date": "2023-07-09"
     }
   },
   "0525626166": {
@@ -26628,7 +26642,7 @@
         "rating": 4.50635593220339,
         "count": 472
       },
-      "duration": "PT8H",
+      "duration": 29280000,
       "cover_filename": "0525626166.jpg"
     }
   },
@@ -26671,7 +26685,7 @@
         "rating": 3.0,
         "count": 1
       },
-      "duration": "PT7H23M",
+      "duration": 27000000,
       "cover_filename": "B0BCCWXT68.jpg"
     }
   },
@@ -26718,7 +26732,7 @@
         "rating": 4.431372549019608,
         "count": 357
       },
-      "duration": "PT3H1M",
+      "duration": 11040000,
       "cover_filename": "B0B5YKDKRJ.jpg"
     }
   },
@@ -26762,7 +26776,7 @@
         "rating": 3.983050847457627,
         "count": 59
       },
-      "duration": "PT5H7M",
+      "duration": 18720000,
       "cover_filename": "B08RLWQ2QD.jpg"
     }
   },
@@ -26805,7 +26819,7 @@
         "rating": 4.789283874291602,
         "count": 1941
       },
-      "duration": "PT5H45M",
+      "duration": 21000000,
       "cover_filename": "B0B3L2T9W5.jpg"
     }
   },
@@ -26849,7 +26863,7 @@
         "rating": 4.760144927536232,
         "count": 1380
       },
-      "duration": "PT4H32M",
+      "duration": 16560000,
       "cover_filename": "B0B6QGTNVS.jpg"
     }
   },
@@ -26891,7 +26905,7 @@
         "rating": 4.375886524822695,
         "count": 141
       },
-      "duration": "PT2H12M",
+      "duration": 8040000,
       "cover_filename": "B07B8W9KHL.jpg"
     }
   },
@@ -26935,7 +26949,7 @@
         "rating": 4.752851711026616,
         "count": 263
       },
-      "duration": "PT5H15M",
+      "duration": 19200000,
       "cover_filename": "0593148495.jpg"
     }
   },
@@ -26953,7 +26967,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B075F8XF1V",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Authors",
         "Entertainment & Celebrities",
@@ -26976,9 +26990,11 @@
         "rating": 4.415584415584416,
         "count": 231
       },
-      "duration": "PT6H49M",
+      "duration": 24900000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 24900000,
+      "purchase_date": "2023-11-03"
     }
   },
   "B0BFK1K36D": {
@@ -27022,9 +27038,11 @@
         "rating": 4.849672437997192,
         "count": 8548
       },
-      "duration": "PT11H31M",
+      "duration": 42120000,
       "type": "audiobook",
-      "theme": "graphic novels"
+      "theme": "graphic novels",
+      "length": 42120000,
+      "purchase_date": "2023-11-02"
     }
   },
   "B07M6LD93N": {
@@ -27041,7 +27059,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B07M6LD93N",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Writing & Publishing",
@@ -27063,9 +27081,11 @@
         "rating": 4.65,
         "count": 100
       },
-      "duration": "PT10H9M",
+      "duration": 37140000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 37140000,
+      "purchase_date": "2023-10-25"
     }
   },
   "B002V5GV9Q": {
@@ -27082,7 +27102,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B002V5GV9Q",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Psychology",
@@ -27106,9 +27126,10 @@
         "rating": 4.322115384615385,
         "count": 416
       },
-      "duration": "PT8H21M",
+      "duration": 30540000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 30540000
     }
   },
   "B098TWVZVD": {
@@ -27150,9 +27171,11 @@
         "rating": 4.760225507679917,
         "count": 17383
       },
-      "duration": "PT13H47M",
+      "duration": 50400000,
       "type": "audiobook",
-      "theme": "graphic novels"
+      "theme": "graphic novels",
+      "length": 50400000,
+      "purchase_date": "2023-10-05"
     }
   },
   "B086WP794Z": {
@@ -27168,7 +27191,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B086WP794Z",
-      "format": "audiobook",
+      "format": "Performance",
       "topics": [
         "Fantasy",
         "Epic"
@@ -27198,9 +27221,11 @@
         "rating": 4.643862174872829,
         "count": 52095
       },
-      "duration": "PT11H2M",
+      "duration": 40380000,
       "type": "audiobook",
-      "theme": "graphic novels"
+      "theme": "graphic novels",
+      "length": 40380000,
+      "purchase_date": "2023-10-05"
     }
   },
   "B0040J17CW": {
@@ -27217,7 +27242,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B0040J17CW",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Classics",
         "Coming of Age",
@@ -27239,9 +27264,10 @@
         "rating": 4.578163953658894,
         "count": 13638
       },
-      "duration": "PT10H10M",
+      "duration": 37200000,
       "type": "audiobook",
-      "theme": "novel"
+      "theme": "novel",
+      "length": 37200000
     }
   },
   "B0BJ48MQ5T": {
@@ -27258,7 +27284,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B0BJ48MQ5T",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Writing & Publishing"
@@ -27279,9 +27305,11 @@
         "rating": 4.462365591397849,
         "count": 93
       },
-      "duration": "PT6H36M",
+      "duration": 24120000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 24120000,
+      "purchase_date": "2023-09-20"
     }
   },
   "0593291956": {
@@ -27298,7 +27326,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "0593291956",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Literary History & Criticism"
       ],
@@ -27318,9 +27346,11 @@
         "rating": 4.48,
         "count": 25
       },
-      "duration": "PT22H",
+      "duration": 80520000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 80520000,
+      "purchase_date": "2023-09-20"
     }
   },
   "B07L8LL4MC": {
@@ -27337,7 +27367,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B07L8LL4MC",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Literary History & Criticism",
         "Philosophy"
@@ -27359,9 +27389,10 @@
         "rating": 4.6521739130434785,
         "count": 115
       },
-      "duration": "PT8H46M",
+      "duration": 32040000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 32040000
     }
   },
   "B00DHONYCW": {
@@ -27377,7 +27408,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DHONYCW",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Classics"
       ],
@@ -27397,9 +27428,10 @@
         "rating": 4.382352941176471,
         "count": 204
       },
-      "duration": "PT6H10M",
+      "duration": 22560000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 22560000
     }
   },
   "B00MEQRZTM": {
@@ -27415,7 +27447,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00MEQRZTM",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Americas"
       ],
@@ -27445,9 +27477,10 @@
         "rating": 4.177464788732395,
         "count": 710
       },
-      "duration": "PT18H41M",
+      "duration": 68340000,
       "type": "audiobook",
-      "theme": "reading"
+      "theme": "reading",
+      "length": 68340000
     }
   },
   "B09B4DR8SS": {
@@ -27464,7 +27497,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B09B4DR8SS",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Theology",
         "Christian Literature & Art"
@@ -27486,9 +27519,10 @@
         "rating": 4.803921568627451,
         "count": 102
       },
-      "duration": "PT14H19M",
+      "duration": 52380000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 52380000
     }
   },
   "1984891626": {
@@ -27505,7 +27539,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1984891626",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Ancient",
         "Medieval",
@@ -27528,9 +27562,11 @@
         "rating": 4.461538461538462,
         "count": 91
       },
-      "duration": "PT8H46M",
+      "duration": 32040000,
       "type": "audiobook",
-      "theme": "history"
+      "theme": "history",
+      "length": 32040000,
+      "purchase_date": "2023-08-07"
     }
   },
   "0593216342": {
@@ -27547,7 +27583,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "0593216342",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Biographies & Memoirs",
         "Words, Language & Grammar",
@@ -27569,9 +27605,11 @@
         "rating": 4.77027027027027,
         "count": 74
       },
-      "duration": "PT6H37M",
+      "duration": 24180000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 24180000,
+      "purchase_date": "2023-08-07"
     }
   },
   "1684573920": {
@@ -27588,7 +27626,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1684573920",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Art",
         "Technology & Society",
@@ -27615,9 +27653,10 @@
         "rating": 3.6882530120481927,
         "count": 664
       },
-      "duration": "PT8H10M",
+      "duration": 29880000,
       "type": "audiobook",
-      "theme": "sociology"
+      "theme": "sociology",
+      "length": 29880000
     }
   },
   "1705248047": {
@@ -27634,7 +27673,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1705248047",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Words, Language & Grammar",
         "Writing & Publishing",
@@ -27656,9 +27695,10 @@
         "rating": 4.333333333333333,
         "count": 6
       },
-      "duration": "PT11H13M",
+      "duration": 41040000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 41040000
     }
   },
   "B00F3IZ0CM": {
@@ -27675,7 +27715,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00F3IZ0CM",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Greece",
         "Expeditions & Discoveries",
@@ -27697,9 +27737,10 @@
         "rating": 4.147887323943662,
         "count": 142
       },
-      "duration": "PT7H44M",
+      "duration": 28260000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 28260000
     }
   },
   "1541432126": {
@@ -27716,7 +27757,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1541432126",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Greece",
         "Middle East",
@@ -27738,9 +27779,10 @@
         "rating": 4.674698795180723,
         "count": 166
       },
-      "duration": "PT10H56M",
+      "duration": 39960000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 39960000
     }
   },
   "B09CHDTFGH": {
@@ -27757,7 +27799,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B09CHDTFGH",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Career Success",
         "Words, Language & Grammar",
@@ -27779,9 +27821,10 @@
         "rating": 4.63819095477387,
         "count": 199
       },
-      "duration": "PT5H18M",
+      "duration": 19380000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 19380000
     }
   },
   "B01MXTR1HB": {
@@ -27798,7 +27841,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B01MXTR1HB",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Biographies & Memoirs",
         "Words, Language & Grammar",
@@ -27820,9 +27863,10 @@
         "rating": 4.605726872246696,
         "count": 454
       },
-      "duration": "PT9H48M",
+      "duration": 35820000,
       "type": "audiobook",
-      "theme": "writing"
+      "theme": "writing",
+      "length": 35820000
     }
   },
   "0525642218": {
@@ -27839,7 +27883,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "0525642218",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Management",
         "Motivation & Self-Improvement",
@@ -27862,9 +27906,10 @@
         "rating": 4.587058823529412,
         "count": 1700
       },
-      "duration": "PT7H32M",
+      "duration": 27540000,
       "type": "audiobook",
-      "theme": "engineering"
+      "theme": "engineering",
+      "length": 27540000
     }
   },
   "B00DIAW2P0": {
@@ -27880,7 +27925,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DIAW2P0",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient",
         "Medieval",
@@ -27903,9 +27948,10 @@
         "rating": 4.7035466461064,
         "count": 2594
       },
-      "duration": "PT12H32M",
+      "duration": 45840000,
       "type": "audiobook",
-      "theme": "medieval history"
+      "theme": "medieval history",
+      "length": 45840000
     }
   },
   "B00D8HYQDE": {
@@ -27921,7 +27967,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00D8HYQDE",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "United States",
         "Military"
@@ -27942,9 +27988,10 @@
         "rating": 4.612293144208038,
         "count": 846
       },
-      "duration": "PT18H17M",
+      "duration": 66900000,
       "type": "audiobook",
-      "theme": "medieval history"
+      "theme": "medieval history",
+      "length": 66900000
     }
   },
   "B00DEQQO9I": {
@@ -27960,7 +28007,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DEQQO9I",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Philosophy",
         "Spirituality"
@@ -27981,9 +28028,10 @@
         "rating": 4.7186147186147185,
         "count": 231
       },
-      "duration": "PT16H36M",
+      "duration": 60720000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 60720000
     }
   },
   "B00DDXPWH2": {
@@ -28000,7 +28048,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DDXPWH2",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "World",
         "Ministry & Evangelism",
@@ -28024,9 +28072,10 @@
         "rating": 4.373239436619718,
         "count": 284
       },
-      "duration": "PT18H12M",
+      "duration": 66600000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 66600000
     }
   },
   "B0758HKBPF": {
@@ -28042,7 +28091,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B0758HKBPF",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Instruction & Technique",
         "United States"
@@ -28063,9 +28112,10 @@
         "rating": 4.427745664739884,
         "count": 173
       },
-      "duration": "PT6H58M",
+      "duration": 25440000,
       "type": "audiobook",
-      "theme": "music"
+      "theme": "music",
+      "length": 25440000
     }
   },
   "B00D8EMBQG": {
@@ -28081,7 +28131,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00D8EMBQG",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient",
         "Ancient Religion"
@@ -28102,9 +28152,10 @@
         "rating": 4.490662139219015,
         "count": 589
       },
-      "duration": "PT18H20M",
+      "duration": 67080000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 67080000
     }
   },
   "B00Y15GY32": {
@@ -28120,7 +28171,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00Y15GY32",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Historical",
         "Politicians",
@@ -28146,9 +28197,10 @@
         "rating": 4.561264822134388,
         "count": 253
       },
-      "duration": "PT17H13M",
+      "duration": 63000000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 63000000
     }
   },
   "B00DJUK5J4": {
@@ -28164,7 +28216,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DJUK5J4",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Ancient",
         "Europe",
@@ -28187,9 +28239,10 @@
         "rating": 4.510822510822511,
         "count": 462
       },
-      "duration": "PT18H18M",
+      "duration": 66960000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 66960000
     }
   },
   "B00IB17PMG": {
@@ -28206,7 +28259,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00IB17PMG",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Education",
         "Collections",
@@ -28230,9 +28283,10 @@
         "rating": 4.419727891156462,
         "count": 1470
       },
-      "duration": "PT12H15M",
+      "duration": 44820000,
       "type": "audiobook",
-      "theme": "mythology"
+      "theme": "mythology",
+      "length": 44820000
     }
   },
   "B00DD2WFNC": {
@@ -28248,7 +28302,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DD2WFNC",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Collections"
       ],
@@ -28268,9 +28322,10 @@
         "rating": 4.373887240356083,
         "count": 337
       },
-      "duration": "PT18H22M",
+      "duration": 67200000,
       "type": "audiobook",
-      "theme": "mythology"
+      "theme": "mythology",
+      "length": 67200000
     }
   },
   "B00DLM8PF6": {
@@ -28286,7 +28341,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DLM8PF6",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Collections",
         "Classics",
@@ -28308,9 +28363,10 @@
         "rating": 4.687576875768758,
         "count": 813
       },
-      "duration": "PT12H2M",
+      "duration": 44040000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 44040000
     }
   },
   "B00DC8FIMM": {
@@ -28326,7 +28382,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DC8FIMM",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Collections"
       ],
@@ -28346,9 +28402,10 @@
         "rating": 4.806521739130435,
         "count": 460
       },
-      "duration": "PT12H30M",
+      "duration": 45720000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 45720000
     }
   },
   "1982641398": {
@@ -28365,7 +28422,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "1982641398",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Motivation & Self-Improvement",
         "Greek & Roman",
@@ -28390,9 +28447,10 @@
         "rating": 4.485333333333333,
         "count": 375
       },
-      "duration": "PT10H44M",
+      "duration": 39240000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 39240000
     }
   },
   "B004LYWJNC": {
@@ -28408,7 +28466,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B004LYWJNC",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Literary Fiction",
         "Historical Fiction"
@@ -28429,9 +28487,10 @@
         "rating": 4.426716141001855,
         "count": 539
       },
-      "duration": "PT14H16M",
+      "duration": 52200000,
       "type": "audiobook",
-      "theme": "ancient history"
+      "theme": "ancient history",
+      "length": 52200000
     }
   },
   "B00DCY39RC": {
@@ -28447,7 +28506,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DCY39RC",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Collections",
         "Classics",
@@ -28469,9 +28528,10 @@
         "rating": 4.63030303030303,
         "count": 495
       },
-      "duration": "PT12H17M",
+      "duration": 44940000,
       "type": "audiobook",
-      "theme": "philosophy"
+      "theme": "philosophy",
+      "length": 44940000
     }
   },
   "B00DB6PQWW": {
@@ -28488,7 +28548,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DB6PQWW",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Communication & Social Skills"
       ],
@@ -28508,13 +28568,14 @@
         "rating": 4.177664974619289,
         "count": 788
       },
-      "duration": "PT12H25M",
+      "duration": 45420000,
       "type": "audiobook",
       "multiple_formats": {
         "book": "9780452298606",
         "audiobook": "B00DB6PQWW"
       },
-      "theme": "writing"
+      "theme": "writing",
+      "length": 45420000
     }
   },
   "B00DDVQIM2": {
@@ -28530,7 +28591,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00DDVQIM2",
-      "format": "audiobook",
+      "format": "Lecture",
       "topics": [
         "Music"
       ],
@@ -28550,9 +28611,10 @@
         "rating": 4.730780061954379,
         "count": 3551
       },
-      "duration": "PT36H34M",
+      "duration": 133800000,
       "type": "audiobook",
-      "theme": "music"
+      "theme": "music",
+      "length": 133800000
     }
   },
   "B00VAZZY32": {
@@ -28569,7 +28631,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00VAZZY32",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Career Success"
       ],
@@ -28591,9 +28653,10 @@
         "rating": 4.687785561985988,
         "count": 13132
       },
-      "duration": "PT14H46M",
+      "duration": 54000000,
       "type": "audiobook",
-      "theme": "engineering"
+      "theme": "engineering",
+      "length": 54000000
     }
   },
   "B009DQN090": {
@@ -28610,7 +28673,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B009DQN090",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Management & Leadership",
         "Politics & Government",
@@ -28633,9 +28696,10 @@
         "rating": 4.299162345432788,
         "count": 5014
       },
-      "duration": "PT16H21M",
+      "duration": 59820000,
       "type": "audiobook",
-      "theme": "data"
+      "theme": "data",
+      "length": 59820000
     }
   },
   "B002V0TPMQ": {
@@ -28652,7 +28716,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B002V0TPMQ",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Decision-Making & Problem Solving",
         "Society",
@@ -28675,9 +28739,10 @@
         "rating": 4.035544487208512,
         "count": 4417
       },
-      "duration": "PT9H19M",
+      "duration": 34080000,
       "type": "audiobook",
-      "theme": "data"
+      "theme": "data",
+      "length": 34080000
     }
   },
   "B018EYD4VA": {
@@ -28694,7 +28759,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B018EYD4VA",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Business & Careers",
         "Psychology",
@@ -28718,9 +28783,10 @@
         "rating": 4.619565217391305,
         "count": 368
       },
-      "duration": "PT12H38M",
+      "duration": 46200000,
       "type": "audiobook",
-      "theme": "urbanism"
+      "theme": "urbanism",
+      "length": 46200000
     }
   },
   "B00FEFE4XK": {
@@ -28737,7 +28803,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B00FEFE4XK",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Anthologies",
         "Classics",
@@ -28760,9 +28826,10 @@
         "rating": 4.733587609801202,
         "count": 8652
       },
-      "duration": "PT58H4M",
+      "duration": 212520000,
       "type": "audiobook",
-      "theme": "crime fiction"
+      "theme": "crime fiction",
+      "length": 212520000
     }
   },
   "B002V0RHKS": {
@@ -28778,7 +28845,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B002V0RHKS",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Anthologies",
         "Short Stories",
@@ -28803,9 +28870,10 @@
         "rating": 4.401755241345685,
         "count": 4102
       },
-      "duration": "PT20H17M",
+      "duration": 74220000,
       "type": "audiobook",
-      "theme": "crime fiction"
+      "theme": "crime fiction",
+      "length": 74220000
     }
   },
   "B002UZYX2Y": {
@@ -28821,7 +28889,7 @@
       "source": "Audible",
       "book_type": "audiobook",
       "asin": "B002UZYX2Y",
-      "format": "audiobook",
+      "format": "Audiobook",
       "topics": [
         "Sagas",
         "Historical Fiction",
@@ -28843,9 +28911,10 @@
         "rating": 4.637886597938144,
         "count": 34144
       },
-      "duration": "PT40H56M",
+      "duration": 149760000,
       "type": "audiobook",
-      "theme": "historical novel"
+      "theme": "historical novel",
+      "length": 149760000
     }
   }
 }

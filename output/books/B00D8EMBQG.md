@@ -10,7 +10,7 @@ cover_filename: B00D8EMBQG.jpg
 source: Audible
 book_type: audiobook
 asin: B00D8EMBQG
-format: audiobook
+format: Lecture
 topics:
 - Ancient
 - Ancient Religion
@@ -25,9 +25,10 @@ language:
 rating:
   rating: 4.490662139219015
   count: 589
-duration: PT18H20M
+duration: 67080000
 type: audiobook
 theme: philosophy
+length: 67080000
 ---
 What impulse drove ancient cultures to create sites like Stonehenge, Machu Picchu, and the pyramids at Giza? Why are we so transfixed by their presence today? And what do they reveal about our ancestors-and humanity?
 The dynamic force of religious belief is responsible for some of the world's most popular and ancient locales.With these 36 riveting lectures, you can dig through the earth and learn how sacred buildings, complexes, tomb structures, artwork, and more have provided us with unparalleled knowledge about early spiritual experiences around the world. Using the tools and knowledge of their field, archaeologists can now determine the nature of a sacrificial ritual, compare the visible attributes of ancient deities, and map out the orientation of a temple or tomb.

@@ -10,7 +10,7 @@ cover_filename: B002UZYX2Y.jpg
 source: Audible
 book_type: audiobook
 asin: B002UZYX2Y
-format: audiobook
+format: Audiobook
 topics:
 - Sagas
 - Historical Fiction
@@ -26,9 +26,10 @@ language:
 rating:
   rating: 4.637886597938144
   count: 34144
-duration: PT40H56M
+duration: 149760000
 type: audiobook
 theme: historical novel
+length: 149760000
 ---
 The Pillars of the Earth tells the story of Philip, prior of Kingsbridge, a devout and resourceful monk driven to build the greatest Gothic cathedral the world has known...of Tom, the mason who becomes his architect - a man divided in his soul...of the beautiful, elusive Lady Aliena, haunted by a secret shame...and of a struggle between good and evil that will turn church against state, and brother against brother.
 A spellbinding epic tale of ambition, anarchy, and absolute power set against the sprawling medieval canvas of 12th century England, this is Ken Follett's historical masterpiece.

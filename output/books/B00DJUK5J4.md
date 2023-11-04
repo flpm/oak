@@ -10,7 +10,7 @@ cover_filename: B00DJUK5J4.jpg
 source: Audible
 book_type: audiobook
 asin: B00DJUK5J4
-format: audiobook
+format: Lecture
 topics:
 - Ancient
 - Europe
@@ -27,9 +27,10 @@ language:
 rating:
   rating: 4.510822510822511
   count: 462
-duration: PT18H18M
+duration: 66960000
 type: audiobook
 theme: ancient history
+length: 66960000
 ---
 Complete your knowledge of the ancient world with this comprehensive look at the dozen empires that flourished in the 2,000 years before the conquests of Alexander the Great. Over the course of 36 insightful lectures, you'll follow the Egyptians, the Mycenaean Greeks, the Persians, the Carthaginians, and others as they rise to glory, create administrative and military structures, clash with one another, and eventually collapse.
 Professor Dise immerses you in the political, administrative, and military details of these thrilling civilizations, analyzing three basic questions: How did this particular empire emerge? How was it governed and defended? How and why did it ultimately fall? These questions raise a host of profound issues on the growth, development, and failures of vast imperial systems.

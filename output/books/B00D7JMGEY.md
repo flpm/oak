@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.621052631578947
   count: 380
-duration: PT12H13M
+duration: 44700000
 cover_filename: B00D7JMGEY.jpg
 read_status:
   start: true

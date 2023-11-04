@@ -7,7 +7,7 @@ asin: B01D3AC5BA
 length: '33765000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 30839.0
   first_time: '2021-09-29'
@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.68859615236035
   count: 25886
-duration: PT9H22M
+duration: 34260000
 cover_filename: B01D3AC5BA.jpg
 read_status:
   start: true

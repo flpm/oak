@@ -10,7 +10,7 @@ cover_filename: B00D8HYQDE.jpg
 source: Audible
 book_type: audiobook
 asin: B00D8HYQDE
-format: audiobook
+format: Lecture
 topics:
 - United States
 - Military
@@ -25,9 +25,10 @@ language:
 rating:
   rating: 4.612293144208038
   count: 846
-duration: PT18H17M
+duration: 66900000
 type: audiobook
 theme: medieval history
+length: 66900000
 ---
 What were the forces that led to one of history's most protracted and legendary periods of conflict? How did they affect the three great civilizations that participated in them? And, ultimately, why did they end and what did they accomplish?
 In these 36 lectures, you'll look at the "big picture" of the Crusades as an ongoing period of conflict involving Western Christendom (we would now call it Western Europe), the Byzantine Empire, and the Muslim world. From this perspective, you'll study the complex but absorbing causes of the Crusades, which include the many political, cultural, and economic changes in Western Europe after the fall of the Roman Empire. You'll examine the Crusades in terms of the specific military campaigns-the eight "canonical" Crusades that took place from 1095-1291-proclaimed to retake Jerusalem and the Holy Land from Muslim hands and return them to Christendom. You'll consider the immediate circumstances-the leaders, purposes, key battles, and degrees of success or failure-surrounding these often-monumental expeditions.

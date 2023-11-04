@@ -10,7 +10,7 @@ cover_filename: B00DDVQIM2.jpg
 source: Audible
 book_type: audiobook
 asin: B00DDVQIM2
-format: audiobook
+format: Lecture
 topics:
 - Music
 authors:
@@ -24,9 +24,10 @@ language:
 rating:
   rating: 4.730780061954379
   count: 3551
-duration: PT36H34M
+duration: 133800000
 type: audiobook
 theme: music
+length: 133800000
 ---
 Great music is a language unto its own, a means of communication of unmatched beauty and genius. And it has an undeniable power to move us in ways that enrich our lives - provided it is understood.
 If you have ever longed to appreciate great concert music, to learn its glorious language and share in its sublime pleasures, the way is now open to you, through this series of 48 wonderful lectures designed to make music accessible to everyone who yearns to know it, regardless of prior training or knowledge. It's a lecture series that will enable you to first grasp music's forms, techniques, and terms - the grammatical elements that make you fluent in its language - and then use that newfound fluency to finally hear and understand what the greatest composers in history are actually saying to us.

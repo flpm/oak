@@ -7,7 +7,7 @@ asin: B002V8KXYC
 length: '50753000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 2572.0
   first_time: '2021-12-13'
@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.257918552036199
   count: 221
-duration: PT14H5M
+duration: 51540000
 cover_filename: B002V8KXYC.jpg
 read_status:
   plan: true

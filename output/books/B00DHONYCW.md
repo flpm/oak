@@ -10,7 +10,7 @@ cover_filename: B00DHONYCW.jpg
 source: Audible
 book_type: audiobook
 asin: B00DHONYCW
-format: audiobook
+format: Lecture
 topics:
 - Classics
 authors:
@@ -24,9 +24,10 @@ language:
 rating:
   rating: 4.382352941176471
   count: 204
-duration: PT6H10M
+duration: 22560000
 type: audiobook
 theme: reading
+length: 22560000
 ---
 Daunted by the "great big books" of the Western canon? Looking for the same pleasures, satisfactions, and insights from books that are shorter, more accessible, and less dependent on classical references and difficult language than tomes such as Moby-Dick and Ulysses?
 The truth is that there are so many works that are just as engaging, just as enjoyable, and - most important - just as insightful about great human themes and ideas as anything you'd encounter on a college-level reading list. These 12 highly rewarding lectures offer you an introduction to 12 works that redefine what great literature is and how it can reveal startling truths about life-all without being such a chore to read. Here you'll discover alternatives to the traditional "great books" - Dead Souls as an alternative to War and Peace, and The Master and Margarita as an alternative to Faust. You'll also encounter books from genres that traditionally fall outside the purview of the Western canon. For example, you'll learn how John le Carré's The Spy Who Came In from the Cold transforms the spy novel into serious literature, and how Watchmen by Alan Moore and Dave Gibbons injects the comic-book format with a startling level of realism.

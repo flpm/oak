@@ -253,5 +253,26 @@ def find_book_details(soup):
             value = re.sub(r" *\<\/p\>", "\n", value)
             value = re.sub(r"\<\/?[^\>]*\>", "", value)
             value = "\n".join([i.strip() for i in value.split("\n") if i.strip()])
+        elif key == "duration":
+            if value:
+                value = value.split("PT")[1]
+                try:
+                    if "H" in value:
+                        hour = int(value.split("H")[0]) * 3660
+                        value = value.split("H")[1]
+                    else:
+                        hour = 0
+                    if "M" in value:
+                        min = int(value.split("M")[0]) * 60
+                    else:
+                        min = 0
+                except (ValueError, IndexError):
+                    print(value)
+                    raise
+                value = (hour + min) * 1000
+            else:
+                value = None
+                print("NO_VALUE", end="")
+
         book_details[key] = value
     return book_details

@@ -7,7 +7,7 @@ asin: B00MFQLERK
 length: '89225000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 104775.0
   first_time: '2022-07-24'
@@ -33,7 +33,7 @@ language:
 rating:
   rating: 4.667292728736249
   count: 3727
-duration: PT24H46M
+duration: 90600000
 cover_filename: B00MFQLERK.jpg
 read_status:
   start: true

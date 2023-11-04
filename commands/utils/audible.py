@@ -159,6 +159,13 @@ def enrich_audible(catalogue):
             try:
                 for key, value in find_book_details(soup).items():
                     book[key] = value
+                    if key == "duration" and (
+                        not "length" in book
+                        or not book["length"]
+                        or book["length"] == "0"
+                        or book["length"] == value / 1000
+                    ):
+                        book["length"] = value
             except RuntimeError as e:
                 errors["Books missing details"] += 1
 

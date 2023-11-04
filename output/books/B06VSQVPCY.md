@@ -7,7 +7,7 @@ asin: B06VSQVPCY
 length: '29938000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 4294.0
   first_time: '2023-05-16'
@@ -31,7 +31,7 @@ language:
 rating:
   rating: 4.555555555555555
   count: 9
-duration: PT8H18M
+duration: 30360000
 cover_filename: B06VSQVPCY.jpg
 read_status:
   start: true

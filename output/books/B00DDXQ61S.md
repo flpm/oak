@@ -6,7 +6,7 @@ asin: B00DDXQ61S
 length: '66519000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 70001.0
   first_time: '2022-04-15'
@@ -28,7 +28,7 @@ language:
 rating:
   rating: 4.4366729678638945
   count: 529
-duration: PT18H28M
+duration: 67560000
 cover_filename: B00DDXQ61S.jpg
 read_status:
   start: true

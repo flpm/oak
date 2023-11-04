@@ -28,7 +28,7 @@ language:
 rating:
   rating: 4.323076923076923
   count: 325
-duration: PT4H26M
+duration: 16200000
 cover_filename: B0774ZRRJL.jpg
 read_status:
   start: true

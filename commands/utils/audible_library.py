@@ -134,7 +134,7 @@ def import_from_audible_library():
 
             info["source"] = "Audible"
             info["type"] = "audiobook"
-            info["format"] = "audiobook"
+            info["format"] = "Audiobook"
             audiobooks[asin]["audiobook"] = info
 
     print(f"Found {len(audiobooks)} books in Audible library.")

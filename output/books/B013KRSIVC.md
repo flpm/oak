@@ -10,7 +10,7 @@ cover_filename: B013KRSIVC.jpg
 source: Audible
 book_type: audiobook
 asin: B013KRSIVC
-format: audiobook
+format: Lecture
 topics:
 - World
 - Celtic Mythology
@@ -32,8 +32,9 @@ language:
 rating:
   rating: 4.313559322033898
   count: 3186
-duration: PT31H36M
+duration: 115620000
 type: audiobook
 theme: ancient history
+length: 115620000
 ---
 The deep-seated origins and wide-reaching lessons of ancient myths built the foundation for our modern legacies. Explore the mythologies of Europe, the Americas, Asia, Africa, and the Middle East. Learn what makes these stories so important, distinctive, and able to withstand the test of time. Discover how, despite geographical implausibilities, many myths from across the oceans share themes, morals, and archetypes.

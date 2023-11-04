@@ -11,7 +11,7 @@ cover_filename: B00IB17PMG.jpg
 source: Audible
 book_type: audiobook
 asin: B00IB17PMG
-format: audiobook
+format: Lecture
 topics:
 - Education
 - Collections
@@ -29,9 +29,10 @@ language:
 rating:
   rating: 4.419727891156462
   count: 1470
-duration: PT12H15M
+duration: 44820000
 type: audiobook
 theme: mythology
+length: 44820000
 ---
 Odysseus. Robinson Crusoe. Harry Potter. What do these memorable characters have in common? Why do we turn to certain stories again and again? And what impact have they made on world history? These 24 eye-opening lectures give fresh insight into some of the greatest heroes in world literature, from warriors such as Beowulf and Odysseus to unexpected heroes such as Uncle Tom and Sancho Panza.
 Professor Shippey gives you an inside glimpse into the writer's process. Learn how authors "write into the gap" to flesh out-or, in some cases, reimagine altogether-old stories, making them new for new readerships with different values. By examining what makes these heroes such compelling characters, you'll see how they provide a window to better understand ourselves.

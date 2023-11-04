@@ -11,7 +11,7 @@ cover_filename: B07LFKH5FV.jpg
 source: Audible
 book_type: audiobook
 asin: B07LFKH5FV
-format: audiobook
+format: Audiobook
 topics:
 - Words, Language & Grammar
 - Comedy & Humor
@@ -28,9 +28,10 @@ language:
 rating:
   rating: 4.6314199395770395
   count: 331
-duration: PT9H38M
+duration: 35220000
 type: audiobook
 theme: writing
+length: 35220000
 ---
 New York Times best seller • A sharp, funny grammar guide they’ll actually want to read, from Random House’s longtime copy chief and one of Twitter’s leading language gurus
 Named one of the Best Books of the Year by O: The Oprah Magazine • Paste • Shelf Awareness

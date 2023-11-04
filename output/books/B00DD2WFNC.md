@@ -10,7 +10,7 @@ cover_filename: B00DD2WFNC.jpg
 source: Audible
 book_type: audiobook
 asin: B00DD2WFNC
-format: audiobook
+format: Lecture
 topics:
 - Collections
 authors:
@@ -24,9 +24,10 @@ language:
 rating:
   rating: 4.373887240356083
   count: 337
-duration: PT18H22M
+duration: 67200000
 type: audiobook
 theme: mythology
+length: 67200000
 ---
 Change the way you think about some of the greatest stories ever told with this examination of the most important myths from more than 3,000 years of history. The ways in which the human imagination can transform historical events, people, and themes into powerful myths that endure through the ages is nothing short of awe-inspiring.
 To examine the core of the world's greatest myths and tales is to confront some of history's most basic human truths. These 36 captivating lectures comprise a powerful work of storytelling prowess and historical insight, exploring events and individuals that so gripped civilizations, they transcended to the level of myth and played an important role in shaping culture, politics, religion, and more.

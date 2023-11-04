@@ -7,7 +7,7 @@ asin: B00DEK3UAU
 length: '67868000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 69275.0
   first_time: '2022-05-23'
@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.584984358706986
   count: 959
-duration: PT18H51M
+duration: 68940000
 cover_filename: B00DEK3UAU.jpg
 read_status:
   start: true

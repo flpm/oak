@@ -7,7 +7,7 @@ asin: B003TFSY7E
 length: '49474000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 2003.0
   first_time: '2019-12-11'
@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.492350486787204
   count: 719
-duration: PT13H44M
+duration: 50220000
 cover_filename: B003TFSY7E.jpg
 read_status:
   start: true

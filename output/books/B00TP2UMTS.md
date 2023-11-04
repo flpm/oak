@@ -6,7 +6,7 @@ asin: B00TP2UMTS
 length: '5494073'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 4104.0
   first_time: '2016-02-25'
@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.0756013745704465
   count: 291
-duration: PT1H31M
+duration: 5520000
 cover_filename: B00TP2UMTS.jpg
 read_status:
   plan: true

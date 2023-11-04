@@ -10,7 +10,7 @@ cover_filename: B004LYWJNC.jpg
 source: Audible
 book_type: audiobook
 asin: B004LYWJNC
-format: audiobook
+format: Audiobook
 topics:
 - Literary Fiction
 - Historical Fiction
@@ -25,9 +25,10 @@ language:
 rating:
   rating: 4.426716141001855
   count: 539
-duration: PT14H16M
+duration: 52200000
 type: audiobook
 theme: ancient history
+length: 52200000
 ---
 A brilliant and beautifully written novel in the tradition of Robert Graves’ I, Claudius, Augustus is a sweeping narrative that brings vividly to life a compelling cast of historical figures through their letters, dispatches, and memoirs.
 A mere 18 years of age when his uncle, Julius Caesar, is murdered, Octavius Caesar prematurely inherits rule of the Roman Republic. Surrounded by men who are jockeying for power—Cicero, Brutus, Cassius, and Mark Antony—young Octavius must work against the powerful Roman political machinations to claim his destiny as first Roman emperor.

@@ -7,7 +7,7 @@ asin: B00MXDGT2A
 length: '66315000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 70660.0
   first_time: '2022-12-29'
@@ -32,7 +32,7 @@ language:
 rating:
   rating: 4.659672131147541
   count: 1525
-duration: PT18H25M
+duration: 67380000
 cover_filename: B00MXDGT2A.jpg
 read_status:
   start: true

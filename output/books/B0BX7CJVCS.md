@@ -8,7 +8,7 @@ asin: B0BX7CJVCS
 length: '41184000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 32405.0
   first_time: '2023-04-17'
@@ -33,7 +33,7 @@ language:
 rating:
   rating: 5.0
   count: 1
-duration: PT11H26M
+duration: 41820000
 cover_filename: B0BX7CJVCS.jpg
 read_status:
   start: true

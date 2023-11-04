@@ -6,7 +6,7 @@ asin: B00DG7NVXC
 length: '67292000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 73567.0
   first_time: '2022-01-29'
@@ -32,7 +32,7 @@ language:
 rating:
   rating: 4.825214899713467
   count: 349
-duration: PT18H41M
+duration: 68340000
 cover_filename: B00DG7NVXC.jpg
 read_status:
   start: true

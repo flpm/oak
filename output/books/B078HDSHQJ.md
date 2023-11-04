@@ -6,7 +6,7 @@ asin: B078HDSHQJ
 length: '44176000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 44632.0
   first_time: '2022-03-08'
@@ -29,7 +29,7 @@ language:
 rating:
   rating: 4.762711864406779
   count: 1003
-duration: PT12H16M
+duration: 44880000
 cover_filename: B078HDSHQJ.jpg
 read_status:
   start: true

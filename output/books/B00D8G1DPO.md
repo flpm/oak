@@ -6,7 +6,7 @@ asin: B00D8G1DPO
 length: '44801000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 44777.0
   first_time: '2021-12-01'
@@ -28,7 +28,7 @@ language:
 rating:
   rating: 4.728102189781022
   count: 548
-duration: PT12H26M
+duration: 45480000
 cover_filename: B00D8G1DPO.jpg
 read_status:
   start: true

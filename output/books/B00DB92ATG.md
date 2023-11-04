@@ -6,7 +6,7 @@ asin: B00DB92ATG
 length: '44006000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Lecture
 listening:
   duration: 39263.0
   first_time: '2022-08-31'
@@ -27,7 +27,7 @@ language:
 rating:
   rating: 4.515539305301646
   count: 547
-duration: PT12H13M
+duration: 44700000
 cover_filename: B00DB92ATG.jpg
 read_status:
   start: true

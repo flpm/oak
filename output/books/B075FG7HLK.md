@@ -7,7 +7,7 @@ asin: B075FG7HLK
 length: '6807000'
 owned: 'true'
 type: audiobook
-format: audiobook
+format: Audiobook
 listening:
   duration: 8045.0
   first_time: '2023-06-04'
@@ -33,7 +33,7 @@ language:
 rating:
   rating: 4.731651376146789
   count: 436
-duration: PT1H53M
+duration: 6840000
 cover_filename: B075FG7HLK.jpg
 multiple_reads: true
 read_status:

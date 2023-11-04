@@ -30,7 +30,7 @@ language:
 rating:
   rating: 4.382224168126094
   count: 2284
-duration: PT18H48M
+duration: 68760000
 cover_filename: B00SJIVE3W.jpg
 read_status:
   start: true

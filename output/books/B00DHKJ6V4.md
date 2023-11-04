@@ -10,7 +10,7 @@ cover_filename: B00DHKJ6V4.jpg
 source: Audible
 book_type: audiobook
 asin: B00DHKJ6V4
-format: audiobook
+format: Lecture
 topics:
 - Ancient
 - Military
@@ -25,9 +25,10 @@ language:
 rating:
   rating: 4.680634201585504
   count: 883
-duration: PT18H24M
+duration: 67320000
 type: audiobook
 theme: ancient history
+length: 67320000
 ---
 The history of the Romans as they advanced the frontiers of Classical civilization is often told as a story of warfare and conquest - the mighty legions encountering the "barbarians." But this only tells one side of the story.
 Who were the Celts, Goths, Huns, and Persians met by the Romans as they marched north and east? What were the political, military, and social institutions that made Rome so stable, allowing its power to be wielded against these different cultures for nearly three centuries? What role did those institutions themselves play in assimilating barbarian peoples?

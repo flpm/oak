@@ -13,7 +13,7 @@ cover_filename: B00VAZZY32.jpg
 source: Audible
 book_type: audiobook
 asin: B00VAZZY32
-format: audiobook
+format: Audiobook
 topics:
 - Career Success
 authors:
@@ -29,9 +29,10 @@ language:
 rating:
   rating: 4.687785561985988
   count: 13132
-duration: PT14H46M
+duration: 54000000
 type: audiobook
 theme: engineering
+length: 54000000
 ---
 Five years after this sleeper hit took on the world of IT and flipped it on its head, the fifth anniversary edition of The Phoenix Project continues to guide IT in the DevOps revolution. In this newly updated and expanded edition of the best-selling The Phoenix Project, co-author Gene Kim includes a new afterword and a deeper delve into the Three Ways as described in The DevOps Handbook.
 Bill, an IT manager at Parts Unlimited, has been tasked with taking on a project critical to the future of the business, code named Phoenix Project. But the project is massively over budget and behind schedule. The CEO demands Bill must fix the mess in 90 days, or else Bill’s entire department will be outsourced.

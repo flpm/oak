@@ -10,7 +10,7 @@ cover_filename: B00DCY39RC.jpg
 source: Audible
 book_type: audiobook
 asin: B00DCY39RC
-format: audiobook
+format: Lecture
 topics:
 - Collections
 - Classics
@@ -26,9 +26,10 @@ language:
 rating:
   rating: 4.63030303030303
   count: 495
-duration: PT12H17M
+duration: 44940000
 type: audiobook
 theme: philosophy
+length: 44940000
 ---
 More than 2,500 years later, the fundamental questions asked by the ancient Greeks continue to challenge, fascinate, and instruct us. Is reality stable and permanent or is it always changing? Are ethical values like justice and courage relative? What is justice? What is happiness? How shall we best live our lives?
 In this series of 24 lectures, Professor Roochnik invites you to join this eternal discussion. You'll study the development of Greek philosophy, meet its major thinkers, and explore the issues and ideas that concerned them, from the Pre-Socratic concerns with "Being" to the staggering contributions of Plato and Aristotle.

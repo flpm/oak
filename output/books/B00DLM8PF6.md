@@ -10,7 +10,7 @@ cover_filename: B00DLM8PF6.jpg
 source: Audible
 book_type: audiobook
 asin: B00DLM8PF6
-format: audiobook
+format: Lecture
 topics:
 - Collections
 - Classics
@@ -26,9 +26,10 @@ language:
 rating:
   rating: 4.687576875768758
   count: 813
-duration: PT12H2M
+duration: 44040000
 type: audiobook
 theme: philosophy
+length: 44040000
 ---
 These 16 lectures bring the Socratic quest for truth alive and explore ideas that are as vital today as they were 25 centuries ago - ideas about truth, justice, love, beauty, courage, and wisdom that can change lives and reveal the world in new ways. Here, you'll delve into the inner structure, action, and meaning of 17 of Plato's greatest dialogues, making these lectures an indispensable companion for anyone interested in philosophy in general or Platonic thought in particular.
 As you'll learn, the dialogues share some general characteristics - and they all breathe with the feeling, the tension, and even the humor of great theater. Even if you don't have time to reacquaint yourself directly with Platonic texts, you'll benefit enormously from these lectures' insights into the depths of reflection opened by Socrates and Plato - arguably the most important teacher-student pairing in history.
