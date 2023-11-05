@@ -1,9 +1,16 @@
 ---
 name: multiple_formats
 title: Multiple formats
-subtitle: Books I own in paper and audiobook formats
+subtitle: Books in paper and audiobook formats
 items:
-- title: null
+- name: ''
+  filename: null
+  group: ''
+  title:
+  - ''
+  - null
+  subtitle: null
+  sublist_description: null
   books:
   - B01865AOJW
   - 059315018X
@@ -13,7 +20,6 @@ items:
   - B06VSQVPCY
   - B00DB6PQWW
   description: 'Book titles:
-
 
     - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
 
@@ -30,4 +36,4 @@ items:
 
     - (audio) [Building Great Sentences](/books/info/B00DB6PQWW) by Brooks Landon'
 ---
-When I really enjoy an audiobook I often buy the paper version too. This list contains books I own in both formats.
+When I really enjoy an audiobook, I often buy the paper version too. This list contains books I own in both formats.

@@ -1,6 +1,8 @@
 """Export book catalogue to Markdown files"""
 
+import datetime as dt
 import os
+from calendar import month_name
 from rich import print
 from .utils.file import (
     read_catalogue,
@@ -9,11 +11,8 @@ from .utils.file import (
     include_book,
 )
 from .utils.exporting import (
-    create_language_list,
-    create_theme_list,
-    create_author_list,
-    create_recent_list,
     create_condition_list,
+    subtitles_by_value,
 )
 
 
@@ -66,56 +65,101 @@ def export_markdown(output_folder="./output"):
 
     print(f"Exporting lists:")
 
-    lang_list = create_language_list(catalogue)
-    print(f"  - languages index")
+    # Write list by languages
+    print(f"  - language index")
     write_markdown_list(
-        lang_list,
-        list_output_folder=list_output_folder,
-        include_items=False,
-    )
-    for sublist_data in lang_list["index"].values():
-        print(f"    - {sublist_data['name']}")
-        write_markdown_list(
-            sublist_data,
-            list_output_folder=list_output_folder,
-            include_items=True,
-        )
-
-    theme_list = create_theme_list(catalogue)
-    write_markdown_list(
-        theme_list,
-        list_output_folder=list_output_folder,
-        include_items=False,
-    )
-    print(f"  - subjects")
-    for sublist_data in theme_list["index"].values():
-        print(f"    - {sublist_data['name']}")
-        if (
-            sublist_data["items"]
-            and len(sublist_data["items"]) > 0
-            and len(sublist_data["items"][0]["books"]) > 0
-        ):
-            write_markdown_list(
-                sublist_data,
-                list_output_folder=list_output_folder,
-                include_items=True,
-            )
-
-    author_list = create_author_list(catalogue)
-    write_markdown_list(
-        author_list,
-        list_output_folder=list_output_folder,
-        include_items=False,
-    )
-
-    timeline_list = create_recent_list(catalogue, number_of_books=None)
-    write_markdown_list(
-        timeline_list,
+        create_condition_list(
+            catalogue,
+            condition=lambda b_id, b_type, b: b.get("language", []),
+            list_data={
+                "name": "languages",
+                "title": "Index by language",
+                "subtitle": "",
+                "description": "",
+            },
+            sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
+            sort_reverse=True,
+            group_info={
+                "name_function": lambda group: f'in_{group.lower().replace(" ", "_")}',
+                "exclude_function": lambda item: len(item["books"]) < 1,
+                "link_function": lambda group: f"/books/in_{group.lower().replace(' ', '_')}/",
+                "subtitle_function": lambda group: f"Books and audiobooks in {group.title()}",
+                "title_function": lambda group: f"Language: {group.title()}",
+            },
+            group_sort_key=lambda item: item["group"],
+            show_group_size=True,
+            include_book_titles_header=False,
+        ),
         list_output_folder=list_output_folder,
         include_items=True,
+        make_sublists=True,
+        include_covers=False,
+        include_covers_in_sublists=True,
+        remove_count_from_sublists=True,
+    )
+
+    # Write list by themes
+    print(f"  - subject index")
+    write_markdown_list(
+        create_condition_list(
+            catalogue,
+            condition=lambda b_id, b_type, b: b.get("theme", "").title(),
+            list_data={
+                "name": "subjects",
+                "title": "Index by subject",
+                "subtitle": "",
+                "description": "",
+            },
+            sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
+            sort_reverse=True,
+            group_info={
+                "name_function": lambda group: f'about_{group.lower().replace(" ", "_")}',
+                "exclude_function": lambda item: len(item["books"]) < 1,
+                "link_function": lambda group: f"/books/about_{group.lower().replace(' ', '_')}/",
+                "subtitle_function": lambda group: subtitles_by_value.get(
+                    group.lower(), None
+                ),
+            },
+            group_sort_key=lambda item: item["group"],
+            show_group_size=True,
+            include_book_titles_header=False,
+        ),
+        list_output_folder=list_output_folder,
+        include_items=True,
+        make_sublists=True,
+        include_covers=False,
+        include_covers_in_sublists=True,
+        remove_count_from_sublists=True,
+    )
+
+    # Write list by authors
+    print(f"  - authors index")
+    write_markdown_list(
+        create_condition_list(
+            catalogue,
+            condition=lambda b_id, b_type, b: b.get("authors", []),
+            list_data={
+                "name": "authors",
+                "title": "Index by author",
+                "subtitle": "",
+                "description": "",
+            },
+            sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
+            sort_reverse=True,
+            group_info={
+                "exclude_function": lambda item: len(item["books"]) < 1,
+            },
+            group_sort_key=lambda item: item["group"],
+            show_group_size=True,
+            include_book_titles_header=False,
+        ),
+        list_output_folder=list_output_folder,
+        include_items=True,
+        include_covers=False,
     )
 
     # Write lists of books with multiple formats
+    print(f"  - multiple formats")
     write_markdown_list(
         create_condition_list(
             catalogue,
@@ -125,23 +169,57 @@ def export_markdown(output_folder="./output"):
             list_data={
                 "name": "multiple_formats",
                 "title": "Multiple formats",
-                "subtitle": "Books I own in paper and audiobook formats",
-                "description": "When I really enjoy an audiobook I often buy the paper version too. This list contains books I own in both formats.",
+                "subtitle": "Books in paper and audiobook formats",
+                "description": "When I really enjoy an audiobook, I often buy the paper version too. This list contains books I own in both formats.",
             },
         ),
         list_output_folder=list_output_folder,
         include_items=True,
     )
 
+    # Condition function for the timeline list
+    def condition_for_timeline(book_id, book_type, book):
+        if date := book.get("purchase_date", book.get("list_date", "1900-01-01")):
+            date_str = dt.date.fromisoformat(date).strftime("%Y-%m-%d")
+            return date_str[:7]
+        return "1900-01"
+
+    # Create the timeline list
+    print(f"  - timeline")
+    write_markdown_list(
+        create_condition_list(
+            catalogue,
+            condition=condition_for_timeline,
+            list_data={
+                "name": "timeline",
+                "title": "Book timeline",
+                "subtitle": "Books in the order I bought them",
+                "description": "",
+            },
+            sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
+            sort_reverse=True,
+            max_books=None,
+            group_info={
+                "title_function": lambda group: f"{month_name[int(group.split('-')[1])]} {group.split('-')[0]}",
+                "exclude_function": lambda item: item["group"] == "1900-01",
+            },
+            group_sort_key=lambda item: item["group"],
+            group_sort_reverse=True,
+        ),
+        list_output_folder=list_output_folder,
+        include_items=True,
+    )
+
     # Write lists of most recent books
+    print(f"  - recent books")
     write_markdown_list(
         create_condition_list(
             catalogue,
             condition=lambda b_id, b_type, b: True,
             list_data={
-                "name": "rec",
+                "name": "recent",
                 "title": "Recent Books",
-                "subtitle": "The most recent books I've acquired",
+                "subtitle": "The most recent books I've added to my library",
                 "description": "",
             },
             sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
@@ -152,7 +230,8 @@ def export_markdown(output_folder="./output"):
         include_items=True,
     )
 
-    # Write lists of most recent books
+    # Write lists of signed books
+    print(f"  - signed books")
     write_markdown_list(
         create_condition_list(
             catalogue,
@@ -160,7 +239,7 @@ def export_markdown(output_folder="./output"):
             list_data={
                 "name": "signed",
                 "title": "Signed Books",
-                "subtitle": "Books I own that are signed by the author",
+                "subtitle": "Books signed by the author",
                 "description": "",
             },
             sort_key=lambda b: b.get("purchase_date", "0000-00-00"),

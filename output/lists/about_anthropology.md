@@ -1,15 +1,17 @@
 ---
-name: about Anthropology
-title: 'Theme: Anthropology'
+name: about_anthropology
+title: Anthropology
 subtitle: Books about the study of human behaviour and societies
+filename: null
+group: Anthropology
+sublist_description: null
+books: &id001
+- '9781107420984'
 items:
-- title: null
-  books:
-  - '9781107420984'
-  description: 'Book title:
-
-
-    - (paper) [The Anthropology of Childhood](/books/info/9781107420984) by David
-    F. Lancy'
+- name: about_anthropology
+  title: null
+  books: *id001
+  description: '- (paper) [The Anthropology of Childhood](/books/info/9781107420984)
+    by David F. Lancy'
 ---
-I have 1 book about Anthropology in my personal library.
+

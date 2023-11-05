@@ -1,9 +1,16 @@
 ---
 name: signed
 title: Signed Books
-subtitle: Books I own that are signed by the author
+subtitle: Books signed by the author
 items:
-- title: null
+- name: ''
+  filename: null
+  group: ''
+  title:
+  - ''
+  - null
+  subtitle: null
+  sublist_description: null
   books:
   - '9780743200790'
   - '9780060853976'
@@ -12,7 +19,6 @@ items:
   - '9781982167738'
   - '9781846683800'
   description: 'Book titles:
-
 
     - (paper) [Failure Is Not an Option](/books/info/9780743200790) by Gene Kranz
 

@@ -1,19 +1,21 @@
 ---
-name: about Graphs
-title: 'Theme: Graphs'
+name: about_graphs
+title: Graphs
 subtitle: Books about graphs and graph theory
+filename: null
+group: Graphs
+sublist_description: null
+books: &id001
+- '9780262045094'
+- '9783319456522'
 items:
-- title: null
-  books:
-  - '9783319456522'
-  - '9780262045094'
-  description: 'Book titles:
-
+- name: about_graphs
+  title: null
+  books: *id001
+  description: '- (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank
+    Kejriwal, Pedro Szekely, Craig A. Knoblock
 
     - (paper) [Exploiting Linked Data and Knowledge Graphs in Large Organisations](/books/info/9783319456522)
-    by Pan
-
-    - (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank Kejriwal, Pedro
-    Szekely, Craig A. Knoblock'
+    by Pan'
 ---
-I have 2 books about Graphs in my personal library.
+

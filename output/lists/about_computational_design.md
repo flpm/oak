@@ -1,16 +1,21 @@
 ---
-name: about Computational Design
-title: 'Theme: Computational Design'
+name: about_computational_design
+title: Computational Design
 subtitle: Books about graphic design and art created using code
+filename: null
+group: Computational Design
+sublist_description: null
+books: &id001
+- '9780985930806'
+- '9781616890773'
+- '9780262542043'
 items:
-- title: null
-  books:
-  - '9780262542043'
-  - '9781616890773'
-  - '9780985930806'
-  description: "Book titles:\n\n- (paper) [Code as Creative Medium](/books/info/9780262542043)\
-    \ by Tega Brain, Golan Levin\n- (paper) [Generative Design](/books/info/9781616890773)\
-    \ by Hartmut Bohnacker, Benedikt Gro\xDF\n- (paper) [The Nature of Code](/books/info/9780985930806)\
-    \ by Daniel Shiffman"
+- name: about_computational_design
+  title: null
+  books: *id001
+  description: "- (paper) [The Nature of Code](/books/info/9780985930806) by Daniel\
+    \ Shiffman\n- (paper) [Generative Design](/books/info/9781616890773) by Hartmut\
+    \ Bohnacker, Benedikt Gro\xDF\n- (paper) [Code as Creative Medium](/books/info/9780262542043)\
+    \ by Tega Brain, Golan Levin"
 ---
-I have 3 books about Computational Design in my personal library.
+

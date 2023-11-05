@@ -221,6 +221,10 @@ def write_markdown_list(
     list_output_folder=output_list_folder,
     override_do_not_update=False,
     include_items=True,
+    make_sublists=False,
+    include_covers=True,
+    include_covers_in_sublists=True,
+    remove_count_from_sublists=False,
 ):
     """
     Write a list of books to a markdown file.
@@ -241,6 +245,14 @@ def write_markdown_list(
         Whether to include an index of the list, by default False
     include_items : bool, optional
         Whether to include the items in the list, by default True
+    make_sublists : bool, optional
+        Whether to make sublists for the items in the list, by default False
+    include_covers : bool, optional
+        Whether to include covers in the list, by default True
+    include_covers_in_sublists : bool, optional
+        Whether to include covers in the sublists, by default True
+    remove_count_from_sublists : bool, optional
+        Whether to remove the count from the sublist titles, by default False
     """
     top_attributes = [
         "name",
@@ -250,6 +262,14 @@ def write_markdown_list(
     ]
     if not filename:
         filename = f"{book_list['name'].lower().replace(' ', '_')}.md"
+
+    saved_books = dict()
+    if not include_covers:
+        print("removing books")
+        for item in book_list["items"]:
+            saved_books[item["name"]] = item["books"]
+            item["books"] = list()
+
     write_markdown(
         book_list,
         filename,
@@ -258,6 +278,30 @@ def write_markdown_list(
         override_do_not_update,
         include_items,
     )
+    if make_sublists:
+        if not include_covers and include_covers_in_sublists:
+            for item in book_list["items"]:
+                item["books"] = saved_books[item["name"]]
+        for sublist_data in book_list["items"]:
+            print(f"    - {sublist_data['name']}")
+            if sublist_data["books"] and len(sublist_data["books"]) > 0:
+                sublist_data["items"] = [
+                    {
+                        "name": sublist_data["name"],
+                        "title": None,
+                        "books": sublist_data["books"],
+                        "description": sublist_data["description"],
+                    }
+                ]
+                sublist_data["title"] = sublist_data["title"][0]
+                if remove_count_from_sublists:
+                    sublist_data["title"] = sublist_data["title"].split("(")[0].strip()
+                sublist_data["description"] = sublist_data["sublist_description"]
+                write_markdown_list(
+                    sublist_data,
+                    list_output_folder=list_output_folder,
+                    include_items=True,
+                )
 
 
 def include_book(book):

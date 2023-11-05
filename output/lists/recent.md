@@ -1,9 +1,16 @@
 ---
-name: rec
+name: recent
 title: Recent Books
-subtitle: The most recent books I've acquired
+subtitle: The most recent books I've added to my library
 items:
-- title: null
+- name: ''
+  filename: null
+  group: ''
+  title:
+  - ''
+  - null
+  subtitle: null
+  sublist_description: null
   books:
   - B075F8XF1V
   - B0BFK1K36D
@@ -14,7 +21,6 @@ items:
   - '9780205118458'
   - '9781846683800'
   description: 'Book titles:
-
 
     - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
 

@@ -1,15 +1,17 @@
 ---
-name: about Financial Markets
-title: 'Theme: Financial Markets'
+name: about_financial_markets
+title: Financial Markets
 subtitle: Books about financial markets and related topics
+filename: null
+group: Financial Markets
+sublist_description: null
+books: &id001
+- '9780071468299'
 items:
-- title: null
-  books:
-  - '9780071468299'
-  description: 'Book title:
-
-
-    - (paper) [The Complete Guide to Capital Markets for Quantitative Professionals](/books/info/9780071468299)
-    by Alex Kuznetsov'
+- name: about_financial_markets
+  title: null
+  books: *id001
+  description: '- (paper) [The Complete Guide to Capital Markets for Quantitative
+    Professionals](/books/info/9780071468299) by Alex Kuznetsov'
 ---
-I have 1 book about Financial Markets in my personal library.
+

@@ -1,15 +1,20 @@
 ---
-name: in Catalan
+name: in_catalan
 title: 'Language: Catalan'
-subtitle: Books in Catalan
+subtitle: Books and audiobooks in Catalan
+filename: null
+group: Catalan
+sublist_description: null
+books: &id001
+- '9788483009512'
+- '9788484370451'
 items:
-- title: null
-  books:
-  - '9788483009512'
-  - '9788484370451'
-  description: "Book titles:\n\n- (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512)\
+- name: in_catalan
+  title: null
+  books: *id001
+  description: "- (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512)\
     \ by Andreu Buenafuente, Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n\
     - (paper) [Mem\xF2ries. Hist\xF2ria d'una convicci\xF3 (1930 - 1980) (Mem\xF2\
     ries #1)](/books/info/9788484370451) by Jordi Pujol"
 ---
-I have 2 books in Catalan in my personal library.
+

@@ -1,14 +1,15 @@
 ---
-name: about Sociology
-title: 'Theme: Sociology'
-subtitle: Books about Sociology
+name: about_sociology
+title: Sociology
+filename: null
+group: Sociology
+sublist_description: null
+books: &id001
+- '1684573920'
 items:
-- title: null
-  books:
-  - '1684573920'
-  description: 'Book title:
-
-
-    - (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell'
+- name: about_sociology
+  title: null
+  books: *id001
+  description: '- (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell'
 ---
-I have 1 book about Sociology in my personal library.
+

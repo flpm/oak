@@ -1,29 +1,32 @@
 ---
-name: about Anxiety
-title: 'Theme: Anxiety'
+name: about_anxiety
+title: Anxiety
 subtitle: Books about anxiety and how to deal with it
+filename: null
+group: Anxiety
+sublist_description: null
+books: &id001
+- '9780142181072'
+- '9780062136497'
+- '9781572248915'
+- '9781606238134'
+- '9781572246270'
 items:
-- title: null
-  books:
-  - '9780142181072'
-  - '9780062136497'
-  - '9781606238134'
-  - '9781572246270'
-  - '9781572248915'
-  description: 'Book titles:
-
-
-    - (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D. Guy Winch
+- name: about_anxiety
+  title: null
+  books: *id001
+  description: '- (paper) [Emotional First Aid](/books/info/9780142181072) by Ph.D.
+    Guy Winch
 
     - (paper) [Feeling Good](/books/info/9780062136497) by David D. Burns
+
+    - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund
+    J. Bourne
 
     - (paper) [It''s Not All in Your Head](/books/info/9781606238134) by Gordon J.
     G. Asmundson, Steven Taylor
 
     - (paper) [Quiet Your Mind and Get to Sleep](/books/info/9781572246270) by Colleen
-    Carney, Rachel Manber
-
-    - (paper) [The Anxiety and Phobia Workbook](/books/info/9781572248915) by Edmund
-    J. Bourne'
+    Carney, Rachel Manber'
 ---
-I have 5 books about Anxiety in my personal library.
+

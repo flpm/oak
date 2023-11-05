@@ -1,24 +1,26 @@
 ---
-name: about Music
-title: 'Theme: Music'
+name: about_music
+title: Music
 subtitle: Books about music and musicians
+filename: null
+group: Music
+sublist_description: null
+books: &id001
+- B08ZYXLTYG
+- B08M93Q9SP
+- B0758HKBPF
+- B00DDVQIM2
 items:
-- title: null
-  books:
-  - B08ZYXLTYG
-  - B0758HKBPF
-  - B00DDVQIM2
-  - B08M93Q9SP
-  description: 'Book titles:
+- name: about_music
+  title: null
+  books: *id001
+  description: '- (audio) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
 
-
-    - (audio) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
+    - (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright
 
     - (audio) [How to Listen to Jazz](/books/info/B0758HKBPF) by Ted Gioia
 
     - (audio) [How to Listen to and Understand Great Music, 3rd Edition](/books/info/B00DDVQIM2)
-    by Robert Greenberg
-
-    - (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright'
+    by Robert Greenberg'
 ---
-I have 4 books about Music in my personal library.
+

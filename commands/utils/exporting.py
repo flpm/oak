@@ -76,224 +76,18 @@ subtitles_by_value = {
 }
 
 
-def make_list(
-    catalogue, list_data, include_audiobook_samples=False, make_subsection_links=True
-):
-    ordered_data = defaultdict(list)
-    for book_types in catalogue.values():
-        for book_type, book in book_types.items():
-            if not include_audiobook_samples and book_type == "audiobook_sample":
-                continue
-            entry_type = list_data.get("attribute_type", "str")
-            entry = book.get(list_data["attribute"], None)
-            if entry:
-                if entry_type == "str":
-                    for alias_entry in include_themes.get(entry, []) + [entry]:
-                        ordered_data[alias_entry].append(book)
-                elif entry_type == "list":
-                    for element in entry:
-                        for alias_element in include_themes.get(element, []) + [
-                            element
-                        ]:
-                            ordered_data[alias_element].append(book)
-                else:
-                    ValueError(f"Unknown attribute type {entry_type}")
-
-    list_data["index"] = dict()
-    list_data["items"] = list()
-    description = list()
-    for attribute_value, books in sorted(ordered_data.items(), key=lambda x: x[0]):
-        included = [book for book in books if include_book(book)]
-        sublist_name = f"{list_data.get('index_title_preposition', 'about')} {attribute_value.title()}"
-        sublist_address = sublist_name.replace(" ", "_").lower()
-        if make_subsection_links:
-            description.append(
-                f"### [{attribute_value if attribute_value else 'Blank'}](/books/{sublist_address}) ({len(included)})"
-            )
-        else:
-            description.append(
-                f"### {attribute_value if attribute_value else 'Blank'} ({len(included)})"
-            )
-        for book in sorted(included, key=lambda x: x["title"]):
-            description.append(
-                f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-            )
-        list_data["index"][attribute_value] = {
-            "name": sublist_name,
-            "title": f"{list_data['attribute'].capitalize()}: {attribute_value.title()}",  # f"Books {list_data.get('index_title_preposition', 'about')} {attribute_value.title()}",
-            "subtitle": subtitles_by_value.get(
-                attribute_value,
-                f"Books {list_data.get('index_title_preposition', 'about')} {attribute_value.title()}",
-            ),
-            "description": "\n".join(
-                [
-                    (
-                        f"I have {len(included)} "
-                        f"book{'s' if len(included) != 1 else ''} {list_data.get('index_title_preposition', 'about')} {attribute_value.title()} "
-                        "in my personal library."
-                    ),
-                ]
-            ),
-            "items": [
-                {
-                    "title": None,
-                    "books": [
-                        book["book_id"]
-                        for book in sorted(included, key=lambda x: x["title"])
-                    ],
-                    "description": "\n".join(
-                        ["Book titles:" if len(included) != 1 else "Book title:", ""]
-                        + [
-                            f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-                            for book in sorted(included, key=lambda x: x["title"])
-                        ]
-                    ),
-                }
-            ],
-        }
-    list_data["description"] = (
-        "\n"
-        + "\n".join(description)
-        + "\n\nGo back to the [Bookshelf project](/books)."
-    )
-
-    for attribute_value, books in sorted(ordered_data.items(), key=lambda x: x[0]):
-        included = [book for book in books if include_book(book)]
-        list_data["items"].append(
-            {
-                "title": [
-                    f"{attribute_value} ({len(included)})",
-                    f"/books/{sublist_address}",
-                ],
-                "books": [
-                    book["book_id"]
-                    for book in sorted(included, key=lambda x: x["title"])
-                ],
-            }
-        )
-    return list_data
-
-
-def create_language_list(catalogue):
-    list_data = {
-        "name": "languages",
-        "title": "Index by language",
-        "items": list(),
-        "description": "Go back to the [Bookshelf project](/books) or consult the index by [subject](/books/subjects).",
-        "attribute": "language",
-        "attribute_type": "list",
-        "index_title_preposition": "in",
-    }
-    return make_list(catalogue, list_data)
-
-
-def create_theme_list(catalogue):
-    list_data = {
-        "name": "subjects",
-        "title": "Index by subject",
-        "items": list(),
-        "description": "Go back to the [Bookshelf project](/books) or consult the index by [language](/books/languages).",
-        "attribute": "theme",
-        "attribute_type": "str",
-        "index_title_preposition": "about",
-    }
-    return make_list(catalogue, list_data)
-
-
-def create_author_list(catalogue):
-    list_data = {
-        "name": "authors",
-        "title": "Index by author",
-        "items": list(),
-        "description": "Go back to the [Bookshelf project](/books).",
-        "attribute": "authors",
-        "attribute_type": "list",
-        "index_title_preposition": "by",
-    }
-    return make_list(catalogue, list_data, make_subsection_links=False)
-
-
-def create_recent_list(catalogue, number_of_books=10):
-    if number_of_books is None:
-        list_data = {
-            "name": "timeline",
-            "title": "Book Timeline",
-            "subtitle": f"Books ordered by date of acquisition",
-            "items": list(),
-            "description": "",
-            "attribute": "purchase_date",
-        }
-    else:
-        list_data = {
-            "name": "recent",
-            "title": "Recent acquisitions",
-            "subtitle": f"The last {number_of_books} books I have added to my personal library",
-            "items": list(),
-            "description": "",
-            "attribute": "purchase_date",
-        }
-
-    ordered_data = list()
-    for book_types in catalogue.values():
-        for book_type, book in book_types.items():
-            if book_type == "audiobook_sample":
-                continue
-            if not include_book(book):
-                continue
-            if date := book.get("purchase_date", book.get("list_date", "1900-01-01")):
-                date_str = dt.date.fromisoformat(date).strftime("%Y-%m-%d")
-                ordered_data.append((date_str, book))
-    ordered_data.sort(key=lambda x: x[0], reverse=True)
-    recent_description = list()
-
-    if number_of_books is None:
-        pass
-    else:
-        recent_description.append("Book titles:")
-    recent_book_list = list()
-    timeline = defaultdict(lambda: defaultdict(list))
-    for date, book in ordered_data[:number_of_books]:
-        if number_of_books is not None:
-            recent_description.append(
-                f"- {date} ({book['format']} in {book.get('theme', 'others').title()}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-            )
-        recent_book_list.append(book["book_id"])
-        if number_of_books is None:
-            year, month, day = date.split("-")
-            timeline[year][month].append(book)
-
-    if number_of_books is None:
-        for year, months in timeline.items():
-            if year == "1900":
-                continue
-            for month, books in months.items():
-                month_description = [
-                    "Book title:" if len(books) == 1 else "Book titles:",
-                ]
-                for book in books:
-                    month_description.append(
-                        f"- ({book['format']} in {book.get('theme', 'others').title()}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-                    )
-                list_data["items"].append(
-                    {
-                        "title": [f"{month_name[int(month)]} {year}"],
-                        "description": "\n".join(month_description),
-                        "books": [book["book_id"] for book in books],
-                    }
-                )
-    else:
-        list_data["items"].append(
-            {
-                "title": None,
-                "description": "\n".join(recent_description),
-                "books": recent_book_list,
-            }
-        )
-    return list_data
-
-
 def create_condition_list(
-    catalogue, condition, list_data, sort_key=None, sort_reverse=False, max_books=None
+    catalogue,
+    condition,
+    list_data,
+    sort_key=None,
+    sort_reverse=False,
+    max_books=None,
+    group_info=None,
+    group_sort_key=None,
+    group_sort_reverse=False,
+    show_group_size=False,
+    include_book_titles_header=True,
 ):
     """
     Create a list of books based on a condition function.
@@ -312,36 +106,100 @@ def create_condition_list(
         Whether to reverse the sort order, by default False
     max_books : int, optional
         The maximum number of books to include in the list, by default None
+    group_info : dict, optional
+        The group information, by default None
+    group_sort_key : function, optional
+        The sort key to use for the groups, by default None
+    group_sort_reverse : bool, optional
+        Whether to reverse the sort order for the groups, by default False
+    show_group_size : bool, optional
+        Whether to show the group size, by default False
+    include_book_titles_header : bool, optional
+        Whether to include the book titles header, by default True
 
     Returns
     -------
     dict
         The list data
     """
-    selected_books = list()
+    if not group_info:
+        group_info = dict()
+    selected_books = defaultdict(list)
     for book_id, book_type, book in flat_catalogue(catalogue):
-        if include_book(book) and condition(book_id, book_type, book):
-            selected_books.append(book)
-    if sort_key:
-        selected_books.sort(key=sort_key, reverse=sort_reverse)
-    selected_books = selected_books[:max_books]
+        if include_book(book) and (group := condition(book_id, book_type, book)):
+            if isinstance(group, str):
+                selected_books[group].append(book)
+            elif isinstance(group, list):
+                for element in group:
+                    selected_books[element].append(book)
+            else:
+                selected_books[""].append(book)
 
-    description = [
-        "Book titles:" if len(selected_books) != 1 else "Book title:",
-        "",
-    ]
-    description.extend(
-        [
-            f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
-            for book in selected_books
-        ]
-    )
-    list_data["items"] = [
-        {
-            "title": None,
-            "books": [b["book_id"] for b in selected_books],
+    list_data["items"] = list()
+
+    for group, books in selected_books.items():
+        if sort_key:
+            books.sort(key=sort_key, reverse=sort_reverse)
+        if max_books:
+            books = books[:max_books]
+
+        description = (
+            [
+                "Book titles:" if len(books) != 1 else "Book title:",
+            ]
+            if include_book_titles_header
+            else []
+        )
+        description.extend(
+            [
+                f"- ({'audio' if book['source'] == 'Audible' else 'paper'}) [{book['title']}](/books/info/{book['book_id']}) by {', '.join(book['authors'])}"
+                for book in books
+            ]
+        )
+        item = {
+            "name": group_info.get(group, {}).get(
+                "name",
+                group_info.get("name_function", lambda x: x.lower().replace(" ", "_"))(
+                    group
+                ),
+            ),
+            "filename": group_info.get(group, {}).get(
+                "filename",
+                group_info.get("filename_function", lambda x: None)(group),
+            ),
+            "group": group,
+            "title": [
+                group_info.get(group, {}).get(
+                    "title", group_info.get("title_function", lambda x: x)(group)
+                ),
+                group_info.get(group, {}).get(
+                    "link", group_info.get("link_function", lambda x: None)(group)
+                ),
+            ],
+            "subtitle": group_info.get(group, {}).get(
+                "subtitle", group_info.get("subtitle_function", lambda x: None)(group)
+            ),
+            "sublist_description": group_info.get(group, {}).get(
+                "subtitle",
+                group_info.get("sublist_description_function", lambda x: None)(group),
+            ),
+            "books": [book["book_id"] for book in books],
             "description": "\n".join(description),
         }
-    ]
+        for key, value in group_info.get(group, {}).items():
+            item[key] = value
+
+        if exclude_test := group_info.get("exclude_function"):
+            if not exclude_test(item):
+                list_data["items"].append(item)
+        else:
+            list_data["items"].append(item)
+
+    if group_sort_key:
+        list_data["items"].sort(key=group_sort_key, reverse=group_sort_reverse)
+
+    if show_group_size:
+        for item in list_data["items"]:
+            item["title"][0] = f"{item['title'][0]} ({len(item['books'])})"
 
     return list_data

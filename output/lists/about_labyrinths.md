@@ -1,17 +1,20 @@
 ---
-name: about Labyrinths
-title: 'Theme: Labyrinths'
+name: about_labyrinths
+title: Labyrinths
 subtitle: Books about labyrinths, including mazes
+filename: null
+group: Labyrinths
+sublist_description: null
+books: &id001
+- '9783791321448'
+- '9781616895129'
 items:
-- title: null
-  books:
-  - '9781616895129'
-  - '9783791321448'
-  description: 'Book titles:
+- name: about_labyrinths
+  title: null
+  books: *id001
+  description: '- (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann
+    Kern
 
-
-    - (paper) [Labyrinths & Mazes](/books/info/9781616895129) by Francesca Tatarella
-
-    - (paper) [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern'
+    - (paper) [Labyrinths & Mazes](/books/info/9781616895129) by Francesca Tatarella'
 ---
-I have 2 books about Labyrinths in my personal library.
+
