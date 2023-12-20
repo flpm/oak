@@ -62,7 +62,8 @@ def book_action(
         "rename": "Rename theme",
         "find theme": "Find a book by theme",
         "top shelf": "Add top shelf attributes",
-        "rank": "Edit the book ranking",
+        "origin": "Edit the book origin",
+        "inspired_by": "Edit the book that this one was inspired by",
         "note": "Edit the book note",
         "list": "List all book attributes",
         "set": "Set a book attribute",
@@ -346,35 +347,74 @@ def edit_loop(catalogue):
                         book.pop("first_edition_details", None)
                 answer = "not top shelf"
 
-            elif answer == "rank":
-                print(f"Current ranking ({len(ranking)} books):")
-                for position, (*_, b_book) in enumerate(ranking):
-                    print(f"{position + 1} {b_book.get('title', '<missing title>')}")
-                if book_id in [b[0] for b in ranking]:
-                    if confirm("Remove this book from ranking?", False):
-                        ranking = [b for b in ranking if b[0] != book_id]
-                rank = Prompt.ask("Enter the ranking for this book (e.g. 1)")
-                if rank:
-                    try:
-                        rank = int(rank)
-                        if book_id in [b[0] for b in ranking]:
-                            ranking = [b for b in ranking if b[0] != book_id]
-                        if rank < 1 or rank > len(ranking) + 2:
-                            raise ValueError
+            elif answer in ("origin", "inspired_by"):
+                current_origin = book.get(answer, dict())
+                if current_origin:
+                    print(f"Current origin: {current_origin}")
+                    if confirm(f"Remove the {answer}?", False):
+                        book.pop(answer)
+                        print(f"[red]Deleted {answer}.[/red]")
+                else:
+                    option = None
+                    while option not in ("book", "web", "note", "done"):
+                        option = Prompt.ask(
+                            "Edit origin information",
+                            choices=[
+                                "book",
+                                "web",
+                                "gift",
+                                "email",
+                                "recommendation",
+                                "bookstore",
+                                "found",
+                                "note",
+                            ],
+                            default="note",
+                            show_choices=True,
+                            show_default=True,
+                        )
+                        if value := Prompt.ask(f"Enter the {option} detail"):
+                            if option == "book":
+                                list_of_titles = [
+                                    (b_id, b_type, b["title"])
+                                    for b_id, b_type, b in flat_catalogue
+                                    if value in b.get("title", "").lower()
+                                ]
+                                print(f"Found {len(list_of_titles)} books.")
+                                for entry in list_of_titles:
+                                    print(f"({entry[1]}) {entry[2]}")
+                                    if confirm("Is this the book?", False):
+                                        value = entry
+                                        break
+                                else:
+                                    print("[red]Book not found[/red]")
+                                    continue
+                            elif option == "web":
+                                if link_title := Prompt.ask(
+                                    "Enter the title of the web page"
+                                ):
+                                    if source := Prompt.ask(
+                                        "Enter the source of the link"
+                                    ):
+                                        value = (link_title, value, source)
+                                    else:
+                                        value = (link_title, value, None)
+                                else:
+                                    value = (value, value)
+                            elif option == "gift":
+                                reason = Prompt.ask("What was the occasion?") or None
+                                value = (value, reason)
+                            else:
+                                additional_detail = (
+                                    Prompt.ask("Additional detail?") or None
+                                )
+                                value = (value, additional_detail)
 
-                        ranking = [b for b in ranking if b[0] != book_id]
-                        if rank > len(ranking):
-                            ranking.append((book_id, book_type, book))
-                        else:
-                            ranking = (
-                                ranking[: rank - 1]
-                                + [(book_id, book_type, book)]
-                                + ranking[rank - 1 :]
-                            )
-                        print("[green]Update ranking.[/green]")
-                    except ValueError:
-                        print("[red]Invalid rank[/red]")
-                answer = "not rank"
+                            current_origin[option] = value
+                            print(f"[green]Book {answer} set[/green]: {value}")
+                            option = "done"
+                            book[answer] = current_origin
+                answer = "not origin"
 
             elif answer == "note":
                 current_note = book.get("note")
@@ -391,10 +431,6 @@ def edit_loop(catalogue):
                 answer = "not note"
 
             elif answer == "stat":
-                # book.pop("recommendation_status", None)
-                # book.pop("finished_status", None)
-                # book.pop("like_status", None)
-                # book.pop("multiple_reads", None)
                 if not book.get("read_status"):
                     book["read_status"] = {}
 

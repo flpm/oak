@@ -6,6 +6,7 @@ filename: null
 group: Fantasy
 sublist_description: null
 books: &id001
+- '9780358653035'
 - '9780060853976'
 - '9780063081918'
 - '9781668002193'
@@ -26,10 +27,11 @@ items:
 - name: about_fantasy
   title: null
   books: *id001
-  description: "- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman,\
-    \ Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918) by Neil\
-    \ Gaiman\n- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King\n\
-    - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
+  description: "- (paper) [The Lord of the Rings Illustrated Edition](/books/info/9780358653035)\
+    \ by J. R. R. Tolkien\n- (paper) [Good Omens](/books/info/9780060853976) by Neil\
+    \ Gaiman, Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918)\
+    \ by Neil Gaiman\n- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen\
+    \ King\n- (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
     - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry\
     \ Pratchett\n- (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032)\
     \ by Terry Pratchett\n- (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061)\

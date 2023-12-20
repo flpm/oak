@@ -6,7 +6,7 @@ subtitle: Finding the Good Life through Great Books
 link: https://www.audible.com/pd/On-Reading-Well-Audiobook/B07L8LL4MC
 author: Karen Swallow Prior
 narrator: Lisa Larsen
-cover_url: My%20Library%20Audible.com-1_files/51a5MwT3yNL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/51a5MwT3yNL._SL500_.jpg
 cover_filename: B07L8LL4MC.jpg
 source: Audible
 book_type: audiobook

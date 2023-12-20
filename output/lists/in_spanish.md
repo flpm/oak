@@ -6,6 +6,8 @@ filename: null
 group: Spanish
 sublist_description: null
 books: &id001
+- '9788419969071'
+- '9788433916464'
 - '9788408267461'
 - '9788437507521'
 - '9788484414025'
@@ -33,14 +35,15 @@ books: &id001
 - '9788420635347'
 - '9788420635484'
 - '9788420637440'
-- '9788420442280'
 - '9788466318884'
 - '9788497594257'
 items:
 - name: in_spanish
   title: null
   books: *id001
-  description: "- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
+  description: "- (paper) [La vida con libros](/books/info/9788419969071) by Ricardo\
+    \ Moreno Castillo\n- (paper) [C\xF3mo ordenar una biblioteca](/books/info/9788433916464)\
+    \ by Roberto Calasso\n- (paper) [El manuscrito de nieve (Fernando de Rojas, #2)](/books/info/9788408267461)\
     \ by Luis Garcia Jambrina\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
     \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Enciclopedia Prehistorica/ Prehistoric\
     \ Encyclopedia](/books/info/9788484414025) by Robert Sabuda, Matthew Reinhart\n\
@@ -69,9 +72,8 @@ items:
     \ Cort\xE1zar\n- (paper) [Hamlet](/books/info/9788437610979) by William Shakespeare\n\
     - (paper) [La Rep\xFAblica Romana](/books/info/9788420635347) by Isaac Asimov\n\
     - (paper) [El Imperio Romano](/books/info/9788420635484) by Isaac Asimov\n- (paper)\
-    \ [Los griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper) [La caverna](/books/info/9788420442280)\
-    \ by Jose Saramago\n- (paper) [La fuerza del optimismo](/books/info/9788466318884)\
-    \ by Luis Rojas Marcos\n- (paper) [Un mundo feliz / Brave New World](/books/info/9788497594257)\
-    \ by Aldous Huxley"
+    \ [Los griegos](/books/info/9788420637440) by Isaac Asimov\n- (paper) [La fuerza\
+    \ del optimismo](/books/info/9788466318884) by Luis Rojas Marcos\n- (paper) [Un\
+    \ mundo feliz / Brave New World](/books/info/9788497594257) by Aldous Huxley"
 ---
 

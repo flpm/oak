@@ -32,9 +32,9 @@ rating:
 duration: 44700000
 cover_filename: B00D7JMGEY.jpg
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 recommendation_status: null
 ---

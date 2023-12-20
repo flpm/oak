@@ -13,6 +13,19 @@ items:
   books: []
   description: '- (paper) [Just Enough Liebling](/books/info/9780374104436) by Abbott
     Joseph Liebling'
+- name: adam_savage
+  filename: null
+  group: Adam Savage
+  title:
+  - Adam Savage (2)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Every Tool''s a Hammer](/books/info/9781982113476) by Adam
+    Savage
+
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage'
 - name: adrian_goldsworthy
   filename: null
   group: Adrian Goldsworthy
@@ -57,7 +70,8 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie
+  description: '- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)
+    by Agatha Christie
 
     - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie
 
@@ -591,13 +605,38 @@ items:
   filename: null
   group: Benjamin Zander
   title:
-  - Benjamin Zander (1)
+  - Benjamin Zander (2)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund
-    Stone Zander, Benjamin Zander'
+  description: '- (audio) [The Art of Possibility](/books/info/B004GMOPFO) by Rosamund
+    Stone Zander, Benjamin Zander
+
+    - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone
+    Zander, Benjamin Zander'
+- name: bernd_heinrich
+  filename: null
+  group: Bernd Heinrich
+  title:
+  - Bernd Heinrich (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)
+    by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman'
+- name: bernd_kaufman
+  filename: null
+  group: Bernd Kaufman
+  title:
+  - Bernd Kaufman (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)
+    by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman'
 - name: beth_tondreau
   filename: null
   group: Beth Tondreau
@@ -725,6 +764,17 @@ items:
   books: []
   description: '- (paper) [Python Testing with Pytest](/books/info/9781680508604)
     by Brian Okken'
+- name: brianna_wiest
+  filename: null
+  group: Brianna Wiest
+  title:
+  - Brianna Wiest (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [101 Essays That Will Change the Way You Think](/books/info/1977386865)
+    by Brianna Wiest'
 - name: brooks_landon
   filename: null
   group: Brooks Landon
@@ -1154,6 +1204,16 @@ items:
   sublist_description: null
   books: []
   description: '- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro'
+- name: daniel_chandler
+  filename: null
+  group: Daniel Chandler
+  title:
+  - Daniel Chandler (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Semiotics](/books/info/B0B3BV9MC9) by Daniel Chandler'
 - name: daniel_gilbert
   filename: null
   group: Daniel Gilbert
@@ -1389,12 +1449,15 @@ items:
   filename: null
   group: David Sedaris
   title:
-  - David Sedaris (2)
+  - David Sedaris (3)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [Holidays on Ice](/books/info/9780316779234) by David Sedaris
+  description: '- (paper) [Me Talk Pretty One Day](/books/info/9780316777728) by David
+    Sedaris
+
+    - (paper) [Holidays on Ice](/books/info/9780316779234) by David Sedaris
 
     - (paper) [When You Are Engulfed in Flames](/books/info/9780316143479) by David
     Sedaris'
@@ -1454,10 +1517,11 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)
-    by Debbie Millman
+  description: '- (paper) [Why Design Matters](/books/info/9780062872968) by Debbie
+    Millman
 
-    - (paper) [Why Design Matters](/books/info/9780062872968) by Debbie Millman'
+    - (paper) [How to Think Like a Great Graphic Designer](/books/info/9781581154962)
+    by Debbie Millman'
 - name: deborah_j_bennett
   filename: null
   group: Deborah J Bennett
@@ -1479,6 +1543,17 @@ items:
   sublist_description: null
   books: []
   description: '- (paper) [Great Books](/books/info/9780684835334) by Denby'
+- name: dennis_duncan
+  filename: null
+  group: Dennis Duncan
+  title:
+  - Dennis Duncan (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Index, a History of The](/books/info/B09RN8YFRB) by Dennis
+    Duncan'
 - name: dennis_greenberger
   filename: null
   group: Dennis Greenberger
@@ -1606,6 +1681,17 @@ items:
   books: []
   description: '- (paper) [A Primer of Visual Literacy](/books/info/9780262540292)
     by Donis A Dondis'
+- name: dorsey_armstrong
+  filename: null
+  group: Dorsey Armstrong
+  title:
+  - Dorsey Armstrong (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by Dorsey
+    Armstrong'
 - name: douglas_crockford
   filename: null
   group: Douglas Crockford
@@ -1682,6 +1768,17 @@ items:
   books: []
   description: '- (paper) [La ciudad de los prodigios](/books/info/9788432217104)
     by Eduardo Mendoza'
+- name: edward_o._wilson
+  filename: null
+  group: Edward O. Wilson
+  title:
+  - Edward O. Wilson (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)
+    by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman'
 - name: edward_r._tufte
   filename: null
   group: Edward R. Tufte
@@ -1725,7 +1822,7 @@ items:
   filename: null
   group: Elizabeth Vandiver
   title:
-  - Elizabeth Vandiver (3)
+  - Elizabeth Vandiver (5)
   - null
   subtitle: null
   sublist_description: null
@@ -1733,9 +1830,13 @@ items:
   description: '- (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth
     Vandiver
 
+    - (audio) [The Aeneid of Virgil](/books/info/B00D8LT7A2) by Elizabeth Vandiver
+
     - (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver
 
-    - (audio) [Greek Tragedy](/books/info/B00DC8FIMM) by Elizabeth Vandiver'
+    - (audio) [Greek Tragedy](/books/info/B00DC8FIMM) by Elizabeth Vandiver
+
+    - (audio) [The Iliad of Homer](/books/info/B00DCWVYR6) by Elizabeth Vandiver'
 - name: ellen_lupton
   filename: null
   group: Ellen Lupton
@@ -1888,6 +1989,17 @@ items:
   books: []
   description: "- (paper) [Poeta En Nueva York](/books/info/9788423919468) by Federico\
     \ Garc\xEDa Lorca"
+- name: felicia_day
+  filename: null
+  group: Felicia Day
+  title:
+  - Felicia Day (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [You''re Never Weird on the Internet (Almost)](/books/info/B00XUTQ692)
+    by Felicia Day'
 - name: francesca_tatarella
   filename: null
   group: Francesca Tatarella
@@ -1910,6 +2022,17 @@ items:
   books: []
   description: '- (paper) [Francesca Woodman](/books/info/9783931141967) by Francesca
     Woodman, Philippe Sollers, Elizabeth Janus'
+- name: francine_prose
+  filename: null
+  group: Francine Prose
+  title:
+  - Francine Prose (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Reading Like a Writer](/books/info/9780060777050) by Francine
+    Prose'
 - name: "francis-no\xEBl_thomas"
   filename: null
   group: "Francis-No\xEBl Thomas"
@@ -2049,6 +2172,17 @@ items:
   books: []
   description: '- (paper) [Failure Is Not an Option](/books/info/9780743200790) by
     Gene Kranz'
+- name: george_b._schaller
+  filename: null
+  group: George B. Schaller
+  title:
+  - George B. Schaller (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)
+    by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman'
 - name: george_j._adler
   filename: null
   group: George J. Adler
@@ -2160,6 +2294,17 @@ items:
   books: []
   description: '- (paper) [Code as Creative Medium](/books/info/9780262542043) by
     Tega Brain, Golan Levin'
+- name: "gonz\xE1lez_mac\xEDas"
+  filename: null
+  group: "Gonz\xE1lez Mac\xEDas"
+  title:
+  - "Gonz\xE1lez Mac\xEDas (1)"
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: "- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas"
 - name: gordon_j._g._asmundson
   filename: null
   group: Gordon J. G. Asmundson
@@ -2560,16 +2705,6 @@ items:
   books: []
   description: '- (paper) [Modern Coin Magic](/books/info/9780486154237) by J. B.
     Bobo'
-- name: j._f._c._fuller
-  filename: null
-  group: J. F. C. Fuller
-  title:
-  - J. F. C. Fuller (1)
-  - null
-  subtitle: null
-  sublist_description: null
-  books: []
-  description: '- (audio) [Julius Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller'
 - name: j._gray
   filename: null
   group: J. Gray
@@ -2585,17 +2720,19 @@ items:
   filename: null
   group: J. R. R. Tolkien
   title:
-  - J. R. R. Tolkien (5)
+  - J. R. R. Tolkien (6)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: "- (paper) [El retorno del rey (El se\xF1or de los anillos, #3)](/books/info/9788445071779)\
-    \ by J. R. R. Tolkien\n- (paper) [La comunidad del anillo (El se\xF1or de los\
-    \ anillos, #1)](/books/info/9788445071403) by J. R. R. Tolkien\n- (paper) [Las\
-    \ dos torres (El Se\xF1or de los Anillos, #2)](/books/info/9788445071762) by J.\
-    \ R. R. Tolkien\n- (paper) [Secret Vice, A](/books/info/9780008348090) by J. R.\
-    \ R. Tolkien\n- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R. Tolkien"
+  description: "- (paper) [The Lord of the Rings Illustrated Edition](/books/info/9780358653035)\
+    \ by J. R. R. Tolkien\n- (paper) [El retorno del rey (El se\xF1or de los anillos,\
+    \ #3)](/books/info/9788445071779) by J. R. R. Tolkien\n- (paper) [La comunidad\
+    \ del anillo (El se\xF1or de los anillos, #1)](/books/info/9788445071403) by J.\
+    \ R. R. Tolkien\n- (paper) [Las dos torres (El Se\xF1or de los Anillos, #2)](/books/info/9788445071762)\
+    \ by J. R. R. Tolkien\n- (paper) [Secret Vice, A](/books/info/9780008348090) by\
+    \ J. R. R. Tolkien\n- (paper) [The Hobbit](/books/info/9780547928241) by J. R.\
+    \ R. Tolkien"
 - name: j._rufus_fears
   filename: null
   group: J. Rufus Fears
@@ -2620,6 +2757,16 @@ items:
   books: []
   description: '- (paper) [A Practical Introduction to Phonetics](/books/info/9780199246359)
     by J.C. Catford'
+- name: jack_hart
+  filename: null
+  group: Jack Hart
+  title:
+  - Jack Hart (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Wordcraft](/books/info/1662084005) by Jack Hart'
 - name: jacques_bertin
   filename: null
   group: Jacques Bertin
@@ -2907,12 +3054,15 @@ items:
   filename: null
   group: Jenny Odell
   title:
-  - Jenny Odell (1)
+  - Jenny Odell (2)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell'
+  description: '- (paper) [How to Do Nothing](/books/info/9781612197494) by Jenny
+    Odell
+
+    - (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell'
 - name: "jens_m\xFCller"
   filename: null
   group: "Jens M\xFCller"
@@ -3170,12 +3320,14 @@ items:
   filename: null
   group: John McPhee
   title:
-  - John McPhee (1)
+  - John McPhee (2)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee'
+  description: '- (paper) [Draft No. 4](/books/info/9780374142742) by John McPhee
+
+    - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee'
 - name: john_power
   filename: null
   group: John Power
@@ -3272,16 +3424,16 @@ items:
     \ by Jorge Amado\n- (paper) [Suor](/books/info/9788501053145) by Jorge Amado\n\
     - (paper) [A Descoberta Da America Pelos Turcos](/books/info/9788501041616) by\
     \ Jorge Amado"
-- name: jose_saramago
+- name: jorge_luis_borges
   filename: null
-  group: Jose Saramago
+  group: Jorge Luis Borges
   title:
-  - Jose Saramago (1)
+  - Jorge Luis Borges (1)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [La caverna](/books/info/9788420442280) by Jose Saramago'
+  description: '- (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges'
 - name: joseph_b._solodow
   filename: null
   group: Joseph B. Solodow
@@ -3434,6 +3586,17 @@ items:
   books: []
   description: '- (paper) [Vingt mille lieues sous les mers](/books/info/9782070424832)
     by Jules Verne'
+- name: julia_watson
+  filename: null
+  group: Julia Watson
+  title:
+  - Julia Watson (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Getting a Life](/books/info/9780816624904) by Sidonie Smith,
+    Julia Watson'
 - name: julie_zhuo
   filename: null
   group: Julie Zhuo
@@ -3531,6 +3694,16 @@ items:
   books: []
   description: '- (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow
     Prior, Leland Ryken - foreword'
+- name: kari_byron
+  filename: null
+  group: Kari Byron
+  title:
+  - Kari Byron (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari Byron'
 - name: katherine_hibbs_pherson
   filename: null
   group: Katherine Hibbs Pherson
@@ -3718,6 +3891,17 @@ items:
   books: []
   description: '- (paper) [Doing Bayesian Data Analysis](/books/info/9780124058880)
     by Kruschke John'
+- name: kurt_vonnegut
+  filename: null
+  group: Kurt Vonnegut
+  title:
+  - Kurt Vonnegut (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Pity the Reader](/books/info/168457448X) by Kurt Vonnegut,
+    Suzanne McConnell'
 - name: lawrence_scahill
   filename: null
   group: Lawrence Scahill
@@ -3996,6 +4180,27 @@ items:
   books: []
   description: '- (audio) [The Riddle of the Labyrinth](/books/info/B00F3IZ0CM) by
     Margalit Fox'
+- name: margaret_atwood
+  filename: null
+  group: Margaret Atwood
+  title:
+  - Margaret Atwood (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [On Writers and Writing](/books/info/B08F7ZMSGN) by Margaret
+    Atwood'
+- name: maria_popova
+  filename: null
+  group: Maria Popova
+  title:
+  - Maria Popova (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Figuring](/books/info/198484475X) by Maria Popova'
 - name: marion_roach_smith
   filename: null
   group: Marion Roach Smith
@@ -4089,13 +4294,16 @@ items:
   filename: null
   group: Martin Gardner
   title:
-  - Martin Gardner (2)
+  - Martin Gardner (3)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [Entertaining Mathematical Puzzles](/books/info/9780486252117)
+  description: '- (paper) [When You Were a Tadpole and I Was a Fish](/books/info/9780809087372)
     by Martin Gardner
+
+    - (paper) [Entertaining Mathematical Puzzles](/books/info/9780486252117) by Martin
+    Gardner
 
     - (paper) [Mathematical Puzzles and Diversions](/books/info/9780140136357) by
     Martin Gardner'
@@ -4103,12 +4311,14 @@ items:
   filename: null
   group: Mary Beard
   title:
-  - Mary Beard (2)
+  - Mary Beard (3)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
+  description: '- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+
+    - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
 
     - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard'
 - name: mary_del_priore
@@ -4176,6 +4386,17 @@ items:
   books: []
   description: '- (paper) [The City Out My Window](/books/info/9781416569909) by Matteo
     Pericoli'
+- name: matthew_b._crawford
+  filename: null
+  group: Matthew B. Crawford
+  title:
+  - Matthew B. Crawford (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Shop Class as Soulcraft](/books/info/1984843613) by Matthew
+    B. Crawford'
 - name: matthew_hartnett
   filename: null
   group: Matthew Hartnett
@@ -4220,6 +4441,16 @@ items:
   books: []
   description: '- (paper) [Knowledge Graphs](/books/info/9780262045094) by Mayank
     Kejriwal, Pedro Szekely, Craig A. Knoblock'
+- name: mel_brooks
+  filename: null
+  group: Mel Brooks
+  title:
+  - Mel Brooks (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [All About Me!](/books/info/0593290747) by Mel Brooks'
 - name: michael_redmond
   filename: null
   group: Michael Redmond
@@ -4327,6 +4558,17 @@ items:
   sublist_description: null
   books: []
   description: '- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron'
+- name: natalie_goldberg
+  filename: null
+  group: Natalie Goldberg
+  title:
+  - Natalie Goldberg (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Writing Down the Bones](/books/info/B002V1J5AC) by Natalie
+    Goldberg'
 - name: nate_silver
   filename: null
   group: Nate Silver
@@ -4357,6 +4599,16 @@ items:
     - (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
 
     - (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs'
+- name: nicholas_dames
+  filename: null
+  group: Nicholas Dames
+  title:
+  - Nicholas Dames (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [The Chapter](/books/info/9780691135199) by Nicholas Dames'
 - name: nicola_gardini
   filename: null
   group: Nicola Gardini
@@ -4605,6 +4857,17 @@ items:
   description: '- (paper) [Mansions of Madness](/books/info/9781568822112) by Fred
     Behrendt, Mark Morrison, Wesley Martin, Shawn DeWolfe, Keith Herber, Penelope
     Love, Liam Routt'
+- name: peter_brown
+  filename: null
+  group: Peter Brown
+  title:
+  - Peter Brown (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Journeys of the Mind](/books/info/9780691242286) by Peter
+    Brown'
 - name: peter_seibel
   filename: null
   group: Peter Seibel
@@ -4703,7 +4966,7 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard'
+  description: '- (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard'
 - name: r._paul_wilson
   filename: null
   group: R. Paul Wilson
@@ -4748,6 +5011,17 @@ items:
   books: []
   description: '- (paper) [Critical Thinking for Strategic Intelligence](/books/info/9781544374260)
     by Katherine Hibbs Pherson, Randolph H. Pherson'
+- name: ray_bradbury
+  filename: null
+  group: Ray Bradbury
+  title:
+  - Ray Bradbury (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Zen in the Art of Writing](/books/info/B078Z1139W) by Ray
+    Bradbury'
 - name: raymond_queneau
   filename: null
   group: Raymond Queneau
@@ -4781,6 +5055,17 @@ items:
   books: []
   description: "- (paper) [Uma Breve Hist\xF3ria do Brasil](/books/info/9788576655299)\
     \ by Mary del Priore, Renato Venancio"
+- name: ricardo_moreno_castillo
+  filename: null
+  group: Ricardo Moreno Castillo
+  title:
+  - Ricardo Moreno Castillo (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [La vida con libros](/books/info/9788419969071) by Ricardo
+    Moreno Castillo'
 - name: richard_a._lafleur
   filename: null
   group: Richard A. LaFleur
@@ -4822,6 +5107,17 @@ items:
 
     - (paper) [One Thousand and One Life-and-Death Problems](/books/info/9784906574728)
     by Richard Bozulich'
+- name: richard_dawkins
+  filename: null
+  group: Richard Dawkins
+  title:
+  - Richard Dawkins (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [The Selfish Gene](/books/info/9780199291151) by Richard
+    Dawkins'
 - name: richard_k._morgan
   filename: null
   group: Richard K. Morgan
@@ -4833,6 +5129,17 @@ items:
   books: []
   description: '- (paper) [Altered Carbon](/books/info/9780345457684) by Richard K.
     Morgan'
+- name: richard_p._feynman
+  filename: null
+  group: Richard P. Feynman
+  title:
+  - Richard P. Feynman (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [The Pleasure of Finding Things Out](/books/info/B00BSU83HI)
+    by Richard P. Feynman'
 - name: richard_parkinson
   filename: null
   group: Richard Parkinson
@@ -4918,14 +5225,12 @@ items:
   filename: null
   group: Robert Garland
   title:
-  - Robert Garland (2)
+  - Robert Garland (1)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
-
-    - (audio) [Living History](/books/info/B00XP3CMHI) by Robert Garland'
+  description: '- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland'
 - name: robert_greenberg
   filename: null
   group: Robert Greenberg
@@ -5007,6 +5312,17 @@ items:
   books: []
   description: "- (paper) [Petit trait\xE9 de manipulation \xE0 l'usage des honn\xEA\
     tes gens](/books/info/9782706110443) by Robert-Vincent Joule, Jean-L\xE9on Beauvois"
+- name: roberto_calasso
+  filename: null
+  group: Roberto Calasso
+  title:
+  - Roberto Calasso (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: "- (paper) [C\xF3mo ordenar una biblioteca](/books/info/9788433916464)\
+    \ by Roberto Calasso"
 - name: roger_fisher
   filename: null
   group: Roger Fisher
@@ -5044,13 +5360,16 @@ items:
   filename: null
   group: Rosamund Stone Zander
   title:
-  - Rosamund Stone Zander (1)
+  - Rosamund Stone Zander (2)
   - null
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund
-    Stone Zander, Benjamin Zander'
+  description: '- (audio) [The Art of Possibility](/books/info/B004GMOPFO) by Rosamund
+    Stone Zander, Benjamin Zander
+
+    - (paper) [The Art of Possibility](/books/info/9780142001103) by Rosamund Stone
+    Zander, Benjamin Zander'
 - name: ross_j._anderson
   filename: null
   group: Ross J. Anderson
@@ -5066,7 +5385,7 @@ items:
   filename: null
   group: Roy Peter Clark
   title:
-  - Roy Peter Clark (3)
+  - Roy Peter Clark (4)
   - null
   subtitle: null
   sublist_description: null
@@ -5077,7 +5396,9 @@ items:
     - (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603) by
     Roy Peter Clark
 
-    - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark'
+    - (paper) [Writing Tools](/books/info/9780316014991) by Roy Peter Clark
+
+    - (audio) [How to Write Short](/books/info/B00GG0C3FI) by Roy Peter Clark'
 - name: roy_schwartz
   filename: null
   group: Roy Schwartz
@@ -5108,7 +5429,8 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: '- (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright'
+  description: '- (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP)
+    by Rufus Wainwright'
 - name: s.i._hayakawa
   filename: null
   group: S.I. Hayakawa
@@ -5163,6 +5485,16 @@ items:
   books: []
   description: '- (paper) [Call of Cthulhu](/books/info/9781568821818) by Sandy Petersen,
     Lynn Willis'
+- name: scott_carpenter
+  filename: null
+  group: Scott Carpenter
+  title:
+  - Scott Carpenter (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter'
 - name: scott_e._page
   filename: null
   group: Scott E. Page
@@ -5250,6 +5582,17 @@ items:
   sublist_description: null
   books: []
   description: '- (paper) [A Gamut of Games](/books/info/9780486273471) by Sid Sackson'
+- name: sidonie_smith
+  filename: null
+  group: Sidonie Smith
+  title:
+  - Sidonie Smith (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Getting a Life](/books/info/9780816624904) by Sidonie Smith,
+    Julia Watson'
 - name: simon_singh
   filename: null
   group: Simon Singh
@@ -5272,6 +5615,16 @@ items:
   books: []
   description: '- (paper) [The Element](/books/info/9780670020478) by Sir PhD Ken
     Robinson'
+- name: sol_stein
+  filename: null
+  group: Sol Stein
+  title:
+  - Sol Stein (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Stein on Writing](/books/info/B002V59Z1M) by Sol Stein'
 - name: st._augustine
   filename: null
   group: St. Augustine
@@ -5456,6 +5809,17 @@ items:
   books: []
   description: '- (paper) [It''s Not All in Your Head](/books/info/9781606238134)
     by Gordon J. G. Asmundson, Steven Taylor'
+- name: suzanne_mcconnell
+  filename: null
+  group: Suzanne McConnell
+  title:
+  - Suzanne McConnell (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [Pity the Reader](/books/info/168457448X) by Kurt Vonnegut,
+    Suzanne McConnell'
 - name: sylvan_barnet
   filename: null
   group: Sylvan Barnet
@@ -5492,6 +5856,17 @@ items:
   books: []
   description: "- (paper) [How to Take Smart Notes](/books/info/9783982438801) by\
     \ S\xF6nke Ahrens"
+- name: ta-nehisi_coates
+  filename: null
+  group: Ta-Nehisi Coates
+  title:
+  - Ta-Nehisi Coates (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [The Beautiful Struggle](/books/info/B002V0GGNM) by Ta-Nehisi
+    Coates'
 - name: takeo_kajiwara
   filename: null
   group: Takeo Kajiwara
@@ -5585,6 +5960,17 @@ items:
     - (paper) [Small Gods (Discworld, #13)](/books/info/9780061092176) by Terry Pratchett
 
     - (paper) [Men At Arms](/books/info/9780552140287) by Terry Pratchett'
+- name: the_school_of_life.
+  filename: null
+  group: The School Of Life.
+  title:
+  - The School Of Life. (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School
+    Of Life.'
 - name: the_school_of_life
   filename: null
   group: The School of Life
@@ -5607,6 +5993,17 @@ items:
   books: []
   description: '- (audio) [Heroes and Legends](/books/info/B00IB17PMG) by Thomas A.
     Shippey'
+- name: tim_wu
+  filename: null
+  group: Tim Wu
+  title:
+  - Tim Wu (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [The Attention Merchants](/books/info/9780385352017) by
+    Tim Wu'
 - name: timothy_samara
   filename: null
   group: Timothy Samara
@@ -5781,6 +6178,17 @@ items:
   books: []
   description: '- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia
     Tufte'
+- name: virginia_woolf
+  filename: null
+  group: Virginia Woolf
+  title:
+  - Virginia Woolf (1)
+  - null
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [A Writer''s Diary](/books/info/B07L1BZZVR) by Virginia
+    Woolf'
 - name: w._richard_stevens
   filename: null
   group: W. Richard Stevens

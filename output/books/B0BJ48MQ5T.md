@@ -6,7 +6,7 @@ subtitle: Some Instructions on Writing and Life
 link: https://www.audible.com/pd/Bird-by-Bird-Audiobook/B0BJ48MQ5T
 author: Anne Lamott
 narrator: Anne Lamott
-cover_url: My%20Library%20Audible.com-1_files/41Oo9hR8rBL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/41Oo9hR8rBL._SL500_.jpg
 cover_filename: B0BJ48MQ5T.jpg
 source: Audible
 book_type: audiobook

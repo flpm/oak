@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 def convert_downloaded_html(
-    number_of_pages=3, location="./raw/audible/library/audible_saved/"
+    number_of_pages=5, start_at=5, location="./raw/audible/library/audible_saved/"
 ):
     """
     Convert the downloaded HTML files from Audible to a readable HTML file.
@@ -22,15 +22,15 @@ def convert_downloaded_html(
 
     """
     html_filenames = [
-        f"{location}/My Library Audible.com-{i + 1}.html"
-        for i in range(number_of_pages)
+        f"{location}/My Library Audible.com-{i}.html"
+        for i in range(start_at, number_of_pages + 1)
     ]
     result = list()
     for i, filename in enumerate(html_filenames):
         with open(filename, "r") as fp:
             html_doc = fp.read()
         soup = BeautifulSoup(html_doc, "html.parser")
-        pretty_name = f"./raw/audible/library/my_library_{i + 1}.html"
+        pretty_name = f"./raw/audible/library/my_library_{i}.html"
         with open(pretty_name, "w") as fp_w:
             fp_w.write(soup.prettify())
             result.append((pretty_name, filename))

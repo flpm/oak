@@ -11,7 +11,7 @@ listening:
   duration: 73567.0
   first_time: '2022-01-29'
   last_time: '2022-03-08'
-link: https://www.audible.com/pd/Classical-Archaeology-of-Ancient-Greece-and-Rome-Audiobook/B00DG7NVXC
+link: https://www.audible.com/pd/B00DG7NVXC
 source: Audible
 purchase_date: '2022-01-29'
 listening_date: '2022-01-29'
@@ -35,16 +35,21 @@ rating:
 duration: 68340000
 cover_filename: B00DG7NVXC.jpg
 read_status:
-  start: true
   finish: true
   like: true
   recommend: true
-recommendation_status: null
+  start: true
+recommendation_status: true
 theme: archaeology
 author: John R. Hale
 narrator: John R. Hale
 cover_url: My%20Library%20Audible.com-2_files/51bSg0dIY2L._SL500_.jpg
 book_type: audiobook
+origin:
+  book:
+  - B07MDHVBLY
+  - audiobook
+  - The Roman Empire
 ---
 Over the years, Classical archaeology has evolved from a pastime of collectors and antiquarians to a mature science. Today, the field is a multidisciplinary effort that involves not only traditional diggers, but also geologists, geographers, anthropologists, and linguists.These 36 lectures introduce you to this fascinating field of study. Professor Hale guides you through dozens of ancient sites with the skill of a born storyteller.
 The riveting narrative unfolds like a series of detective stories and provides a new perspective from which to view the world of the Greeks and Romans, resurrecting them in all their glory and affording us a better grasp of cultures that have greatly influenced our own.

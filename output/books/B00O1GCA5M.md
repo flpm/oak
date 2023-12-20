@@ -12,7 +12,7 @@ listening:
   duration: 26395.0
   first_time: '2023-05-27'
   last_time: '2023-06-03'
-link: https://www.audible.com/pd/The-Elements-of-Eloquence-Audiobook/B00O1GCA5M
+link: https://www.audible.com/pd/B00O1GCA5M
 source: Audible
 purchase_date: '2023-05-03'
 listening_date: '2023-05-27'
@@ -32,9 +32,9 @@ rating:
 duration: 20040000
 cover_filename: B00O1GCA5M.jpg
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: writing
 recommendation_status: null
 author: Mark Forsyth

@@ -9,6 +9,7 @@ books: &id001
 - '9781419724015'
 - '9783836545303'
 - '9788437507521'
+- '9780062872968'
 - '9781631596315'
 - '9781631597480'
 - '9781933820118'
@@ -28,7 +29,6 @@ books: &id001
 - '9780954413217'
 - '9780262540292'
 - '9780735711655'
-- '9780062872968'
 - '9780465051366'
 - '9781568982496'
 - '9781568987729'
@@ -40,7 +40,8 @@ items:
   description: "- (paper) [The Moderns](/books/info/9781419724015) by Steven Heller,\
     \ Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303) by Jens\
     \ M\xFCller\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
-    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
+    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Why Design Matters](/books/info/9780062872968)\
+    \ by Debbie Millman\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
     \ by Beth Tondreau\n- (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480)\
     \ by Bruce Hanington, Bella Martin\n- (paper) [Interviewing Users](/books/info/9781933820118)\
     \ by Steve Portigal\n- (paper) [Designing Your Life](/books/info/9781784740245)\
@@ -60,8 +61,7 @@ items:
     \ by Don Norman\n- (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo\n\
     - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A\
     \ Dondis\n- (paper) [MTIV Process, Inspiration and Practice for the New Media\
-    \ Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper) [Why Design\
-    \ Matters](/books/info/9780062872968) by Debbie Millman\n- (paper) [Emotional\
+    \ Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper) [Emotional\
     \ Design](/books/info/9780465051366) by Don Norman\n- (paper) [Geometry of Design](/books/info/9781568982496)\
     \ by Kimberly Elam\n- (paper) [Graphic Design Theory](/books/info/9781568987729)\
     \ by Helen Armstrong\n- (paper) [Indie Publishing](/books/info/9781568987606)\

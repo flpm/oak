@@ -33,8 +33,8 @@ rating:
 duration: 68760000
 cover_filename: B00SJIVE3W.jpg
 read_status:
-  start: true
   dislike: true
+  start: true
 theme: writing
 recommendation_status: null
 ---

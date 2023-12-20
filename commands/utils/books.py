@@ -85,4 +85,20 @@ def print_book(loop_position, bookd_id, book_type, book):
             color = status_to_color.get(i, "white")
             print(f"[bold {color}]{i}[/bold {color}]", end=" ")
         print("")
+    if book.get("origin"):
+        origin_str = ", ".join(
+            [
+                f"[bold white]{key}[/bold white]: {value}"
+                for key, value in book["origin"].items()
+            ]
+        )
+        print(f"origin: {origin_str}")
+    if book.get("inspired_by"):
+        inspired_by_str = ", ".join(
+            [
+                f"[bold white]{key}[/bold white]: {value}"
+                for key, value in book["inspired_by"].items()
+            ]
+        )
+        print(f"inspired_by: {inspired_by_str}")
     print("---")

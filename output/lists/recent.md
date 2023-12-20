@@ -12,32 +12,31 @@ items:
   subtitle: null
   sublist_description: null
   books:
-  - B075F8XF1V
-  - B0BFK1K36D
-  - B07M6LD93N
-  - '9780197656884'
-  - '9781848310308'
-  - '9780822332138'
-  - '9780205118458'
-  - '9781846683800'
+  - '1662084005'
+  - B00XUTQ692
+  - B079Y9D1N1
+  - '9780385352017'
+  - '9781982113476'
+  - '9780691135199'
+  - B07L39ZZ2Q
+  - '9788419969071'
   description: 'Book titles:
 
-    - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+    - (audio) [Wordcraft](/books/info/1662084005) by Jack Hart
 
-    - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs
+    - (audio) [You''re Never Weird on the Internet (Almost)](/books/info/B00XUTQ692)
+    by Felicia Day
 
-    - (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
+    - (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari Byron
 
-    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
+    - (paper) [The Attention Merchants](/books/info/9780385352017) by Tim Wu
 
-    - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
+    - (paper) [Every Tool''s a Hammer](/books/info/9781982113476) by Adam Savage
 
-    - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
-    by Diane P. Freedman, Olivia Frey
+    - (paper) [The Chapter](/books/info/9780691135199) by Nicholas Dames
 
-    - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
-    by Sylvan Barnet, William E. Cain
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage
 
-    - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard'
+    - (paper) [La vida con libros](/books/info/9788419969071) by Ricardo Moreno Castillo'
 ---
 

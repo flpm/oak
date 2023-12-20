@@ -6,7 +6,7 @@ subtitle: The Quest to Crack an Ancient Code
 link: https://www.audible.com/pd/The-Riddle-of-the-Labyrinth-Audiobook/B00F3IZ0CM
 author: Margalit Fox
 narrator: Pam Ward
-cover_url: My%20Library%20Audible.com-1_files/61lojzwzZPL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/61lojzwzZPL._SL500_.jpg
 cover_filename: B00F3IZ0CM.jpg
 source: Audible
 book_type: audiobook

@@ -12,7 +12,7 @@ listening:
   duration: 109782.0
   first_time: '2015-08-10'
   last_time: '2017-01-18'
-link: https://www.audible.com/pd/Death-on-the-Nile-Audiobook/B008ELXJD2
+link: https://www.audible.com/pd/B008ELXJD2
 source: Audible
 purchase_date: '2015-08-13'
 listening_date: '2015-08-10'
@@ -34,9 +34,9 @@ rating:
 duration: 29160000
 cover_filename: B008ELXJD2.jpg
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: crime fiction
 recommendation_status: null
 author: Agatha Christie

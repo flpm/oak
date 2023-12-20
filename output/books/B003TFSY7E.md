@@ -12,7 +12,7 @@ listening:
   duration: 2003.0
   first_time: '2019-12-11'
   last_time: '2019-12-11'
-link: https://www.audible.com/pd/Naked-Economics-Audiobook/B003TFSY7E
+link: https://www.audible.com/pd/B003TFSY7E
 source: Audible
 purchase_date: '2010-11-23'
 listening_date: '2019-12-11'
@@ -32,8 +32,8 @@ rating:
 duration: 50220000
 cover_filename: B003TFSY7E.jpg
 read_status:
-  start: true
   like: true
+  start: true
 theme: economics
 recommendation_status: null
 author: Charles Wheelan

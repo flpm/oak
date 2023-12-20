@@ -12,7 +12,7 @@ listening:
   duration: 17713.0
   first_time: '2021-08-09'
   last_time: '2021-09-27'
-link: https://www.audible.com/pd/Make-Time-Audiobook/B07DHSQL6Q
+link: https://www.audible.com/pd/B07DHSQL6Q
 source: Audible
 purchase_date: '2021-08-09'
 listening_date: '2021-08-09'
@@ -36,9 +36,9 @@ rating:
 duration: 18120000
 cover_filename: B07DHSQL6Q.jpg
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: business
 recommendation_status: null
 author: Jake Knapp

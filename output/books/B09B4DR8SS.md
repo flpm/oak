@@ -6,7 +6,7 @@ subtitle: Oxford World's Classics
 link: https://www.audible.com/pd/Confessions-Audiobook/B09B4DR8SS
 author: St. Augustine
 narrator: S. D. Cousins
-cover_url: My%20Library%20Audible.com-1_files/51MgZbJ8AdL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/51MgZbJ8AdL._SL500_.jpg
 cover_filename: B09B4DR8SS.jpg
 source: Audible
 book_type: audiobook

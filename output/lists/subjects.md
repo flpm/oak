@@ -12,9 +12,11 @@ items:
     Ages
   sublist_description: null
   books: []
-  description: "- (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard\n\
-    - (paper) [Une journ\xE9e dans la Rome antique](/books/info/9782228930376) by\
-    \ Alberto Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
+  description: "- (paper) [Journeys of the Mind](/books/info/9780691242286) by Peter\
+    \ Brown\n- (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard\n\
+    - (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard\n- (paper)\
+    \ [Une journ\xE9e dans la Rome antique](/books/info/9782228930376) by Alberto\
+    \ Angela\n- (paper) [From Caesar to Augustus (C. 49 BC-AD 14)](/books/info/9781107675698)\
     \ by Clare Rowan\n- (paper) [Chronology of the Ancient World, 10,000 B.C. to A.D.\
     \ 799](/books/info/9780133264227) by H. E. L. Mellersh\n- (audio) [The Greek and\
     \ Persian Wars](/books/info/B00DC5SB06) by John R. Hale\n- (paper) [Cannae](/books/info/9781541699250)\
@@ -40,11 +42,9 @@ items:
     - (paper) [L'Histoire commence \xE0 Sumer](/books/info/9782080812988) by Samuel\
     \ Noah Kramer\n- (paper) [Los Egipcios](/books/info/9788420635507) by Isaac Asimov\n\
     - (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio)\
-    \ [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n- (audio) [Julius\
-    \ Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller\n- (audio) [Herodotus](/books/info/B00DC8CFZK)\
+    \ [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n- (audio) [Herodotus](/books/info/B00DC8CFZK)\
     \ by Elizabeth Vandiver\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG)\
-    \ by Jeremy McInerney\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
-    \ Garland\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
+    \ by Jeremy McInerney\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
     \ by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur\n\
     - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck\n\
     - (audio) [Great Battles of the Ancient World](/books/info/B00DB92ATG) by Garrett\
@@ -140,12 +140,13 @@ items:
   filename: null
   group: Biography
   title:
-  - Biography (10)
+  - Biography (11)
   - /books/about_biography/
   subtitle: Books about the life of a person
   sublist_description: null
   books: []
-  description: "- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
+  description: "- (audio) [The Beautiful Struggle](/books/info/B002V0GGNM) by Ta-Nehisi\
+    \ Coates\n- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
     - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki\n- (paper)\
     \ [Turning Point](/books/info/9781421560908) by Hayao Miyazaki\n- (paper) [The\
     \ Good Neighbor](/books/info/9781419727726) by Maxwell King\n- (paper) [Moi Asimov](/books/info/9782070313020)\
@@ -219,10 +220,10 @@ items:
   subtitle: null
   sublist_description: null
   books: []
-  description: "- (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie\n\
-    - (audio) [Death on the Nile](/books/info/B008ELXJD2) by Agatha Christie\n- (audio)\
-    \ [The Under Dog and Other Stories](/books/info/B008RBDG46) by Agatha Christie\n\
-    - (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
+  description: "- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
+    \ by Agatha Christie\n- (audio) [Death on the Nile](/books/info/B008ELXJD2) by\
+    \ Agatha Christie\n- (audio) [The Under Dog and Other Stories](/books/info/B008RBDG46)\
+    \ by Agatha Christie\n- (paper) [L'homme qui regardait passer les trains](/books/info/9782070408368)\
     \ by Georges Simenon\n- (paper) [La tabla de Flandes / The Flanders Panel](/books/info/9788484502623)\
     \ by Arturo P\xE9rez-Reverte\n- (audio) [Poirot Investigates](/books/info/B008EUR8O4)\
     \ by Agatha Christie\n- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur\
@@ -264,7 +265,8 @@ items:
   description: "- (paper) [The Moderns](/books/info/9781419724015) by Steven Heller,\
     \ Greg D'Onofrio\n- (paper) [LOGO Modernism](/books/info/9783836545303) by Jens\
     \ M\xFCller\n- (paper) [Animalario Universal Del Profesor Revillod](/books/info/9788437507521)\
-    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
+    \ by Javier S\xE1ez Cast\xE1n\n- (paper) [Why Design Matters](/books/info/9780062872968)\
+    \ by Debbie Millman\n- (paper) [Layout Essentials Revised and Updated](/books/info/9781631596315)\
     \ by Beth Tondreau\n- (paper) [Universal Methods of Design Expanded and Revised](/books/info/9781631597480)\
     \ by Bruce Hanington, Bella Martin\n- (paper) [Interviewing Users](/books/info/9781933820118)\
     \ by Steve Portigal\n- (paper) [Designing Your Life](/books/info/9781784740245)\
@@ -284,8 +286,7 @@ items:
     \ by Don Norman\n- (paper) [IDEO Method Cards](/books/info/9780954413217) by Ideo\n\
     - (paper) [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A\
     \ Dondis\n- (paper) [MTIV Process, Inspiration and Practice for the New Media\
-    \ Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper) [Why Design\
-    \ Matters](/books/info/9780062872968) by Debbie Millman\n- (paper) [Emotional\
+    \ Designer](/books/info/9780735711655) by Hillman Curtis\n- (paper) [Emotional\
     \ Design](/books/info/9780465051366) by Don Norman\n- (paper) [Geometry of Design](/books/info/9781568982496)\
     \ by Kimberly Elam\n- (paper) [Graphic Design Theory](/books/info/9781568987729)\
     \ by Helen Armstrong\n- (paper) [Indie Publishing](/books/info/9781568987606)\
@@ -364,13 +365,20 @@ items:
   filename: null
   group: Essays
   title:
-  - Essays (6)
+  - Essays (9)
   - /books/about_essays/
   subtitle: Books about essays, including collections of essays
   sublist_description: null
   books: []
-  description: '- (paper) [The Moth Presents All These Wonders](/books/info/9781101904404)
-    by Catherine Burns
+  description: '- (audio) [The Pleasure of Finding Things Out](/books/info/B00BSU83HI)
+    by Richard P. Feynman
+
+    - (paper) [Me Talk Pretty One Day](/books/info/9780316777728) by David Sedaris
+
+    - (audio) [Figuring](/books/info/198484475X) by Maria Popova
+
+    - (paper) [The Moth Presents All These Wonders](/books/info/9781101904404) by
+    Catherine Burns
 
     - (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676) by Judith
     Schalansky
@@ -387,15 +395,16 @@ items:
   filename: null
   group: Fantasy
   title:
-  - Fantasy (16)
+  - Fantasy (17)
   - /books/about_fantasy/
   subtitle: Books about fantasy, including fantasy novels
   sublist_description: null
   books: []
-  description: "- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman,\
-    \ Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918) by Neil\
-    \ Gaiman\n- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King\n\
-    - (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
+  description: "- (paper) [The Lord of the Rings Illustrated Edition](/books/info/9780358653035)\
+    \ by J. R. R. Tolkien\n- (paper) [Good Omens](/books/info/9780060853976) by Neil\
+    \ Gaiman, Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918)\
+    \ by Neil Gaiman\n- (paper) [Fairy Tale](/books/info/9781668002193) by Stephen\
+    \ King\n- (paper) [The Princess Bride](/books/info/9780544173767) by William Goldman\n\
     - (paper) [Feet of Clay (Discworld, #19)](/books/info/9780575059009) by Terry\
     \ Pratchett\n- (paper) [Men at Arms (Discworld, #15)](/books/info/9780575055032)\
     \ by Terry Pratchett\n- (paper) [Guards! Guards! (Discworld, #8)](/books/info/9780575046061)\
@@ -590,16 +599,30 @@ items:
   filename: null
   group: Humor
   title:
-  - Humor (4)
+  - Humor (5)
   - /books/about_humor/
   subtitle: Books about humor and comedy
   sublist_description: null
   books: []
-  description: "- (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n-\
-    \ (paper) [Digue'm agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu\
-    \ Buenafuente, Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The\
-    \ Essential Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto\
-    \ de verano (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
+  description: "- (audio) [All About Me!](/books/info/0593290747) by Mel Brooks\n\
+    - (audio) [Believe Me](/books/info/B06XWYMP73) by Eddie Izzard\n- (paper) [Digue'm\
+    \ agosarat. Els mon\xF2legs](/books/info/9788483009512) by Andreu Buenafuente,\
+    \ Xavier Cassad\xF3, David Escard\xF3, Carles Torras\n- (paper) [The Essential\
+    \ Groucho](/books/info/9780140294255) by Groucho Marx\n- (paper) [Tinto de verano\
+    \ (Tinto de verano #1)](/books/info/9788466306782) by Elvira Lindo"
+- name: about_internet
+  filename: null
+  group: Internet
+  title:
+  - Internet (2)
+  - /books/about_internet/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [The Attention Merchants](/books/info/9780385352017) by
+    Tim Wu
+
+    - (paper) [How to Do Nothing](/books/info/9781612197494) by Jenny Odell'
 - name: about_labyrinths
   filename: null
   group: Labyrinths
@@ -711,16 +734,36 @@ items:
 
     - (paper) [Art and Artifice and Other Essays of Illusion](/books/info/9780786718061)
     by Jim Steinmeyer'
+- name: about_making
+  filename: null
+  group: Making
+  title:
+  - Making (5)
+  - /books/about_making/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (audio) [You''re Never Weird on the Internet (Almost)](/books/info/B00XUTQ692)
+    by Felicia Day
+
+    - (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari Byron
+
+    - (paper) [Every Tool''s a Hammer](/books/info/9781982113476) by Adam Savage
+
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage
+
+    - (audio) [Shop Class as Soulcraft](/books/info/1984843613) by Matthew B. Crawford'
 - name: about_math
   filename: null
   group: Math
   title:
-  - Math (21)
+  - Math (22)
   - /books/about_math/
   subtitle: Books about mathematics in general, including probability and statistics
   sublist_description: null
   books: []
-  description: "- (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388)\
+  description: "- (paper) [When You Were a Tadpole and I Was a Fish](/books/info/9780809087372)\
+    \ by Martin Gardner\n- (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388)\
     \ by Chris Albon\n- (paper) [Probabilistic Graphical Models](/books/info/9780262013192)\
     \ by Daphne Koller, Nir Friedman\n- (paper) [Outlier Analysis](/books/info/9783319475776)\
     \ by Charu C. Aggarwal\n- (audio) [Thinking Statistically](/books/info/B00TP2UMTS)\
@@ -767,7 +810,8 @@ items:
   books: []
   description: '- (audio) [Beginner''s Mind](/books/info/B08ZYXLTYG) by Yo-Yo Ma
 
-    - (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright
+    - (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP) by
+    Rufus Wainwright
 
     - (audio) [How to Listen to Jazz](/books/info/B0758HKBPF) by Ted Gioia
 
@@ -889,12 +933,13 @@ items:
   filename: null
   group: Philosophy
   title:
-  - Philosophy (19)
+  - Philosophy (20)
   - /books/about_philosophy/
   subtitle: Books about philosophy in general, including the history of philosophy
   sublist_description: null
   books: []
-  description: "- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
+  description: "- (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School\
+    \ Of Life.\n- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
     - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald\
     \ J. Robertson\n- (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181)\
     \ by Epictetus\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
@@ -971,20 +1016,21 @@ items:
   filename: null
   group: Psychology
   title:
-  - Psychology (17)
+  - Psychology (18)
   - /books/about_psychology/
   subtitle: Books about psychology in general
   sublist_description: null
   books: []
-  description: "- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran\n\
-    - (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C) by Carl Jung\n\
-    - (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n- (audio) [Comebacks\
-    \ at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher T. Noblet\n\
-    - (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne Bryson PhD,\
-    \ Daniel j. Siegel MD\n- (paper) [Mindset](/books/info/9780345472328) by Carol\
-    \ S. Dweck\n- (paper) [Moonwalking with Einstein](/books/info/9781101475973) by\
-    \ Joshua Foer\n- (paper) [Stumbling on Happiness](/books/info/9781400077427) by\
-    \ Daniel Gilbert\n- (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell\n\
+  description: "- (audio) [The Art of Possibility](/books/info/B004GMOPFO) by Rosamund\
+    \ Stone Zander, Benjamin Zander\n- (paper) [Shrinking Violets](/books/info/9781781252635)\
+    \ by Joe Moran\n- (audio) [Memories, Dreams, Reflections](/books/info/B01BW37O5C)\
+    \ by Carl Jung\n- (audio) [Grit](/books/info/B01D3AC5BA) by Angela Duckworth\n\
+    - (audio) [Comebacks at Work](/books/info/B00466Z4JQ) by Kathleen Reardon, Christopher\
+    \ T. Noblet\n- (audio) [No-Drama Discipline](/books/info/B00NJ58OWE) by Tina Payne\
+    \ Bryson PhD, Daniel j. Siegel MD\n- (paper) [Mindset](/books/info/9780345472328)\
+    \ by Carol S. Dweck\n- (paper) [Moonwalking with Einstein](/books/info/9781101475973)\
+    \ by Joshua Foer\n- (paper) [Stumbling on Happiness](/books/info/9781400077427)\
+    \ by Daniel Gilbert\n- (paper) [Blink](/books/info/9780713997279) by Malcolm Gladwell\n\
     - (paper) [Petit trait\xE9 de manipulation \xE0 l'usage des honn\xEAtes gens](/books/info/9782706110443)\
     \ by Robert-Vincent Joule, Jean-L\xE9on Beauvois\n- (paper) [Guia Practica de\
     \ Psicologia](/books/info/9788478809240) by Juan Antonio Vallejo-Nagera\n- (paper)\
@@ -1012,34 +1058,39 @@ items:
   filename: null
   group: Reading
   title:
-  - Reading (10)
+  - Reading (15)
   - /books/about_reading/
   subtitle: Books about reading, including critical reading and literature analysis
   sublist_description: null
   books: []
-  description: '- (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
-
-    - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
-
-    - (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom
-
-    - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas
-
-    - (audio) [The Art of X-Ray Reading](/books/info/B019S38272) by Roy Peter Clark
-
-    - (paper) [Great Books](/books/info/9780684835334) by Denby
-
-    - (audio) [Proust and the Squid](/books/info/B002V5GV9Q) by Maryanne Wolf
-
-    - (audio) [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior, Leland
-    Ryken - foreword
-
-    - (audio) [The Skeptic''s Guide to the Great Books](/books/info/B00DHONYCW) by
-    Grant L. Voth
-
-    - (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM) by Brad S.
-    Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John E. Finn, Andrew
-    R. Wilson'
+  description: "- (paper) [La vida con libros](/books/info/9788419969071) by Ricardo\
+    \ Moreno Castillo\n- (paper) [C\xF3mo ordenar una biblioteca](/books/info/9788433916464)\
+    \ by Roberto Calasso\n- (audio) [Index, a History of The](/books/info/B09RN8YFRB)\
+    \ by Dennis Duncan\n- (paper) [Reading Like a Writer](/books/info/9780060777050)\
+    \ by Francine Prose\n- (paper) [Reading Lessons](/books/info/9780130211002) by\
+    \ Scott Carpenter\n- (paper) [How We Read Now](/books/info/9780197656884) by Naomi\
+    \ Baron\n- (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne\
+    \ Wolf\n- (audio) [The Bright Book of Life](/books/info/0593291956) by Harold\
+    \ Bloom\n- (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt\
+    \ Montas\n- (audio) [The Art of X-Ray Reading](/books/info/B019S38272) by Roy\
+    \ Peter Clark\n- (paper) [Great Books](/books/info/9780684835334) by Denby\n-\
+    \ (audio) [Proust and the Squid](/books/info/B002V5GV9Q) by Maryanne Wolf\n- (audio)\
+    \ [On Reading Well](/books/info/B07L8LL4MC) by Karen Swallow Prior, Leland Ryken\
+    \ - foreword\n- (audio) [The Skeptic's Guide to the Great Books](/books/info/B00DHONYCW)\
+    \ by Grant L. Voth\n- (audio) [36 Books That Changed the World](/books/info/B00MEQRZTM)\
+    \ by Brad S. Gregory, Charles Kimball, Daniel N. Robinson, Jerry Z. Muller, John\
+    \ E. Finn, Andrew R. Wilson"
+- name: about_reference
+  filename: null
+  group: Reference
+  title:
+  - Reference (1)
+  - /books/about_reference/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: "- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas"
 - name: about_role-playing_games
   filename: null
   group: Role-Playing Games
@@ -1118,18 +1169,19 @@ items:
   filename: null
   group: Science
   title:
-  - Science (5)
+  - Science (6)
   - /books/about_science/
   subtitle: Books about science in general
   sublist_description: null
   books: []
-  description: "- (paper) [Un \xE9t\xE9 avec Pascal](/books/info/9782849907481) by\
-    \ Antoine Compagnon\n- (paper) [Why Cats Land on Their Feet](/books/info/9780691148540)\
+  description: "- (paper) [The Selfish Gene](/books/info/9780199291151) by Richard\
+    \ Dawkins\n- (paper) [Un \xE9t\xE9 avec Pascal](/books/info/9782849907481) by\
+    \ Antoine Compagnon\n- (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of\
+    \ the Occult and Supernatural](/books/info/9780312130664) by James Randi, Arthur\
+    \ C. Clarke\n- (paper) [Why Cats Land on Their Feet](/books/info/9780691148540)\
     \ by Mark Levi\n- (paper) [What If? Serious Scientific Answers to Absurd Hypothetical\
     \ Questions](/books/info/9780544272996) by Randall Munroe\n- (paper) [The Varieties\
-    \ of Scientific Experience](/books/info/9780143112624) by Carl Sagan\n- (paper)\
-    \ [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
-    \ by James Randi, Arthur C. Clarke"
+    \ of Scientific Experience](/books/info/9780143112624) by Carl Sagan"
 - name: about_security
   filename: null
   group: Security
@@ -1172,6 +1224,16 @@ items:
     - (paper) [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier
 
     - (paper) [Carry On](/books/info/9781118790816) by Bruce Schneier'
+- name: about_short_stories
+  filename: null
+  group: Short Stories
+  title:
+  - Short Stories (1)
+  - /books/about_short_stories/
+  subtitle: null
+  sublist_description: null
+  books: []
+  description: '- (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges'
 - name: about_sociology
   filename: null
   group: Sociology
@@ -1303,34 +1365,45 @@ items:
   filename: null
   group: Writing
   title:
-  - Writing (39)
+  - Writing (50)
   - /books/about_writing/
   subtitle: Books about writing, grammar, and style
   sublist_description: null
   books: []
-  description: "- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n-\
-    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [Autobiographical\
-    \ Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman,\
-    \ Olivia Frey\n- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)\
-    \ by Sylvan Barnet, William E. Cain\n- (paper) [Everything's an Argument](/books/info/9781319056278)\
-    \ by Andrea A. Lunsford, John J. Ruszkiewicz\n- (paper) [A Short Guide to Writing\
-    \ About Literature](/books/info/9780673525338) by Sylvan Barnet, Reid Gilbert\n\
-    - (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott\n- (audio) [Still\
-    \ Writing](/books/info/0593216342) by Dani Shapiro\n- (audio) [Dreyer's English](/books/info/B07LFKH5FV)\
-    \ by Benjamin Dreyer\n- (audio) [The Memoir Project](/books/info/B0057A3VPE) by\
-    \ Marion Roach Smith\n- (paper) [Building Great Sentences](/books/info/9780452298606)\
-    \ by Brooks Landon\n- (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by\
-    \ Steven Pinker\n- (paper) [A Handlist of Rhetorical Terms](/books/info/9780520273689)\
-    \ by Richard A. Lanham\n- (paper) [Microstyle](/books/info/9780393341812) by Christopher\
-    \ Johnson\n- (paper) [Writing with Pleasure](/books/info/9780691191775) by Helen\
-    \ Sword\n- (paper) [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n\
-    - (audio) [The Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n\
-    - (paper) [First You Write a Sentence](/books/info/9780143134343) by Joe Moran\n\
-    - (audio) [First You Write a Sentence](/books/info/059315018X) by Joe Moran\n\
-    - (audio) [Everybody Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley\n\
-    - (paper) [How to Take Smart Notes](/books/info/9783982438801) by S\xF6nke Ahrens\n\
-    - (paper) [The Best of Brevity](/books/info/9781941628232) by Zo\xEB Bossiere,\
-    \ Dinty W. Moore\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
+  description: "- (audio) [Wordcraft](/books/info/1662084005) by Jack Hart\n- (audio)\
+    \ [A Writer's Diary](/books/info/B07L1BZZVR) by Virginia Woolf\n- (audio) [Writing\
+    \ Down the Bones](/books/info/B002V1J5AC) by Natalie Goldberg\n- (audio) [Stein\
+    \ on Writing](/books/info/B002V59Z1M) by Sol Stein\n- (audio) [Pity the Reader](/books/info/168457448X)\
+    \ by Kurt Vonnegut, Suzanne McConnell\n- (audio) [Zen in the Art of Writing](/books/info/B078Z1139W)\
+    \ by Ray Bradbury\n- (audio) [On Writers and Writing](/books/info/B08F7ZMSGN)\
+    \ by Margaret Atwood\n- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)\
+    \ by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman\n- (paper)\
+    \ [Draft No. 4](/books/info/9780374142742) by John McPhee\n- (audio) [Draft No.\
+    \ 4](/books/info/B075F8XF1V) by John McPhee\n- (audio) [Talk to Me](/books/info/B07M6LD93N)\
+    \ by Dean Nelson\n- (paper) [Getting a Life](/books/info/9780816624904) by Sidonie\
+    \ Smith, Julia Watson\n- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (paper) [Everything's an Argument](/books/info/9781319056278) by Andrea A. Lunsford,\
+    \ John J. Ruszkiewicz\n- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
+    \ by Sylvan Barnet, Reid Gilbert\n- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T)\
+    \ by Anne Lamott\n- (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by\
+    \ Dorsey Armstrong\n- (audio) [Still Writing](/books/info/0593216342) by Dani\
+    \ Shapiro\n- (audio) [Dreyer's English](/books/info/B07LFKH5FV) by Benjamin Dreyer\n\
+    - (audio) [The Memoir Project](/books/info/B0057A3VPE) by Marion Roach Smith\n\
+    - (paper) [Building Great Sentences](/books/info/9780452298606) by Brooks Landon\n\
+    - (audio) [The Sense of Style](/books/info/B00M8U0CJ4) by Steven Pinker\n- (paper)\
+    \ [A Handlist of Rhetorical Terms](/books/info/9780520273689) by Richard A. Lanham\n\
+    - (paper) [Microstyle](/books/info/9780393341812) by Christopher Johnson\n- (paper)\
+    \ [Writing with Pleasure](/books/info/9780691191775) by Helen Sword\n- (paper)\
+    \ [Artful Sentences](/books/info/9780961392185) by Virginia Tufte\n- (audio) [The\
+    \ Elements of Eloquence](/books/info/B00O1GCA5M) by Mark Forsyth\n- (paper) [First\
+    \ You Write a Sentence](/books/info/9780143134343) by Joe Moran\n- (audio) [First\
+    \ You Write a Sentence](/books/info/059315018X) by Joe Moran\n- (audio) [Everybody\
+    \ Writes (2nd Edition)](/books/info/B0BX7CJVCS) by Ann Handley\n- (paper) [How\
+    \ to Take Smart Notes](/books/info/9783982438801) by S\xF6nke Ahrens\n- (paper)\
+    \ [The Best of Brevity](/books/info/9781941628232) by Zo\xEB Bossiere, Dinty W.\
+    \ Moore\n- (audio) [Writing Tools (10th Anniversary Edition)](/books/info/1549108603)\
     \ by Roy Peter Clark\n- (paper) [Smart Brevity](/books/info/9781523516971) by\
     \ Jim VandeHei, Mike Allen, Roy Schwartz\n- (paper) [Several Short Sentences About\
     \ Writing](/books/info/9780307279415) by Verlyn Klinkenborg\n- (audio) [On Writing](/books/info/B002V1A0WE)\

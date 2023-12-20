@@ -6,6 +6,7 @@ filename: null
 group: Biography
 sublist_description: null
 books: &id001
+- B002V0GGNM
 - '9781982167738'
 - '9781421505947'
 - '9781421560908'
@@ -20,7 +21,8 @@ items:
 - name: about_biography
   title: null
   books: *id001
-  description: "- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
+  description: "- (audio) [The Beautiful Struggle](/books/info/B002V0GGNM) by Ta-Nehisi\
+    \ Coates\n- (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart\n\
     - (paper) [Starting Point](/books/info/9781421505947) by Hayao Miyazaki\n- (paper)\
     \ [Turning Point](/books/info/9781421560908) by Hayao Miyazaki\n- (paper) [The\
     \ Good Neighbor](/books/info/9781419727726) by Maxwell King\n- (paper) [Moi Asimov](/books/info/9782070313020)\

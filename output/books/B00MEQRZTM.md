@@ -5,7 +5,7 @@ title: 36 Books That Changed the World
 link: https://www.audible.com/pd/36-Books-That-Changed-the-World-Audiobook/B00MEQRZTM
 author: The Great Courses
 narrator: Andrew R. Wilson
-cover_url: My%20Library%20Audible.com-1_files/413e92cHatL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/413e92cHatL._SL500_.jpg
 cover_filename: B00MEQRZTM.jpg
 source: Audible
 book_type: audiobook

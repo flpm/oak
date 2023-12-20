@@ -5,7 +5,7 @@ title: The Skeptic's Guide to the Great Books
 link: https://www.audible.com/pd/The-Skeptics-Guide-to-the-Great-Books-Audiobook/B00DHONYCW
 author: Grant L. Voth
 narrator: Grant L. Voth
-cover_url: My%20Library%20Audible.com-1_files/41voObpOqVL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/41voObpOqVL._SL500_.jpg
 cover_filename: B00DHONYCW.jpg
 source: Audible
 book_type: audiobook

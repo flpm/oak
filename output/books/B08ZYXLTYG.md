@@ -12,7 +12,7 @@ listening:
   duration: 5428.0
   first_time: '2021-10-27'
   last_time: '2021-11-12'
-link: https://www.audible.com/pd/Beginners-Mind-Audiobook/B08ZYXLTYG
+link: https://www.audible.com/pd/B08ZYXLTYG
 source: Audible
 purchase_date: '2021-10-27'
 listening_date: '2021-10-27'
@@ -32,12 +32,12 @@ rating:
 duration: 5580000
 cover_filename: B08ZYXLTYG.gif
 read_status:
-  start: true
   finish: true
   like: true
   plan: true
   recommend: true
-recommendation_status: null
+  start: true
+recommendation_status: true
 theme: music
 do_not_update:
 - cover_filename

@@ -6,9 +6,44 @@ filename: null
 group: English
 sublist_description: null
 books: &id001
+- '1662084005'
+- B00XUTQ692
+- B079Y9D1N1
+- '9780385352017'
+- '9781982113476'
+- '9780691135199'
+- B07L39ZZ2Q
+- B004GMOPFO
+- '1984843613'
+- B09RN8YFRB
+- B07L1BZZVR
+- B00BSU83HI
+- B002V1J5AC
+- B002V0GGNM
+- B002V59Z1M
+- 168457448X
+- B078Z1139W
+- '9780358653035'
+- '9781612197494'
+- '9780060777050'
+- '9780691242286'
+- B08F7ZMSGN
+- '9780674057579'
+- '9780809087372'
+- '9780316777728'
+- '9780199291151'
+- '9780374142742'
+- 198484475X
+- 0593290747
+- '9780871404220'
+- '9780130211002'
+- '9780679422990'
 - B075F8XF1V
+- '9781912891931'
 - B0BFK1K36D
 - B07M6LD93N
+- '9781529087147'
+- '9780816624904'
 - '9780197656884'
 - '9781848310308'
 - '9780822332138'
@@ -30,6 +65,7 @@ books: &id001
 - '9780143126676'
 - B0BJ48MQ5T
 - 0593291956
+- B00D6OQUAG
 - '9780786966264'
 - '1984891626'
 - 0593216342
@@ -100,6 +136,7 @@ books: &id001
 - 197734996X
 - '9781475246636'
 - '9781093905632'
+- '9780062872968'
 - '9780500288993'
 - '9781787734654'
 - B00DG7NVXC
@@ -197,6 +234,7 @@ books: &id001
 - '9781101475973'
 - '9784871871020'
 - '9780470068526'
+- '9780312130664'
 - '9781491949641'
 - '9780691148540'
 - '9781446200469'
@@ -285,7 +323,6 @@ books: &id001
 - '9780879236366'
 - '9780262540292'
 - '9780735711655'
-- '9780062872968'
 - '9780262015486'
 - '9781616895280'
 - '9780465051366'
@@ -353,7 +390,6 @@ books: &id001
 - '9780140442106'
 - '9781118143308'
 - '9781118790816'
-- '9780312130664'
 - '9780743200790'
 - '9780547928241'
 - '9780751504835'
@@ -377,15 +413,16 @@ books: &id001
 - '9780140126716'
 - '9780316014991'
 - B008EUR8O4
+- '1977386865'
+- B00GG0C3FI
 - B08M93Q9SP
 - B00D8HXDPQ
 - B01KMXAL9Y
-- B002V8KXYC
+- B00D8LT7A2
 - B00DC8CFZK
 - B06WLMWF2S
 - B00D6OQFZG
 - B00DDXQ61S
-- B00XP3CMHI
 - B013KRSIVC
 - B00F52DXH0
 - B00LG7MR20
@@ -393,6 +430,7 @@ books: &id001
 - B00D7JMGEY
 - '1549104780'
 - B00DHKJ6V4
+- B0B3BV9MC9
 - B00SJIVE3W
 - 170526526X
 - B0774ZRRJL
@@ -434,38 +472,73 @@ books: &id001
 - B00FEFE4XK
 - B002V0RHKS
 - B002UZYX2Y
+- B00DCWVYR6
 items:
 - name: in_english
   title: null
   books: *id001
-  description: "- (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n-\
-    \ (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs\n-\
-    \ (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson\n- (paper) [How\
-    \ We Read Now](/books/info/9780197656884) by Naomi Baron\n- (paper) [Proust And\
-    \ The Squid](/books/info/9781848310308) by Maryanne Wolf\n- (paper) [Autobiographical\
-    \ Writing Across the Disciplines](/books/info/9780822332138) by Diane P. Freedman,\
-    \ Olivia Frey\n- (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)\
-    \ by Sylvan Barnet, William E. Cain\n- (paper) [SPQR](/books/info/9781846683800)\
-    \ by Professor Mary Beard\n- (paper) [Making It So](/books/info/9781982167738)\
-    \ by Patrick Stewart\n- (paper) [Everything's an Argument](/books/info/9781319056278)\
-    \ by Andrea A. Lunsford, John J. Ruszkiewicz\n- (paper) [Candlekeep Mysteries\
-    \ (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223) by Wizards\
-    \ RPG Team\n- (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran\n\
-    - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett\n\
-    - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman\n- (audio)\
-    \ [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs\n- (audio)\
-    \ [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs\n- (paper)\
-    \ [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards RPG Team\n\
-    - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D'Onofrio\n\
-    - (paper) [Fairy Tale](/books/info/9781668002193) by Stephen King\n- (paper) [The\
-    \ Moth Presents All These Wonders](/books/info/9781101904404) by Catherine Burns\n\
-    - (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
+  description: "- (audio) [Wordcraft](/books/info/1662084005) by Jack Hart\n- (audio)\
+    \ [You're Never Weird on the Internet (Almost)](/books/info/B00XUTQ692) by Felicia\
+    \ Day\n- (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari Byron\n- (paper)\
+    \ [The Attention Merchants](/books/info/9780385352017) by Tim Wu\n- (paper) [Every\
+    \ Tool's a Hammer](/books/info/9781982113476) by Adam Savage\n- (paper) [The Chapter](/books/info/9780691135199)\
+    \ by Nicholas Dames\n- (audio) [Every Tool's a Hammer](/books/info/B07L39ZZ2Q)\
+    \ by Adam Savage\n- (audio) [The Art of Possibility](/books/info/B004GMOPFO) by\
+    \ Rosamund Stone Zander, Benjamin Zander\n- (audio) [Shop Class as Soulcraft](/books/info/1984843613)\
+    \ by Matthew B. Crawford\n- (audio) [Index, a History of The](/books/info/B09RN8YFRB)\
+    \ by Dennis Duncan\n- (audio) [A Writer's Diary](/books/info/B07L1BZZVR) by Virginia\
+    \ Woolf\n- (audio) [The Pleasure of Finding Things Out](/books/info/B00BSU83HI)\
+    \ by Richard P. Feynman\n- (audio) [Writing Down the Bones](/books/info/B002V1J5AC)\
+    \ by Natalie Goldberg\n- (audio) [The Beautiful Struggle](/books/info/B002V0GGNM)\
+    \ by Ta-Nehisi Coates\n- (audio) [Stein on Writing](/books/info/B002V59Z1M) by\
+    \ Sol Stein\n- (audio) [Pity the Reader](/books/info/168457448X) by Kurt Vonnegut,\
+    \ Suzanne McConnell\n- (audio) [Zen in the Art of Writing](/books/info/B078Z1139W)\
+    \ by Ray Bradbury\n- (paper) [The Lord of the Rings Illustrated Edition](/books/info/9780358653035)\
+    \ by J. R. R. Tolkien\n- (paper) [How to Do Nothing](/books/info/9781612197494)\
+    \ by Jenny Odell\n- (paper) [Reading Like a Writer](/books/info/9780060777050)\
+    \ by Francine Prose\n- (paper) [Journeys of the Mind](/books/info/9780691242286)\
+    \ by Peter Brown\n- (audio) [On Writers and Writing](/books/info/B08F7ZMSGN) by\
+    \ Margaret Atwood\n- (paper) [Field Notes on Science & Nature](/books/info/9780674057579)\
+    \ by Edward O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman\n- (paper)\
+    \ [When You Were a Tadpole and I Was a Fish](/books/info/9780809087372) by Martin\
+    \ Gardner\n- (paper) [Me Talk Pretty One Day](/books/info/9780316777728) by David\
+    \ Sedaris\n- (paper) [The Selfish Gene](/books/info/9780199291151) by Richard\
+    \ Dawkins\n- (paper) [Draft No. 4](/books/info/9780374142742) by John McPhee\n\
+    - (audio) [Figuring](/books/info/198484475X) by Maria Popova\n- (audio) [All About\
+    \ Me!](/books/info/0593290747) by Mel Brooks\n- (paper) [Emperor of Rome](/books/info/9780871404220)\
+    \ by Mary Beard\n- (paper) [Reading Lessons](/books/info/9780130211002) by Scott\
+    \ Carpenter\n- (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges\n\
+    - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee\n- (paper) [Therapeutic\
+    \ Atlas](/books/info/9781912891931) by The School Of Life.\n- (audio) [The Sandman](/books/info/B0BFK1K36D)\
+    \ by Neil Gaiman, Dirk Maggs\n- (audio) [Talk to Me](/books/info/B07M6LD93N) by\
+    \ Dean Nelson\n- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas\n- (paper) [Getting a Life](/books/info/9780816624904)\
+    \ by Sidonie Smith, Julia Watson\n- (paper) [How We Read Now](/books/info/9780197656884)\
+    \ by Naomi Baron\n- (paper) [Proust And The Squid](/books/info/9781848310308)\
+    \ by Maryanne Wolf\n- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard\n- (paper)\
+    \ [Making It So](/books/info/9781982167738) by Patrick Stewart\n- (paper) [Everything's\
+    \ an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz\n\
+    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)\
+    \ by Wizards RPG Team\n- (paper) [Shrinking Violets](/books/info/9781781252635)\
+    \ by Joe Moran\n- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman,\
+    \ Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918) by Neil\
+    \ Gaiman\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk\
+    \ Maggs\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by\
+    \ Wizards RPG Team\n- (paper) [The Moderns](/books/info/9781419724015) by Steven\
+    \ Heller, Greg D'Onofrio\n- (paper) [Fairy Tale](/books/info/9781668002193) by\
+    \ Stephen King\n- (paper) [The Moth Presents All These Wonders](/books/info/9781101904404)\
+    \ by Catherine Burns\n- (paper) [A Short Guide to Writing About Literature](/books/info/9780673525338)\
     \ by Sylvan Barnet, Reid Gilbert\n- (paper) [Pocket Atlas of Remote Islands](/books/info/9780143126676)\
     \ by Judith Schalansky\n- (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne\
     \ Lamott\n- (audio) [The Bright Book of Life](/books/info/0593291956) by Harold\
-    \ Bloom\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by\
-    \ Wizards RPG Team\n- (audio) [The Map of Knowledge](/books/info/1984891626) by\
-    \ Violet Moller\n- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro\n\
+    \ Bloom\n- (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by Dorsey Armstrong\n\
+    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966264) by Wizards\
+    \ RPG Team\n- (audio) [The Map of Knowledge](/books/info/1984891626) by Violet\
+    \ Moller\n- (audio) [Still Writing](/books/info/0593216342) by Dani Shapiro\n\
     - (paper) [Rescuing Socrates](/books/info/9780691224398) by Roosevelt Montas\n\
     - (paper) [The First Fossil Hunters](/books/info/9780691245607) by Adrienne Mayor\n\
     - (audio) [Dreyer's English](/books/info/B07LFKH5FV) by Benjamin Dreyer\n- (audio)\
@@ -531,23 +604,24 @@ items:
     \ by Glynis M. Breakwell\n- (paper) [Greek Myths](/books/info/9780241397459) by\
     \ Jean Menzies\n- (paper) [The Roman Provence Guide (Interlink Guide)](/books/info/9781566568968)\
     \ by Edwin Mullins\n- (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert\
-    \ Garland\n- (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie\n\
-    - (audio) [Classical Mythology](/books/info/B00D99PNKQ) by Elizabeth Vandiver\n\
-    - (audio) [The Fall of Carthage](/books/info/1977330053) by Adrian Goldsworthy\n\
-    - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n- (audio) [The Fires of\
-    \ Vesuvius](/books/info/197734996X) by Mary Beard\n- (paper) [The Grammar of Romance](/books/info/9781475246636)\
-    \ by Joshua Rudder\n- (paper) [Vita Nostra](/books/info/9781093905632) by Stephen\
-    \ a Berard\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by\
-    \ Adrian Goldsworthy\n- (paper) [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654)\
-    \ by Jacques Lob, Benjamin Legrand, Olivier Bocquet\n- (audio) [Classical Archaeology\
-    \ of Ancient Greece and Rome](/books/info/B00DG7NVXC) by John R. Hale\n- (paper)\
-    \ [Meditations](/books/info/9781541673854) by Marcus Aurelius\n- (audio) [How\
-    \ to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald J. Robertson\n\
-    - (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181) by Epictetus\n\
-    - (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n- (paper)\
-    \ [The Stand](/books/info/9780307947307) by Stephen King\n- (audio) [Think like\
-    \ a Stoic](/books/info/1644650649) by Massimo Pigliucci\n- (paper) [The Hill We\
-    \ Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman\n- (paper)\
+    \ Garland\n- (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)\
+    \ by Agatha Christie\n- (audio) [Classical Mythology](/books/info/B00D99PNKQ)\
+    \ by Elizabeth Vandiver\n- (audio) [The Fall of Carthage](/books/info/1977330053)\
+    \ by Adrian Goldsworthy\n- (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard\n\
+    - (audio) [The Fires of Vesuvius](/books/info/197734996X) by Mary Beard\n- (paper)\
+    \ [The Grammar of Romance](/books/info/9781475246636) by Joshua Rudder\n- (paper)\
+    \ [Vita Nostra](/books/info/9781093905632) by Stephen a Berard\n- (paper) [Why\
+    \ Design Matters](/books/info/9780062872968) by Debbie Millman\n- (paper) [The\
+    \ Complete Roman Army](/books/info/9780500288993) by Adrian Goldsworthy\n- (paper)\
+    \ [Snowpiercer 1-3 Boxed Set](/books/info/9781787734654) by Jacques Lob, Benjamin\
+    \ Legrand, Olivier Bocquet\n- (audio) [Classical Archaeology of Ancient Greece\
+    \ and Rome](/books/info/B00DG7NVXC) by John R. Hale\n- (paper) [Meditations](/books/info/9781541673854)\
+    \ by Marcus Aurelius\n- (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG)\
+    \ by Donald J. Robertson\n- (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181)\
+    \ by Epictetus\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\
+    - (paper) [The Stand](/books/info/9780307947307) by Stephen King\n- (audio) [Think\
+    \ like a Stoic](/books/info/1644650649) by Massimo Pigliucci\n- (paper) [The Hill\
+    \ We Climb and Other Poems](/books/info/9780593465066) by Amanda Gorman\n- (paper)\
     \ [Through the Labyrinth](/books/info/9783791321448) by Hermann Kern\n- (paper)\
     \ [Dungeons & Dragons Player's Handbook (Core Rulebook, D&D Roleplaying Game)](/books/info/9780786965601)\
     \ by Wizards RPG Team\n- (paper) [Latin Inscriptions](/books/info/9781606064665)\
@@ -640,7 +714,9 @@ items:
     \ #2)](/books/info/9784906574117) by Kiyoshi Kosugi, James Davies\n- (paper) [Moonwalking\
     \ with Einstein](/books/info/9781101475973) by Joshua Foer\n- (paper) [The Treasure\
     \ Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama\n- (paper) [Security\
-    \ Engineering](/books/info/9780470068526) by Ross J. Anderson\n- (paper) [Why](/books/info/9781491949641)\
+    \ Engineering](/books/info/9780470068526) by Ross J. Anderson\n- (paper) [An Encyclopedia\
+    \ of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
+    \ by James Randi, Arthur C. Clarke\n- (paper) [Why](/books/info/9781491949641)\
     \ by Samantha Kleinberg\n- (paper) [Why Cats Land on Their Feet](/books/info/9780691148540)\
     \ by Mark Levi\n- (paper) [Discovering Statistics Using R](/books/info/9781446200469)\
     \ by Andy Field, Jeremy Miles, Zoe Field\n- (paper) [Graded Go Problems For Beginners\
@@ -736,8 +812,7 @@ items:
     - (paper) [Letters of Credit](/books/info/9780879236366) by Walter Tracey\n- (paper)\
     \ [A Primer of Visual Literacy](/books/info/9780262540292) by Donis A Dondis\n\
     - (paper) [MTIV Process, Inspiration and Practice for the New Media Designer](/books/info/9780735711655)\
-    \ by Hillman Curtis\n- (paper) [Why Design Matters](/books/info/9780062872968)\
-    \ by Debbie Millman\n- (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486)\
+    \ by Hillman Curtis\n- (paper) [Helvetica and the New York City Subway System](/books/info/9780262015486)\
     \ by Paul Shaw\n- (paper) [The Book of Circles: Visualizing Spheres of Knowledge](/books/info/9781616895280)\
     \ by Manuel Lima\n- (paper) [Emotional Design](/books/info/9780465051366) by Don\
     \ Norman\n- (paper) [It's Not How Good You Are, It's How Good You Want To Be](/books/info/9780714843377)\
@@ -808,11 +883,9 @@ items:
     - (paper) [How to Be a Stoic](/books/info/9781541644533) by Massimo Pigliucci\n\
     - (paper) [Letters from a Stoic](/books/info/9780140442106) by Seneca\n- (paper)\
     \ [Liars and Outliers](/books/info/9781118143308) by Bruce Schneier\n- (paper)\
-    \ [Carry On](/books/info/9781118790816) by Bruce Schneier\n- (paper) [An Encyclopedia\
-    \ of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)\
-    \ by James Randi, Arthur C. Clarke\n- (paper) [Failure Is Not an Option](/books/info/9780743200790)\
-    \ by Gene Kranz\n- (paper) [The Hobbit](/books/info/9780547928241) by J. R. R.\
-    \ Tolkien\n- (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835)\
+    \ [Carry On](/books/info/9781118790816) by Bruce Schneier\n- (paper) [Failure\
+    \ Is Not an Option](/books/info/9780743200790) by Gene Kranz\n- (paper) [The Hobbit](/books/info/9780547928241)\
+    \ by J. R. R. Tolkien\n- (paper) [Something Under the Bed Is Drooling](/books/info/9780751504835)\
     \ by Bill Watterson\n- (paper) [Little Wizards Second Printing](/books/info/9781940094984)\
     \ by Crafty Games, Antoine Bauza\n- (paper) [The Calvin and Hobbes Lazy Sunday\
     \ Book](/books/info/9780836218527) by Bill Watterson\n- (paper) [The Far Side\
@@ -834,15 +907,17 @@ items:
     \ by George Orwell\n- (paper) [Nineteen Eighty Four](/books/info/9780140126716)\
     \ by George Orwell\n- (paper) [Writing Tools](/books/info/9780316014991) by Roy\
     \ Peter Clark\n- (audio) [Poirot Investigates](/books/info/B008EUR8O4) by Agatha\
-    \ Christie\n- (audio) [Road Trip Elegies](/books/info/B08M93Q9SP) by Rufus Wainwright\n\
-    - (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by Garrett G. Fagan\n- (audio)\
-    \ [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n- (audio) [Julius\
-    \ Caesar](/books/info/B002V8KXYC) by J. F. C. Fuller\n- (audio) [Herodotus](/books/info/B00DC8CFZK)\
-    \ by Elizabeth Vandiver\n- (audio) [Sherlock Holmes](/books/info/B06WLMWF2S) by\
-    \ Arthur Conan Doyle, Stephen Fry - introductions\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG)\
+    \ Christie\n- (audio) [101 Essays That Will Change the Way You Think](/books/info/1977386865)\
+    \ by Brianna Wiest\n- (audio) [How to Write Short](/books/info/B00GG0C3FI) by\
+    \ Roy Peter Clark\n- (audio) [Road Trip Elegies: Montreal to New York](/books/info/B08M93Q9SP)\
+    \ by Rufus Wainwright\n- (audio) [Emperors of Rome](/books/info/B00D8HXDPQ) by\
+    \ Garrett G. Fagan\n- (audio) [Pax Romana](/books/info/B01KMXAL9Y) by Adrian Goldsworthy\n\
+    - (audio) [The Aeneid of Virgil](/books/info/B00D8LT7A2) by Elizabeth Vandiver\n\
+    - (audio) [Herodotus](/books/info/B00DC8CFZK) by Elizabeth Vandiver\n- (audio)\
+    \ [Sherlock Holmes](/books/info/B06WLMWF2S) by Arthur Conan Doyle, Stephen Fry\
+    \ - introductions\n- (audio) [Ancient Greek Civilization](/books/info/B00D6OQFZG)\
     \ by Jeremy McInerney\n- (audio) [Myth in Human History](/books/info/B00DDXQ61S)\
-    \ by Grant L. Voth\n- (audio) [Living History](/books/info/B00XP3CMHI) by Robert\
-    \ Garland\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
+    \ by Grant L. Voth\n- (audio) [Great Mythologies of the World](/books/info/B013KRSIVC)\
     \ by Grant L. Voth, Julius H. Bailey, Kathryn McClymond, Robert Andr&eacute; LaFleur\n\
     - (audio) [Writing and Civilization](/books/info/B00F52DXH0) by Marc Zender\n\
     - (audio) [Cities of the Ancient World](/books/info/B00LG7MR20) by Steven L. Tuck\n\
@@ -850,8 +925,9 @@ items:
     \ G. Fagan\n- (audio) [Alexander the Great and the Hellenistic Age](/books/info/B00D7JMGEY)\
     \ by Jeremy McInerney\n- (audio) [Philip and Alexander](/books/info/1549104780)\
     \ by Adrian Goldsworthy\n- (audio) [Rome and the Barbarians](/books/info/B00DHKJ6V4)\
-    \ by Kenneth W. Harl\n- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W)\
-    \ by Kevin Flanigan\n- (audio) [The Copywriter's Handbook](/books/info/170526526X)\
+    \ by Kenneth W. Harl\n- (audio) [Semiotics](/books/info/B0B3BV9MC9) by Daniel\
+    \ Chandler\n- (audio) [Building a Better Vocabulary](/books/info/B00SJIVE3W) by\
+    \ Kevin Flanigan\n- (audio) [The Copywriter's Handbook](/books/info/170526526X)\
     \ by Robert W. Bly\n- (audio) [Several Short Sentences About Writing](/books/info/B0774ZRRJL)\
     \ by Verlyn Klinkenborg\n- (audio) [Shrinking Violets](/books/info/B06VSQVPCY)\
     \ by Joe Moran\n- (audio) [Proust and the Squid](/books/info/B002V5GV9Q) by Maryanne\
@@ -893,6 +969,7 @@ items:
     \ [The Complete Sherlock Holmes](/books/info/B00FEFE4XK) by Arthur Conan Doyle\n\
     - (audio) [The Complete Stories of Sherlock Holmes, Volume 1](/books/info/B002V0RHKS)\
     \ by Arthur Conan Doyle\n- (audio) [The Pillars of the Earth](/books/info/B002UZYX2Y)\
-    \ by Ken Follett"
+    \ by Ken Follett\n- (audio) [The Iliad of Homer](/books/info/B00DCWVYR6) by Elizabeth\
+    \ Vandiver"
 ---
 

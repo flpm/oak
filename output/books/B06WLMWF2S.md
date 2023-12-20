@@ -11,7 +11,7 @@ listening:
   duration: 11158.0
   first_time: '2022-01-24'
   last_time: '2022-01-27'
-link: https://www.audible.com/pd/Sherlock-Holmes-Audiobook/B06WLMWF2S
+link: https://www.audible.com/pd/B06WLMWF2S
 source: Audible
 listening_date: '2022-01-24'
 topics:
@@ -32,9 +32,9 @@ rating:
 duration: 230040000
 cover_filename: B06WLMWF2S.jpg
 read_status:
-  start: true
   like: true
   plan: true
+  start: true
 theme: crime fiction
 recommendation_status: null
 author: Arthur Conan Doyle

@@ -6,7 +6,7 @@ subtitle: An Utterly Correct Guide to Clarity and Style
 link: https://www.audible.com/pd/Dreyers-English-Audiobook/B07LFKH5FV
 author: Benjamin Dreyer
 narrator: Benjamin Dreyer
-cover_url: My%20Library%20Audible.com-1_files/41uIMs7+WuL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/41uIMs7+WuL._SL500_.jpg
 cover_filename: B07LFKH5FV.jpg
 source: Audible
 book_type: audiobook

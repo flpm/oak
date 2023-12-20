@@ -11,7 +11,7 @@ listening:
   duration: 70001.0
   first_time: '2022-04-15'
   last_time: '2022-05-09'
-link: https://www.audible.com/pd/Myth-in-Human-History-Audiobook/B00DDXQ61S
+link: https://www.audible.com/pd/B00DDXQ61S
 source: Audible
 listening_date: '2022-04-15'
 topics:
@@ -31,10 +31,10 @@ rating:
 duration: 67560000
 cover_filename: B00DDXQ61S.jpg
 read_status:
-  start: true
   finish: true
   like: true
   recommend: true
+  start: true
 theme: mythology
 recommendation_status: null
 author: Grant L. Voth

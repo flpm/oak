@@ -6,6 +6,7 @@ filename: null
 group: Philosophy
 sublist_description: null
 books: &id001
+- '9781912891931'
 - '9781541673854'
 - B07FB135GG
 - '9780199595181'
@@ -29,7 +30,8 @@ items:
 - name: about_philosophy
   title: null
   books: *id001
-  description: "- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
+  description: "- (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School\
+    \ Of Life.\n- (paper) [Meditations](/books/info/9781541673854) by Marcus Aurelius\n\
     - (audio) [How to Think Like a Roman Emperor](/books/info/B07FB135GG) by Donald\
     \ J. Robertson\n- (paper) [Discourses, Fragments, Handbook](/books/info/9780199595181)\
     \ by Epictetus\n- (paper) [Meditations](/books/info/9780812968255) by Marcus Aurelius\n\

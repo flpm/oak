@@ -3,6 +3,50 @@ name: timeline
 title: Book timeline
 subtitle: Books in the order I bought them
 items:
+- name: 2023-12
+  filename: null
+  group: 2023-12
+  title:
+  - December 2023
+  - null
+  subtitle: null
+  sublist_description: null
+  books:
+  - '1662084005'
+  - B00XUTQ692
+  - B079Y9D1N1
+  - '9780385352017'
+  - '9781982113476'
+  - '9780691135199'
+  - B07L39ZZ2Q
+  - '9788419969071'
+  - '9788433916464'
+  - B004GMOPFO
+  - '1984843613'
+  - B09RN8YFRB
+  - B07L1BZZVR
+  - B00BSU83HI
+  - B002V1J5AC
+  - B002V0GGNM
+  - B002V59Z1M
+  description: "Book titles:\n- (audio) [Wordcraft](/books/info/1662084005) by Jack\
+    \ Hart\n- (audio) [You're Never Weird on the Internet (Almost)](/books/info/B00XUTQ692)\
+    \ by Felicia Day\n- (audio) [Crash Test Girl](/books/info/B079Y9D1N1) by Kari\
+    \ Byron\n- (paper) [The Attention Merchants](/books/info/9780385352017) by Tim\
+    \ Wu\n- (paper) [Every Tool's a Hammer](/books/info/9781982113476) by Adam Savage\n\
+    - (paper) [The Chapter](/books/info/9780691135199) by Nicholas Dames\n- (audio)\
+    \ [Every Tool's a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage\n- (paper) [La\
+    \ vida con libros](/books/info/9788419969071) by Ricardo Moreno Castillo\n- (paper)\
+    \ [C\xF3mo ordenar una biblioteca](/books/info/9788433916464) by Roberto Calasso\n\
+    - (audio) [The Art of Possibility](/books/info/B004GMOPFO) by Rosamund Stone Zander,\
+    \ Benjamin Zander\n- (audio) [Shop Class as Soulcraft](/books/info/1984843613)\
+    \ by Matthew B. Crawford\n- (audio) [Index, a History of The](/books/info/B09RN8YFRB)\
+    \ by Dennis Duncan\n- (audio) [A Writer's Diary](/books/info/B07L1BZZVR) by Virginia\
+    \ Woolf\n- (audio) [The Pleasure of Finding Things Out](/books/info/B00BSU83HI)\
+    \ by Richard P. Feynman\n- (audio) [Writing Down the Bones](/books/info/B002V1J5AC)\
+    \ by Natalie Goldberg\n- (audio) [The Beautiful Struggle](/books/info/B002V0GGNM)\
+    \ by Ta-Nehisi Coates\n- (audio) [Stein on Writing](/books/info/B002V59Z1M) by\
+    \ Sol Stein"
 - name: 2023-11
   filename: null
   group: 2023-11
@@ -12,11 +56,69 @@ items:
   subtitle: null
   sublist_description: null
   books:
+  - 168457448X
+  - B078Z1139W
+  - '9780358653035'
+  - '9781612197494'
+  - '9780060777050'
+  - '9780691242286'
+  - B08F7ZMSGN
+  - '9780674057579'
+  - '9780809087372'
+  - '9780316777728'
+  - '9780199291151'
+  - '9780374142742'
+  - 198484475X
+  - 0593290747
+  - '9780871404220'
+  - '9780130211002'
+  - '9780679422990'
   - B075F8XF1V
+  - '9781912891931'
   - B0BFK1K36D
   description: 'Book titles:
 
+    - (audio) [Pity the Reader](/books/info/168457448X) by Kurt Vonnegut, Suzanne
+    McConnell
+
+    - (audio) [Zen in the Art of Writing](/books/info/B078Z1139W) by Ray Bradbury
+
+    - (paper) [The Lord of the Rings Illustrated Edition](/books/info/9780358653035)
+    by J. R. R. Tolkien
+
+    - (paper) [How to Do Nothing](/books/info/9781612197494) by Jenny Odell
+
+    - (paper) [Reading Like a Writer](/books/info/9780060777050) by Francine Prose
+
+    - (paper) [Journeys of the Mind](/books/info/9780691242286) by Peter Brown
+
+    - (audio) [On Writers and Writing](/books/info/B08F7ZMSGN) by Margaret Atwood
+
+    - (paper) [Field Notes on Science & Nature](/books/info/9780674057579) by Edward
+    O. Wilson, George B. Schaller, Bernd Heinrich, Bernd Kaufman
+
+    - (paper) [When You Were a Tadpole and I Was a Fish](/books/info/9780809087372)
+    by Martin Gardner
+
+    - (paper) [Me Talk Pretty One Day](/books/info/9780316777728) by David Sedaris
+
+    - (paper) [The Selfish Gene](/books/info/9780199291151) by Richard Dawkins
+
+    - (paper) [Draft No. 4](/books/info/9780374142742) by John McPhee
+
+    - (audio) [Figuring](/books/info/198484475X) by Maria Popova
+
+    - (audio) [All About Me!](/books/info/0593290747) by Mel Brooks
+
+    - (paper) [Emperor of Rome](/books/info/9780871404220) by Mary Beard
+
+    - (paper) [Reading Lessons](/books/info/9780130211002) by Scott Carpenter
+
+    - (paper) [Ficciones](/books/info/9780679422990) by Jorge Luis Borges
+
     - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+
+    - (paper) [Therapeutic Atlas](/books/info/9781912891931) by The School Of Life.
 
     - (audio) [The Sandman](/books/info/B0BFK1K36D) by Neil Gaiman, Dirk Maggs'
 - name: 2023-10
@@ -29,6 +131,8 @@ items:
   sublist_description: null
   books:
   - B07M6LD93N
+  - '9781529087147'
+  - '9780816624904'
   - '9780197656884'
   - '9781848310308'
   - '9780822332138'
@@ -43,42 +147,25 @@ items:
   - B098TWVZVD
   - B086WP794Z
   - '9780786966653'
-  description: 'Book titles:
-
-    - (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean Nelson
-
-    - (paper) [How We Read Now](/books/info/9780197656884) by Naomi Baron
-
-    - (paper) [Proust And The Squid](/books/info/9781848310308) by Maryanne Wolf
-
-    - (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)
-    by Diane P. Freedman, Olivia Frey
-
-    - (paper) [A Short Guide to Writing about Literature](/books/info/9780205118458)
-    by Sylvan Barnet, William E. Cain
-
-    - (paper) [SPQR](/books/info/9781846683800) by Professor Mary Beard
-
-    - (paper) [Making It So](/books/info/9781982167738) by Patrick Stewart
-
-    - (paper) [Everything''s an Argument](/books/info/9781319056278) by Andrea A.
-    Lunsford, John J. Ruszkiewicz
-
-    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)
-    by Wizards RPG Team
-
-    - (paper) [Shrinking Violets](/books/info/9781781252635) by Joe Moran
-
-    - (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman, Terry Pratchett
-
-    - (paper) [American Gods](/books/info/9780063081918) by Neil Gaiman
-
-    - (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk Maggs
-
-    - (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk Maggs
-
-    - (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by Wizards
-    RPG Team'
+  description: "Book titles:\n- (audio) [Talk to Me](/books/info/B07M6LD93N) by Dean\
+    \ Nelson\n- (paper) [A Brief Atlas of the Lighthouses at the End of the World](/books/info/9781529087147)\
+    \ by Gonz\xE1lez Mac\xEDas\n- (paper) [Getting a Life](/books/info/9780816624904)\
+    \ by Sidonie Smith, Julia Watson\n- (paper) [How We Read Now](/books/info/9780197656884)\
+    \ by Naomi Baron\n- (paper) [Proust And The Squid](/books/info/9781848310308)\
+    \ by Maryanne Wolf\n- (paper) [Autobiographical Writing Across the Disciplines](/books/info/9780822332138)\
+    \ by Diane P. Freedman, Olivia Frey\n- (paper) [A Short Guide to Writing about\
+    \ Literature](/books/info/9780205118458) by Sylvan Barnet, William E. Cain\n-\
+    \ (paper) [Spqr](/books/info/9781846683800) by Professor Mary Beard\n- (paper)\
+    \ [Making It So](/books/info/9781982167738) by Patrick Stewart\n- (paper) [Everything's\
+    \ an Argument](/books/info/9781319056278) by Andrea A. Lunsford, John J. Ruszkiewicz\n\
+    - (paper) [Candlekeep Mysteries (D&D Adventure Book - Dungeons & Dragons)](/books/info/9780786967223)\
+    \ by Wizards RPG Team\n- (paper) [Shrinking Violets](/books/info/9781781252635)\
+    \ by Joe Moran\n- (paper) [Good Omens](/books/info/9780060853976) by Neil Gaiman,\
+    \ Terry Pratchett\n- (paper) [American Gods](/books/info/9780063081918) by Neil\
+    \ Gaiman\n- (audio) [The Sandman](/books/info/B098TWVZVD) by Neil Gaiman, Dirk\
+    \ Maggs\n- (audio) [The Sandman](/books/info/B086WP794Z) by Neil Gaiman, Dirk\
+    \ Maggs\n- (paper) [Dungeons & Dragons Waterdeep](/books/info/9780786966653) by\
+    \ Wizards RPG Team"
 - name: 2023-09
   filename: null
   group: 2023-09
@@ -95,6 +182,7 @@ items:
   - '9780143126676'
   - B0BJ48MQ5T
   - 0593291956
+  - B00D6OQUAG
   description: 'Book titles:
 
     - (paper) [The Moderns](/books/info/9781419724015) by Steven Heller, Greg D''Onofrio
@@ -112,7 +200,9 @@ items:
 
     - (audio) [Bird by Bird](/books/info/B0BJ48MQ5T) by Anne Lamott
 
-    - (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom'
+    - (audio) [The Bright Book of Life](/books/info/0593291956) by Harold Bloom
+
+    - (audio) [Analysis and Critique](/books/info/B00D6OQUAG) by Dorsey Armstrong'
 - name: 2023-08
   filename: null
   group: 2023-08
@@ -473,7 +563,8 @@ items:
 
     - (audio) [Greece and Rome](/books/info/B00DEK3UAU) by Robert Garland
 
-    - (audio) [Hercule Poirot](/books/info/0063066734) by Agatha Christie'
+    - (audio) [Hercule Poirot: The Complete Short Stories](/books/info/0063066734)
+    by Agatha Christie'
 - name: 2022-04
   filename: null
   group: 2022-04
@@ -510,6 +601,7 @@ items:
   - '9781475246636'
   - '9781093905632'
   - '9780199124183'
+  - '9780062872968'
   - '9780500288993'
   - '9781585102327'
   description: "Book titles:\n- (audio) [The Fires of Vesuvius](/books/info/197734996X)\
@@ -517,7 +609,8 @@ items:
     \ B. Solodow\n- (paper) [The Grammar of Romance](/books/info/9781475246636) by\
     \ Joshua Rudder\n- (paper) [Vita Nostra](/books/info/9781093905632) by Stephen\
     \ a Berard\n- (paper) [Oxford Latin Course](/books/info/9780199124183) by James\
-    \ Morwood\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian\
+    \ Morwood\n- (paper) [Why Design Matters](/books/info/9780062872968) by Debbie\
+    \ Millman\n- (paper) [The Complete Roman Army](/books/info/9780500288993) by Adrian\
     \ Goldsworthy\n- (paper) [Lingua Latina: Caesaris](/books/info/9781585102327)\
     \ by Hans Henning \xD8rberg, Gaius Julius Caesar"
 - name: 2022-02
@@ -1314,6 +1407,20 @@ items:
     - (paper) [The Treasure Chest Enigma](/books/info/9784871871020) by Noriyuki Nakayama
 
     - (paper) [Security Engineering](/books/info/9780470068526) by Ross J. Anderson'
+- name: 2013-06
+  filename: null
+  group: 2013-06
+  title:
+  - June 2013
+  - null
+  subtitle: null
+  sublist_description: null
+  books:
+  - '9780312130664'
+  description: 'Book title:
+
+    - (paper) [An Encyclopedia of Lies, Frauds, and Hoaxes of the Occult and Supernatural](/books/info/9780312130664)
+    by James Randi, Arthur C. Clarke'
 - name: 2013-05
   filename: null
   group: 2013-05

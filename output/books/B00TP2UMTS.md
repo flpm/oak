@@ -11,7 +11,7 @@ listening:
   duration: 4104.0
   first_time: '2016-02-25'
   last_time: '2016-03-07'
-link: https://www.audible.com/pd/Thinking-Statistically-Audiobook/B00TP2UMTS
+link: https://www.audible.com/pd/B00TP2UMTS
 source: Audible
 purchase_date: '2016-02-25'
 listening_date: '2016-02-25'

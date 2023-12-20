@@ -243,6 +243,7 @@ def export_markdown(output_folder="./output"):
                 "description": "",
             },
             sort_key=lambda b: b.get("purchase_date", "0000-00-00"),
+            sort_reverse=True,
         ),
         list_output_folder=list_output_folder,
         include_items=True,

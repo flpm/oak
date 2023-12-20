@@ -6,6 +6,7 @@ filename: null
 group: Math
 sublist_description: null
 books: &id001
+- '9780809087372'
 - '9781491989388'
 - '9780262013192'
 - '9783319475776'
@@ -31,7 +32,8 @@ items:
 - name: about_math
   title: null
   books: *id001
-  description: "- (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388)\
+  description: "- (paper) [When You Were a Tadpole and I Was a Fish](/books/info/9780809087372)\
+    \ by Martin Gardner\n- (paper) [Machine Learning with Python Cookbook](/books/info/9781491989388)\
     \ by Chris Albon\n- (paper) [Probabilistic Graphical Models](/books/info/9780262013192)\
     \ by Daphne Koller, Nir Friedman\n- (paper) [Outlier Analysis](/books/info/9783319475776)\
     \ by Charu C. Aggarwal\n- (audio) [Thinking Statistically](/books/info/B00TP2UMTS)\

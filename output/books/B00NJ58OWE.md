@@ -14,7 +14,7 @@ listening:
   duration: 8468.0
   first_time: '2016-03-06'
   last_time: '2016-05-20'
-link: https://www.audible.com/pd/No-Drama-Discipline-Audiobook/B00NJ58OWE
+link: https://www.audible.com/pd/B00NJ58OWE
 source: Audible
 purchase_date: '2016-02-23'
 listening_date: '2016-03-06'

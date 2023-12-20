@@ -6,12 +6,12 @@ subtitle: Act II
 link: https://www.audible.com/pd/The-Sandman-Act-II-Audiobook/B098TWVZVD
 author: Neil Gaiman
 narrator: Neil Gaiman
-cover_url: My%20Library%20Audible.com-1_files/51bJGmUXS9L._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/51bJGmUXS9L._SL500_.jpg
 cover_filename: B098TWVZVD.jpg
 source: Audible
 book_type: audiobook
 asin: B098TWVZVD
-format: audiobook
+format: Audiobook
 topics: []
 authors:
 - Neil Gaiman
@@ -36,6 +36,11 @@ type: audiobook
 theme: graphic novels
 length: 50400000
 purchase_date: '2023-10-05'
+origin:
+  book:
+  - B086WP794Z
+  - audiobook
+  - 'Sandman: Act I'
 ---
 Please note: This content is not for kids. It is for mature audiences only. Just like the original graphic novels, this audio adaptation contains explicit language and graphic violence, as well as strong sexual content and themes. Discretion is advised.
 Enter the Dreaming again as the blockbuster audio adaptation of “the greatest epic in the history of comic books” continues in The Sandman: Act II. James McAvoy returns to voice Morpheus, the Lord of Dreams, in this sequel to the number-one New York Times audio best seller. Journey into a world of myths, imagination, and terror based on the best-selling DC comic books and graphic novels written by Neil Gaiman (returning as the Narrator), and lose yourself in another groundbreaking, immersive drama adapted and directed by the award-winning audio master Dirk Maggs.

@@ -18,7 +18,11 @@ items:
   - B075FG7HLK
   - B00M8U0CJ4
   - B06VSQVPCY
+  - B075F8XF1V
+  - '1684573920'
   - B00DB6PQWW
+  - B004GMOPFO
+  - B07L39ZZ2Q
   description: 'Book titles:
 
     - (audio) [SPQR](/books/info/B01865AOJW) by Mary Beard
@@ -34,6 +38,15 @@ items:
 
     - (audio) [Shrinking Violets](/books/info/B06VSQVPCY) by Joe Moran
 
-    - (audio) [Building Great Sentences](/books/info/B00DB6PQWW) by Brooks Landon'
+    - (audio) [Draft No. 4](/books/info/B075F8XF1V) by John McPhee
+
+    - (audio) [How to Do Nothing](/books/info/1684573920) by Jenny Odell
+
+    - (audio) [Building Great Sentences](/books/info/B00DB6PQWW) by Brooks Landon
+
+    - (audio) [The Art of Possibility](/books/info/B004GMOPFO) by Rosamund Stone Zander,
+    Benjamin Zander
+
+    - (audio) [Every Tool''s a Hammer](/books/info/B07L39ZZ2Q) by Adam Savage'
 ---
 When I really enjoy an audiobook, I often buy the paper version too. This list contains books I own in both formats.

@@ -6,7 +6,7 @@ subtitle: How to Take Your Writing to the Next Level
 link: https://www.audible.com/pd/Effective-Editing-Audiobook/B09CHDTFGH
 author: Molly McCowan
 narrator: Professor Molly McCowan
-cover_url: My%20Library%20Audible.com-1_files/41ptrGE36tL._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/41ptrGE36tL._SL500_.jpg
 cover_filename: B09CHDTFGH.jpg
 source: Audible
 book_type: audiobook

@@ -12,7 +12,7 @@ listening:
   duration: 70660.0
   first_time: '2022-12-29'
   last_time: '2023-01-31'
-link: https://www.audible.com/pd/Augustus-Audiobook/B00MXDGT2A
+link: https://www.audible.com/pd/B00MXDGT2A
 source: Audible
 purchase_date: '2022-08-24'
 listening_date: '2022-12-29'
@@ -35,9 +35,9 @@ rating:
 duration: 67380000
 cover_filename: B00MXDGT2A.jpg
 read_status:
-  start: true
   finish: true
   like: true
+  start: true
 theme: ancient history
 recommendation_status: null
 author: Adrian Goldsworthy

@@ -6,12 +6,12 @@ subtitle: Act III
 link: https://www.audible.com/pd/The-Sandman-Act-III-Audiobook/B0BFK1K36D
 author: Neil Gaiman
 narrator: Neil Gaiman
-cover_url: My%20Library%20Audible.com-1_files/51T0wO4jk1L._SL500_.jpg
+cover_url: My%20Library%20Audible.com_files/51T0wO4jk1L._SL500_.jpg
 cover_filename: B0BFK1K36D.jpg
 source: Audible
 book_type: audiobook
 asin: B0BFK1K36D
-format: audiobook
+format: Audiobook
 topics: []
 authors:
 - Neil Gaiman
@@ -38,6 +38,11 @@ type: audiobook
 theme: graphic novels
 length: 42120000
 purchase_date: '2023-11-02'
+origin:
+  book:
+  - B098TWVZVD
+  - audiobook
+  - 'Sandman: Act II'
 ---
 The groundbreaking audio production of what Los Angeles Times Magazine called “the greatest epic in the history of comic books” continues. Leading perhaps the best cast ever assembled in audio, James McAvoy returns to voice Morpheus, the Lord of Dreams, in The Sandman: Act III, the third installment of the New York Times best-selling audio saga. Award-winning audio trailblazer Dirk Maggs adapts the blockbuster DC graphic novel series written by Neil Gaiman (Good Omens) into another fully immersive listening experience, presented for the first time in breathtaking 3D audio.
 In Act III, we follow Morpheus on a grand journey to take care of family business. He visits with his son Orpheus (Bridgerton’s Regé-Jean Page), an act that brings with it profound consequences. Accompanied by Delirium (Kristen Schaal, Bob’s Burgers), he tracks down their estranged brother, Destruction (David Harewood, Supergirl), the only member of the Endless ever to abandon their post. And at an inn at the intersection of all worlds, a group of travelers are forced together by a storm that threatens to destroy reality itself, with grave repercussions for Morpheus and the rest of the Endless.
